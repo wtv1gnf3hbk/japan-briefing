@@ -1,31 +1,32 @@
-The [Abe assassination](http://www3.nhk.or.jp/news/html/20260204/k10015043001000.html) case is back in the headlines as Tetsuya Yamagami's defense team filed an appeal today, challenging his life sentence for the 2022 killing of the former prime minister in Nara. The move sets up what will likely be a closely watched appeals process that could drag on for years.
+Good morning from Tokyo. Three days before the election, Japan faces an unusual winter weather crisis that has already claimed lives. Heavy snow regions in Tohoku and Niigata are experiencing [March-like temperatures](http://www3.nhk.or.jp/news/html/20260205/k10015043741000.html), creating dangerous conditions for roof collapses and falling snow. The situation turned deadly overnight when an [elderly man died](http://www3.nhk.or.jp/news/html/20260205/k10015043691000.html) in Niigata after apparently falling from his roof while clearing snow, found buried in the snow with a shovel still on the rooftop.
 
-Meanwhile, Japan is dealing with more immediate concerns as the country battles through what Reuters calls "[deadly winter storms](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSG82VFd1ejZJNlRmMzR6Vy1BQWlkZmtGX1RfYlNacHFENmppSUtieWhoVmQxWklCeEJSY0FqU29zdm4zcHJuMGx5Nmh3U1o0WFlXVHFTTURHcXBMZ21IZ0lmVXRwcngydnpyRW5XNERyY0tWVmlxcUwwX1p2b2x3NnBBTHU3aGxVb3pDQkcyWnpaekFWNFpGOTVTWldFa0VjdC1TUmdlME1ramYy?oc=5)." NHK is warning residents today to [watch for](http://www3.nhk.or.jp/news/html/20260204/k10015043041000.html) falling snow from rooftops and avalanches as temperatures rise on the first day of spring. The warmer weather is creating dangerous conditions in areas already dealing with above-average snowfall.
+The weather emergency comes as Japan heads into final campaign days with unusual dynamics. Sanae Takaichi is riding a [youth-driven social media phenomenon](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFpvVDNZYU53UXVybEFXUTRYajFFbjVyZEd4dmZ5U3ZMZWtLS3BGM2ZKVWpYN2FFdW5XZEJENzRWMXFISlJzS0docU03WENCMDNUZ0NOLWJXb1AxQTRlTUZOUC02MDd6SHFFYTZ?oc=5) into what Reuters calls a "handbags and hashtags" campaign, while markets are positioning for potential disruption. Separately, police are expanding their crackdown on the "Moumuri" job resignation service scandal, with [two lawyers](http://www3.nhk.or.jp/news/html/20260205/k10015043601000.html) set to face charges today for allegedly receiving illegal referral fees.
 
-## Business & Markets
+**Business & Markets**
 
-• **JAL struggles with China routes**: The carrier says passenger revenue on China routes was [20% short](https://www.japantimes.co.jp/business/2026/02/04/companies/jal-china-revenue-low/) in December, attributing the drop to Beijing's advice discouraging Chinese citizens from traveling to Japan.
+• The yen is [under pressure](https://news.google.com/rss/articles/CBMimwFBVV95cUxNX3BIMlZPWHNIbWFadEZQU0xkYmd0c3p3dWtOWFh6cml5d0xRQmh3Q1hOd3g0YkJzd3lVSmNjdG54SzlKM013ZGtSWFAweDV6Z0V0MlFOUWI3YnNlVlFDUkxrS1hPRlRDVy1PWmh?oc=5) as the dollar firms before Japan's election, Reuters reports.
 
-• **Nintendo weathers chip costs**: The gaming giant reported [quarterly profit](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSm80OGREd01kblg1XzhfRXBHZ2QzdUlMaHY0RXpYd0JVRFdxNVZoT1BRSm5lcXRuTXI0V2JiaE1XTFQ2UmNqZ3RLMVFqZHJFbEtWOS04SGcyOXNPRGtWRE92RmF4MDFOaWR0Y0VnSVlvRlBTSmdBeldWaUdoWnZSQ2lCX3hobTNfcGNnVnI4OU5HYzRtQTMtSlBzUG83UnpJNDVPNUJyRFFnRFltQnRFV0FKWQ?oc=5) growth and said it expects no major impact from rising semiconductor prices.
+• Sources tell Reuters the Bank of Japan [would not intervene](https://news.google.com/rss/articles/CBMiowFBVV85cUxQUE81Z3VUV2hmUzhCdW9PaWxUczBzQV9GWVluQnd1LUUzNm9ENUpBWHlFNmx1SE11UG1lRUdHZWRWRFl6UEExbkhndGVJSldMOEtpU2NZbGdFNjVvR25OaGc3VWpsR21DWDhBLVc?oc=5) to prevent a bond market selloff if Takaichi's economic policies trigger a rout.
 
-• **Prudential suspends sales**: The life insurer announced it will [halt new contracts](http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html) for 90 days starting February 9th while it overhauls governance and sales systems following a scandal where employees defrauded customers of 3.1 billion yen.
+• Global markets slumped with tech stocks while oil rallied, according to [Reuters reporting](https://news.google.com/rss/articles/CBMigwFBVV85cUxOSVZqTGpfRkNIZi0tOXdubzJsaTIzb1c3cG5VRG5jOXRvYUFJckN5aFdacENFU3Fsa1JJcENXRXFPWUszYXRadk1mNDlZbndwdGlTTXhCUGRNbEFtMm1JaTNMTnJiVTZTUW5iTGp?oc=5).
 
-• **Jera secures LNG deal**: QatarEnergy signed a [long-term supply](https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2tXODRjaGJ2TEFMRkJrZmJSNkhWUmZKZy1rNHd1eEQwQVdMVVJTVzBaaENvVmJmRE8wOElMajdLdmxjYlpqVDd2bDBXa1hZd2drVzJZR3I4aktXelUzc0NIa2FWNTNxZktFdndubUxwWVNHcm5SN1dQM1owcmxIbW9wYXZHOS1yblJqUGN2YTdqZWdtS3lGcGRLMHFFTTVYUU9nRUVGSi1MQnlRUjVxYjQ1Z2hoUQ?oc=5) contract with Japan's biggest power generator as LNG demand surges, according to Reuters.
+**Government & Policy**
 
-## Government & Policy
+• The House of Representatives election campaign is focusing on [corporate donations](http://www3.nhk.or.jp/news/html/20260205/k10015043651000.html) and electoral system reform following the LDP's political money scandals, NHK reports.
 
-• **PM's yen comments cause scramble**: Reuters reports the prime minister's "[idle yen comments](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk13M1NTZW9mZnNUOWRKOUVUcjNXVlBlTHBicGFkalBfcW9BdUljeVFsd0pTSEg4ajBGYUhrRi1YQm5aNHcwWlJxeS04aW5HYXhuenBJRUhhcjZITlQ3dzVkYUI3dDQ0TVVOSFU3YmpRZFFmVEx0WHFTZGc3WHR4SVBSeHJaclEwc2hHUFdvSy1VWXh5bmN5em1lLVNWbDFLbldzNTJRb3dqMS1HTkVzMDNLcXRjM1FrclE?oc=5)" sent Finance Ministry bureaucrats scrambling - worth tracking what exactly was said and the market reaction.
+• The US-Russia New START nuclear arms treaty [expires today](http://www3.nhk.or.jp/news/html/20260205/k10015043701000.html), leaving no arms control framework between the world's largest nuclear powers, per NHK. Trump wants China included in future agreements but no concrete moves have emerged.
 
-• **Election staffing crunch**: Temp agencies are struggling to find enough workers for polling stations and vote counting as the "[super short](http://www3.nhk.or.jp/news/html/20260204/k10015043151000.html)" campaign timeline catches everyone off guard.
+**What to Watch**
 
-## Coverage Flags
+Iran's foreign minister says US-Iran [indirect talks](http://www3.nhk.or.jp/news/html/20260205/k10015043721000.html) will begin tomorrow in Muscat, focused on nuclear issues and sanctions relief as Trump maintains military pressure.
 
-The Prudential scandal and the "job-quitting agency" arrests highlight Japan's evolving labor practices - both stories involve services that profit from workplace dysfunction. The Reuters currency story suggests there may be more to the PM's comments than Japanese outlets are reporting.
+**Coverage Flags**
 
-## Sources
+Reuters appears ahead on technical election analysis around BOJ intervention scenarios and market positioning. The Hyogo electoral district battle over Komeito voter migration could be worth deeper NYT examination given coalition dynamics.
 
-• [NHK World](http://www3.nhk.or.jp/news/html/20260204/k10015043041000.html)
-• [Japan Times](https://www.japantimes.co.jp/business/2026/02/04/companies/jal-china-revenue-low/)
-• [Reuters Japan](https://news.google.com/rss/articles/CBMiugFBVV85cUxOVk13M1NTZW9mZnNUOWRKOUVUcjNXVlBlTHBicGFkalBfcW9BdUljeVFsd0pTSEg4ajBGYUhrRi1YQm5aNHcwWlJxeS04aW5HYXhuenBJRUhhcjZITlQ3dzVkYUI3dDQ0TVVOSFU3YmpRZFFmVEx0WHFTZGc3WHR4SVBSeHJaclEwc2hHUFdvSy1VWXh5bmN5em1lLVNWbDFLbldzNTJRb3dqMS1HTkVzMDNLcXRjM1FrclE?oc=5)
+**Sources**
+• [NHK World](http://www3.nhk.or.jp/news/html/20260205/k10015043741000.html)
+• [Reuters Japan](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFpvVDNZYU53UXVybEFXUTRYajFFbjVyZEd4dmZ5U3ZMZWtLS3BGM2ZKVWpYN2FFdW5XZEJENzRWMXFISlJzS0docU03WENCMDNUZ0NOLWJXb1AxQTRlTUZOUC02MDd6SHFFYTZ?oc=5)
+• [Japan Times](https://www.japantimes.co.jp/news/2026/02/05/japan/politics/reportage-hyogo-8-election/)
 
-*Visual references available: Japanese outlet homepages (Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan), Twitter feeds (Takaichi Sanae, NHK Ohayou), international outlets (FT Asia, WSJ Asia, Economist Asia)*
+*Screenshots captured: Asahi, Yomiuri, Nikkei, Mainichi homepages; Takaichi and NHK Twitter feeds*

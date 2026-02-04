@@ -219,29 +219,10 @@ function generateHTML(briefingText, config) {
     // GitHub repo details for workflow dispatch
     const GITHUB_REPO = 'wtv1gnf3hbk/japan-briefing';
     const WORKFLOW_FILE = 'briefing.yml';
+    const GITHUB_TOKEN = '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';
 
-    // Token storage key
-    const TOKEN_KEY = 'japan_briefing_gh_token';
-
-    // Get stored token or prompt for one
     function getToken() {
-      let token = localStorage.getItem(TOKEN_KEY);
-      if (!token) {
-        token = prompt(
-          'Enter a GitHub Personal Access Token with "repo" and "workflow" scopes.\\n\\n' +
-          'Create one at: https://github.com/settings/tokens/new\\n\\n' +
-          'This will be stored locally in your browser.'
-        );
-        if (token) {
-          localStorage.setItem(TOKEN_KEY, token);
-        }
-      }
-      return token;
-    }
-
-    // Clear stored token
-    function clearToken() {
-      localStorage.removeItem(TOKEN_KEY);
+      return GITHUB_TOKEN;
     }
 
     // Main refresh function
@@ -273,8 +254,7 @@ function generateHTML(briefingText, config) {
         );
 
         if (dispatchResponse.status === 401 || dispatchResponse.status === 403) {
-          clearToken();
-          alert('Token invalid or expired. Please try again with a new token.');
+          alert('Token invalid or expired.');
           link.textContent = originalText;
           return;
         }

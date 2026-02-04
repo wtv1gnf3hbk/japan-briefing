@@ -104,112 +104,41 @@
   </div>
 
   <script>
-    // GitHub repo details for workflow dispatch
-    const GITHUB_REPO = 'wtv1gnf3hbk/japan-briefing';
-    const WORKFLOW_FILE = 'briefing.yml';
-    const GITHUB_TOKEN = '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';
+    const WORKER_URL = 'https://japan-briefing-refresh.adampasick.workers.dev';
 
-    function getToken() {
-      return GITHUB_TOKEN;
-    }
-
-    // Main refresh function
     async function refreshBriefing() {
       const link = event.target;
       const originalText = link.textContent;
 
-      const token = getToken();
-      if (!token) {
-        link.textContent = 'Refresh';
-        return;
-      }
-
       try {
         // Step 1: Trigger the workflow
-        link.textContent = 'Triggering workflow...';
+        link.textContent = 'Triggering...';
+        const triggerRes = await fetch(`${WORKER_URL}/trigger`, { method: 'POST' });
+        if (!triggerRes.ok) throw new Error('Failed to trigger');
 
-        const dispatchResponse = await fetch(
-          `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`,
-          {
-            method: 'POST',
-            headers: {
-              'Accept': 'application/vnd.github+json',
-              'Authorization': `Bearer ${token}`,
-              'X-GitHub-Api-Version': '2022-11-28'
-            },
-            body: JSON.stringify({ ref: 'main' })
-          }
-        );
-
-        if (dispatchResponse.status === 401 || dispatchResponse.status === 403) {
-          alert('Token invalid or expired.');
-          link.textContent = originalText;
-          return;
-        }
-
-        if (!dispatchResponse.ok) {
-          throw new Error(`Failed to trigger workflow: ${dispatchResponse.status}`);
-        }
-
-        // Step 2: Wait a moment for the run to be created
+        // Step 2: Wait for run to be created
         link.textContent = 'Starting...';
         await new Promise(r => setTimeout(r, 3000));
 
-        // Step 3: Find the workflow run
+        // Step 3: Get the run ID
         link.textContent = 'Finding run...';
-        const runsResponse = await fetch(
-          `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/runs?per_page=1`,
-          {
-            headers: {
-              'Accept': 'application/vnd.github+json',
-              'Authorization': `Bearer ${token}`,
-              'X-GitHub-Api-Version': '2022-11-28'
-            }
-          }
-        );
-
-        if (!runsResponse.ok) {
-          throw new Error('Failed to fetch workflow runs');
-        }
-
-        const runsData = await runsResponse.json();
-        if (!runsData.workflow_runs || runsData.workflow_runs.length === 0) {
-          throw new Error('No workflow runs found');
-        }
+        const runsRes = await fetch(`${WORKER_URL}/runs`);
+        const runsData = await runsRes.json();
+        if (!runsData.workflow_runs?.length) throw new Error('No runs found');
 
         const runId = runsData.workflow_runs[0].id;
         const runUrl = runsData.workflow_runs[0].html_url;
 
         // Step 4: Poll for completion
         let attempts = 0;
-        const maxAttempts = 60; // 5 minutes max (5s intervals)
+        while (attempts < 60) {
+          const statusRes = await fetch(`${WORKER_URL}/status/${runId}`);
+          const statusData = await statusRes.json();
 
-        while (attempts < maxAttempts) {
-          const statusResponse = await fetch(
-            `https://api.github.com/repos/${GITHUB_REPO}/actions/runs/${runId}`,
-            {
-              headers: {
-                'Accept': 'application/vnd.github+json',
-                'Authorization': `Bearer ${token}`,
-                'X-GitHub-Api-Version': '2022-11-28'
-              }
-            }
-          );
-
-          if (!statusResponse.ok) {
-            throw new Error('Failed to check run status');
-          }
-
-          const statusData = await statusResponse.json();
-          const status = statusData.status;
-          const conclusion = statusData.conclusion;
-
-          if (status === 'completed') {
-            if (conclusion === 'success') {
+          if (statusData.status === 'completed') {
+            if (statusData.conclusion === 'success') {
               link.textContent = 'Done! Reloading...';
-              // Wait a moment for GitHub Pages to update
               await new Promise(r => setTimeout(r, 5000));
-              // Force refresh (bypass cache)
               location.reload(true);
               return;
             } else {
@@ -218,19 +147,15 @@
             }
           }
 
-          // Show progress with elapsed time
-          const elapsed = Math.floor(attempts * 5);
-          link.textContent = `Running... ${elapsed}s`;
-
+          link.textContent = `Running... ${attempts * 5}s`;
           await new Promise(r => setTimeout(r, 5000));
           attempts++;
         }
 
-        link.innerHTML = `Timeout (<a href="${runUrl}" target="_blank">check status</a>)`;
-
+        link.innerHTML = `Timeout (<a href="${runUrl}" target="_blank">check</a>)`;
       } catch (error) {
         console.error('Refresh error:', error);
-        link.textContent = 'Error (see console)';
+        link.textContent = 'Error';
         setTimeout(() => { link.textContent = originalText; }, 3000);
       }
     }

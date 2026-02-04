@@ -53,8 +53,30 @@ Edit `sources.json` to add/remove sources. See `sources.example.json` for all op
 ## GitHub Actions Setup
 
 1. Go to repo Settings > Secrets and variables > Actions
-2. Add secret: `ANTHROPIC_API_KEY`
+2. Add secrets:
+   - `ANTHROPIC_API_KEY` - Claude API key for generating briefing
+   - `RESEND_API_KEY` - Resend API key for email delivery
 3. Enable GitHub Pages (Settings > Pages > Deploy from branch: main)
+
+## Email Setup (Resend)
+
+The briefing is emailed automatically to javier.hernandez@nytimes.com after each run.
+
+**To get a Resend API key:**
+1. Sign up at https://resend.com
+2. Go to API Keys in the dashboard
+3. Create a new key and add it as `RESEND_API_KEY` secret in GitHub
+
+**Sender domain:** Currently uses Resend's test domain (`onboarding@resend.dev`).
+To use a custom sender address:
+1. Verify a domain in Resend dashboard
+2. Set `RESEND_SENDER` environment variable in the workflow
+
+**Local testing:**
+```bash
+export RESEND_API_KEY=your_key
+npm run email  # Send the current index.html
+```
 
 ## Writing Rules
 

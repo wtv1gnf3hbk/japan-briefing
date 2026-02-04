@@ -46,3 +46,8 @@ jobs:
           git add briefing.json briefing.md index.html screenshots/
           git diff --staged --quiet || git commit -m "Update Japan briefing $(TZ=Asia/Tokyo date +%Y-%m-%d)"
           git push
+
+      - name: Send email briefing
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API }}
+        run: node send-email.js

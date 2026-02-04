@@ -6,7 +6,9 @@
   "scripts": {
     "generate": "node generate-briefing.js",
     "write": "node write-briefing.js",
-    "briefing": "node generate-briefing.js && node write-briefing.js"
+    "email": "node send-email.js",
+    "briefing": "node generate-briefing.js && node write-briefing.js",
+    "briefing:email": "node generate-briefing.js && node write-briefing.js && node send-email.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

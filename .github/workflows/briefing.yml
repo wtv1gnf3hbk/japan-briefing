@@ -28,6 +28,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Install Playwright browsers
+        run: npx playwright install chromium
+
       - name: Scrape news sources
         run: node generate-briefing.js
 
@@ -40,6 +43,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add briefing.json briefing.md index.html
+          git add briefing.json briefing.md index.html screenshots/
           git diff --staged --quiet || git commit -m "Update Japan briefing $(TZ=Asia/Tokyo date +%Y-%m-%d)"
           git push

@@ -108,6 +108,7 @@ function generateHTML(briefingText, config) {
   const timezone = config.metadata?.timezone || 'Asia/Tokyo';
   const timestamp = formatTimestamp(timezone);
   const title = config.metadata?.name || 'Tokyo Bureau Briefing';
+  const screenshots = config.screenshots || [];
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -162,6 +163,47 @@ function generateHTML(briefingText, config) {
     a:hover { text-decoration-color: #333; }
     strong { font-weight: 600; }
     .section-header { margin-top: 24px; margin-bottom: 12px; }
+    .screenshots-section {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid #e0e0e0;
+    }
+    .screenshots-header {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+    .screenshots-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .screenshot-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      overflow: hidden;
+      background: white;
+    }
+    .screenshot-card img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .screenshot-card .label {
+      padding: 8px 12px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.85rem;
+      background: #f5f5f5;
+      border-top: 1px solid #e0e0e0;
+    }
+    .screenshot-card .label a {
+      color: #666;
+      text-decoration: none;
+    }
+    .screenshot-card .label a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -199,6 +241,25 @@ ${briefingText
   })
   .join('\n')}
   </div>
+
+  ${screenshots.length > 0 ? `
+  <div class="screenshots-section">
+    <div class="screenshots-header">📸 Homepage Screenshots</div>
+    <div class="screenshots-grid">
+      ${screenshots.map(s => `
+      <div class="screenshot-card">
+        <a href="${s.url}" target="_blank">
+          <img src="screenshots/${s.filename}" alt="${s.name}" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="${s.url}" target="_blank">${s.name}</a>
+          ${s.language && s.language !== 'en' ? `<span style="color:#999">(${s.language})</span>` : ''}
+        </div>
+      </div>
+      `).join('')}
+    </div>
+  </div>
+  ` : ''}
 </body>
 </html>`;
 }
@@ -246,6 +307,9 @@ function buildPrompt(briefing) {
     government: (byCategory.government || []).slice(0, 5),
     wire: (byCategory.wire || []).slice(0, 5)
   };
+
+  // Get screenshots info
+  const screenshots = briefing.screenshots || [];
 
   const systemPrompt = `You are writing a morning news briefing for ${ownerName}, the Tokyo Bureau Chief for the New York Times.
 
@@ -307,6 +371,11 @@ ${JSON.stringify(condensed.government, null, 2)}
 
 WIRE SERVICES:
 ${JSON.stringify(condensed.wire, null, 2)}
+
+HOMEPAGE SCREENSHOTS CAPTURED (Japanese outlets, competitors, Twitter):
+${screenshots.map(s => `- ${s.name} (${s.language || 'en'}): screenshots/${s.filename}`).join('\n')}
+
+Note: Screenshots are available for visual reference. Include a note at the end listing which Japanese outlet homepages and Twitter feeds have been captured for reference.
 
 Write the briefing now. Keep it concise but comprehensive.`;
 

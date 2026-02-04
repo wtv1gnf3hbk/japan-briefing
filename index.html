@@ -51,13 +51,54 @@
     a:hover { text-decoration-color: #333; }
     strong { font-weight: 600; }
     .section-header { margin-top: 24px; margin-bottom: 12px; }
+    .screenshots-section {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid #e0e0e0;
+    }
+    .screenshots-header {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+    .screenshots-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .screenshot-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      overflow: hidden;
+      background: white;
+    }
+    .screenshot-card img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .screenshot-card .label {
+      padding: 8px 12px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 0.85rem;
+      background: #f5f5f5;
+      border-top: 1px solid #e0e0e0;
+    }
+    .screenshot-card .label a {
+      color: #666;
+      text-decoration: none;
+    }
+    .screenshot-card .label a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
   <div class="header">
     <div class="title">Japan Briefing</div>
     <div class="timestamp">
-      Generated Wednesday, February 4, 2026 at 11:45 AM GMT+9
+      Generated Wednesday, February 4, 2026 at 12:04 PM GMT+9
       · <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
     </div>
   </div>
@@ -74,19 +115,118 @@
   </script>
 
   <div id="content">
-<p>Good morning, Javier. The Abe assassination case is back in the headlines as <a href="http://www3.nhk.or.jp/news/html/20260204/k10015043001000.html" target="_blank">defense lawyers</a> for Tetsuya Yamagami filed an appeal against his life sentence yesterday. This marks a significant development in Japan's most politically consequential crime in decades. The appeal suggests the defense will continue challenging the court's rejection of their mental health arguments, potentially extending this case's grip on the national psyche well into 2026.</p>
+<p>Good afternoon, Javier. The big story continues to unfold around the Abe assassination case, with <a href="http://www3.nhk.or.jp/news/html/20260204/k10015043001000.html" target="_blank">defense lawyers</a> for Tetsuya Yamagami filing an appeal against his life sentence this morning. This marks a significant development in what remains Japan's most consequential political crime in decades. The appeal suggests we're far from closure on a case that has exposed deep questions about security protocols and social grievances that led to the former PM's death four years ago.</p>
 
-<p>Meanwhile, Prime Minister Sanae Takaichi appears to be successfully courting younger voters who felt abandoned by previous administrations. The Japan Times reports her strategy of <a href="https://www.japantimes.co.jp/news/2026/02/04/japan/politics/sanae-takaichi-young-voters/" target="_blank">positioning herself</a> as a break from the old guard is resonating with Japan's youth. This is notable given traditional LDP struggles with younger demographics and could signal a generational shift in Japanese politics worth monitoring.</p>
+<p>Meanwhile, Japan's corporate sector is dealing with its own crisis of confidence. <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html" target="_blank">Prudential Life</a> announced it's suspending new contract sales for 90 days following revelations that employees embezzled ¥3.1 billion from customers. The insurance giant is promising a "fundamental overhaul" of governance and sales systems, but the scale of the misconduct raises questions about oversight across Japan's financial services industry.</p>
+
+<p class="section-header"><strong>Regional Watch</strong></p>
+
+<p>• <strong>Iran tensions escalate</strong>: The U.S. military <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html" target="_blank">shot down</a> an Iranian drone approaching an aircraft carrier in the Arabian Sea, according to NHK. This comes as high-level U.S.-Iran talks remain scheduled, though Iran is reportedly demanding <a href="https://japantoday.com/category/world/iran-demands-changes-in-venue-and-scope-of-talks-with-us-source-says1" target="_blank">venue changes</a> from Turkey to Oman.</p>
+
+<p>• <strong>Libya shock</strong>: Seif al-Islam Gaddafi, son of the late dictator, was <a href="https://japantoday.com/category/world/seif-al-islam-gadhafi-son-of-libya%E2%80%99s-late-dictator-killed-in-north-africa-country-officials-say" target="_blank">reportedly killed</a> in Libya, per Japan Today. This could significantly reshape the North African nation's already fragmented political landscape.</p>
+
+<p>• <strong>Ethiopia's war crimes admission</strong>: Prime Minister Abiy Ahmed <a href="https://japantoday.com/category/world/ethiopia%27s-prime-minister-accuses-eritrea-of-mass-killings-during-tigray-war" target="_blank">accused Eritrean</a> troops of mass killings during the Tigray war, marking the first official acknowledgment of Eritrean involvement.</p>
 
 <p class="section-header"><strong>Business & Markets</strong></p>
-<p>• <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html" target="_blank">Prudential Life</a> is suspending new policy sales for 90 days starting February 9, after staff defrauded customers of ¥3.1 billion. The insurer says it needs to overhaul governance and sales systems completely.</p>
 
-<p>• A <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042871000.html" target="_blank">job placement scam</a> involving "Momuri" retirement services has exposed fake labor unions used to disguise illegal referral fees to lawyers, per NHK. Police suspect the union structure was entirely fabricated.</p>
+<p>• <strong>Eneos expands globally</strong>: Japan's top refiner is <a href="https://www.japantimes.co.jp/business/2026/02/04/companies/eneos-oil-trading-expansion/" target="_blank">expanding trading</a> operations outside Japan as oil market volatility creates new opportunities, according to The Japan Times.</p>
+
+<p>• <strong>Qantas exits Japan</strong>: Australia's flagship carrier is <a href="https://news.google.com/rss/articles/CBMingFBVV85cUxPUy1ZejRyNlNnWnRkNDhsWEMwMUlHazRHZVlCdjIzTDlXRDl0SGhMOWFmUUc1cldvcU9lckxzOXR3TERSaTBid1FvVFJ6ZGJQSUowVlY1Y3JSUU5hNi13aDlYRFhrbFh3Wm9zeTNTbkpyYldFRF83amd6VU5hcGpOV2ZTb1E2NS1NY3JmVEF5dU1GdndrVXZxZzk5NDNjZw" target="_blank">pulling out</a> of Jetstar Japan to focus on domestic operations, Reuters reports.</p>
+
+<p>• <strong>QatarEnergy-Jera deal</strong>: The energy giant secured a <a href="https://news.google.com/rss/articles/CBMitgFBVV85cUxQT2tXODRjaGJ2TEFMRkJrZmJSNkhWUmZKZy1rNHd1eEQwQVdMVVJTVzBaaENvVmJmRE8wOElMajdLdmxjYlpqVDd2bDBXa1hZd2drVzJZR3I4aktXelUzc0NIa2FWNTNxZktFdndubUxwWVNHcm5SN1dQM1owcmxIbW9wYXZHOS1yblJqUGN2YTdqZWdtS3lGcGRLMHFFTTVYUU9nRUVGSi1MQnlRUjVxYjQ1Z2hoUQ" target="_blank">long-term LNG</a> supply contract with Japan's Jera as demand surges, per Reuters.</p>
+
+<p>• <strong>Food export surge</strong>: Japan's agricultural exports hit <a href="https://news.google.com/rss/articles/CBMiugFBVV85cUxQVWZXVS1sMTlRNkFJUVI3b25jMEhqTzhEcHN2M2lxZmNZT2FQVzF4RjktdUZDaXVNMjhBX0p4VEV6OEpjdW1OMFhab0kwcEFDdnpDOFJzS2t6ZG5VZG5yRTd6aWJueTJxZ1lST0RWSTVMSkc1VUw0WEJBdXdCQWtpQ3loeXBQMUdJTzdMdkViVTZGU2dhU2I5enRoVVpEazRXWXJFd2VtLVI3c0NmZmdqZnJUa3ZZcFNpVVE" target="_blank">record levels</a> in 2025 driven by strong U.S. demand, according to Reuters.</p>
+
+<p class="section-header"><strong>Government & Policy</strong></p>
+
+<p>A more troubling domestic story involves the <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042871000.html" target="_blank">job-quitting service</a> "Moomuri," where executives were arrested for illegally taking referral fees from lawyers. Police discovered the payments were disguised as labor union donations, but the union appears to have been a shell organization. This highlights growing concerns about Japan's largely unregulated gig economy services.</p>
 
 <p class="section-header"><strong>What to Watch</strong></p>
-<p>NASA has <a href="http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html" target="_blank">delayed</a> the Artemis mission launch until next month due to fuel leaks during final testing. Japan is a key partner in this moon exploration program, so any further delays could affect JAXA's timeline.</p>
 
-<p class="section-header"><strong>Flag:</strong> The Japan Times piece on Takaichi and young voters offers English-language analysis that goes beyond what Japanese outlets are providing. This generational appeal angle might warrant deeper NYT coverage, especially given how it could reshape Japanese politics.</p>
+<p>NASA's <a href="http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html" target="_blank">Artemis mission</a> launch has been delayed from February 8th to next month due to fuel leak issues. While not directly Japan-focused, this affects the international lunar exploration program that includes Japanese participation through JAXA.</p>
+
+<p class="section-header"><strong>Coverage Notes</strong>: Reuters appears ahead of Japanese outlets on the PM's yen comment story and several business developments. The Prudential Life scandal might warrant deeper investigation into Japan's insurance industry oversight mechanisms.</p>
+
+<p>*Reference materials: Screenshots captured from Yomiuri, Nikkei, Mainichi, BuzzFeed Japan homepages, plus FT Asia, WSJ Asia, and Economist Asia editions.*</p>
   </div>
+
+  
+  <div class="screenshots-section">
+    <div class="screenshots-header">📸 Homepage Screenshots</div>
+    <div class="screenshots-grid">
+      
+      <div class="screenshot-card">
+        <a href="https://www.yomiuri.co.jp/" target="_blank">
+          <img src="screenshots/yomiuri.png" alt="Yomiuri Shimbun" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://www.yomiuri.co.jp/" target="_blank">Yomiuri Shimbun</a>
+          <span style="color:#999">(ja)</span>
+        </div>
+      </div>
+      
+      <div class="screenshot-card">
+        <a href="https://www.nikkei.com/" target="_blank">
+          <img src="screenshots/nikkei.png" alt="Nikkei" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://www.nikkei.com/" target="_blank">Nikkei</a>
+          <span style="color:#999">(ja)</span>
+        </div>
+      </div>
+      
+      <div class="screenshot-card">
+        <a href="https://mainichi.jp/" target="_blank">
+          <img src="screenshots/mainichi.png" alt="Mainichi Shimbun" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://mainichi.jp/" target="_blank">Mainichi Shimbun</a>
+          <span style="color:#999">(ja)</span>
+        </div>
+      </div>
+      
+      <div class="screenshot-card">
+        <a href="https://www.buzzfeed.com/jp" target="_blank">
+          <img src="screenshots/buzzfeed_japan.png" alt="BuzzFeed Japan" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://www.buzzfeed.com/jp" target="_blank">BuzzFeed Japan</a>
+          <span style="color:#999">(ja)</span>
+        </div>
+      </div>
+      
+      <div class="screenshot-card">
+        <a href="https://www.ft.com/world/asia-pacific" target="_blank">
+          <img src="screenshots/ft_asia.png" alt="Financial Times" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://www.ft.com/world/asia-pacific" target="_blank">Financial Times</a>
+          
+        </div>
+      </div>
+      
+      <div class="screenshot-card">
+        <a href="https://www.wsj.com/news/types/asia-news" target="_blank">
+          <img src="screenshots/wsj_asia.png" alt="Wall Street Journal" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://www.wsj.com/news/types/asia-news" target="_blank">Wall Street Journal</a>
+          
+        </div>
+      </div>
+      
+      <div class="screenshot-card">
+        <a href="https://www.economist.com/asia" target="_blank">
+          <img src="screenshots/economist_asia.png" alt="Economist" loading="lazy">
+        </a>
+        <div class="label">
+          <a href="https://www.economist.com/asia" target="_blank">Economist</a>
+          
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  
 </body>
 </html>

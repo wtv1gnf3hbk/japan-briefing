@@ -9,7 +9,8 @@
     "briefing": "node generate-briefing.js && node write-briefing.js"
   },
   "dependencies": {
-    "cheerio": "^1.0.0"
+    "cheerio": "^1.0.0",
+    "playwright": "^1.40.0"
   },
   "engines": {
     "node": ">=18"

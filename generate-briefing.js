@@ -3,28 +3,27 @@
  * Config-driven news briefing scraper
  *
  * Reads sources from sources.json and scrapes them in parallel.
- * Supports multiple source types: rss, homepage, government
+ * Supports multiple source types: rss, screenshot, twitter
  *
  * Run: node generate-briefing.js
- * Output: briefing.json
+ * Output: briefing.json + screenshots/ folder
  */
 
 const https = require('https');
 const http = require('http');
-const cheerio = require('cheerio');
 const fs = require('fs');
+const path = require('path');
 
 // ============================================
 // CONFIGURATION
 // ============================================
 
-// Load sources from config file
 const CONFIG_PATH = './sources.json';
+const SCREENSHOTS_DIR = './screenshots';
 
 function loadConfig() {
   if (!fs.existsSync(CONFIG_PATH)) {
     console.error(`Config file not found: ${CONFIG_PATH}`);
-    console.error('Create sources.json with your news sources. See sources.example.json for format.');
     process.exit(1);
   }
   return JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf8'));
@@ -44,7 +43,6 @@ function fetch(url, options = {}) {
         ...options.headers
       }
     }, (res) => {
-      // Handle redirects
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         fetch(res.headers.location, options).then(resolve).catch(reject);
         return;
@@ -68,25 +66,17 @@ function fetch(url, options = {}) {
 function cleanHeadline(text) {
   if (!text) return null;
   let h = text.trim().replace(/\s+/g, ' ');
-  // Remove common cruft
   h = h.replace(/^\d+\s*min\s*(read|listen)/i, '').trim();
   h = h.replace(/\d+\s*min\s*(read|listen)$/i, '').trim();
-  // Length filter
   return (h.length >= 10 && h.length <= 300) ? h : null;
 }
 
 // ============================================
-// SOURCE TYPE HANDLERS
+// RSS PARSER
 // ============================================
 
-/**
- * Parse RSS/Atom feed
- * Returns array of { headline, url, source, date, description }
- */
 function parseRSS(xml, source) {
   const items = [];
-
-  // Try RSS format first
   const itemRegex = /<item>([\s\S]*?)<\/item>/g;
   let match;
 
@@ -144,265 +134,245 @@ function parseRSS(xml, source) {
   return items;
 }
 
-/**
- * Parse homepage with configurable selectors
- * source.selectors should have: { headline, item?, urlBase? }
- */
-function parseHomepage(html, source) {
-  const $ = cheerio.load(html);
-  const stories = [];
-  const seen = new Set();
-  const selectors = source.selectors || {};
+// ============================================
+// SCREENSHOT HANDLER (Playwright)
+// ============================================
 
-  // Default selectors if not specified
-  const headlineSelector = selectors.headline || 'h2 a, h3 a';
-  const itemSelector = selectors.item;
-  const urlBase = selectors.urlBase || '';
+let browser = null;
 
-  const processElement = ($el, $link) => {
-    if (stories.length >= 10) return;
+async function initBrowser() {
+  if (browser) return browser;
 
-    let url = $link?.attr('href');
-    if (!url) return;
-
-    // Make URL absolute
-    if (url.startsWith('/')) url = urlBase + url;
-
-    // Skip if already seen
-    if (seen.has(url)) return;
-
-    // Get headline text
-    let headline = $el.text().trim().replace(/\s+/g, ' ');
-    headline = cleanHeadline(headline);
-    if (!headline) return;
-
-    seen.add(url);
-    stories.push({
-      headline,
-      url,
-      source: source.name,
-      sourceId: source.id,
-      category: source.category || 'general',
-      priority: source.priority || 'secondary',
-      date: null,
-      description: ''
+  try {
+    const { chromium } = require('playwright');
+    browser = await chromium.launch({
+      headless: true,
+      args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
-  };
-
-  // If item selector specified, use it as container
-  if (itemSelector) {
-    $(itemSelector).each((i, el) => {
-      const $el = $(el);
-      const $link = $el.find(headlineSelector).first();
-      processElement($link.length ? $link : $el.find('a').first(), $link.length ? $link : $el.find('a').first());
-    });
-  } else {
-    // Otherwise just find headline links directly
-    $(headlineSelector).each((i, el) => {
-      const $el = $(el);
-      const $link = $el.is('a') ? $el : $el.find('a').first();
-      if (!$link.length) return;
-      processElement($el, $link);
-    });
+    return browser;
+  } catch (e) {
+    console.error('Failed to launch browser:', e.message);
+    return null;
   }
-
-  return stories;
 }
 
-/**
- * Parse government/official page with configurable selectors
- * Similar to homepage but optimized for press release formats
- */
-function parseGovernmentPage(html, source) {
-  const $ = cheerio.load(html);
-  const stories = [];
-  const seen = new Set();
-  const selectors = source.selectors || {};
+async function closeBrowser() {
+  if (browser) {
+    await browser.close();
+    browser = null;
+  }
+}
 
-  const itemSelector = selectors.item || 'li, article, .press-release';
-  const headlineSelector = selectors.headline || 'a';
-  const dateSelector = selectors.date;
-  const urlBase = selectors.urlBase || '';
+async function takeScreenshot(source) {
+  const b = await initBrowser();
+  if (!b) {
+    return { ...source, screenshot: null, error: 'Browser not available' };
+  }
 
-  $(itemSelector).each((i, el) => {
-    if (stories.length >= 10) return;
+  try {
+    const page = await b.newPage();
+    await page.setViewportSize({ width: 1280, height: 900 });
 
-    const $el = $(el);
-    const $link = $el.find(headlineSelector).first();
+    await page.goto(source.url, {
+      waitUntil: 'domcontentloaded',
+      timeout: 45000
+    });
 
-    let url = $link.attr('href');
-    if (!url) return;
+    // Wait for images to start loading
+    await page.waitForTimeout(4000);
 
-    if (url.startsWith('/')) url = urlBase + url;
-    if (seen.has(url)) return;
-
-    let headline = $link.text().trim().replace(/\s+/g, ' ');
-    headline = cleanHeadline(headline);
-    if (!headline) return;
-
-    // Try to get date if selector specified
-    let date = null;
-    if (dateSelector) {
-      date = $el.find(dateSelector).text().trim() || null;
+    // Create screenshots directory
+    if (!fs.existsSync(SCREENSHOTS_DIR)) {
+      fs.mkdirSync(SCREENSHOTS_DIR, { recursive: true });
     }
 
-    seen.add(url);
-    stories.push({
-      headline,
-      url,
-      source: source.name,
-      sourceId: source.id,
-      category: source.category || 'government',
-      priority: source.priority || 'secondary',
-      date,
-      description: ''
-    });
-  });
+    const filename = `${source.id}.png`;
+    const filepath = path.join(SCREENSHOTS_DIR, filename);
 
-  return stories;
+    // Use Chrome DevTools Protocol directly to take screenshot
+    // This bypasses Playwright's font waiting which times out on Japanese news sites
+    const client = await page.context().newCDPSession(page);
+    const result = await client.send('Page.captureScreenshot', {
+      format: 'png',
+      clip: {
+        x: 0,
+        y: 0,
+        width: 1280,
+        height: 900,
+        scale: 1
+      }
+    });
+
+    fs.writeFileSync(filepath, Buffer.from(result.data, 'base64'));
+
+    await page.close();
+
+    return { ...source, screenshot: filename, error: null };
+  } catch (e) {
+    return { ...source, screenshot: null, error: e.message };
+  }
 }
 
-/**
- * Parse generic news homepage (BBC, Guardian style)
- * Auto-detects common patterns
- */
-function parseNewsHomepage(html, source) {
-  const $ = cheerio.load(html);
-  const stories = [];
-  const seen = new Set();
-  const urlBase = source.selectors?.urlBase || '';
-
-  // Try multiple selector strategies
-  const strategies = [
-    // Strategy 1: h2/h3 with links
-    'h2 a, h3 a',
-    // Strategy 2: data-testid headlines
-    '[data-testid*="headline"] a, [data-testid*="Headline"] a',
-    // Strategy 3: article cards
-    'article h2 a, article h3 a, .article-card a',
-    // Strategy 4: links with article-like URLs (year in path)
-    `a[href*="/${new Date().getFullYear()}/"]`
-  ];
-
-  const addStory = (headline, url) => {
-    if (stories.length >= 10) return false;
-    if (!url || !headline) return false;
-
-    if (url.startsWith('/')) url = urlBase + url;
-    headline = cleanHeadline(headline);
-    if (!headline) return false;
-    if (seen.has(url)) return false;
-
-    seen.add(url);
-    stories.push({
-      headline,
-      url,
-      source: source.name,
-      sourceId: source.id,
-      category: source.category || 'general',
-      priority: source.priority || 'secondary',
-      date: null,
-      description: ''
-    });
-    return true;
-  };
-
-  // Try each strategy until we have enough stories
-  for (const selector of strategies) {
-    if (stories.length >= 5) break;
-
-    $(selector).each((i, el) => {
-      if (stories.length >= 10) return false;
-      const $el = $(el);
-      const url = $el.attr('href') || $el.find('a').attr('href');
-      const headline = $el.text();
-      addStory(headline, url);
-    });
+async function takeTwitterScreenshot(source) {
+  const b = await initBrowser();
+  if (!b) {
+    return { ...source, screenshot: null, error: 'Browser not available' };
   }
 
-  return stories;
+  try {
+    const page = await b.newPage();
+    await page.setViewportSize({ width: 600, height: 900 });
+
+    // Twitter/X often requires longer load times and blocks bots
+    // Use domcontentloaded instead of networkidle which hangs forever
+    await page.goto(source.url, {
+      waitUntil: 'domcontentloaded',
+      timeout: 45000
+    });
+
+    // Wait for tweets to render
+    await page.waitForTimeout(5000);
+
+    if (!fs.existsSync(SCREENSHOTS_DIR)) {
+      fs.mkdirSync(SCREENSHOTS_DIR, { recursive: true });
+    }
+
+    const filename = `${source.id}.png`;
+    const filepath = path.join(SCREENSHOTS_DIR, filename);
+
+    // Use CDP for consistent screenshot behavior
+    const client = await page.context().newCDPSession(page);
+    const result = await client.send('Page.captureScreenshot', {
+      format: 'png',
+      clip: {
+        x: 0,
+        y: 0,
+        width: 600,
+        height: 900,
+        scale: 1
+      }
+    });
+
+    fs.writeFileSync(filepath, Buffer.from(result.data, 'base64'));
+
+    await page.close();
+
+    return { ...source, screenshot: filename, error: null };
+  } catch (e) {
+    return { ...source, screenshot: null, error: e.message };
+  }
 }
 
-// Handler registry
-const HANDLERS = {
-  rss: parseRSS,
-  homepage: parseHomepage,
-  government: parseGovernmentPage,
-  news_homepage: parseNewsHomepage
-};
+// ============================================
+// SOURCE SCRAPING
+// ============================================
+
+async function scrapeRSSSource(source) {
+  try {
+    const content = await fetch(source.url);
+    const stories = parseRSS(content, source);
+    return { ...source, stories, storyCount: stories.length, error: null };
+  } catch (e) {
+    return { ...source, stories: [], error: e.message };
+  }
+}
+
+async function scrapeSource(source) {
+  // Skip comment entries
+  if (source._comment) return null;
+
+  switch (source.type) {
+    case 'rss':
+      return scrapeRSSSource(source);
+    case 'screenshot':
+      return takeScreenshot(source);
+    case 'twitter':
+      return takeTwitterScreenshot(source);
+    default:
+      return { ...source, stories: [], error: `Unknown type: ${source.type}` };
+  }
+}
 
 // ============================================
 // MAIN SCRAPING LOGIC
 // ============================================
 
-async function scrapeSource(source) {
-  const handler = HANDLERS[source.type];
-  if (!handler) {
-    return {
-      ...source,
-      stories: [],
-      error: `Unknown source type: ${source.type}`
-    };
-  }
-
-  try {
-    const content = await fetch(source.url);
-    const stories = handler(content, source);
-    return {
-      ...source,
-      stories,
-      error: null,
-      storyCount: stories.length
-    };
-  } catch (e) {
-    return {
-      ...source,
-      stories: [],
-      error: e.message
-    };
-  }
-}
-
 async function scrapeAll(config) {
-  console.log(`Fetching ${config.sources.length} sources in parallel...`);
-  console.log('');
+  const sources = config.sources.filter(s => !s._comment);
 
-  // Fetch all sources in parallel
-  const results = await Promise.all(
-    config.sources.map(source => scrapeSource(source))
-  );
+  const rssSources = sources.filter(s => s.type === 'rss');
+  const screenshotSources = sources.filter(s => s.type === 'screenshot' || s.type === 'twitter');
 
-  // Process and organize results
+  console.log(`Fetching ${rssSources.length} RSS feeds...`);
+
+  // RSS in parallel
+  const rssResults = await Promise.all(rssSources.map(s => scrapeSource(s)));
+
+  // Log RSS results
+  for (const r of rssResults) {
+    if (r.error) {
+      console.log(`  ✗ ${r.name}: ${r.error}`);
+    } else {
+      console.log(`  ✓ ${r.name} (${r.storyCount} stories)`);
+    }
+  }
+
+  // Screenshots sequentially
+  console.log(`\nTaking ${screenshotSources.length} screenshots...`);
+  const screenshotResults = [];
+  for (const source of screenshotSources) {
+    const result = await scrapeSource(source);
+    screenshotResults.push(result);
+    if (result.error) {
+      console.log(`  ✗ ${source.name}: ${result.error}`);
+    } else {
+      console.log(`  ✓ ${source.name}`);
+    }
+  }
+
+  await closeBrowser();
+
+  // Process results
+  const allResults = [...rssResults, ...screenshotResults].filter(Boolean);
   const allStories = [];
   const byCategory = {};
   const byPriority = { primary: [], secondary: [], tertiary: [], reference: [] };
+  const screenshots = [];
   const failed = [];
 
-  for (const result of results) {
+  for (const result of allResults) {
     if (result.error) {
-      console.log(`  ✗ ${result.name}: ${result.error}`);
       failed.push({ name: result.name, error: result.error });
       continue;
     }
 
-    console.log(`  ✓ ${result.name} (${result.storyCount} stories)`);
+    // RSS stories
+    if (result.stories && result.stories.length > 0) {
+      for (const story of result.stories) {
+        allStories.push(story);
+        const cat = story.category || 'general';
+        if (!byCategory[cat]) byCategory[cat] = [];
+        byCategory[cat].push(story);
+        const pri = story.priority || 'secondary';
+        if (byPriority[pri]) byPriority[pri].push(story);
+      }
+    }
 
-    // Add stories to all collections
-    for (const story of result.stories) {
-      allStories.push(story);
-
-      // Group by category
-      const cat = story.category || 'general';
-      if (!byCategory[cat]) byCategory[cat] = [];
-      byCategory[cat].push(story);
-
-      // Group by priority
-      const pri = story.priority || 'secondary';
-      if (byPriority[pri]) byPriority[pri].push(story);
+    // Screenshots
+    if (result.screenshot) {
+      screenshots.push({
+        id: result.id,
+        name: result.name,
+        url: result.url,
+        filename: result.screenshot,
+        category: result.category,
+        priority: result.priority,
+        language: result.language || 'en'
+      });
     }
   }
 
-  // Deduplicate by URL
+  // Dedupe stories
   const seen = new Set();
   const deduped = allStories.filter(story => {
     if (seen.has(story.url)) return false;
@@ -414,9 +384,10 @@ async function scrapeAll(config) {
     allStories: deduped,
     byCategory,
     byPriority,
+    screenshots,
     failed,
-    sourceCount: config.sources.length,
-    successCount: config.sources.length - failed.length
+    sourceCount: sources.length,
+    successCount: sources.length - failed.length
   };
 }
 
@@ -430,7 +401,6 @@ async function main() {
   console.log('='.repeat(50));
   console.log(`${config.metadata?.name || 'News Briefing'}`);
   console.log(`Owner: ${config.metadata?.owner || 'Unknown'}`);
-  console.log(`Timezone: ${config.metadata?.timezone || 'UTC'}`);
   console.log(new Date().toISOString());
   console.log('='.repeat(50));
   console.log('');
@@ -439,7 +409,6 @@ async function main() {
   const results = await scrapeAll(config);
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
 
-  // Build output
   const briefing = {
     metadata: {
       ...config.metadata,
@@ -450,6 +419,7 @@ async function main() {
       sourceCount: results.sourceCount,
       successCount: results.successCount,
       totalStories: results.allStories.length,
+      totalScreenshots: results.screenshots.length,
       elapsed: `${elapsed}s`
     },
     stories: {
@@ -457,53 +427,35 @@ async function main() {
       byCategory: results.byCategory,
       byPriority: results.byPriority
     },
-    feedHealth: {
-      failed: results.failed
-    }
+    screenshots: results.screenshots,
+    feedHealth: { failed: results.failed }
   };
 
-  // Write output
   fs.writeFileSync('briefing.json', JSON.stringify(briefing, null, 2));
 
-  // Summary
   console.log('');
   console.log('='.repeat(50));
   console.log('RESULTS');
   console.log('='.repeat(50));
-  console.log(`Sources: ${results.successCount}/${results.sourceCount} succeeded`);
-  console.log(`Stories: ${results.allStories.length} total`);
-
-  // Show category breakdown
-  console.log('\nBy category:');
-  for (const [cat, stories] of Object.entries(results.byCategory)) {
-    console.log(`  ${cat}: ${stories.length}`);
-  }
-
-  // Show priority breakdown
-  console.log('\nBy priority:');
-  for (const [pri, stories] of Object.entries(results.byPriority)) {
-    if (stories.length > 0) {
-      console.log(`  ${pri}: ${stories.length}`);
-    }
-  }
+  console.log(`Sources: ${results.successCount}/${results.sourceCount}`);
+  console.log(`Stories: ${results.allStories.length}`);
+  console.log(`Screenshots: ${results.screenshots.length}`);
 
   if (results.failed.length > 0) {
-    console.log(`\n⚠️  ${results.failed.length} sources failed`);
+    console.log(`\n⚠️  ${results.failed.length} failed`);
   }
 
   console.log(`\nTime: ${elapsed}s`);
-  console.log('');
 
-  // Exit with error if no stories
-  if (results.allStories.length === 0) {
-    console.error('❌ FAILED: No stories scraped');
+  if (results.allStories.length === 0 && results.screenshots.length === 0) {
+    console.error('❌ FAILED: No content');
     process.exit(1);
   }
 
-  console.log('✅ SUCCESS - briefing.json written');
+  console.log('✅ SUCCESS');
 }
 
 main().catch(err => {
-  console.error('Fatal error:', err);
+  console.error('Fatal:', err);
   process.exit(1);
 });

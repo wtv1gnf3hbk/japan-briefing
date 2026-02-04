@@ -7,13 +7,15 @@
   },
   "sources": [
     {
+      "_comment": "=== ENGLISH - JAPAN FOCUSED ==="
+    },
+    {
       "id": "nhk_world",
       "name": "NHK World",
       "type": "rss",
       "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "priority": "primary",
-      "category": "national",
-      "notes": "Japan's public broadcaster, English service"
+      "category": "national"
     },
     {
       "id": "kyodo_english",
@@ -21,8 +23,7 @@
       "type": "rss",
       "url": "https://english.kyodonews.net/rss/all.xml",
       "priority": "primary",
-      "category": "wire",
-      "notes": "Japan's main wire service"
+      "category": "wire"
     },
     {
       "id": "japan_times",
@@ -30,8 +31,184 @@
       "type": "rss",
       "url": "https://www.japantimes.co.jp/feed/",
       "priority": "primary",
-      "category": "national",
-      "notes": "Oldest English-language newspaper in Japan"
+      "category": "national"
+    },
+    {
+      "id": "japan_news_yomiuri",
+      "name": "Japan News (Yomiuri)",
+      "type": "rss",
+      "url": "https://japannews.yomiuri.co.jp/feed/",
+      "priority": "primary",
+      "category": "national"
+    },
+    {
+      "id": "japan_today",
+      "name": "Japan Today",
+      "type": "rss",
+      "url": "https://japantoday.com/feed",
+      "priority": "secondary",
+      "category": "national"
+    },
+    {
+      "_comment": "=== JAPANESE LANGUAGE (Screenshots) ==="
+    },
+    {
+      "id": "asahi",
+      "name": "Asahi Shimbun",
+      "type": "screenshot",
+      "url": "https://www.asahi.com/",
+      "priority": "primary",
+      "category": "japanese",
+      "language": "ja"
+    },
+    {
+      "id": "yomiuri",
+      "name": "Yomiuri Shimbun",
+      "type": "screenshot",
+      "url": "https://www.yomiuri.co.jp/",
+      "priority": "primary",
+      "category": "japanese",
+      "language": "ja"
+    },
+    {
+      "id": "nikkei",
+      "name": "Nikkei",
+      "type": "screenshot",
+      "url": "https://www.nikkei.com/",
+      "priority": "primary",
+      "category": "japanese",
+      "language": "ja"
+    },
+    {
+      "id": "mainichi",
+      "name": "Mainichi Shimbun",
+      "type": "screenshot",
+      "url": "https://mainichi.jp/",
+      "priority": "primary",
+      "category": "japanese",
+      "language": "ja"
+    },
+    {
+      "id": "bunshun",
+      "name": "Bunshun",
+      "type": "screenshot",
+      "url": "https://bunshun.jp/",
+      "priority": "secondary",
+      "category": "japanese",
+      "language": "ja"
+    },
+    {
+      "id": "buzzfeed_japan",
+      "name": "BuzzFeed Japan",
+      "type": "screenshot",
+      "url": "https://www.buzzfeed.com/jp",
+      "priority": "secondary",
+      "category": "japanese",
+      "language": "ja"
+    },
+    {
+      "_comment": "=== TWITTER/X ==="
+    },
+    {
+      "id": "twitter_takaichi",
+      "name": "Takaichi Sanae",
+      "type": "twitter",
+      "url": "https://x.com/takaichi_sanae",
+      "priority": "primary",
+      "category": "twitter",
+      "notes": "LDP politician"
+    },
+    {
+      "id": "twitter_nhk_ohayou",
+      "name": "NHK Ohayou",
+      "type": "twitter",
+      "url": "https://x.com/nhk_ohayou",
+      "priority": "primary",
+      "category": "twitter",
+      "notes": "NHK morning show daily headlines"
+    },
+    {
+      "_comment": "=== INTERNATIONAL COMPETITORS ==="
+    },
+    {
+      "id": "reuters_japan",
+      "name": "Reuters Japan",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Japan+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "wire"
+    },
+    {
+      "id": "ap_japan",
+      "name": "AP Japan",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Japan+site:apnews.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "wire"
+    },
+    {
+      "id": "afp_japan",
+      "name": "AFP Japan",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Japan+site:news.yahoo.com+AFP&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "wire"
+    },
+    {
+      "id": "bbc_asia",
+      "name": "BBC Asia",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "priority": "secondary",
+      "category": "competitors"
+    },
+    {
+      "id": "cnn_asia",
+      "name": "CNN Asia",
+      "type": "rss",
+      "url": "http://rss.cnn.com/rss/edition_asia.rss",
+      "priority": "secondary",
+      "category": "competitors"
+    },
+    {
+      "id": "ft_asia",
+      "name": "Financial Times",
+      "type": "screenshot",
+      "url": "https://www.ft.com/world/asia-pacific",
+      "priority": "secondary",
+      "category": "competitors"
+    },
+    {
+      "id": "wsj_asia",
+      "name": "Wall Street Journal",
+      "type": "screenshot",
+      "url": "https://www.wsj.com/news/types/asia-news",
+      "priority": "secondary",
+      "category": "competitors"
+    },
+    {
+      "id": "bloomberg_japan",
+      "name": "Bloomberg Japan",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Japan+site:bloomberg.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "competitors"
+    },
+    {
+      "id": "wapo_japan",
+      "name": "Washington Post",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Japan+site:washingtonpost.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "tertiary",
+      "category": "competitors"
+    },
+    {
+      "id": "economist_asia",
+      "name": "Economist",
+      "type": "screenshot",
+      "url": "https://www.economist.com/asia",
+      "priority": "tertiary",
+      "category": "competitors"
     }
   ]
 }

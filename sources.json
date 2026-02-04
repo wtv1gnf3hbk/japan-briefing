@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "name": "Tokyo Bureau Briefing",
+    "owner": "Javier Hernandez",
+    "timezone": "Asia/Tokyo",
+    "description": "Daily news briefing for the NYT Tokyo Bureau Chief"
+  },
+  "sources": [
+    {
+      "id": "nhk_world",
+      "name": "NHK World",
+      "type": "rss",
+      "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "priority": "primary",
+      "category": "national",
+      "notes": "Japan's public broadcaster, English service"
+    },
+    {
+      "id": "kyodo_english",
+      "name": "Kyodo News",
+      "type": "rss",
+      "url": "https://english.kyodonews.net/rss/all.xml",
+      "priority": "primary",
+      "category": "wire",
+      "notes": "Japan's main wire service"
+    },
+    {
+      "id": "japan_times",
+      "name": "Japan Times",
+      "type": "rss",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "priority": "primary",
+      "category": "national",
+      "notes": "Oldest English-language newspaper in Japan"
+    }
+  ]
+}

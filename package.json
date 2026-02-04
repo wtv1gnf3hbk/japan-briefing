@@ -1,0 +1,17 @@
+{
+  "name": "tokyo-briefing",
+  "version": "1.0.0",
+  "description": "Daily news briefing generator for NYT Tokyo Bureau - runs on GitHub Actions",
+  "main": "generate-briefing.js",
+  "scripts": {
+    "generate": "node generate-briefing.js",
+    "write": "node write-briefing.js",
+    "briefing": "node generate-briefing.js && node write-briefing.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

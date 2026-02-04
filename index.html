@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tokyo Bureau Briefing</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      line-height: 1.7;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 32px 16px;
+      background: #fafafa;
+      color: #1a1a1a;
+    }
+    .header {
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .timestamp {
+      font-size: 0.85rem;
+      color: #666;
+    }
+    .refresh-link {
+      color: #666;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+    h1, h2, strong {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+    p { margin-bottom: 16px; }
+    ul { margin: 12px 0 20px 0; padding-left: 0; list-style: none; }
+    li { margin-bottom: 10px; padding-left: 16px; position: relative; }
+    li::before { content: "•"; position: absolute; left: 0; color: #999; }
+    a {
+      color: #1a1a1a;
+      text-decoration: underline;
+      text-decoration-color: #999;
+      text-underline-offset: 2px;
+    }
+    a:hover { text-decoration-color: #333; }
+    strong { font-weight: 600; }
+    .section-header { margin-top: 24px; margin-bottom: 12px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="title">Tokyo Bureau Briefing</div>
+    <div class="timestamp">
+      Generated Wednesday, February 4, 2026 at 11:11 AM GMT+9
+      · <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
+    </div>
+  </div>
+
+  <script>
+    async function refreshBriefing() {
+      const link = event.target;
+      link.textContent = 'Triggering...';
+      // Manual refresh - user triggers GitHub Actions manually
+      // Or implement a webhook here if you set one up
+      alert('To refresh: Go to the GitHub repo > Actions > Run workflow manually');
+      link.textContent = 'Refresh';
+    }
+  </script>
+
+  <div id="content">
+<p>Good morning, Javier. A relatively light news morning in Tokyo, but several stories worth tracking.</p>
+
+<p>The legal saga around Shinzo Abe's assassination took another turn today when Tetsuya Yamagami's defense team <a href="http://www3.nhk.or.jp/news/html/20260204/k10015043001000.html" target="_blank">filed an appeal</a> against his life sentence, NHK reports. This keeps the case in the headlines as Japan approaches what appears to be an election season, with foreign policy and security emerging as key campaign themes. Meanwhile, domestic financial misconduct continues making waves. Prudential Life Insurance Japan announced it will <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html" target="_blank">suspend new sales</a> for 90 days following revelations that employees fraudulently obtained 3.1 billion yen from customers.</p>
+
+<p>The limited regional coverage today suggests this could be a good day to focus on domestic angles, particularly as Japan's election campaign heats up with <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042691000.html" target="_blank">foreign policy debates</a> gaining prominence.</p>
+
+<p class="section-header"><strong>Regional Watch</strong></p>
+<p>• Trump's meeting with Colombia's president over drug trafficking issues could have implications for Japan's own anti-narcotics cooperation in the region, with both leaders describing the talks as <a href="http://www3.nhk.or.jp/news/html/20260204/k10015043011000.html" target="_blank">constructive</a></p>
+<p>• U.S. forces shot down an Iranian drone that approached a carrier in the Arabian Sea, according to military officials, as Trump <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html" target="_blank">ramps up pressure</a> on Tehran over nuclear negotiations</p>
+<p>• No major China or Korea developments in today's coverage, though this absence itself might warrant checking with regional contacts</p>
+
+<p class="section-header"><strong>Business & Markets</strong></p>
+<p>• Gold futures in Japan staged a dramatic recovery after Monday's historic plunge, with <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042821000.html" target="_blank">buying returning</a> as market observers point to speculative trading behind the wild swings</p>
+<p>• The Prudential Life scandal exposes deeper governance issues in Japan's insurance sector, with the company citing the need for "fundamental reviews" of its <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html" target="_blank">sales practices</a></p>
+<p>• A bizarre labor law case emerged involving a job-quitting service called "Momuri" whose operators allegedly collected illegal referral fees while using a <a href="http://www3.nhk.or.jp/news/html/20260204/k10015042871000.html" target="_blank">shell union</a> as cover, per police investigations</p>
+
+<p class="section-header"><strong>What to Watch</strong></p>
+<p>• The Yamagami appeal process could drag the Abe assassination back into public discourse just as Japan heads toward elections where security policy is already a major theme. Worth tracking how this plays politically.</p>
+
+<p>🚩 <strong>Coverage Notes</strong>: The retirement service fraud case seems uniquely Japanese and might warrant deeper investigation into the country's growing "job-quitting as a service" industry. Also noting the relative absence of regional Asia news today - might be worth checking if we're missing something significant from China or the Koreas.</p>
+  </div>
+</body>
+</html>

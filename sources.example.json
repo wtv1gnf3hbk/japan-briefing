@@ -1,0 +1,184 @@
+{
+  "_comment": "Example sources.json showing all supported source types. Copy to sources.json and customize.",
+
+  "metadata": {
+    "name": "Tokyo Bureau Briefing",
+    "owner": "Javier Hernandez",
+    "timezone": "Asia/Tokyo",
+    "description": "Daily news briefing for the NYT Tokyo Bureau Chief"
+  },
+
+  "sources": [
+    {
+      "_comment": "=== RSS FEEDS ===",
+      "_comment2": "Most news sites have RSS. Just need the feed URL."
+    },
+    {
+      "id": "nhk_world",
+      "name": "NHK World",
+      "type": "rss",
+      "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "priority": "primary",
+      "category": "national",
+      "notes": "Japan's public broadcaster"
+    },
+    {
+      "id": "kyodo_english",
+      "name": "Kyodo News",
+      "type": "rss",
+      "url": "https://english.kyodonews.net/rss/all.xml",
+      "priority": "primary",
+      "category": "wire"
+    },
+    {
+      "id": "japan_times",
+      "name": "Japan Times",
+      "type": "rss",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "priority": "primary",
+      "category": "national"
+    },
+    {
+      "id": "nikkei_asia",
+      "name": "Nikkei Asia",
+      "type": "rss",
+      "url": "https://asia.nikkei.com/rss/feed/nar",
+      "priority": "primary",
+      "category": "business"
+    },
+    {
+      "id": "scmp_asia",
+      "name": "SCMP",
+      "type": "rss",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "priority": "secondary",
+      "category": "regional",
+      "notes": "South China Morning Post - China/HK focus"
+    },
+    {
+      "id": "reuters_japan",
+      "name": "Reuters Japan",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Japan+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "wire",
+      "notes": "Google News RSS filter for Reuters Japan stories"
+    },
+    {
+      "id": "ap_japan",
+      "name": "AP Japan",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+Japan+site:apnews.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "secondary",
+      "category": "wire"
+    },
+
+    {
+      "_comment": "=== HOMEPAGE SCRAPING ===",
+      "_comment2": "For sites without RSS. Need to specify CSS selectors."
+    },
+    {
+      "id": "mainichi_english",
+      "name": "Mainichi",
+      "type": "homepage",
+      "url": "https://mainichi.jp/english/",
+      "priority": "secondary",
+      "category": "national",
+      "selectors": {
+        "headline": "h2 a, h3 a",
+        "urlBase": "https://mainichi.jp"
+      }
+    },
+
+    {
+      "_comment": "=== GOVERNMENT/OFFICIAL SOURCES ===",
+      "_comment2": "Press releases from ministries, embassies, etc."
+    },
+    {
+      "id": "mofa_releases",
+      "name": "MOFA Press Releases",
+      "type": "government",
+      "url": "https://www.mofa.go.jp/press/release/index.html",
+      "priority": "tertiary",
+      "category": "government",
+      "selectors": {
+        "item": "ul.m-news-list li",
+        "headline": "a",
+        "urlBase": "https://www.mofa.go.jp"
+      },
+      "notes": "Ministry of Foreign Affairs"
+    },
+    {
+      "id": "us_embassy_tokyo",
+      "name": "US Embassy Tokyo",
+      "type": "government",
+      "url": "https://jp.usembassy.gov/tag/press-releases/",
+      "priority": "tertiary",
+      "category": "government",
+      "selectors": {
+        "item": "article.post",
+        "headline": "h2 a",
+        "urlBase": ""
+      }
+    },
+    {
+      "id": "kantei",
+      "name": "Prime Minister's Office",
+      "type": "rss",
+      "url": "https://japan.kantei.go.jp/rss.xml",
+      "priority": "tertiary",
+      "category": "government",
+      "notes": "Kantei - infrequent updates"
+    },
+
+    {
+      "_comment": "=== NEWS HOMEPAGES ===",
+      "_comment2": "Auto-detect patterns for major news sites"
+    },
+    {
+      "id": "bbc_asia",
+      "name": "BBC Asia",
+      "type": "news_homepage",
+      "url": "https://www.bbc.com/news/world/asia",
+      "priority": "secondary",
+      "category": "regional",
+      "selectors": {
+        "urlBase": "https://www.bbc.com"
+      }
+    },
+
+    {
+      "_comment": "=== REFERENCE (NYT coverage) ===",
+      "_comment2": "Track what the bureau is publishing"
+    },
+    {
+      "id": "nyt_asia",
+      "name": "NYT Asia",
+      "type": "news_homepage",
+      "url": "https://www.nytimes.com/section/world/asia",
+      "priority": "reference",
+      "category": "reference",
+      "selectors": {
+        "headline": "a[href*='/2025/'], a[href*='/2026/']",
+        "urlBase": "https://www.nytimes.com"
+      },
+      "notes": "See what the bureau is publishing"
+    }
+  ],
+
+  "_priority_levels": {
+    "primary": "Always include in briefing",
+    "secondary": "Include if relevant",
+    "tertiary": "Include if notable",
+    "reference": "For context, not necessarily in output"
+  },
+
+  "_category_descriptions": {
+    "national": "Japan domestic news",
+    "business": "Business, markets, economy",
+    "regional": "Asia-Pacific (China, Korea, SE Asia)",
+    "wire": "Wire services (Reuters, AP, Kyodo, AFP)",
+    "government": "Official sources, press releases",
+    "reference": "For tracking, not primary content"
+  }
+}

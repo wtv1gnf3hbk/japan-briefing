@@ -216,7 +216,7 @@ async function takeScreenshot(source) {
 async function takeTwitterScreenshot(source) {
   const b = await initBrowser();
   if (!b) {
-    return { ...source, screenshot: null, error: 'Browser not available' };
+    return { ...source, screenshot: null, tweets: [], error: 'Browser not available' };
   }
 
   try {
@@ -232,6 +232,41 @@ async function takeTwitterScreenshot(source) {
 
     // Wait for tweets to render
     await page.waitForTimeout(5000);
+
+    // Try to click "Translate post" buttons to get English translations
+    // This helps extract text from Japanese tweets
+    let tweets = [];
+    try {
+      // Find and click all translate buttons
+      const translateButtons = await page.locator('button:has-text("Translate"), span:has-text("Translate post")').all();
+      for (const btn of translateButtons.slice(0, 5)) {
+        try {
+          await btn.click({ timeout: 2000 });
+        } catch (e) {
+          // Button might not be clickable, continue
+        }
+      }
+
+      // Wait for translations to load
+      if (translateButtons.length > 0) {
+        await page.waitForTimeout(2000);
+      }
+
+      // Extract tweet text (now potentially translated)
+      tweets = await page.evaluate(() => {
+        const tweetElements = document.querySelectorAll('[data-testid="tweetText"]');
+        const results = [];
+        tweetElements.forEach((el, i) => {
+          if (i < 5) { // Get up to 5 recent tweets
+            const text = el.innerText?.trim();
+            if (text) results.push(text);
+          }
+        });
+        return results;
+      });
+    } catch (e) {
+      // Tweet extraction failed, continue with screenshot only
+    }
 
     if (!fs.existsSync(SCREENSHOTS_DIR)) {
       fs.mkdirSync(SCREENSHOTS_DIR, { recursive: true });
@@ -257,9 +292,9 @@ async function takeTwitterScreenshot(source) {
 
     await page.close();
 
-    return { ...source, screenshot: filename, error: null };
+    return { ...source, screenshot: filename, tweets, error: null };
   } catch (e) {
-    return { ...source, screenshot: null, error: e.message };
+    return { ...source, screenshot: null, tweets: [], error: e.message };
   }
 }
 
@@ -367,7 +402,8 @@ async function scrapeAll(config) {
         filename: result.screenshot,
         category: result.category,
         priority: result.priority,
-        language: result.language || 'en'
+        language: result.language || 'en',
+        tweets: result.tweets || []  // Include extracted tweets for Twitter sources
       });
     }
   }

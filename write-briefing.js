@@ -373,6 +373,14 @@ ${JSON.stringify(condensed.wire, null, 2)}
 HOMEPAGE SCREENSHOTS CAPTURED (Japanese outlets, competitors, Twitter):
 ${screenshots.map(s => `- ${s.name} (${s.language || 'en'}): screenshots/${s.filename}`).join('\n')}
 
+TWITTER/X FEED CONTENT (translated where available):
+${screenshots
+  .filter(s => s.category === 'twitter' && s.tweets && s.tweets.length > 0)
+  .map(s => `**${s.name}** (@${s.url.split('/').pop()}):\n${s.tweets.map((t, i) => `  ${i + 1}. ${t}`).join('\n')}`)
+  .join('\n\n') || 'No tweet content extracted'}
+
+IMPORTANT: If a tweet from an official account (PM, ministry, etc.) relates to a top story, cite it directly in your opening. Twitter/X feeds from officials are primary sources.
+
 Note: Screenshots are available for visual reference. Include a note at the end listing which Japanese outlet homepages and Twitter feeds have been captured for reference.
 
 Write the briefing now. Keep it concise but comprehensive.`;

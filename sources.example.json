@@ -2,7 +2,7 @@
   "_comment": "Example sources.json showing all supported source types. Copy to sources.json and customize.",
 
   "metadata": {
-    "name": "Tokyo Bureau Briefing",
+    "name": "Japan Briefing",
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief"

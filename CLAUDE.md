@@ -1,4 +1,4 @@
-# Tokyo Bureau Briefing
+# Japan Briefing
 
 Config-driven news briefing generator for the NYT Tokyo Bureau.
 
@@ -68,7 +68,7 @@ The Claude prompt enforces:
 ## File Structure
 
 ```
-tokyo-briefing/
+japan-briefing/
 ├── generate-briefing.js    # Scraper (config-driven)
 ├── write-briefing.js       # Claude API integration
 ├── sources.json            # Your source config (edit this!)

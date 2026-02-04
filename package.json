@@ -1,5 +1,5 @@
 {
-  "name": "tokyo-briefing",
+  "name": "japan-briefing",
   "version": "1.0.0",
   "description": "Daily news briefing generator for NYT Tokyo Bureau - runs on GitHub Actions",
   "main": "generate-briefing.js",

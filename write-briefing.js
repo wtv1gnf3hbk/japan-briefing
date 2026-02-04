@@ -482,6 +482,8 @@ Write a conversational briefing using this headline data. Structure it as:
 
 4. **What to Watch** (1-2 items): Upcoming events or developing stories directly relevant to Japan. Skip this section entirely if there's nothing Japan-specific worth flagging.
 
+DO NOT include a "Regional Watch" section or NASA/space news unless it directly involves Japan or JAXA. This briefing is Japan-focused—non-Japan regional news should only appear if it directly affects Japan.
+
 Every bullet must have at least one link. Vary attribution: "Reuters reports", "according to Nikkei", "the Yomiuri notes", "per Kyodo" (use "per X" only once).
 
 FLAG any stories where:

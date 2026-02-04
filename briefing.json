@@ -4,15 +4,15 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-02-04T04:21:13.432Z",
-    "generatedTimestamp": 1770178873432
+    "generated": "2026-02-04T04:29:56.548Z",
+    "generatedTimestamp": 1770179396549
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
     "totalStories": 107,
     "totalScreenshots": 11,
-    "elapsed": "71.1s"
+    "elapsed": "72.7s"
   },
   "stories": {
     "all": [
@@ -67,6 +67,16 @@
         "description": "営業社員が顧客から金銭をだまし取るなど31億円にのぼる不適切な金銭の受領が判明したプルデンシャル生命は、2月9日から新規契約の販売活動を90日間、自粛すると発表しました。ガバナンス態勢や営業制度の抜本的な見直しを最優先に実施するためだとしています。"
       },
       {
+        "headline": "衆院選 投票所などのアルバイト 派遣会社は人手確保に追われる",
+        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043151000.html",
+        "source": "NHK World",
+        "sourceId": "nhk_world",
+        "category": "national",
+        "priority": "primary",
+        "date": "Wed, 04 Feb 2026 13:26:10 +0900",
+        "description": "今回の衆議院選挙が「超短期決戦」となった影響で、都内の人材派遣会社では投票所や開票所で作業にあたる人手の確保に追われています。"
+      },
+      {
         "headline": "五輪 日本選手団へのひぼう中傷対策でミラノにオフィス設置",
         "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042881000.html",
         "source": "NHK World",
@@ -75,16 +85,6 @@
         "priority": "primary",
         "date": "Wed, 04 Feb 2026 12:38:48 +0900",
         "description": "ミラノ・コルティナオリンピックの日本選手団の選手たちに対するSNSでのひぼう中傷への対策を行うオフィスがミラノ市内に設置され、報道陣に公開されました。"
-      },
-      {
-        "headline": "月探査 アルテミス計画 ロケット打ち上げ延期へ 燃料漏れ確認",
-        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html",
-        "source": "NHK World",
-        "sourceId": "nhk_world",
-        "category": "national",
-        "priority": "primary",
-        "date": "Wed, 04 Feb 2026 11:23:53 +0900",
-        "description": "宇宙飛行士による月の探査を目指す国際的なプロジェクト「アルテミス計画」で、NASA＝アメリカ航空宇宙局は早ければ8日に予定していたロケットの打ち上げを来月以降に延期すると発表しました。最終試験で燃料漏れが確認されたとしています。"
       },
       {
         "headline": "Taiwan military capabilities in jeopardy as defense budget row deepens",
@@ -437,6 +437,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1kOEhONW5ZdlBpYUxQV1lUSW1FZHZBaGd4X1Zlc1haT29CdXZEdy1aYmhtZGF6YlBFZFU4MVowNUhyMWlSdUtDampTTEdEY0gzaFdFM3ZzNFFBamNRbVAxTDhtdGQ3aUpPZUNv?oc"
       },
       {
+        "headline": "Asia shares wobble, oil prices climb and gold makes a comeback - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZqTGpfRkNIZi0tOXdubzJsaTIzb1c3cG5VRG5jOXRvYUFJckN5aFdacENFU3Fsa1JJcENXRXFPWUszYXRadk1mNDlZbndwdGlTTXhCUGRNbEFtMm1JaTNMTnJiVTZTUW5iTGpWaWU2THBxRU5qTG5FS2UzUU1zYzRQNA?oc=5",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Wed, 04 Feb 2026 02:28:54 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZqTGpfRkNIZi0tOXdubzJsaTIzb1c3cG5VRG5jOXRvYUFJckN5aFdacENFU3Fsa1JJcENXRXFPWUszYXRadk1mNDlZbndwdGlTTXhCUGRNbEFtMm1JaTNMTnJiVTZTUW5iTGp"
+      },
+      {
         "headline": "Some 30 countries want to join critical minerals club, US Interior Secretary Burgum says - Reuters",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1BZaXBTaGVGaUdWaEpad2JtSXBBZThxZjFUUTVTT2FwQURRTzFuTmhQeVJJeWVMcDdQdXNuZzk5YmpzTUs2eUl4dndNYTM2YXBsMnYtZjg3SVFwM1lJX1kxbFJIZkE2R04tM2tCdUJGUFdwbDExUUtZT1M0eG1OYlN6RXRQVkxRSWxSUjR0TGFtdFhoMmxlMHVJaUl6OEx6eGcyOFdFUENiektodlJpWDRXOEhSeFhIbnBnTnZxVGtZQTRXNkE?oc=5",
         "source": "Reuters Japan",
@@ -467,24 +477,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXN3SjdmQUNzUS1EUkFncG5Ick9MbzRiX1RwYTRXanBwVFpmWWttcXFsZnhQV05mWkJFWGFEQzNSTlhWWlYzRjhneWEzVERPalY0QWQwZUlpVngtWTdJc0p6WmZha3U4bzMzN2Y"
       },
       {
-        "headline": "Global stock index edges down, silver and oil extend losses - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckVYdU9NWFN5RUJYOG54clIwdHQ2OEYxb0JHalNGVm5ZVlpOSER5eFpxTkJ4ME0yNk1vT2gwdVNpOGpqU3FPT0dlTlgycDZ1QkU4U0JNU3NJaTVxcjNnUEV6Zng0VGFVV0puZ1ZwR1c2TDVMUXEzeVkwdVgwaDhLWFFZSQ?oc=5",
+        "headline": "Reuters | Breaking International News &amp; Views - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE8tZ2hNa2FhcURvbGFUZGY4clA5d1FnWlJWbnIzV2dfOFVDdDRNQ25lY2s2dzFLV2ZYRHBldA?oc=5",
         "source": "Reuters Japan",
         "sourceId": "reuters_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 05:34:36 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQckVYdU9NWFN5RUJYOG54clIwdHQ2OEYxb0JHalNGVm5ZVlpOSER5eFpxTkJ4ME0yNk1vT2gwdVNpOGpqU3FPT0dlTlgycDZ1QkU4U0JNU3NJaTVxcjNnUEV6Zng0VGFVV0puZ1Z"
-      },
-      {
-        "headline": "Meet Josh D'Amaro, Mayor of Main Street USA and new Disney CEO - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHZ0S1l0Z2VUcEs2NVRRYjJjcDNjallRQThYODM1VEZ0dmVoSFNicXl5WkJKVEp2eGxaQjZlYjNHV0stLVU4OXpOejlJbWw1RVRvRy1mM1k4bjJyQjNHQ1lmMDR5SzZXRXpzNTlSQTlFXzBZeGQ2dXlWZWNfbjNveEFHT1VQWGxoSDlrU2ZwdEp5cnd1ZElhMG5HVEpNUURaR2U0VThtYVRYRWVnV3JEVW93?oc=5",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 14:56:05 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHZ0S1l0Z2VUcEs2NVRRYjJjcDNjallRQThYODM1VEZ0dmVoSFNicXl5WkJKVEp2eGxaQjZlYjNHV0stLVU4OXpOejlJbWw1RVRvRy1mM1k4bjJyQjNHQ1lmMDR5SzZXRXpzNTl"
+        "date": "Sat, 10 Sep 2005 07:49:43 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiPEFVX3lxTE8tZ2hNa2FhcURvbGFUZGY4clA5d1FnWlJWbnIzV2dfOFVDdDRNQ25lY2s2dzFLV2ZYRHBldA?oc=5\" target=\"_blank\"&gt;Reuters | Breaking International News &"
       },
       {
         "headline": "Photos of Hakone Shrine marking Setsubun with bean-throwing to ward off evil spirits - AP News",
@@ -927,16 +927,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjl"
       },
       {
-        "headline": "AI Disruption Concerns Sink Software Stocks in Tech-Heavy Asia - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHVHaEZIUHUwbTZWeUxOcnoyNTJscFVweTlwSTJVekx1Qkh3WFcyUmcxQmZOVEhDME1aU2RTUHhrTndxaDZBOUwzbmc?oc=5",
-        "source": "Bloomberg Japan",
-        "sourceId": "bloomberg_japan",
-        "category": "competitors",
-        "priority": "secondary",
-        "date": "Wed, 04 Feb 2026 02:48:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHV"
-      },
-      {
         "headline": "Asian Stocks Rebound on AI Optimism as Metal Prices Recover - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDZLZnBLd0hZcGxGQmJPbnBaN3FsU1duZWlMS2s1MGp4NWdFYnc2d3BCSmdBcnZHcFNRMDU1c2tMbkFOcktoZDh1RXVCT0Vha0taWnZrU3owQlNIanV4MHRxakh1M0s1M09uRHhuNWp4UWpkdUswcUZDN3RZSjIzTkktUFlqS2JZbTl1Rlc0cHZvR2xsc0hpajRrWkQ3MmY3OVN0bVZwbnhORjdITURj?oc=5",
         "source": "Bloomberg Japan",
@@ -977,14 +967,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2pQQ1FRQWkyTi03U1pYcHdRUFZaeFFsaUlkeURTclNpMDY4MWNHaFozX0pNQWp6cmVkcVNTTjdDWGo5YTc4YXlRSXgtdThtMVozRkFMNjBtRk1ORjBHSjhPbnZjSXVNMGxPSXp"
       },
       {
-        "headline": "Trump’s Surprise Trade Deal With India Resets Fractured Ties - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGNxLXp2ZUt5ZnBtTnZjYmh3cmZvSU9KLTV0Y2NHU3dNSlNVeE8yWEhYelJ1eHBwOUJaaDEyQmlETEpFbTF2bERoMmpSRw?oc=5",
+        "headline": "AI Disruption Concerns Sink Software Makers’ Stocks in Asia - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHVHaEZIUHUwbTZWeUxOcnoyNTJscFVweTlwSTJVekx1Qkh3WFcyUmcxQmZOVEhDME1aU2RTUHhrTndxaDZBOUwzbmc?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
         "category": "competitors",
         "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 13:40:08 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGN"
+        "date": "Wed, 04 Feb 2026 04:11:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHV"
+      },
+      {
+        "headline": "Currencies - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5",
+        "source": "Bloomberg Japan",
+        "sourceId": "bloomberg_japan",
+        "category": "competitors",
+        "priority": "secondary",
+        "date": "Wed, 28 Jan 2015 05:05:18 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5\" target=\"_blank\"&gt;Cur"
       },
       {
         "headline": "Column | What science says we’ve been getting wrong about exercise - The Washington Post",
@@ -1005,16 +1005,6 @@
         "priority": "tertiary",
         "date": "Tue, 03 Feb 2026 07:18:49 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWxPZmstWWplRGVOeWlrX0kyOGljZmNGUDRaZ1FpX3RZMURXSzdaaUpTYk5EdWhLTmVGMjNDX1hhMWpldVBlRHJ2bGRVb1hCZlNGLWZydkgtWWU5bmNJTUJiYWhpMFd6Zk5uVVN"
-      },
-      {
-        "headline": "Rafah crossing between Gaza and Egypt reopens after nearly two years - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzVmcDRPZG9wNFo2S2gwc3JYV2dHX3VIZ0lIQUo2MVp0YmxzVTZDNzl6VF9yWlVJQ2N2TV9HSktpZHRXbEttaWlLNElseXplaXhpV3FkYkw0WC04REg1bXFEenhTZTdwSkdSQ2VYdmNXLW95Mlc3UnFZNnl6bjJzMHE4T19XQzJn?oc=5",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Tue, 03 Feb 2026 04:20:26 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzVmcDRPZG9wNFo2S2gwc3JYV2dHX3VIZ0lIQUo2MVp0YmxzVTZDNzl6VF9yWlVJQ2N2TV9HSktpZHRXbEttaWlLNElseXplaXhpV3FkYkw0WC04REg1bXFEenhTZTdwSkdSQ2V"
       },
       {
         "headline": "Monks walking for peace draw massive crowd in Richmond. Final stop: D.C. - The Washington Post",
@@ -1085,6 +1075,16 @@
         "priority": "tertiary",
         "date": "Wed, 08 Jul 2015 05:20:53 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE52N3hPSENUQlNwaElWMXhyWE1qSUl4SEhzcUlaMkFrSFZtM0FyZC1sWEI0YnhiNUJ6VXFRUm4tRFYycUpxbVlMWFVLWnRrY3g1RERjdjk5N0FZQ3J3d1Mw?oc=5\" target=\"_bla"
+      },
+      {
+        "headline": "367 horses nominated to compete in Triple Crown series, with trainer Todd Pletcher having 31 - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1rT1ZqZjB6cFY1NUNjWDI1SzEyZzBRWEFMX2NUaVR1MzFJdnhIR2NteEQ1TXdESlgxY1dvcWJTVmlVZU9kRzVTcHVaVi05d3RENlZGTU41Tzh3T25fNFkyMEZBWU43SWNQb0RyUjVV?oc=5",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Tue, 03 Feb 2026 19:55:51 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1"
       }
     ],
     "byCategory": {
@@ -1140,6 +1140,16 @@
           "description": "営業社員が顧客から金銭をだまし取るなど31億円にのぼる不適切な金銭の受領が判明したプルデンシャル生命は、2月9日から新規契約の販売活動を90日間、自粛すると発表しました。ガバナンス態勢や営業制度の抜本的な見直しを最優先に実施するためだとしています。"
         },
         {
+          "headline": "衆院選 投票所などのアルバイト 派遣会社は人手確保に追われる",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043151000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 13:26:10 +0900",
+          "description": "今回の衆議院選挙が「超短期決戦」となった影響で、都内の人材派遣会社では投票所や開票所で作業にあたる人手の確保に追われています。"
+        },
+        {
           "headline": "五輪 日本選手団へのひぼう中傷対策でミラノにオフィス設置",
           "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042881000.html",
           "source": "NHK World",
@@ -1148,16 +1158,6 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 12:38:48 +0900",
           "description": "ミラノ・コルティナオリンピックの日本選手団の選手たちに対するSNSでのひぼう中傷への対策を行うオフィスがミラノ市内に設置され、報道陣に公開されました。"
-        },
-        {
-          "headline": "月探査 アルテミス計画 ロケット打ち上げ延期へ 燃料漏れ確認",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 11:23:53 +0900",
-          "description": "宇宙飛行士による月の探査を目指す国際的なプロジェクト「アルテミス計画」で、NASA＝アメリカ航空宇宙局は早ければ8日に予定していたロケットの打ち上げを来月以降に延期すると発表しました。最終試験で燃料漏れが確認されたとしています。"
         },
         {
           "headline": "Taiwan military capabilities in jeopardy as defense budget row deepens",
@@ -1512,6 +1512,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1kOEhONW5ZdlBpYUxQV1lUSW1FZHZBaGd4X1Zlc1haT29CdXZEdy1aYmhtZGF6YlBFZFU4MVowNUhyMWlSdUtDampTTEdEY0gzaFdFM3ZzNFFBamNRbVAxTDhtdGQ3aUpPZUNv?oc"
         },
         {
+          "headline": "Asia shares wobble, oil prices climb and gold makes a comeback - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZqTGpfRkNIZi0tOXdubzJsaTIzb1c3cG5VRG5jOXRvYUFJckN5aFdacENFU3Fsa1JJcENXRXFPWUszYXRadk1mNDlZbndwdGlTTXhCUGRNbEFtMm1JaTNMTnJiVTZTUW5iTGpWaWU2THBxRU5qTG5FS2UzUU1zYzRQNA?oc=5",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 04 Feb 2026 02:28:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZqTGpfRkNIZi0tOXdubzJsaTIzb1c3cG5VRG5jOXRvYUFJckN5aFdacENFU3Fsa1JJcENXRXFPWUszYXRadk1mNDlZbndwdGlTTXhCUGRNbEFtMm1JaTNMTnJiVTZTUW5iTGp"
+        },
+        {
           "headline": "Some 30 countries want to join critical minerals club, US Interior Secretary Burgum says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1BZaXBTaGVGaUdWaEpad2JtSXBBZThxZjFUUTVTT2FwQURRTzFuTmhQeVJJeWVMcDdQdXNuZzk5YmpzTUs2eUl4dndNYTM2YXBsMnYtZjg3SVFwM1lJX1kxbFJIZkE2R04tM2tCdUJGUFdwbDExUUtZT1M0eG1OYlN6RXRQVkxRSWxSUjR0TGFtdFhoMmxlMHVJaUl6OEx6eGcyOFdFUENiektodlJpWDRXOEhSeFhIbnBnTnZxVGtZQTRXNkE?oc=5",
           "source": "Reuters Japan",
@@ -1542,24 +1552,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXN3SjdmQUNzUS1EUkFncG5Ick9MbzRiX1RwYTRXanBwVFpmWWttcXFsZnhQV05mWkJFWGFEQzNSTlhWWlYzRjhneWEzVERPalY0QWQwZUlpVngtWTdJc0p6WmZha3U4bzMzN2Y"
         },
         {
-          "headline": "Global stock index edges down, silver and oil extend losses - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckVYdU9NWFN5RUJYOG54clIwdHQ2OEYxb0JHalNGVm5ZVlpOSER5eFpxTkJ4ME0yNk1vT2gwdVNpOGpqU3FPT0dlTlgycDZ1QkU4U0JNU3NJaTVxcjNnUEV6Zng0VGFVV0puZ1ZwR1c2TDVMUXEzeVkwdVgwaDhLWFFZSQ?oc=5",
+          "headline": "Reuters | Breaking International News &amp; Views - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE8tZ2hNa2FhcURvbGFUZGY4clA5d1FnWlJWbnIzV2dfOFVDdDRNQ25lY2s2dzFLV2ZYRHBldA?oc=5",
           "source": "Reuters Japan",
           "sourceId": "reuters_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 05:34:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQckVYdU9NWFN5RUJYOG54clIwdHQ2OEYxb0JHalNGVm5ZVlpOSER5eFpxTkJ4ME0yNk1vT2gwdVNpOGpqU3FPT0dlTlgycDZ1QkU4U0JNU3NJaTVxcjNnUEV6Zng0VGFVV0puZ1Z"
-        },
-        {
-          "headline": "Meet Josh D'Amaro, Mayor of Main Street USA and new Disney CEO - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHZ0S1l0Z2VUcEs2NVRRYjJjcDNjallRQThYODM1VEZ0dmVoSFNicXl5WkJKVEp2eGxaQjZlYjNHV0stLVU4OXpOejlJbWw1RVRvRy1mM1k4bjJyQjNHQ1lmMDR5SzZXRXpzNTlSQTlFXzBZeGQ2dXlWZWNfbjNveEFHT1VQWGxoSDlrU2ZwdEp5cnd1ZElhMG5HVEpNUURaR2U0VThtYVRYRWVnV3JEVW93?oc=5",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 14:56:05 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHZ0S1l0Z2VUcEs2NVRRYjJjcDNjallRQThYODM1VEZ0dmVoSFNicXl5WkJKVEp2eGxaQjZlYjNHV0stLVU4OXpOejlJbWw1RVRvRy1mM1k4bjJyQjNHQ1lmMDR5SzZXRXpzNTl"
+          "date": "Sat, 10 Sep 2005 07:49:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiPEFVX3lxTE8tZ2hNa2FhcURvbGFUZGY4clA5d1FnWlJWbnIzV2dfOFVDdDRNQ25lY2s2dzFLV2ZYRHBldA?oc=5\" target=\"_blank\"&gt;Reuters | Breaking International News &"
         },
         {
           "headline": "Photos of Hakone Shrine marking Setsubun with bean-throwing to ward off evil spirits - AP News",
@@ -2004,16 +2004,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjl"
         },
         {
-          "headline": "AI Disruption Concerns Sink Software Stocks in Tech-Heavy Asia - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHVHaEZIUHUwbTZWeUxOcnoyNTJscFVweTlwSTJVekx1Qkh3WFcyUmcxQmZOVEhDME1aU2RTUHhrTndxaDZBOUwzbmc?oc=5",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Wed, 04 Feb 2026 02:48:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHV"
-        },
-        {
           "headline": "Asian Stocks Rebound on AI Optimism as Metal Prices Recover - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDZLZnBLd0hZcGxGQmJPbnBaN3FsU1duZWlMS2s1MGp4NWdFYnc2d3BCSmdBcnZHcFNRMDU1c2tMbkFOcktoZDh1RXVCT0Vha0taWnZrU3owQlNIanV4MHRxakh1M0s1M09uRHhuNWp4UWpkdUswcUZDN3RZSjIzTkktUFlqS2JZbTl1Rlc0cHZvR2xsc0hpajRrWkQ3MmY3OVN0bVZwbnhORjdITURj?oc=5",
           "source": "Bloomberg Japan",
@@ -2054,14 +2044,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2pQQ1FRQWkyTi03U1pYcHdRUFZaeFFsaUlkeURTclNpMDY4MWNHaFozX0pNQWp6cmVkcVNTTjdDWGo5YTc4YXlRSXgtdThtMVozRkFMNjBtRk1ORjBHSjhPbnZjSXVNMGxPSXp"
         },
         {
-          "headline": "Trump’s Surprise Trade Deal With India Resets Fractured Ties - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGNxLXp2ZUt5ZnBtTnZjYmh3cmZvSU9KLTV0Y2NHU3dNSlNVeE8yWEhYelJ1eHBwOUJaaDEyQmlETEpFbTF2bERoMmpSRw?oc=5",
+          "headline": "AI Disruption Concerns Sink Software Makers’ Stocks in Asia - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHVHaEZIUHUwbTZWeUxOcnoyNTJscFVweTlwSTJVekx1Qkh3WFcyUmcxQmZOVEhDME1aU2RTUHhrTndxaDZBOUwzbmc?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 13:40:08 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGN"
+          "date": "Wed, 04 Feb 2026 04:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHV"
+        },
+        {
+          "headline": "Currencies - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Wed, 28 Jan 2015 05:05:18 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5\" target=\"_blank\"&gt;Cur"
         },
         {
           "headline": "Column | What science says we’ve been getting wrong about exercise - The Washington Post",
@@ -2082,16 +2082,6 @@
           "priority": "tertiary",
           "date": "Tue, 03 Feb 2026 07:18:49 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWxPZmstWWplRGVOeWlrX0kyOGljZmNGUDRaZ1FpX3RZMURXSzdaaUpTYk5EdWhLTmVGMjNDX1hhMWpldVBlRHJ2bGRVb1hCZlNGLWZydkgtWWU5bmNJTUJiYWhpMFd6Zk5uVVN"
-        },
-        {
-          "headline": "Rafah crossing between Gaza and Egypt reopens after nearly two years - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzVmcDRPZG9wNFo2S2gwc3JYV2dHX3VIZ0lIQUo2MVp0YmxzVTZDNzl6VF9yWlVJQ2N2TV9HSktpZHRXbEttaWlLNElseXplaXhpV3FkYkw0WC04REg1bXFEenhTZTdwSkdSQ2VYdmNXLW95Mlc3UnFZNnl6bjJzMHE4T19XQzJn?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Tue, 03 Feb 2026 04:20:26 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzVmcDRPZG9wNFo2S2gwc3JYV2dHX3VIZ0lIQUo2MVp0YmxzVTZDNzl6VF9yWlVJQ2N2TV9HSktpZHRXbEttaWlLNElseXplaXhpV3FkYkw0WC04REg1bXFEenhTZTdwSkdSQ2V"
         },
         {
           "headline": "Monks walking for peace draw massive crowd in Richmond. Final stop: D.C. - The Washington Post",
@@ -2162,6 +2152,16 @@
           "priority": "tertiary",
           "date": "Wed, 08 Jul 2015 05:20:53 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE52N3hPSENUQlNwaElWMXhyWE1qSUl4SEhzcUlaMkFrSFZtM0FyZC1sWEI0YnhiNUJ6VXFRUm4tRFYycUpxbVlMWFVLWnRrY3g1RERjdjk5N0FZQ3J3d1Mw?oc=5\" target=\"_bla"
+        },
+        {
+          "headline": "367 horses nominated to compete in Triple Crown series, with trainer Todd Pletcher having 31 - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1rT1ZqZjB6cFY1NUNjWDI1SzEyZzBRWEFMX2NUaVR1MzFJdnhIR2NteEQ1TXdESlgxY1dvcWJTVmlVZU9kRzVTcHVaVi05d3RENlZGTU41Tzh3T25fNFkyMEZBWU43SWNQb0RyUjVV?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Tue, 03 Feb 2026 19:55:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1"
         }
       ]
     },
@@ -2218,6 +2218,16 @@
           "description": "営業社員が顧客から金銭をだまし取るなど31億円にのぼる不適切な金銭の受領が判明したプルデンシャル生命は、2月9日から新規契約の販売活動を90日間、自粛すると発表しました。ガバナンス態勢や営業制度の抜本的な見直しを最優先に実施するためだとしています。"
         },
         {
+          "headline": "衆院選 投票所などのアルバイト 派遣会社は人手確保に追われる",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043151000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 13:26:10 +0900",
+          "description": "今回の衆議院選挙が「超短期決戦」となった影響で、都内の人材派遣会社では投票所や開票所で作業にあたる人手の確保に追われています。"
+        },
+        {
           "headline": "五輪 日本選手団へのひぼう中傷対策でミラノにオフィス設置",
           "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042881000.html",
           "source": "NHK World",
@@ -2226,16 +2236,6 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 12:38:48 +0900",
           "description": "ミラノ・コルティナオリンピックの日本選手団の選手たちに対するSNSでのひぼう中傷への対策を行うオフィスがミラノ市内に設置され、報道陣に公開されました。"
-        },
-        {
-          "headline": "月探査 アルテミス計画 ロケット打ち上げ延期へ 燃料漏れ確認",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 11:23:53 +0900",
-          "description": "宇宙飛行士による月の探査を目指す国際的なプロジェクト「アルテミス計画」で、NASA＝アメリカ航空宇宙局は早ければ8日に予定していたロケットの打ち上げを来月以降に延期すると発表しました。最終試験で燃料漏れが確認されたとしています。"
         },
         {
           "headline": "Taiwan military capabilities in jeopardy as defense budget row deepens",
@@ -2590,6 +2590,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1kOEhONW5ZdlBpYUxQV1lUSW1FZHZBaGd4X1Zlc1haT29CdXZEdy1aYmhtZGF6YlBFZFU4MVowNUhyMWlSdUtDampTTEdEY0gzaFdFM3ZzNFFBamNRbVAxTDhtdGQ3aUpPZUNv?oc"
         },
         {
+          "headline": "Asia shares wobble, oil prices climb and gold makes a comeback - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZqTGpfRkNIZi0tOXdubzJsaTIzb1c3cG5VRG5jOXRvYUFJckN5aFdacENFU3Fsa1JJcENXRXFPWUszYXRadk1mNDlZbndwdGlTTXhCUGRNbEFtMm1JaTNMTnJiVTZTUW5iTGpWaWU2THBxRU5qTG5FS2UzUU1zYzRQNA?oc=5",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 04 Feb 2026 02:28:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVZqTGpfRkNIZi0tOXdubzJsaTIzb1c3cG5VRG5jOXRvYUFJckN5aFdacENFU3Fsa1JJcENXRXFPWUszYXRadk1mNDlZbndwdGlTTXhCUGRNbEFtMm1JaTNMTnJiVTZTUW5iTGp"
+        },
+        {
           "headline": "Some 30 countries want to join critical minerals club, US Interior Secretary Burgum says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1BZaXBTaGVGaUdWaEpad2JtSXBBZThxZjFUUTVTT2FwQURRTzFuTmhQeVJJeWVMcDdQdXNuZzk5YmpzTUs2eUl4dndNYTM2YXBsMnYtZjg3SVFwM1lJX1kxbFJIZkE2R04tM2tCdUJGUFdwbDExUUtZT1M0eG1OYlN6RXRQVkxRSWxSUjR0TGFtdFhoMmxlMHVJaUl6OEx6eGcyOFdFUENiektodlJpWDRXOEhSeFhIbnBnTnZxVGtZQTRXNkE?oc=5",
           "source": "Reuters Japan",
@@ -2620,24 +2630,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXN3SjdmQUNzUS1EUkFncG5Ick9MbzRiX1RwYTRXanBwVFpmWWttcXFsZnhQV05mWkJFWGFEQzNSTlhWWlYzRjhneWEzVERPalY0QWQwZUlpVngtWTdJc0p6WmZha3U4bzMzN2Y"
         },
         {
-          "headline": "Global stock index edges down, silver and oil extend losses - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckVYdU9NWFN5RUJYOG54clIwdHQ2OEYxb0JHalNGVm5ZVlpOSER5eFpxTkJ4ME0yNk1vT2gwdVNpOGpqU3FPT0dlTlgycDZ1QkU4U0JNU3NJaTVxcjNnUEV6Zng0VGFVV0puZ1ZwR1c2TDVMUXEzeVkwdVgwaDhLWFFZSQ?oc=5",
+          "headline": "Reuters | Breaking International News &amp; Views - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE8tZ2hNa2FhcURvbGFUZGY4clA5d1FnWlJWbnIzV2dfOFVDdDRNQ25lY2s2dzFLV2ZYRHBldA?oc=5",
           "source": "Reuters Japan",
           "sourceId": "reuters_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 05:34:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQckVYdU9NWFN5RUJYOG54clIwdHQ2OEYxb0JHalNGVm5ZVlpOSER5eFpxTkJ4ME0yNk1vT2gwdVNpOGpqU3FPT0dlTlgycDZ1QkU4U0JNU3NJaTVxcjNnUEV6Zng0VGFVV0puZ1Z"
-        },
-        {
-          "headline": "Meet Josh D'Amaro, Mayor of Main Street USA and new Disney CEO - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHZ0S1l0Z2VUcEs2NVRRYjJjcDNjallRQThYODM1VEZ0dmVoSFNicXl5WkJKVEp2eGxaQjZlYjNHV0stLVU4OXpOejlJbWw1RVRvRy1mM1k4bjJyQjNHQ1lmMDR5SzZXRXpzNTlSQTlFXzBZeGQ2dXlWZWNfbjNveEFHT1VQWGxoSDlrU2ZwdEp5cnd1ZElhMG5HVEpNUURaR2U0VThtYVRYRWVnV3JEVW93?oc=5",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 14:56:05 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHZ0S1l0Z2VUcEs2NVRRYjJjcDNjallRQThYODM1VEZ0dmVoSFNicXl5WkJKVEp2eGxaQjZlYjNHV0stLVU4OXpOejlJbWw1RVRvRy1mM1k4bjJyQjNHQ1lmMDR5SzZXRXpzNTl"
+          "date": "Sat, 10 Sep 2005 07:49:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiPEFVX3lxTE8tZ2hNa2FhcURvbGFUZGY4clA5d1FnWlJWbnIzV2dfOFVDdDRNQ25lY2s2dzFLV2ZYRHBldA?oc=5\" target=\"_blank\"&gt;Reuters | Breaking International News &"
         },
         {
           "headline": "Photos of Hakone Shrine marking Setsubun with bean-throwing to ward off evil spirits - AP News",
@@ -3080,16 +3080,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjl"
         },
         {
-          "headline": "AI Disruption Concerns Sink Software Stocks in Tech-Heavy Asia - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHVHaEZIUHUwbTZWeUxOcnoyNTJscFVweTlwSTJVekx1Qkh3WFcyUmcxQmZOVEhDME1aU2RTUHhrTndxaDZBOUwzbmc?oc=5",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Wed, 04 Feb 2026 02:48:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHV"
-        },
-        {
           "headline": "Asian Stocks Rebound on AI Optimism as Metal Prices Recover - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDZLZnBLd0hZcGxGQmJPbnBaN3FsU1duZWlMS2s1MGp4NWdFYnc2d3BCSmdBcnZHcFNRMDU1c2tMbkFOcktoZDh1RXVCT0Vha0taWnZrU3owQlNIanV4MHRxakh1M0s1M09uRHhuNWp4UWpkdUswcUZDN3RZSjIzTkktUFlqS2JZbTl1Rlc0cHZvR2xsc0hpajRrWkQ3MmY3OVN0bVZwbnhORjdITURj?oc=5",
           "source": "Bloomberg Japan",
@@ -3130,14 +3120,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2pQQ1FRQWkyTi03U1pYcHdRUFZaeFFsaUlkeURTclNpMDY4MWNHaFozX0pNQWp6cmVkcVNTTjdDWGo5YTc4YXlRSXgtdThtMVozRkFMNjBtRk1ORjBHSjhPbnZjSXVNMGxPSXp"
         },
         {
-          "headline": "Trump’s Surprise Trade Deal With India Resets Fractured Ties - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGNxLXp2ZUt5ZnBtTnZjYmh3cmZvSU9KLTV0Y2NHU3dNSlNVeE8yWEhYelJ1eHBwOUJaaDEyQmlETEpFbTF2bERoMmpSRw?oc=5",
+          "headline": "AI Disruption Concerns Sink Software Makers’ Stocks in Asia - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHVHaEZIUHUwbTZWeUxOcnoyNTJscFVweTlwSTJVekx1Qkh3WFcyUmcxQmZOVEhDME1aU2RTUHhrTndxaDZBOUwzbmc?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 13:40:08 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGN"
+          "date": "Wed, 04 Feb 2026 04:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHV"
+        },
+        {
+          "headline": "Currencies - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Wed, 28 Jan 2015 05:05:18 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5\" target=\"_blank\"&gt;Cur"
         }
       ],
       "tertiary": [
@@ -3160,16 +3160,6 @@
           "priority": "tertiary",
           "date": "Tue, 03 Feb 2026 07:18:49 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWxPZmstWWplRGVOeWlrX0kyOGljZmNGUDRaZ1FpX3RZMURXSzdaaUpTYk5EdWhLTmVGMjNDX1hhMWpldVBlRHJ2bGRVb1hCZlNGLWZydkgtWWU5bmNJTUJiYWhpMFd6Zk5uVVN"
-        },
-        {
-          "headline": "Rafah crossing between Gaza and Egypt reopens after nearly two years - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzVmcDRPZG9wNFo2S2gwc3JYV2dHX3VIZ0lIQUo2MVp0YmxzVTZDNzl6VF9yWlVJQ2N2TV9HSktpZHRXbEttaWlLNElseXplaXhpV3FkYkw0WC04REg1bXFEenhTZTdwSkdSQ2VYdmNXLW95Mlc3UnFZNnl6bjJzMHE4T19XQzJn?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Tue, 03 Feb 2026 04:20:26 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzVmcDRPZG9wNFo2S2gwc3JYV2dHX3VIZ0lIQUo2MVp0YmxzVTZDNzl6VF9yWlVJQ2N2TV9HSktpZHRXbEttaWlLNElseXplaXhpV3FkYkw0WC04REg1bXFEenhTZTdwSkdSQ2V"
         },
         {
           "headline": "Monks walking for peace draw massive crowd in Richmond. Final stop: D.C. - The Washington Post",
@@ -3240,6 +3230,16 @@
           "priority": "tertiary",
           "date": "Wed, 08 Jul 2015 05:20:53 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE52N3hPSENUQlNwaElWMXhyWE1qSUl4SEhzcUlaMkFrSFZtM0FyZC1sWEI0YnhiNUJ6VXFRUm4tRFYycUpxbVlMWFVLWnRrY3g1RERjdjk5N0FZQ3J3d1Mw?oc=5\" target=\"_bla"
+        },
+        {
+          "headline": "367 horses nominated to compete in Triple Crown series, with trainer Todd Pletcher having 31 - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1rT1ZqZjB6cFY1NUNjWDI1SzEyZzBRWEFMX2NUaVR1MzFJdnhIR2NteEQ1TXdESlgxY1dvcWJTVmlVZU9kRzVTcHVaVi05d3RENlZGTU41Tzh3T25fNFkyMEZBWU43SWNQb0RyUjVV?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Tue, 03 Feb 2026 19:55:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1"
         }
       ],
       "reference": []
@@ -3315,11 +3315,11 @@
       "priority": "primary",
       "language": "en",
       "tweets": [
-        "ヒマラヤ山脈に囲まれた南アジアの国、ネパールのラムチャンドラ・ポーデル大統領\n@OOP_Nepal\nを官邸にお迎えし、会談を行いました。\n\n本年は、日ネパール外交関係樹立７０周年に当たります。長年にわたり築かれてきた両国の友好関係を一層発展させていくことでポーデル大統領と一致しました。",
-        "自民党公認の「村井ひでき」さんの応援で、埼玉県さいたま市浦和区に伺いました。\n埼玉１区（さいたま市見沼区・浦和区・緑区）の皆様の「村井ひでき」さんへの応援が、私、高市早苗の力になります。\n「村井ひでき」さんに、ぜひ一票をお託し下さい！\n\n埼玉県に、物価高対策をどんどんお届けします！",
-        "自民党公認の「しばやま昌彦」さんの応援で、埼玉県所沢市に伺いました。\n埼玉８区（所沢市、ふじみ野市、入間郡三芳町）の皆様の「しばやま昌彦」さんへの応援が、私、高市早苗の力になります。\n「しばやま昌彦」さんに、ぜひ一票をお託し下さい！\n\n埼玉県に、物価高対策をどんどんお届けします！",
-        "自民党公認の「中野ひでゆき」さんの応援で、埼玉県川越市に伺いました。\n埼玉７区（川越市、富士見市）の皆様の「中野ひでゆき」さんへの応援が、私、高市早苗の力になります。\n「中野ひでゆき」さんに、ぜひ一票をお託し下さい！\n\n埼玉県に、物価高対策をどんどんお届けします！",
-        "自民党公認の「山口すすむ」さんの応援で、埼玉県東松山市に伺いました。\n埼玉１０区（東松山市、坂戸市、鶴ヶ島市、比企郡）の皆様の「山口すすむ」さんへの応援が、私、高市早苗の力になります。\n「山口すすむ」さんに、ぜひ一票をお託し下さい！\n\n埼玉県に、物価高対策をどんどんお届けします！"
+        "Ramchandra Paudel, President of Nepal, a South Asian country surrounded by the Himalayas.\n@OOP_Nepal\nWe welcomed him to the Prime Minister's Office and held a meeting with him.\n\nThis year marks the 70th anniversary of the establishment of diplomatic relations between Japan and Nepal. I agreed with President Podel to further develop the friendly relationship between our two countries that has been built over many years.",
+        "I visited Urawa Ward, Saitama City, Saitama Prefecture with the support of Hideki Murai, an official member of the Liberal Democratic Party.\nThe support for Hideki Murai from everyone in Saitama Ward 1 (Minuma Ward, Urawa Ward, Midori Ward, Saitama City) will be the strength of me, Sanae Takaichi.\nPlease leave your vote for Hideki Murai!\n\nWe will continue to deliver measures against high prices to Saitama Prefecture!",
+        "I visited Tokorozawa City, Saitama Prefecture with the support of Masahiko Shibayama, an official of the Liberal Democratic Party.\nThe support for Masahiko Shibayama from everyone in Saitama's 8th Ward (Tokorozawa City, Fujimino City, and Miyoshi Town, Iruma District) will be my strength, Sanae Takaichi.\nPlease leave your vote for “Masahiko Shibayama”!\n\nWe will continue to deliver measures against high prices to Saitama Prefecture!",
+        "I visited Kawagoe City, Saitama Prefecture with the support of Hideyuki Nakano, who is officially recognized by the Liberal Democratic Party.\nThe support for Hideyuki Nakano from everyone in Saitama 7th Ward (Kawagoe City, Fujimi City) will be my strength, Sanae Takaichi.\nPlease leave your vote for “Hideyuki Nakano”!\n\nWe will continue to deliver measures against high prices to Saitama Prefecture!",
+        "I visited Higashimatsuyama City, Saitama Prefecture with the support of Susumu Yamaguchi, an official member of the Liberal Democratic Party.\nThe support for Susumu Yamaguchi from everyone in Saitama's 10 wards (Higashimatsuyama City, Sakado City, Tsurugashima City, Hiki District) will be the strength of me, Sanae Takaichi.\nPlease leave your vote for “Susumu Yamaguchi”!\n\nWe will continue to deliver measures against high prices to Saitama Prefecture!"
       ]
     },
     {
@@ -3331,11 +3331,11 @@
       "priority": "primary",
       "language": "en",
       "tweets": [
-        "＼きょうは立春／\n渕岡友美です\n日中は過ごしやすいところが多くなりそう\nきょうは日本海側でも雪のおさまるところが多くなります\n\n詳しいお天気は\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3/ep/Z8X57155XX?startOffset=780\n…\n\n#おはよう日本",
-        "廣瀬雄大、大谷舞風です\n#衆院選 まであと4日\n選挙の最新情報を確認できる特設サイト「衆議院選挙2026」\n「候補者アンケート」で候補者の考えや政策を見比べることができます\n「ボートマッチ」では、 あなたと候補者の考え方の一致度がわかります。ご活用ください！\n\nhttps://\nnews.web.nhk/senkyo/databas\ne/shugiin/\n…",
-        "今朝のニュースをスマホでチェック！\n◆モームリ「労組への賛助金」実態なしか\n◆米空母接近のイラン無人機撃墜\n◆各党の外交・安全保障政策は\n\n▼最新情報はこちら▼\n\nhttps://\nnews.web.nhk/newsweb\n\nスマホで見るならNHK ONEで\n \nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…",
-        "【2月4日（水）放送予定】\n衆院選へ各党訴え続く\n外交・安全保障政策は\n農家が急激に減少…\n　ＡＩで生産性向上できるか\n米軍事作戦から1か月 ベネズエラは\nスマホで見るならNHK ONEで\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…\n#おはよう日本",
-        "“いいとこ取り”の情報にご用心！\n選挙期間は、事実の一部だけを切り取る「チェリーピッキング」が起きがちです。\n見かけた情報は、その背景や別のデータも確認するなど、複数の視点で情報をチェックしましょう。\n注意点をまとめました↓\n\nhttps://\nnews.web.nhk/newsweb/na/na-\nk10015041711000\n…"
+        "\\Today is the first day of spring/\nThis is Tomomi Fuchioka.\nThere are likely to be many places where you can spend your time during the day.\nThere will be snow in many places today, even on the Sea of Japan side.\n\nDetailed weather information\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3/ep/Z8X57155XX?startOffset=780\n…\n\n#Good morning Japan",
+        "Yudai Hirose and Maifu Otani\n#4 days left until the House of Representatives election\nSpecial website “House of Representatives Election 2026” where you can check the latest information on the election\nYou can compare candidates' ideas and policies with the \"Candidate Questionnaire\"\n``Boat Match'' lets you see how closely you and the candidate agree. Please take advantage of it!\n\nhttps://\nnews.web.nhk/senkyo/databas\ne/shugiin/\n…",
+        "Check this morning's news on your smartphone!\n◆Momuri: Is there any actual situation regarding support money for labor unions?\n◆Iranian drone shot down as it approached US aircraft carrier\n◆The foreign and security policies of each party are\n\n▼Click here for the latest information▼\n\nhttps://\nnews.web.nhk/newsweb\n\nIf you want to watch it on your smartphone, go to NHK ONE\n \nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…",
+        "[Scheduled to be broadcast on Wednesday, February 4th]\nAll parties continue to appeal to the House of Representatives election\nForeign and security policy\nThe number of farmers is rapidly decreasing...\nCan AI improve productivity?\nOne month after the US military operation, Venezuela\nIf you want to watch it on your smartphone, go to NHK ONE\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…\n#Good morning Japan",
+        "Be wary of “cherry picking” information!\nDuring election periods, ``cherry-picking'' tends to occur, in which only part of the facts are picked out.\nCheck the information you see from multiple perspectives, such as checking its background and other data.\nWe have summarized the points to note↓\n\nhttps://\nnews.web.nhk/newsweb/na/na-\nk10015041711000\n…"
       ]
     },
     {

@@ -60,6 +60,48 @@ function fetch(url, options = {}) {
 }
 
 // ============================================
+// TRANSLATION (Google Translate API - free tier)
+// ============================================
+
+async function translateText(text, targetLang = 'en') {
+  if (!text || text.length === 0) return text;
+
+  // Use Google Translate's free API endpoint
+  // This is the same endpoint the browser extension uses
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`;
+
+  try {
+    const response = await fetch(url);
+    const data = JSON.parse(response);
+    // Response format: [[["translated text","original text",null,null,10]],null,"ja",...]
+    if (data && data[0]) {
+      return data[0].map(item => item[0]).join('');
+    }
+    return text;
+  } catch (e) {
+    // Translation failed, return original
+    return text;
+  }
+}
+
+async function translateTweets(tweets) {
+  if (!tweets || tweets.length === 0) return tweets;
+
+  const translated = [];
+  for (const tweet of tweets) {
+    // Check if tweet contains Japanese characters (Hiragana, Katakana, or Kanji)
+    const hasJapanese = /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/.test(tweet);
+    if (hasJapanese) {
+      const translatedText = await translateText(tweet);
+      translated.push(translatedText);
+    } else {
+      translated.push(tweet);
+    }
+  }
+  return translated;
+}
+
+// ============================================
 // HEADLINE CLEANING
 // ============================================
 
@@ -264,6 +306,11 @@ async function takeTwitterScreenshot(source) {
         });
         return results;
       });
+
+      // Translate Japanese tweets to English
+      if (tweets.length > 0) {
+        tweets = await translateTweets(tweets);
+      }
     } catch (e) {
       // Tweet extraction failed, continue with screenshot only
     }

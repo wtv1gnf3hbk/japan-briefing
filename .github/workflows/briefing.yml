@@ -49,5 +49,5 @@ jobs:
 
       - name: Send email briefing
         env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: node send-email.js

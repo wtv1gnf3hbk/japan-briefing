@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0",
+    "nodemailer": "^7.0.13",
     "playwright": "^1.40.0"
   },
   "engines": {

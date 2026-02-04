@@ -1,27 +1,29 @@
 #!/usr/bin/env node
 /**
- * Send the daily Japan briefing via Resend
+ * Send the daily Japan briefing via Gmail SMTP
  *
- * Requires: RESEND_API_KEY environment variable
+ * Requires environment variables:
+ * - GMAIL_USER: your Gmail address (e.g., adampasick@gmail.com)
+ * - GMAIL_APP_PASSWORD: 16-character app password from Google
  *
- * Reads index.html and sends it as an HTML email to configured recipient
+ * To get an app password:
+ * 1. Go to https://myaccount.google.com/apppasswords
+ * 2. Select "Mail" and your device
+ * 3. Copy the 16-character password (no spaces)
  */
 
-const https = require('https');
+const nodemailer = require('nodemailer');
 const fs = require('fs');
 
 // ============================================
 // CONFIGURATION
 // ============================================
 
-const RESEND_API_KEY = process.env.RESEND_API_KEY;
+const GMAIL_USER = process.env.GMAIL_USER || 'adampasick@gmail.com';
+const GMAIL_APP_PASSWORD = process.env.GMAIL_APP_PASSWORD;
 
 // Recipient - the Tokyo Bureau Chief
 const RECIPIENT = 'javier.hernandez@nytimes.com';
-
-// Sender - must be a verified domain in Resend, or use their test domain
-// You'll need to verify a domain in Resend dashboard, or use onboarding@resend.dev for testing
-const SENDER = process.env.RESEND_SENDER || 'onboarding@resend.dev';
 
 // ============================================
 // TIMEZONE UTILITIES
@@ -43,10 +45,9 @@ function formatDate(timezone = 'Asia/Tokyo') {
 // ============================================
 
 /**
- * Extract the briefing content and create an email-optimized HTML version
+ * Process HTML for email delivery
  * - Converts relative screenshot paths to absolute GitHub Pages URLs
  * - Removes the refresh button (not useful in email)
- * - Ensures email client compatibility
  */
 function processHTMLForEmail(html) {
   const GITHUB_PAGES_URL = 'https://wtv1gnf3hbk.github.io/japan-briefing';
@@ -63,7 +64,7 @@ function processHTMLForEmail(html) {
     `href="${GITHUB_PAGES_URL}/screenshots/`
   );
 
-  // Remove the refresh link and its surrounding text since it won't work in email
+  // Remove the refresh link since it won't work in email
   emailHTML = emailHTML.replace(
     /· <a class="refresh-link"[^>]*>Refresh<\/a>/g,
     ''
@@ -88,62 +89,17 @@ function processHTMLForEmail(html) {
 }
 
 // ============================================
-// RESEND API
-// ============================================
-
-function sendEmail(to, subject, htmlContent) {
-  return new Promise((resolve, reject) => {
-    const body = JSON.stringify({
-      from: SENDER,
-      to: [to],
-      subject: subject,
-      html: htmlContent
-    });
-
-    const req = https.request({
-      hostname: 'api.resend.com',
-      path: '/emails',
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${RESEND_API_KEY}`,
-        'Content-Length': Buffer.byteLength(body)
-      }
-    }, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        try {
-          const json = JSON.parse(data);
-          if (res.statusCode >= 200 && res.statusCode < 300) {
-            resolve(json);
-          } else {
-            reject(new Error(`Resend API error: ${json.message || data}`));
-          }
-        } catch (e) {
-          reject(new Error(`Failed to parse response: ${data}`));
-        }
-      });
-    });
-
-    req.on('error', reject);
-    req.setTimeout(30000, () => {
-      req.destroy();
-      reject(new Error('Request timeout'));
-    });
-
-    req.write(body);
-    req.end();
-  });
-}
-
-// ============================================
 // MAIN
 // ============================================
 
 async function main() {
-  if (!RESEND_API_KEY) {
-    console.error('Missing RESEND_API_KEY environment variable');
+  if (!GMAIL_APP_PASSWORD) {
+    console.error('Missing GMAIL_APP_PASSWORD environment variable');
+    console.error('');
+    console.error('To get an app password:');
+    console.error('1. Go to https://myaccount.google.com/apppasswords');
+    console.error('2. Generate a new app password for "Mail"');
+    console.error('3. Set GMAIL_APP_PASSWORD=xxxx xxxx xxxx xxxx');
     process.exit(1);
   }
 
@@ -164,14 +120,30 @@ async function main() {
   const dateStr = formatDate('Asia/Tokyo');
   const subject = `Tokyo Bureau Briefing — ${dateStr}`;
 
-  console.log(`Sending to: ${RECIPIENT}`);
+  console.log(`From: ${GMAIL_USER}`);
+  console.log(`To: ${RECIPIENT}`);
   console.log(`Subject: ${subject}`);
 
+  // Create Gmail transporter
+  const transporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: {
+      user: GMAIL_USER,
+      pass: GMAIL_APP_PASSWORD
+    }
+  });
+
   try {
-    const result = await sendEmail(RECIPIENT, subject, emailHTML);
+    const result = await transporter.sendMail({
+      from: GMAIL_USER,
+      to: RECIPIENT,
+      subject: subject,
+      html: emailHTML
+    });
+
     console.log('');
     console.log('✅ Email sent successfully');
-    console.log(`   ID: ${result.id}`);
+    console.log(`   Message ID: ${result.messageId}`);
   } catch (e) {
     console.error('❌ Failed to send email:', e.message);
     process.exit(1);

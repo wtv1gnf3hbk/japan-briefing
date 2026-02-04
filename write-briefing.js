@@ -338,7 +338,7 @@ Write a conversational briefing using this headline data. Structure it as:
 
 3. **Government & Policy** (if relevant): Any notable official announcements, ministry statements, diplomatic developments.
 
-4. **What to Watch** (1-2 items): Upcoming events or developing stories.
+4. **What to Watch** (1-2 items): Upcoming events or developing stories directly relevant to Japan. Skip this section entirely if there's nothing Japan-specific worth flagging.
 
 Every bullet must have at least one link. Vary attribution: "Reuters reports", "according to Nikkei", "the Yomiuri notes", "per Kyodo" (use "per X" only once).
 

@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "name": "Tokyo Bureau Briefing",
+    "name": "Japan Briefing",
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-02-04T02:05:21.991Z",
-    "generatedTimestamp": 1770170721991
+    "generated": "2026-02-04T02:45:04.664Z",
+    "generatedTimestamp": 1770173104664
   },
   "stats": {
     "sourceCount": 3,
-    "successCount": 2,
+    "successCount": 3,
     "totalStories": 17,
-    "elapsed": "5.3s"
+    "elapsed": "1.0s"
   },
   "stories": {
     "all": [
@@ -26,6 +26,16 @@
         "description": "4年前、奈良市で安倍元総理大臣を銃撃したとして殺人などの罪に問われ、無期懲役の判決を言い渡された山上徹也被告の弁護団が4日、判決を不服として控訴しました。"
       },
       {
+        "headline": "米軍 “アラビア海の空母に接近のイラン無人機を撃墜”",
+        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html",
+        "source": "NHK World",
+        "sourceId": "nhk_world",
+        "category": "national",
+        "priority": "primary",
+        "date": "Wed, 04 Feb 2026 11:32:09 +0900",
+        "description": "アメリカ軍はアラビア海に展開する空母に接近したイランの無人機を撃墜したと明らかにしました。アメリカとイランは高官による協議を控えており、ホワイトハウスは現時点では予定どおり行われる見通しを示していますが、高官協議が実現し、緊張緩和につながるかが焦点です。"
+      },
+      {
         "headline": "プルデンシャル生命 新規契約の販売活動を90日間自粛",
         "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
         "source": "NHK World",
@@ -34,16 +44,6 @@
         "priority": "primary",
         "date": "Wed, 04 Feb 2026 08:28:49 +0900",
         "description": "営業社員が顧客から金銭をだまし取るなど31億円にのぼる不適切な金銭の受領が判明したプルデンシャル生命は、2月9日から新規契約の販売活動を90日間、自粛すると発表しました。ガバナンス態勢や営業制度の抜本的な見直しを最優先に実施するためだとしています。"
-      },
-      {
-        "headline": "トランプ大統領 コロンビア大統領と会談 前向きだったと評価",
-        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043011000.html",
-        "source": "NHK World",
-        "sourceId": "nhk_world",
-        "category": "national",
-        "priority": "primary",
-        "date": "Wed, 04 Feb 2026 10:25:05 +0900",
-        "description": "アメリカのトランプ大統領は、麻薬問題をめぐり軍事行動も示唆していた南米コロンビアのペトロ大統領と会談し、両首脳はともに前向きだったと評価しました。"
       },
       {
         "headline": "退職代行事件 労組の賛助金名目で紹介料支払いも 実態なしか",
@@ -56,34 +56,44 @@
         "description": "退職代行サービス、「モームリ」を運営する会社の社長ら2人が、依頼者を弁護士に紹介して違法に紹介料を得ていたとして弁護士法違反の疑いで逮捕された事件で、弁護士側からの紹介料は提携する労働組合への賛助金の名目で支払われていましたが、組合費が集められていなかったことなどから、警視庁は、組合には実態がなかったとみて詳しく調べています。2人はいずれも容疑を否認しているということです。"
       },
       {
-        "headline": "米軍 “アラビア海の空母に接近のイラン無人機を撃墜”",
-        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html",
+        "headline": "月探査 アルテミス計画 ロケット打ち上げ延期へ 燃料漏れ確認",
+        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html",
         "source": "NHK World",
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Wed, 04 Feb 2026 06:08:07 +0900",
-        "description": "アメリカのトランプ政権が、軍事的な圧力を強めながらイランに対して核開発をめぐる交渉に応じるよう迫るなか、アメリカ軍は、アラビア海に展開している空母に接近してきたイランの無人機を撃ち落としたと明らかにしました。"
+        "date": "Wed, 04 Feb 2026 11:23:53 +0900",
+        "description": "宇宙飛行士による月の探査を目指す国際的なプロジェクト「アルテミス計画」で、NASA＝アメリカ航空宇宙局は早ければ8日に予定していたロケットの打ち上げを来月以降に延期すると発表しました。最終試験で燃料漏れが確認されたとしています。"
       },
       {
-        "headline": "衆議院選挙 外交・安全保障も争点 各党が活発な論戦交わす",
-        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042691000.html",
+        "headline": "トランプ大統領 コロンビア大統領と会談 前向きだったと評価",
+        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043011000.html",
         "source": "NHK World",
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Wed, 04 Feb 2026 05:53:12 +0900",
-        "description": "今回の衆議院選挙では、国際情勢が激動する中、外交・安全保障も争点の1つとなっていて、各党による活発な論戦が交わされています。"
+        "date": "Wed, 04 Feb 2026 10:25:05 +0900",
+        "description": "アメリカのトランプ大統領は、麻薬問題をめぐり軍事行動も示唆していた南米コロンビアのペトロ大統領と会談し、両首脳はともに前向きだったと評価しました。"
       },
       {
-        "headline": "国内の金の先物価格 急落から一転 買い戻し動き広がり大幅上昇",
-        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042821000.html",
+        "headline": "クリントン元大統領夫妻 エプスタイン氏めぐり証言に同意",
+        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043061000.html",
         "source": "NHK World",
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Wed, 04 Feb 2026 06:49:53 +0900",
-        "description": "国内の金の先物価格は、2日の記録的な急落から一転、3日は買い戻しの動きが広がって大幅に上昇しました。市場関係者からは投機的な動きが乱高下の背景にあるといった指摘も出ています。"
+        "date": "Wed, 04 Feb 2026 11:39:12 +0900",
+        "description": "アメリカで性的虐待などの罪で起訴され、その後、死亡した富豪 エプスタイン氏をめぐり、アメリカ議会下院の委員会はクリントン元大統領夫妻が2月下旬に証言することに同意したと発表しました。"
+      },
+      {
+        "headline": "How Sanae Takaichi won over disillusioned young voters",
+        "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/politics/sanae-takaichi-young-voters/",
+        "source": "Japan Times",
+        "sourceId": "japan_times",
+        "category": "national",
+        "priority": "primary",
+        "date": "Wed, 04 Feb 2026 11:08:00 +0900",
+        "description": "So far, the prime minister's strategy of presenting herself as different from previous leaders seems to have struck a chord with Japan’s youth."
       },
       {
         "headline": "EU must be ‘less naive’ in COP climate talks: French ecology ministry",
@@ -156,6 +166,16 @@
         "description": "They told an appeals court this should ​not be enforced immediately."
       },
       {
+        "headline": "Japanese and Thai police discuss cooperation against human trafficking",
+        "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/crime-legal/japan-thai-police-human-trafficking/",
+        "source": "Japan Times",
+        "sourceId": "japan_times",
+        "category": "national",
+        "priority": "primary",
+        "date": "Wed, 04 Feb 2026 09:33:00 +0900",
+        "description": "The meeting of senior law enforcement officials comes after a Thai girl was discovered to have been forced to provide sexual services at a massage parlor in Tokyo."
+      },
+      {
         "headline": "Trump’s call to ‘nationalize’ elections draws furious pushback from Democrats",
         "url": "https://www.japantimes.co.jp/news/2026/02/04/world/politics/trump-nationalize-elections-democrats/",
         "source": "Japan Times",
@@ -164,26 +184,6 @@
         "priority": "primary",
         "date": "Wed, 04 Feb 2026 09:28:00 +0900",
         "description": "Democratic lawmakers voiced concern that the president intends to interfere with the November midterms that will determine control of Congress."
-      },
-      {
-        "headline": "Disney taps parks head Josh D'Amaro as CEO to lead post-Iger era",
-        "url": "https://www.japantimes.co.jp/business/2026/02/04/companies/disney-josh-damaro-ceo/",
-        "source": "Japan Times",
-        "sourceId": "japan_times",
-        "category": "national",
-        "priority": "primary",
-        "date": "Wed, 04 Feb 2026 09:23:00 +0900",
-        "description": "Disney is turning to a nearly three-decade company veteran who runs its biggest profit engine — the experiences unit that includes theme parks and cruises."
-      },
-      {
-        "headline": "EU to offer U.S. critical minerals partnership to check China",
-        "url": "https://www.japantimes.co.jp/business/2026/02/04/eu-us-critical-minerals-china/",
-        "source": "Japan Times",
-        "sourceId": "japan_times",
-        "category": "national",
-        "priority": "primary",
-        "date": "Wed, 04 Feb 2026 08:30:00 +0900",
-        "description": "Both the U.S. and EU have become tethered to abundant, cheap Chinese minerals, giving Beijing leverage over their supply chains."
       }
     ],
     "byCategory": {
@@ -199,6 +199,16 @@
           "description": "4年前、奈良市で安倍元総理大臣を銃撃したとして殺人などの罪に問われ、無期懲役の判決を言い渡された山上徹也被告の弁護団が4日、判決を不服として控訴しました。"
         },
         {
+          "headline": "米軍 “アラビア海の空母に接近のイラン無人機を撃墜”",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 11:32:09 +0900",
+          "description": "アメリカ軍はアラビア海に展開する空母に接近したイランの無人機を撃墜したと明らかにしました。アメリカとイランは高官による協議を控えており、ホワイトハウスは現時点では予定どおり行われる見通しを示していますが、高官協議が実現し、緊張緩和につながるかが焦点です。"
+        },
+        {
           "headline": "プルデンシャル生命 新規契約の販売活動を90日間自粛",
           "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
           "source": "NHK World",
@@ -207,16 +217,6 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 08:28:49 +0900",
           "description": "営業社員が顧客から金銭をだまし取るなど31億円にのぼる不適切な金銭の受領が判明したプルデンシャル生命は、2月9日から新規契約の販売活動を90日間、自粛すると発表しました。ガバナンス態勢や営業制度の抜本的な見直しを最優先に実施するためだとしています。"
-        },
-        {
-          "headline": "トランプ大統領 コロンビア大統領と会談 前向きだったと評価",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043011000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 10:25:05 +0900",
-          "description": "アメリカのトランプ大統領は、麻薬問題をめぐり軍事行動も示唆していた南米コロンビアのペトロ大統領と会談し、両首脳はともに前向きだったと評価しました。"
         },
         {
           "headline": "退職代行事件 労組の賛助金名目で紹介料支払いも 実態なしか",
@@ -229,34 +229,44 @@
           "description": "退職代行サービス、「モームリ」を運営する会社の社長ら2人が、依頼者を弁護士に紹介して違法に紹介料を得ていたとして弁護士法違反の疑いで逮捕された事件で、弁護士側からの紹介料は提携する労働組合への賛助金の名目で支払われていましたが、組合費が集められていなかったことなどから、警視庁は、組合には実態がなかったとみて詳しく調べています。2人はいずれも容疑を否認しているということです。"
         },
         {
-          "headline": "米軍 “アラビア海の空母に接近のイラン無人機を撃墜”",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html",
+          "headline": "月探査 アルテミス計画 ロケット打ち上げ延期へ 燃料漏れ確認",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 06:08:07 +0900",
-          "description": "アメリカのトランプ政権が、軍事的な圧力を強めながらイランに対して核開発をめぐる交渉に応じるよう迫るなか、アメリカ軍は、アラビア海に展開している空母に接近してきたイランの無人機を撃ち落としたと明らかにしました。"
+          "date": "Wed, 04 Feb 2026 11:23:53 +0900",
+          "description": "宇宙飛行士による月の探査を目指す国際的なプロジェクト「アルテミス計画」で、NASA＝アメリカ航空宇宙局は早ければ8日に予定していたロケットの打ち上げを来月以降に延期すると発表しました。最終試験で燃料漏れが確認されたとしています。"
         },
         {
-          "headline": "衆議院選挙 外交・安全保障も争点 各党が活発な論戦交わす",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042691000.html",
+          "headline": "トランプ大統領 コロンビア大統領と会談 前向きだったと評価",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043011000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 05:53:12 +0900",
-          "description": "今回の衆議院選挙では、国際情勢が激動する中、外交・安全保障も争点の1つとなっていて、各党による活発な論戦が交わされています。"
+          "date": "Wed, 04 Feb 2026 10:25:05 +0900",
+          "description": "アメリカのトランプ大統領は、麻薬問題をめぐり軍事行動も示唆していた南米コロンビアのペトロ大統領と会談し、両首脳はともに前向きだったと評価しました。"
         },
         {
-          "headline": "国内の金の先物価格 急落から一転 買い戻し動き広がり大幅上昇",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042821000.html",
+          "headline": "クリントン元大統領夫妻 エプスタイン氏めぐり証言に同意",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043061000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 06:49:53 +0900",
-          "description": "国内の金の先物価格は、2日の記録的な急落から一転、3日は買い戻しの動きが広がって大幅に上昇しました。市場関係者からは投機的な動きが乱高下の背景にあるといった指摘も出ています。"
+          "date": "Wed, 04 Feb 2026 11:39:12 +0900",
+          "description": "アメリカで性的虐待などの罪で起訴され、その後、死亡した富豪 エプスタイン氏をめぐり、アメリカ議会下院の委員会はクリントン元大統領夫妻が2月下旬に証言することに同意したと発表しました。"
+        },
+        {
+          "headline": "How Sanae Takaichi won over disillusioned young voters",
+          "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/politics/sanae-takaichi-young-voters/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 11:08:00 +0900",
+          "description": "So far, the prime minister's strategy of presenting herself as different from previous leaders seems to have struck a chord with Japan’s youth."
         },
         {
           "headline": "EU must be ‘less naive’ in COP climate talks: French ecology ministry",
@@ -329,6 +339,16 @@
           "description": "They told an appeals court this should ​not be enforced immediately."
         },
         {
+          "headline": "Japanese and Thai police discuss cooperation against human trafficking",
+          "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/crime-legal/japan-thai-police-human-trafficking/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 09:33:00 +0900",
+          "description": "The meeting of senior law enforcement officials comes after a Thai girl was discovered to have been forced to provide sexual services at a massage parlor in Tokyo."
+        },
+        {
           "headline": "Trump’s call to ‘nationalize’ elections draws furious pushback from Democrats",
           "url": "https://www.japantimes.co.jp/news/2026/02/04/world/politics/trump-nationalize-elections-democrats/",
           "source": "Japan Times",
@@ -337,26 +357,6 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 09:28:00 +0900",
           "description": "Democratic lawmakers voiced concern that the president intends to interfere with the November midterms that will determine control of Congress."
-        },
-        {
-          "headline": "Disney taps parks head Josh D'Amaro as CEO to lead post-Iger era",
-          "url": "https://www.japantimes.co.jp/business/2026/02/04/companies/disney-josh-damaro-ceo/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 09:23:00 +0900",
-          "description": "Disney is turning to a nearly three-decade company veteran who runs its biggest profit engine — the experiences unit that includes theme parks and cruises."
-        },
-        {
-          "headline": "EU to offer U.S. critical minerals partnership to check China",
-          "url": "https://www.japantimes.co.jp/business/2026/02/04/eu-us-critical-minerals-china/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 08:30:00 +0900",
-          "description": "Both the U.S. and EU have become tethered to abundant, cheap Chinese minerals, giving Beijing leverage over their supply chains."
         }
       ]
     },
@@ -373,6 +373,16 @@
           "description": "4年前、奈良市で安倍元総理大臣を銃撃したとして殺人などの罪に問われ、無期懲役の判決を言い渡された山上徹也被告の弁護団が4日、判決を不服として控訴しました。"
         },
         {
+          "headline": "米軍 “アラビア海の空母に接近のイラン無人機を撃墜”",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 11:32:09 +0900",
+          "description": "アメリカ軍はアラビア海に展開する空母に接近したイランの無人機を撃墜したと明らかにしました。アメリカとイランは高官による協議を控えており、ホワイトハウスは現時点では予定どおり行われる見通しを示していますが、高官協議が実現し、緊張緩和につながるかが焦点です。"
+        },
+        {
           "headline": "プルデンシャル生命 新規契約の販売活動を90日間自粛",
           "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html",
           "source": "NHK World",
@@ -381,16 +391,6 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 08:28:49 +0900",
           "description": "営業社員が顧客から金銭をだまし取るなど31億円にのぼる不適切な金銭の受領が判明したプルデンシャル生命は、2月9日から新規契約の販売活動を90日間、自粛すると発表しました。ガバナンス態勢や営業制度の抜本的な見直しを最優先に実施するためだとしています。"
-        },
-        {
-          "headline": "トランプ大統領 コロンビア大統領と会談 前向きだったと評価",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043011000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 10:25:05 +0900",
-          "description": "アメリカのトランプ大統領は、麻薬問題をめぐり軍事行動も示唆していた南米コロンビアのペトロ大統領と会談し、両首脳はともに前向きだったと評価しました。"
         },
         {
           "headline": "退職代行事件 労組の賛助金名目で紹介料支払いも 実態なしか",
@@ -403,34 +403,44 @@
           "description": "退職代行サービス、「モームリ」を運営する会社の社長ら2人が、依頼者を弁護士に紹介して違法に紹介料を得ていたとして弁護士法違反の疑いで逮捕された事件で、弁護士側からの紹介料は提携する労働組合への賛助金の名目で支払われていましたが、組合費が集められていなかったことなどから、警視庁は、組合には実態がなかったとみて詳しく調べています。2人はいずれも容疑を否認しているということです。"
         },
         {
-          "headline": "米軍 “アラビア海の空母に接近のイラン無人機を撃墜”",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html",
+          "headline": "月探査 アルテミス計画 ロケット打ち上げ延期へ 燃料漏れ確認",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 06:08:07 +0900",
-          "description": "アメリカのトランプ政権が、軍事的な圧力を強めながらイランに対して核開発をめぐる交渉に応じるよう迫るなか、アメリカ軍は、アラビア海に展開している空母に接近してきたイランの無人機を撃ち落としたと明らかにしました。"
+          "date": "Wed, 04 Feb 2026 11:23:53 +0900",
+          "description": "宇宙飛行士による月の探査を目指す国際的なプロジェクト「アルテミス計画」で、NASA＝アメリカ航空宇宙局は早ければ8日に予定していたロケットの打ち上げを来月以降に延期すると発表しました。最終試験で燃料漏れが確認されたとしています。"
         },
         {
-          "headline": "衆議院選挙 外交・安全保障も争点 各党が活発な論戦交わす",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042691000.html",
+          "headline": "トランプ大統領 コロンビア大統領と会談 前向きだったと評価",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043011000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 05:53:12 +0900",
-          "description": "今回の衆議院選挙では、国際情勢が激動する中、外交・安全保障も争点の1つとなっていて、各党による活発な論戦が交わされています。"
+          "date": "Wed, 04 Feb 2026 10:25:05 +0900",
+          "description": "アメリカのトランプ大統領は、麻薬問題をめぐり軍事行動も示唆していた南米コロンビアのペトロ大統領と会談し、両首脳はともに前向きだったと評価しました。"
         },
         {
-          "headline": "国内の金の先物価格 急落から一転 買い戻し動き広がり大幅上昇",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042821000.html",
+          "headline": "クリントン元大統領夫妻 エプスタイン氏めぐり証言に同意",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043061000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 06:49:53 +0900",
-          "description": "国内の金の先物価格は、2日の記録的な急落から一転、3日は買い戻しの動きが広がって大幅に上昇しました。市場関係者からは投機的な動きが乱高下の背景にあるといった指摘も出ています。"
+          "date": "Wed, 04 Feb 2026 11:39:12 +0900",
+          "description": "アメリカで性的虐待などの罪で起訴され、その後、死亡した富豪 エプスタイン氏をめぐり、アメリカ議会下院の委員会はクリントン元大統領夫妻が2月下旬に証言することに同意したと発表しました。"
+        },
+        {
+          "headline": "How Sanae Takaichi won over disillusioned young voters",
+          "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/politics/sanae-takaichi-young-voters/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 11:08:00 +0900",
+          "description": "So far, the prime minister's strategy of presenting herself as different from previous leaders seems to have struck a chord with Japan’s youth."
         },
         {
           "headline": "EU must be ‘less naive’ in COP climate talks: French ecology ministry",
@@ -503,6 +513,16 @@
           "description": "They told an appeals court this should ​not be enforced immediately."
         },
         {
+          "headline": "Japanese and Thai police discuss cooperation against human trafficking",
+          "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/crime-legal/japan-thai-police-human-trafficking/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 09:33:00 +0900",
+          "description": "The meeting of senior law enforcement officials comes after a Thai girl was discovered to have been forced to provide sexual services at a massage parlor in Tokyo."
+        },
+        {
           "headline": "Trump’s call to ‘nationalize’ elections draws furious pushback from Democrats",
           "url": "https://www.japantimes.co.jp/news/2026/02/04/world/politics/trump-nationalize-elections-democrats/",
           "source": "Japan Times",
@@ -511,26 +531,6 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 09:28:00 +0900",
           "description": "Democratic lawmakers voiced concern that the president intends to interfere with the November midterms that will determine control of Congress."
-        },
-        {
-          "headline": "Disney taps parks head Josh D'Amaro as CEO to lead post-Iger era",
-          "url": "https://www.japantimes.co.jp/business/2026/02/04/companies/disney-josh-damaro-ceo/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 09:23:00 +0900",
-          "description": "Disney is turning to a nearly three-decade company veteran who runs its biggest profit engine — the experiences unit that includes theme parks and cruises."
-        },
-        {
-          "headline": "EU to offer U.S. critical minerals partnership to check China",
-          "url": "https://www.japantimes.co.jp/business/2026/02/04/eu-us-critical-minerals-china/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 08:30:00 +0900",
-          "description": "Both the U.S. and EU have become tethered to abundant, cheap Chinese minerals, giving Beijing leverage over their supply chains."
         }
       ],
       "secondary": [],
@@ -539,11 +539,6 @@
     }
   },
   "feedHealth": {
-    "failed": [
-      {
-        "name": "Kyodo News",
-        "error": "Timeout"
-      }
-    ]
+    "failed": []
   }
 }

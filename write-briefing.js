@@ -334,13 +334,11 @@ Write a conversational briefing using this headline data. Structure it as:
 
 1. **Opening** (2-3 paragraphs): Synthesize the top Japan stories. Lead with context and stakes, not just headlines.
 
-2. **Regional Watch** (3-4 bullets): Key developments from China, Korea, Southeast Asia that a Tokyo bureau chief should know.
+2. **Business & Markets** (3-4 bullets): Japan/Asia business news, market moves, corporate stories.
 
-3. **Business & Markets** (3-4 bullets): Japan/Asia business news, market moves, corporate stories.
+3. **Government & Policy** (if relevant): Any notable official announcements, ministry statements, diplomatic developments.
 
-4. **Government & Policy** (if relevant): Any notable official announcements, ministry statements, diplomatic developments.
-
-5. **What to Watch** (1-2 items): Upcoming events or developing stories.
+4. **What to Watch** (1-2 items): Upcoming events or developing stories.
 
 Every bullet must have at least one link. Vary attribution: "Reuters reports", "according to Nikkei", "the Yomiuri notes", "per Kyodo" (use "per X" only once).
 

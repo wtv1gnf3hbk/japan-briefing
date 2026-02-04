@@ -4,15 +4,15 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-02-04T04:29:56.548Z",
-    "generatedTimestamp": 1770179396549
+    "generated": "2026-02-04T05:14:36.341Z",
+    "generatedTimestamp": 1770182076341
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
-    "totalStories": 107,
+    "totalStories": 97,
     "totalScreenshots": 11,
-    "elapsed": "72.7s"
+    "elapsed": "72.1s"
   },
   "stories": {
     "all": [
@@ -35,6 +35,16 @@
         "priority": "primary",
         "date": "Wed, 04 Feb 2026 12:25:33 +0900",
         "description": "退職代行サービス「モームリ」を運営する会社の社長ら2人が、依頼者を弁護士に紹介して違法に報酬を得ていたとして弁護士法違反の疑いで逮捕された事件で、会社側が、弁護士側から紹介料を受け取るとする覚書を交わしたうえで、3年前から依頼者を紹介していたとみられることが捜査関係者への取材で分かりました。2人は容疑を否認しているということです。"
+      },
+      {
+        "headline": "東京 新宿 学童クラブで男児にわいせつ行為か 保育士逮捕",
+        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043141000.html",
+        "source": "NHK World",
+        "sourceId": "nhk_world",
+        "category": "national",
+        "priority": "primary",
+        "date": "Wed, 04 Feb 2026 13:31:25 +0900",
+        "description": "東京 新宿区の学童クラブに勤めていた40歳の男の保育士が、宿泊を伴う行事で、当時小学生だった男の子の体を触るなどのわいせつな行為をしたとして逮捕されたことが、捜査関係者への取材で分かりました。この学童クラブと、保育士が現在勤める保育園では、保護者から同じような被害の相談が数十件寄せられているということで、警視庁が関連を調べています。"
       },
       {
         "headline": "安倍元首相銃撃事件 山上被告の弁護団が控訴 判決不服として",
@@ -77,14 +87,14 @@
         "description": "今回の衆議院選挙が「超短期決戦」となった影響で、都内の人材派遣会社では投票所や開票所で作業にあたる人手の確保に追われています。"
       },
       {
-        "headline": "五輪 日本選手団へのひぼう中傷対策でミラノにオフィス設置",
-        "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042881000.html",
-        "source": "NHK World",
-        "sourceId": "nhk_world",
+        "headline": "JAL says passenger revenue in December was 20% short for China routes",
+        "url": "https://www.japantimes.co.jp/business/2026/02/04/companies/jal-china-revenue-low/",
+        "source": "Japan Times",
+        "sourceId": "japan_times",
         "category": "national",
         "priority": "primary",
-        "date": "Wed, 04 Feb 2026 12:38:48 +0900",
-        "description": "ミラノ・コルティナオリンピックの日本選手団の選手たちに対するSNSでのひぼう中傷への対策を行うオフィスがミラノ市内に設置され、報道陣に公開されました。"
+        "date": "Wed, 04 Feb 2026 13:31:00 +0900",
+        "description": "The drop was attributed to Beijing advice to Chinese citizens to refrain from traveling to Japan."
       },
       {
         "headline": "Taiwan military capabilities in jeopardy as defense budget row deepens",
@@ -95,6 +105,16 @@
         "priority": "primary",
         "date": "Wed, 04 Feb 2026 13:11:00 +0900",
         "description": "The dispute over a bill that would slash by 70% a DPP-backed defense spending request has prompted unease in both Taipei and Washington."
+      },
+      {
+        "headline": "Is this election really unpredictable?",
+        "url": "https://www.japantimes.co.jp/commentary/2026/02/04/japan/how-unpredictable-is-the-snap-election/",
+        "source": "Japan Times",
+        "sourceId": "japan_times",
+        "category": "national",
+        "priority": "primary",
+        "date": "Wed, 04 Feb 2026 12:40:00 +0900",
+        "description": "Despite media uncertainty, opposition weaknesses and recent polls suggest Takaichi and the LDP are likely headed for a strong victory."
       },
       {
         "headline": "Arteta backs Arsenal to build on 'magical' place in League Cup final",
@@ -127,6 +147,16 @@
         "description": "The prime minister seeming to avoid discussing the Lower House seat-cut proposal now is believed to reflect concerns within the Liberal Democratic Party about it, observers said."
       },
       {
+        "headline": "CRA heavyweights’ heated contests allude to party’s uphill struggle in Sunday’s vote",
+        "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/politics/cra-veterans-tight-race/",
+        "source": "Japan Times",
+        "sourceId": "japan_times",
+        "category": "national",
+        "priority": "primary",
+        "date": "Wed, 04 Feb 2026 11:58:00 +0900",
+        "description": "Yukio Edano, Jun Azumi and Ichiro Ozawa are among candidates facing neck-and-neck races in their home turfs."
+      },
+      {
         "headline": "Clippers trade Harden to Cavaliers for Garland as deadline nears",
         "url": "https://www.japantimes.co.jp/sports/2026/02/04/basketball/nba/harden-garland-trade/",
         "source": "Japan Times",
@@ -157,34 +187,14 @@
         "description": "Koichi Hagiuda was among the five leading figures of the now-defunct LDP faction once led by the late Prime Minister Shinzo Abe, which was at the center of the scandal."
       },
       {
-        "headline": "Thai-born goalkeeper shines in national high school soccer tournament",
-        "url": "https://www.japantimes.co.jp/sports/2026/02/04/soccer/thai-goalkeeper-poomraphee-siribunyakul/",
-        "source": "Japan Times",
-        "sourceId": "japan_times",
+        "headline": "UK Police Open Criminal Investigation into Politician Peter Mandelson over Alleged Leaks to Epstein",
+        "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260204-308761/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
         "priority": "primary",
-        "date": "Wed, 04 Feb 2026 11:36:00 +0900",
-        "description": "Marking his school's maiden appearance in the championship match, Poomraphee Siribunyakul repeatedly produced crucial saves, including a first-half penalty stop."
-      },
-      {
-        "headline": "Japan coach Jones says 'fair' Rugby World Cup schedule helps small teams",
-        "url": "https://www.japantimes.co.jp/sports/2026/02/04/more-sports/rugby-world-cup-schedule/",
-        "source": "Japan Times",
-        "sourceId": "japan_times",
-        "category": "national",
-        "priority": "primary",
-        "date": "Wed, 04 Feb 2026 11:34:00 +0900",
-        "description": "The Brave Blossoms have been drawn in a pool with France, Samoa and the United States for next year's World Cup."
-      },
-      {
-        "headline": "Assassin of Shinzo Abe files appeal against life sentence",
-        "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/crime-legal/yamagami-trial-appeal/",
-        "source": "Japan Times",
-        "sourceId": "japan_times",
-        "category": "national",
-        "priority": "primary",
-        "date": "Wed, 04 Feb 2026 11:32:00 +0900",
-        "description": "Tetsuya Yamagami reportedly agreed to appeal after strong persuasion from his lawyers."
+        "date": "Wed, 04 Feb 2026 05:10:43 +0000",
+        "description": "LONDON (AP) — British police on Tuesday opened a criminal investigation into politician Peter Mandelson over alleged misconduct in public office related to his relationship with convicted sex offender"
       },
       {
         "headline": "Japan&#8217;s Nikkei Stock Average Slips after Sharp Gain, Tech Shares Weigh",
@@ -275,116 +285,6 @@
         "priority": "primary",
         "date": "Tue, 03 Feb 2026 17:00:15 +0000",
         "description": "Tokyo had a net migration gain of 65,219 people in 2025, but the margin declined by 14,066 people from the previous year, marking the first decline in four years, according to a government report rele"
-      },
-      {
-        "headline": "Not Ready for Robots in Homes? The Maker of a Friendly New Humanoid Thinks It Might Change Your Mind",
-        "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260203-308602/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Tue, 03 Feb 2026 13:10:37 +0000",
-        "description": "NEW YORK (AP) — As the new robot called Sprout walks around a Manhattan office, nodding its rectangular head, lifting its windshield wiper-like “eyebrows” and offering to shake your hand with its grip"
-      },
-      {
-        "headline": "Arsenal sinks Chelsea to reach League Cup final",
-        "url": "https://japantoday.com/category/sports/arsenal-sink-chelsea-to-reach-league-cup-final",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Wed, 04 Feb 2026 01:00:10 +0000",
-        "description": "Arsenal reached the League Cup final for the first time in eight years as Kai Havertz sealed a 1-0 win against Chelsea in the semi-final second leg on…"
-      },
-      {
-        "headline": "U.S. immigration agents will have no role at Super Bowl: security chief",
-        "url": "https://japantoday.com/category/sports/no-us-immigration-agents-at-super-bowl-security-chief",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 23:40:32 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Paris cybercrime unit searches X office; Musk summoned",
-        "url": "https://japantoday.com/category/tech/paris-cybercrime-unit-searches-x-office-musk-summoned1",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 21:41:52 +0000",
-        "description": "French police raided the offices of Elon Musk's social media network X on Tuesday and prosecutors ordered the tech billionaire to face questions in a widening investigation, amid growing…"
-      },
-      {
-        "headline": "Water-skiing demon",
-        "url": "https://japantoday.com/category/picture-of-the-day/water-skiing-demon",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 21:05:16 +0000",
-        "description": "A student depicting an oni, a demon-like figure in Japanese folklore, skims across the water on water skis during the annual Bean Throwing Festival near Hakone Shrine in…"
-      },
-      {
-        "headline": "U.S. announces military team sent to Nigeria after recent attacks",
-        "url": "https://japantoday.com/category/world/us-announces-military-team-sent-to-nigeria-after-recent-attacks",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 21:34:35 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Trump's call to 'nationalize' elections draws furious pushback from Democrats",
-        "url": "https://japantoday.com/category/world/trump%27s-call-to-%27nationalize%27-elections-draws-furious-pushback-from-democrats1",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Wed, 04 Feb 2026 02:27:01 +0000",
-        "description": "President Donald Trump’s call for Republicans to &quot;nationalize&quot; elections drew pushback on Tuesday from lawmakers, including from a few Republicans, as Democrats voiced fresh concern that he "
-      },
-      {
-        "headline": "Ethiopia's prime minister accuses Eritrea of mass killings during Tigray war",
-        "url": "https://japantoday.com/category/world/ethiopia%27s-prime-minister-accuses-eritrea-of-mass-killings-during-tigray-war",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 21:34:47 +0000",
-        "description": "Ethiopia's government Tuesday for the first time acknowledged the involvement of troops from neighboring Eritrea in the war in the Tigray region that ended in 2022, accusing them…"
-      },
-      {
-        "headline": "Iran demands changes in venue and scope of talks with U.S., source says",
-        "url": "https://japantoday.com/category/world/iran-demands-changes-in-venue-and-scope-of-talks-with-us-source-says1",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 21:33:52 +0000",
-        "description": "Iran is demanding that talks with the U.S. this week be held in Oman not Turkey, and that the scope be narrowed to two-way negotiations on nuclear issues…"
-      },
-      {
-        "headline": "Seif al-Islam Gadhafi, son of Libya’s late dictator, killed",
-        "url": "https://japantoday.com/category/world/seif-al-islam-gadhafi-son-of-libya%E2%80%99s-late-dictator-killed-in-north-africa-country-officials-say",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 21:34:58 +0000",
-        "description": ""
-      },
-      {
-        "headline": "367 horses nominated to compete in Triple Crown series, with trainer Todd Pletcher having 31",
-        "url": "https://japantoday.com/category/sports/367-horses-nominated-to-compete-in-triple-crown-series-with-trainer-todd-pletcher-having-31",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 21:41:23 +0000",
-        "description": ""
       },
       {
         "headline": "Japan PM's idle yen comments send finance bureaucrats scrambling - Reuters",
@@ -507,26 +407,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQOW1aR2xBWTBGQTMxOGJqUk1fZldEbmIwZUZIa216eXd2WDRxSkVfLWk1OS1hR3pOdEFIT0J6R09QUFY0YmZfMExhakU0RDJTSjJHRjFrQ1BZZ2VrYzYyN0hCZ0s3QkcxU0FGS0F"
       },
       {
-        "headline": "Seeking shelter from Trump’s fury, US trade partners reach deals with each other - AP News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTklUdmVTUW96MzhaRThidkJKN1VnMzdNV1JKUVVxZHJJZXZETi00MzJON0hWTHFvM3dnNm0tNFp2NmVIQTdIOGp5WjFXNGhhMGlmOHBVaEFMeTd3RkNZcWo4bEpGYnk3TVZMMHg4SEVmejJOby1QZGlmeWQ3aVU1RmcxRU1YV01GMXQ5TFFMVEs1Zw?oc=5",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 14:07:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTklUdmVTUW96MzhaRThidkJKN1VnMzdNV1JKUVVxZHJJZXZETi00MzJON0hWTHFvM3dnNm0tNFp2NmVIQTdIOGp5WjFXNGhhMGlmOHBVaEFMeTd3RkNZcWo4bEpGYnk3TVZMMHg"
-      },
-      {
-        "headline": "Why China is building so many coal plants despite its solar and wind boom - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmJRTXJHNk1GVkZtaWhsVEV3T2xaenl4OWc3LW1KVi0zakZYdkJwLTlrR2xWODN5M3lvRVJiV3RLY1FKS0ttT2k0MGJQT19QZE9rbzJmWlRJci1teUF3S3ZHX0NqTndIMl9va1duaWlmM0cyTkhBLUp5LXJ3aEVwR2Jhc2FRWHo3OTAwdVl0NUFfaTNIMzF0c2hJb2RIUnh3N0Vz?oc=5",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 09:57:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmJRTXJHNk1GVkZtaWhsVEV3T2xaenl4OWc3LW1KVi0zakZYdkJwLTlrR2xWODN5M3lvRVJiV3RLY1FKS0ttT2k0MGJQT19QZE9rbzJmWlRJci1teUF3S3ZHX0NqTndIMl9va1d"
-      },
-      {
         "headline": "Associated Press News: Breaking News | Latest News Today - AP News",
         "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
         "source": "AP Japan",
@@ -537,14 +417,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5\" target=\"_blank\"&gt;Associated Press News: Breaking News | Latest N"
       },
       {
-        "headline": "Families mourn those killed in a Congo mine landslide as some survivors prepare to return - AP News",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHNjUFRvT2xvN1g4VFF4QTdIRVdjSXV4RUd6VHIxMUR2eks2V0NsY0pKTmVGdzRrWFBad1lVUDUyUi1xZ1lIMk5fU1YtVjdrSTNweHFrbVN4MG10UGpmcTRRU2tGQkJJQS1RSWQwQ0d2d2VHUHpwei12SlE1bENwUWtVQkdhZ2JxSUhWZk5iZlE1bjU5aUE?oc=5",
+        "headline": "2026 Winter Olympics - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oMHZqOElnSWhLYU5yVkNrck5BSG12VVVaTi16cHlic19sS29uNWxhUk1rWHpRRHdZaU0xV08wTEVPMjdGZnQtZjgxNGhDRHNzNkhETnlXOXpjYXAwSTRaeFc5eUg3WWJ0?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 08:03:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHNjUFRvT2xvN1g4VFF4QTdIRVdjSXV4RUd6VHIxMUR2eks2V0NsY0pKTmVGdzRrWFBad1lVUDUyUi1xZ1lIMk5fU1YtVjdrSTNweHFrbVN4MG10UGpmcTRRU2tGQkJJQS1RSWQ"
+        "date": "Wed, 29 Oct 2025 18:45:53 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oMHZqOElnSWhLYU5yVkNrck5BSG12VVVaTi16cHlic19sS29uNWxhUk1rWHpRRHdZaU0xV08wTEVPMjdGZnQtZjgxNGhDRHNzNkhETnlXOXpjYXAwSTRaeFc5eUg3WWJ0?oc=5\" "
       },
       {
         "headline": "Hundreds reach out to catch lucky beans at Japan’s annual festival - AP News",
@@ -567,24 +447,44 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFotSi1OOHVPZDAtQXhySFpsdXhpYWNYajJ0YVFRc1JyZTJ4RmQ3cTlfa1FYaFA4c1A1MlRvLWQ5Y1lONUludlNiWWFqT1Q1T3dJNXV4TEVPWjlFbnhMWXBQeFMyeVdJV2x2Q0Z"
       },
       {
-        "headline": "NATO - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMeTlNQ0tzcGhkZ1VsSmlwOXVCTWpZMFhfN2QzU0pNLURZNUpWN1pXdzkyTGFIRGRVc05CNmJEN18?oc=5",
+        "headline": "Iran president seeks ‘fair and equitable negotiations’ with US; AP explains - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1dWVXJaTmhRbzdsYy12SndUVXVIQWRwVk5MTkV1Q0xfczU0bU9INVk1QXlXQVdkeHY2VzBKMzRMUWJxUVd4QzZIYWg0WGM4Z0k4LWt4Q09fY29zOGZQeUlZQjhhUjBKakdDX0c2eEw2LWota2hxT0cxWE55TFBuTmd3QWxPRmtKZmxCRk03TEVzdDJjbzlhUGNMc21zZk9JVDd2akZwWmxZVUh1dXdIbUg1bExLcmQxTFcwRl90cC1CSmlhaUE1N3RR?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Thu, 24 Feb 2022 21:11:22 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMeTlNQ0tzcGhkZ1VsSmlwOXVCTWpZMFhfN2QzU0pNLURZNUpWN1pXdzkyTGFIRGRVc05CNmJEN18?oc=5\" target=\"_blank\"&gt;NATO&lt;/a&gt;&amp;nbsp;&amp;nbsp;"
+        "date": "Tue, 03 Feb 2026 08:40:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1dWVXJaTmhRbzdsYy12SndUVXVIQWRwVk5MTkV1Q0xfczU0bU9INVk1QXlXQVdkeHY2VzBKMzRMUWJxUVd4QzZIYWg0WGM4Z0k4LWt4Q09fY29zOGZQeUlZQjhhUjBKakdDX0c"
       },
       {
-        "headline": "Beltrán will have Mets cap on Hall of Fame plaque, Jones gets Braves and Kent has Giants - AP News",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdThaYjFjcWZBbGlTeEZTeUQ4VmxSdzJxcEd6ZWV1bDBySGtHYi1MZVdmVmY1dE9RTVNlTlFzSURoV3FDam5ZdDdvTVBpSUE0WEdfSmNFOTE0ejFuZmtwdDg2cXh3dlI1WEpPeXRXZzYyTElzWnUzWFBVQ3JIM0gzeFVRbm5VM0pCMjRBNjV1SEpwcjlqc1ZFTA?oc=5",
+        "headline": "Winter Olympics Venues - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82U3E0Y09HNWZZVGpjcmFtTlR1XzU5MDNqLUFTTTRLOWFIbWJRNTNLeU1CMkM3SzQ5TmdjcU13TC05TkdjUV83M3RNN25pczA2SnRr?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 19:35:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdThaYjFjcWZBbGlTeEZTeUQ4VmxSdzJxcEd6ZWV1bDBySGtHYi1MZVdmVmY1dE9RTVNlTlFzSURoV3FDam5ZdDdvTVBpSUE0WEdfSmNFOTE0ejFuZmtwdDg2cXh3dlI1WEpPeXR"
+        "date": "Tue, 03 Feb 2026 11:47:33 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE82U3E0Y09HNWZZVGpjcmFtTlR1XzU5MDNqLUFTTTRLOWFIbWJRNTNLeU1CMkM3SzQ5TmdjcU13TC05TkdjUV83M3RNN25pczA2SnRr?oc=5\" target=\"_blank\"&gt;Winter Ol"
+      },
+      {
+        "headline": "Winter Olympics Medal tracker - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWWNyT28yQUljR2h3aWFRYVFFQ0dNVjNmZ2RpUHlnVUpBREJyMTBaaEdaUW1DeHRJeHFqOGNPdnlxdDV5aWRqSXk3RmlGX1NKbmw0QzE5aks3eEhC?oc=5",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 03 Feb 2026 10:23:29 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWWNyT28yQUljR2h3aWFRYVFFQ0dNVjNmZ2RpUHlnVUpBREJyMTBaaEdaUW1DeHRJeHFqOGNPdnlxdDV5aWRqSXk3RmlGX1NKbmw0QzE5aks3eEhC?oc=5\" target=\"_blank\"&"
+      },
+      {
+        "headline": "NASA targets a March launch of the moon rocket after test run reveals fuel leaks - AP News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzdvcTIwMUN5RWxpRmczUTdUOUV2cDNaTEdrX1BndUxfVHRMc0JneUF3YUlKX3g2WFlWMERPSE1BREk1M3F0bjBlR0tnMEZiOEs1cFhHdTBFM2VNcWtmcS1Mblh4Znc1blFvTlQ5Vl9Wd0d1RUxYQWVsbzRKX2lBNDFfSTZzOGQta29zUkVwZDBXd25iUmhCR1paQ0ppaC1QcHNvUGVNZm0zMUhDMHhFZGQ1S3N4RUFPLUNzb2RYRmxkMllmQTVZNFlMeEI1Ti1vSE14MQ?oc=5",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 03 Feb 2026 09:51:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzdvcTIwMUN5RWxpRmczUTdUOUV2cDNaTEdrX1BndUxfVHRMc0JneUF3YUlKX3g2WFlWMERPSE1BREk1M3F0bjBlR0tnMEZiOEs1cFhHdTBFM2VNcWtmcS1Mblh4Znc1blFvTlQ"
       },
       {
         "headline": "Japan eyes Premier League parity by aligning calendar with Europe - Yahoo News Singapore",
@@ -677,14 +577,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWWJtR0VZUjl6a3M5aVdCTVhlSkVodmd0dGJoenhWWS0zR1RSWjI1X0FtVU00ZlYwV20xNUIzeTFGTEQ0OEVoTFVpODljSnFFQ1R2anFkMVY1WFd1cUtQbkFTS3lqbk1FVXFmVGp"
       },
       {
-        "headline": "Australian News Headlines | Yahoo News Australia - Yahoo News Australia",
-        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9ENmFwd01iQ0xsejMwTkFTUkRhaXNXY2NWZmdkUktlazJZSzNlREhvSk4yaE54Y2VPTEpBdnJtUQ?oc=5",
+        "headline": "Latest news and today's top stories | Yahoo News UK - Yahoo News UK",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5mUml5cnhlSVQtOTJWUHFlYVI1clJ2eVoteW8wanJUbmZ2bG9uRnF6cTA5RTRwZDVhSUhQX3Zicw?oc=5",
         "source": "AFP Japan",
         "sourceId": "afp_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 20 Nov 2011 01:53:53 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE9ENmFwd01iQ0xsejMwTkFTUkRhaXNXY2NWZmdkUktlazJZSzNlREhvSk4yaE54Y2VPTEpBdnJtUQ?oc=5\" target=\"_blank\"&gt;Australian News Headlines | Yahoo N"
+        "date": "Sun, 08 Dec 2013 07:54:31 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE5mUml5cnhlSVQtOTJWUHFlYVI1clJ2eVoteW8wanJUbmZ2bG9uRnF6cTA5RTRwZDVhSUhQX3Zicw?oc=5\" target=\"_blank\"&gt;Latest news and today's top stories"
       },
       {
         "headline": "'Never imagined this': Indian village grapples with interfaith couple's killing",
@@ -907,23 +807,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHE3QlRYX1ZoNGQ1Y19QcTFRbllZZ214WnhOSG84NW1kM2g3Smc4cGI2VHM3cDRmdU5RZEdMWmtZZ0dTVmpPQ291dDN3RmgycjlROU1LTXdlUUdBeXBOYTJfQUpadEMtR0dfdzN"
       },
       {
-        "headline": "Japan’s 10-Year Bond Sale Demand Weaker Than 12-Month Average - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUdfM2VsbHBaalRpTHFtaU0wckhjb3ZOSzFrS3F3bzVWREVadmh2Vkh4V09VMjRmdmpsanVqaXVKQ1hiRTNYS3FTU1dpdFRMV2pXUFV1dUFvVnM2cWRZM0pOc1g2eXJxYmRqWS1xQ2pfdHNveFBFRi04QTdJSXNpQWQ0RGZ4WHBsM2lCaVNqYzV1ZVVPTjZ0VGpVMFprakttdmNOVGhNX1NLeXQxc1liVE9n?oc=5",
-        "source": "Bloomberg Japan",
-        "sourceId": "bloomberg_japan",
-        "category": "competitors",
-        "priority": "secondary",
-        "date": "Tue, 03 Feb 2026 04:54:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUdfM2VsbHBaalRpTHFtaU0wckhjb3ZOSzFrS3F3bzVWREVadmh2Vkh4V09VMjRmdmpsanVqaXVKQ1hiRTNYS3FTU1dpdFRMV2pXUFV1dUFvVnM2cWRZM0pOc1g2eXJxYmRqWS1"
-      },
-      {
-        "headline": "Asian Stocks Poised to Track US Tech-Led Selloff: Markets Wrap - Bloomberg.com",
+        "headline": "Asian Stocks Pare Losses After US Tech-Led Selloff: Markets Wrap - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjlETmhMZ3cwa3hjOXV6ZEo1RGhQODd2ZlZPX004S0JkLXFYSGxvSF9O?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
         "category": "competitors",
         "priority": "secondary",
-        "date": "Wed, 04 Feb 2026 02:49:00 GMT",
+        "date": "Wed, 04 Feb 2026 04:06:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjl"
       },
       {
@@ -947,16 +837,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEU0Um12emF6Y1pSLTJmcG02el9hdkpVOEZwMlF5VTRtc25BeFBZbTJUSVFhWHpNbUIta29ZMFl2Qm1UZTJWN0ZvM3R3REZidms5S1NCOW5nekdwcUJIWG5qcUJoc0tWc2tkWVl"
       },
       {
-        "headline": "Bloomberg Asia - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tSGpjYlJXTTF0OHBWVG9HaUxxcUNDM014NUwxblE1OUw5X3M5NlFaVXNndEQ5clRSSzJtbjBFQXdoWU5T?oc=5",
-        "source": "Bloomberg Japan",
-        "sourceId": "bloomberg_japan",
-        "category": "competitors",
-        "priority": "secondary",
-        "date": "Mon, 26 Oct 2015 20:22:02 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE8tSGpjYlJXTTF0OHBWVG9HaUxxcUNDM014NUwxblE1OUw5X3M5NlFaVXNndEQ5clRSSzJtbjBFQXdoWU5T?oc=5\" target=\"_blank\"&gt;Bloomberg Asia&lt;/a&gt;&amp;"
-      },
-      {
         "headline": "Australia Raises Key Rate to Combat Mounting Price Pressure - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2pQQ1FRQWkyTi03U1pYcHdRUFZaeFFsaUlkeURTclNpMDY4MWNHaFozX0pNQWp6cmVkcVNTTjdDWGo5YTc4YXlRSXgtdThtMVozRkFMNjBtRk1ORjBHSjhPbnZjSXVNMGxPSXpybmZwc2NlekVoN1BOWXpEZHZIUjk5OHR2LXZsQnZuaFdCTHJFYUl2R3J5QzI5SEhMb2EtQ29xYVFvWEVzQmszX1Jtc0taNVA?oc=5",
         "source": "Bloomberg Japan",
@@ -977,14 +857,34 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHV"
       },
       {
-        "headline": "Currencies - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5",
+        "headline": "Trump’s Surprise Trade Deal With India Resets Fractured Ties - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGNxLXp2ZUt5ZnBtTnZjYmh3cmZvSU9KLTV0Y2NHU3dNSlNVeE8yWEhYelJ1eHBwOUJaaDEyQmlETEpFbTF2bERoMmpSRw?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
         "category": "competitors",
         "priority": "secondary",
-        "date": "Wed, 28 Jan 2015 05:05:18 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5\" target=\"_blank\"&gt;Cur"
+        "date": "Tue, 03 Feb 2026 13:40:08 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGN"
+      },
+      {
+        "headline": "Nintendo’s Profit Disappoints Even as Memory Prices Climb - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVMyRlJPTTR5dTg1eG11YVlWYThJMWR2QnF5eUxTLTRobVVOa0VCNzBsd2dleFRYUHNEU3Z0Mmh1bGVIcnpNdlYwdTlSY1h6UkZub1hxT201aTdrRHZSQ0Q5LUZ5N2JScF9JWkJ3Nk5qVFNwQk81eHV2bTVCVW9RWDNJaTQ4c0h2QVJrOE5YWDZtZXUwNU5vTXY3V0FBeUJzSVQwYldNVk5BenZpaEVjdmZ6SQ?oc=5",
+        "source": "Bloomberg Japan",
+        "sourceId": "bloomberg_japan",
+        "category": "competitors",
+        "priority": "secondary",
+        "date": "Tue, 03 Feb 2026 10:47:07 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVMyRlJPTTR5dTg1eG11YVlWYThJMWR2QnF5eUxTLTRobVVOa0VCNzBsd2dleFRYUHNEU3Z0Mmh1bGVIcnpNdlYwdTlSY1h6UkZub1hxT201aTdrRHZSQ0Q5LUZ5N2JScF9JWkJ"
+      },
+      {
+        "headline": "India Stock, Rupee Markets Celebrate As Modi, Trump Strike A Trade Deal - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFREZHhXTUNPRUJTY2xpRm1NNGM3Y0xNaXBGa1FfWDZQY0JMQzBMZGxCZmpIZTdncjVySl84VThxN3dYb1FwRVdRNi1jSWRJLTRNSGdERXhDSFZBeE1paTQydmYwcF83U1d2OVBreXZmR2hTRFRJb2NJdElidFRXSFZ4aWtpQk90MUZ2Ul9yWFZwT0RjU0kwSU5LNExtNndQeEdVZ0R3TTdTSHhhay1GWmhza3JNM2lIZUZHSXkwUktSNjR1RTVn?oc=5",
+        "source": "Bloomberg Japan",
+        "sourceId": "bloomberg_japan",
+        "category": "competitors",
+        "priority": "secondary",
+        "date": "Tue, 03 Feb 2026 18:28:14 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFREZHhXTUNPRUJTY2xpRm1NNGM3Y0xNaXBGa1FfWDZQY0JMQzBMZGxCZmpIZTdncjVySl84VThxN3dYb1FwRVdRNi1jSWRJLTRNSGdERXhDSFZBeE1paTQydmYwcF83U1d2OVB"
       },
       {
         "headline": "Column | What science says we’ve been getting wrong about exercise - The Washington Post",
@@ -1047,16 +947,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUlkV0I0Z3AyOXlLcmw1d0cyZXJqdmptdFpFc2QwTktray1Jakl6Z3l5M0FYWmxtUERPbXBlOFpzSEwwaVg3bHZXcmFNTmZIQzBGcmlLZ0JJc0syamtFQkRYQTZIMUhIeENxVVZ"
       },
       {
-        "headline": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Tue, 03 Feb 2026 23:32:08 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5\" target=\"_blank\"&gt;The Washington Post - Brea"
-      },
-      {
         "headline": "Opinion | Asian countries hedge against China — and America - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRDhHcHVKV2Z5YWY4Zlh1WUtlUkZ4S0lyQUtCSVBTa1duMjFDMFY0NnlYUlR3MTVNZFIwZ2E1TlROckRPYlZDS0FqdVQtUEZhNmpySTlobHR4WUNRVUh3YXlGNHJiVFJiTnVBTXN5UkcyX05xZmlYSEFaQWJ6OWY1TEw3RVltaHVHTXZ1RzZtZ01oSFFYMWZkODNB?oc=5",
         "source": "Washington Post",
@@ -1078,13 +968,23 @@
       },
       {
         "headline": "367 horses nominated to compete in Triple Crown series, with trainer Todd Pletcher having 31 - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1rT1ZqZjB6cFY1NUNjWDI1SzEyZzBRWEFMX2NUaVR1MzFJdnhIR2NteEQ1TXdESlgxY1dvcWJTVmlVZU9kRzVTcHVaVi05d3RENlZGTU41Tzh3T25fNFkyMEZBWU43SWNQb0RyUjVV?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaFhTRkdOWTFmb2w2QlJRaWd2dXB3alVGSFQ5OVpjTS1XOXc1Y0tIU3ZjcjdOcWlLYXVpYXhCUDVjLW5KaWtRYmU5b01zMDZocHJiUjNxWVViVXM5Y2dDaW9mTU40cU5mQW10SjkzT2xCMVJFc2UxSnlqNEhfVWhlek1KUTl0cVN3UjVncjBXc0VkUjZvU1pVZ296NHhPWV9PdjRsV3pCZFBJQm44QUthYVc2SmNNODVlcEtqV2Zn?oc=5",
         "source": "Washington Post",
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Tue, 03 Feb 2026 19:55:51 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1"
+        "date": "Wed, 04 Feb 2026 02:45:04 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaFhTRkdOWTFmb2w2QlJRaWd2dXB3alVGSFQ5OVpjTS1XOXc1Y0tIU3ZjcjdOcWlLYXVpYXhCUDVjLW5KaWtRYmU5b01zMDZocHJiUjNxWVViVXM5Y2dDaW9mTU40cU5mQW10Sjk"
+      },
+      {
+        "headline": "Beltrán will have Mets cap on Hall of Fame plaque, Jones gets Braves and Kent has Giants - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1Y3X3o2dG1ab0lOYWlrVUVNUmYwaUtMVjl6S1RWZ0tZbU1mTnUzREtnTl95dFBEQWk4U1ZhRngwSVZYa2Zpc1l3djhCdGhoQXpJRzRBN2RmTzBQWjNFSmVhUFRzOEVLempiNUJvUWJvMnhtOXREcjYxVm5WWG9zRTZSUm5jLTNVLW5Zci1mT0F5U3BINm51OEthQnl6dlk2QjBWR2plRlVKcE5TV0hJY29iclU2Y1ZFcDE2LTE1UDBsUzNkSFdWamRzQ1ZxeUU?oc=5",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Wed, 04 Feb 2026 03:37:02 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1Y3X3o2dG1ab0lOYWlrVUVNUmYwaUtMVjl6S1RWZ0tZbU1mTnUzREtnTl95dFBEQWk4U1ZhRngwSVZYa2Zpc1l3djhCdGhoQXpJRzRBN2RmTzBQWjNFSmVhUFRzOEVLempiNUJ"
       }
     ],
     "byCategory": {
@@ -1108,6 +1008,16 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 12:25:33 +0900",
           "description": "退職代行サービス「モームリ」を運営する会社の社長ら2人が、依頼者を弁護士に紹介して違法に報酬を得ていたとして弁護士法違反の疑いで逮捕された事件で、会社側が、弁護士側から紹介料を受け取るとする覚書を交わしたうえで、3年前から依頼者を紹介していたとみられることが捜査関係者への取材で分かりました。2人は容疑を否認しているということです。"
+        },
+        {
+          "headline": "東京 新宿 学童クラブで男児にわいせつ行為か 保育士逮捕",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043141000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 13:31:25 +0900",
+          "description": "東京 新宿区の学童クラブに勤めていた40歳の男の保育士が、宿泊を伴う行事で、当時小学生だった男の子の体を触るなどのわいせつな行為をしたとして逮捕されたことが、捜査関係者への取材で分かりました。この学童クラブと、保育士が現在勤める保育園では、保護者から同じような被害の相談が数十件寄せられているということで、警視庁が関連を調べています。"
         },
         {
           "headline": "安倍元首相銃撃事件 山上被告の弁護団が控訴 判決不服として",
@@ -1150,14 +1060,14 @@
           "description": "今回の衆議院選挙が「超短期決戦」となった影響で、都内の人材派遣会社では投票所や開票所で作業にあたる人手の確保に追われています。"
         },
         {
-          "headline": "五輪 日本選手団へのひぼう中傷対策でミラノにオフィス設置",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042881000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
+          "headline": "JAL says passenger revenue in December was 20% short for China routes",
+          "url": "https://www.japantimes.co.jp/business/2026/02/04/companies/jal-china-revenue-low/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 12:38:48 +0900",
-          "description": "ミラノ・コルティナオリンピックの日本選手団の選手たちに対するSNSでのひぼう中傷への対策を行うオフィスがミラノ市内に設置され、報道陣に公開されました。"
+          "date": "Wed, 04 Feb 2026 13:31:00 +0900",
+          "description": "The drop was attributed to Beijing advice to Chinese citizens to refrain from traveling to Japan."
         },
         {
           "headline": "Taiwan military capabilities in jeopardy as defense budget row deepens",
@@ -1168,6 +1078,16 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 13:11:00 +0900",
           "description": "The dispute over a bill that would slash by 70% a DPP-backed defense spending request has prompted unease in both Taipei and Washington."
+        },
+        {
+          "headline": "Is this election really unpredictable?",
+          "url": "https://www.japantimes.co.jp/commentary/2026/02/04/japan/how-unpredictable-is-the-snap-election/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 12:40:00 +0900",
+          "description": "Despite media uncertainty, opposition weaknesses and recent polls suggest Takaichi and the LDP are likely headed for a strong victory."
         },
         {
           "headline": "Arteta backs Arsenal to build on 'magical' place in League Cup final",
@@ -1200,6 +1120,16 @@
           "description": "The prime minister seeming to avoid discussing the Lower House seat-cut proposal now is believed to reflect concerns within the Liberal Democratic Party about it, observers said."
         },
         {
+          "headline": "CRA heavyweights’ heated contests allude to party’s uphill struggle in Sunday’s vote",
+          "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/politics/cra-veterans-tight-race/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 11:58:00 +0900",
+          "description": "Yukio Edano, Jun Azumi and Ichiro Ozawa are among candidates facing neck-and-neck races in their home turfs."
+        },
+        {
           "headline": "Clippers trade Harden to Cavaliers for Garland as deadline nears",
           "url": "https://www.japantimes.co.jp/sports/2026/02/04/basketball/nba/harden-garland-trade/",
           "source": "Japan Times",
@@ -1230,34 +1160,14 @@
           "description": "Koichi Hagiuda was among the five leading figures of the now-defunct LDP faction once led by the late Prime Minister Shinzo Abe, which was at the center of the scandal."
         },
         {
-          "headline": "Thai-born goalkeeper shines in national high school soccer tournament",
-          "url": "https://www.japantimes.co.jp/sports/2026/02/04/soccer/thai-goalkeeper-poomraphee-siribunyakul/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
+          "headline": "UK Police Open Criminal Investigation into Politician Peter Mandelson over Alleged Leaks to Epstein",
+          "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260204-308761/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 11:36:00 +0900",
-          "description": "Marking his school's maiden appearance in the championship match, Poomraphee Siribunyakul repeatedly produced crucial saves, including a first-half penalty stop."
-        },
-        {
-          "headline": "Japan coach Jones says 'fair' Rugby World Cup schedule helps small teams",
-          "url": "https://www.japantimes.co.jp/sports/2026/02/04/more-sports/rugby-world-cup-schedule/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 11:34:00 +0900",
-          "description": "The Brave Blossoms have been drawn in a pool with France, Samoa and the United States for next year's World Cup."
-        },
-        {
-          "headline": "Assassin of Shinzo Abe files appeal against life sentence",
-          "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/crime-legal/yamagami-trial-appeal/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 11:32:00 +0900",
-          "description": "Tetsuya Yamagami reportedly agreed to appeal after strong persuasion from his lawyers."
+          "date": "Wed, 04 Feb 2026 05:10:43 +0000",
+          "description": "LONDON (AP) — British police on Tuesday opened a criminal investigation into politician Peter Mandelson over alleged misconduct in public office related to his relationship with convicted sex offender"
         },
         {
           "headline": "Japan&#8217;s Nikkei Stock Average Slips after Sharp Gain, Tech Shares Weigh",
@@ -1348,116 +1258,6 @@
           "priority": "primary",
           "date": "Tue, 03 Feb 2026 17:00:15 +0000",
           "description": "Tokyo had a net migration gain of 65,219 people in 2025, but the margin declined by 14,066 people from the previous year, marking the first decline in four years, according to a government report rele"
-        },
-        {
-          "headline": "Not Ready for Robots in Homes? The Maker of a Friendly New Humanoid Thinks It Might Change Your Mind",
-          "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260203-308602/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Tue, 03 Feb 2026 13:10:37 +0000",
-          "description": "NEW YORK (AP) — As the new robot called Sprout walks around a Manhattan office, nodding its rectangular head, lifting its windshield wiper-like “eyebrows” and offering to shake your hand with its grip"
-        },
-        {
-          "headline": "Arsenal sinks Chelsea to reach League Cup final",
-          "url": "https://japantoday.com/category/sports/arsenal-sink-chelsea-to-reach-league-cup-final",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Wed, 04 Feb 2026 01:00:10 +0000",
-          "description": "Arsenal reached the League Cup final for the first time in eight years as Kai Havertz sealed a 1-0 win against Chelsea in the semi-final second leg on…"
-        },
-        {
-          "headline": "U.S. immigration agents will have no role at Super Bowl: security chief",
-          "url": "https://japantoday.com/category/sports/no-us-immigration-agents-at-super-bowl-security-chief",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 23:40:32 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Paris cybercrime unit searches X office; Musk summoned",
-          "url": "https://japantoday.com/category/tech/paris-cybercrime-unit-searches-x-office-musk-summoned1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:41:52 +0000",
-          "description": "French police raided the offices of Elon Musk's social media network X on Tuesday and prosecutors ordered the tech billionaire to face questions in a widening investigation, amid growing…"
-        },
-        {
-          "headline": "Water-skiing demon",
-          "url": "https://japantoday.com/category/picture-of-the-day/water-skiing-demon",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:05:16 +0000",
-          "description": "A student depicting an oni, a demon-like figure in Japanese folklore, skims across the water on water skis during the annual Bean Throwing Festival near Hakone Shrine in…"
-        },
-        {
-          "headline": "U.S. announces military team sent to Nigeria after recent attacks",
-          "url": "https://japantoday.com/category/world/us-announces-military-team-sent-to-nigeria-after-recent-attacks",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:34:35 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Trump's call to 'nationalize' elections draws furious pushback from Democrats",
-          "url": "https://japantoday.com/category/world/trump%27s-call-to-%27nationalize%27-elections-draws-furious-pushback-from-democrats1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Wed, 04 Feb 2026 02:27:01 +0000",
-          "description": "President Donald Trump’s call for Republicans to &quot;nationalize&quot; elections drew pushback on Tuesday from lawmakers, including from a few Republicans, as Democrats voiced fresh concern that he "
-        },
-        {
-          "headline": "Ethiopia's prime minister accuses Eritrea of mass killings during Tigray war",
-          "url": "https://japantoday.com/category/world/ethiopia%27s-prime-minister-accuses-eritrea-of-mass-killings-during-tigray-war",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:34:47 +0000",
-          "description": "Ethiopia's government Tuesday for the first time acknowledged the involvement of troops from neighboring Eritrea in the war in the Tigray region that ended in 2022, accusing them…"
-        },
-        {
-          "headline": "Iran demands changes in venue and scope of talks with U.S., source says",
-          "url": "https://japantoday.com/category/world/iran-demands-changes-in-venue-and-scope-of-talks-with-us-source-says1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:33:52 +0000",
-          "description": "Iran is demanding that talks with the U.S. this week be held in Oman not Turkey, and that the scope be narrowed to two-way negotiations on nuclear issues…"
-        },
-        {
-          "headline": "Seif al-Islam Gadhafi, son of Libya’s late dictator, killed",
-          "url": "https://japantoday.com/category/world/seif-al-islam-gadhafi-son-of-libya%E2%80%99s-late-dictator-killed-in-north-africa-country-officials-say",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:34:58 +0000",
-          "description": ""
-        },
-        {
-          "headline": "367 horses nominated to compete in Triple Crown series, with trainer Todd Pletcher having 31",
-          "url": "https://japantoday.com/category/sports/367-horses-nominated-to-compete-in-triple-crown-series-with-trainer-todd-pletcher-having-31",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:41:23 +0000",
-          "description": ""
         }
       ],
       "wire": [
@@ -1582,26 +1382,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQOW1aR2xBWTBGQTMxOGJqUk1fZldEbmIwZUZIa216eXd2WDRxSkVfLWk1OS1hR3pOdEFIT0J6R09QUFY0YmZfMExhakU0RDJTSjJHRjFrQ1BZZ2VrYzYyN0hCZ0s3QkcxU0FGS0F"
         },
         {
-          "headline": "Seeking shelter from Trump’s fury, US trade partners reach deals with each other - AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTklUdmVTUW96MzhaRThidkJKN1VnMzdNV1JKUVVxZHJJZXZETi00MzJON0hWTHFvM3dnNm0tNFp2NmVIQTdIOGp5WjFXNGhhMGlmOHBVaEFMeTd3RkNZcWo4bEpGYnk3TVZMMHg4SEVmejJOby1QZGlmeWQ3aVU1RmcxRU1YV01GMXQ5TFFMVEs1Zw?oc=5",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 14:07:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTklUdmVTUW96MzhaRThidkJKN1VnMzdNV1JKUVVxZHJJZXZETi00MzJON0hWTHFvM3dnNm0tNFp2NmVIQTdIOGp5WjFXNGhhMGlmOHBVaEFMeTd3RkNZcWo4bEpGYnk3TVZMMHg"
-        },
-        {
-          "headline": "Why China is building so many coal plants despite its solar and wind boom - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmJRTXJHNk1GVkZtaWhsVEV3T2xaenl4OWc3LW1KVi0zakZYdkJwLTlrR2xWODN5M3lvRVJiV3RLY1FKS0ttT2k0MGJQT19QZE9rbzJmWlRJci1teUF3S3ZHX0NqTndIMl9va1duaWlmM0cyTkhBLUp5LXJ3aEVwR2Jhc2FRWHo3OTAwdVl0NUFfaTNIMzF0c2hJb2RIUnh3N0Vz?oc=5",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 09:57:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmJRTXJHNk1GVkZtaWhsVEV3T2xaenl4OWc3LW1KVi0zakZYdkJwLTlrR2xWODN5M3lvRVJiV3RLY1FKS0ttT2k0MGJQT19QZE9rbzJmWlRJci1teUF3S3ZHX0NqTndIMl9va1d"
-        },
-        {
           "headline": "Associated Press News: Breaking News | Latest News Today - AP News",
           "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "source": "AP Japan",
@@ -1612,14 +1392,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5\" target=\"_blank\"&gt;Associated Press News: Breaking News | Latest N"
         },
         {
-          "headline": "Families mourn those killed in a Congo mine landslide as some survivors prepare to return - AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHNjUFRvT2xvN1g4VFF4QTdIRVdjSXV4RUd6VHIxMUR2eks2V0NsY0pKTmVGdzRrWFBad1lVUDUyUi1xZ1lIMk5fU1YtVjdrSTNweHFrbVN4MG10UGpmcTRRU2tGQkJJQS1RSWQwQ0d2d2VHUHpwei12SlE1bENwUWtVQkdhZ2JxSUhWZk5iZlE1bjU5aUE?oc=5",
+          "headline": "2026 Winter Olympics - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oMHZqOElnSWhLYU5yVkNrck5BSG12VVVaTi16cHlic19sS29uNWxhUk1rWHpRRHdZaU0xV08wTEVPMjdGZnQtZjgxNGhDRHNzNkhETnlXOXpjYXAwSTRaeFc5eUg3WWJ0?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 08:03:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHNjUFRvT2xvN1g4VFF4QTdIRVdjSXV4RUd6VHIxMUR2eks2V0NsY0pKTmVGdzRrWFBad1lVUDUyUi1xZ1lIMk5fU1YtVjdrSTNweHFrbVN4MG10UGpmcTRRU2tGQkJJQS1RSWQ"
+          "date": "Wed, 29 Oct 2025 18:45:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oMHZqOElnSWhLYU5yVkNrck5BSG12VVVaTi16cHlic19sS29uNWxhUk1rWHpRRHdZaU0xV08wTEVPMjdGZnQtZjgxNGhDRHNzNkhETnlXOXpjYXAwSTRaeFc5eUg3WWJ0?oc=5\" "
         },
         {
           "headline": "Hundreds reach out to catch lucky beans at Japan’s annual festival - AP News",
@@ -1642,24 +1422,44 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFotSi1OOHVPZDAtQXhySFpsdXhpYWNYajJ0YVFRc1JyZTJ4RmQ3cTlfa1FYaFA4c1A1MlRvLWQ5Y1lONUludlNiWWFqT1Q1T3dJNXV4TEVPWjlFbnhMWXBQeFMyeVdJV2x2Q0Z"
         },
         {
-          "headline": "NATO - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMeTlNQ0tzcGhkZ1VsSmlwOXVCTWpZMFhfN2QzU0pNLURZNUpWN1pXdzkyTGFIRGRVc05CNmJEN18?oc=5",
+          "headline": "Iran president seeks ‘fair and equitable negotiations’ with US; AP explains - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1dWVXJaTmhRbzdsYy12SndUVXVIQWRwVk5MTkV1Q0xfczU0bU9INVk1QXlXQVdkeHY2VzBKMzRMUWJxUVd4QzZIYWg0WGM4Z0k4LWt4Q09fY29zOGZQeUlZQjhhUjBKakdDX0c2eEw2LWota2hxT0cxWE55TFBuTmd3QWxPRmtKZmxCRk03TEVzdDJjbzlhUGNMc21zZk9JVDd2akZwWmxZVUh1dXdIbUg1bExLcmQxTFcwRl90cC1CSmlhaUE1N3RR?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 24 Feb 2022 21:11:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMeTlNQ0tzcGhkZ1VsSmlwOXVCTWpZMFhfN2QzU0pNLURZNUpWN1pXdzkyTGFIRGRVc05CNmJEN18?oc=5\" target=\"_blank\"&gt;NATO&lt;/a&gt;&amp;nbsp;&amp;nbsp;"
+          "date": "Tue, 03 Feb 2026 08:40:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1dWVXJaTmhRbzdsYy12SndUVXVIQWRwVk5MTkV1Q0xfczU0bU9INVk1QXlXQVdkeHY2VzBKMzRMUWJxUVd4QzZIYWg0WGM4Z0k4LWt4Q09fY29zOGZQeUlZQjhhUjBKakdDX0c"
         },
         {
-          "headline": "Beltrán will have Mets cap on Hall of Fame plaque, Jones gets Braves and Kent has Giants - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdThaYjFjcWZBbGlTeEZTeUQ4VmxSdzJxcEd6ZWV1bDBySGtHYi1MZVdmVmY1dE9RTVNlTlFzSURoV3FDam5ZdDdvTVBpSUE0WEdfSmNFOTE0ejFuZmtwdDg2cXh3dlI1WEpPeXRXZzYyTElzWnUzWFBVQ3JIM0gzeFVRbm5VM0pCMjRBNjV1SEpwcjlqc1ZFTA?oc=5",
+          "headline": "Winter Olympics Venues - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82U3E0Y09HNWZZVGpjcmFtTlR1XzU5MDNqLUFTTTRLOWFIbWJRNTNLeU1CMkM3SzQ5TmdjcU13TC05TkdjUV83M3RNN25pczA2SnRr?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 19:35:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdThaYjFjcWZBbGlTeEZTeUQ4VmxSdzJxcEd6ZWV1bDBySGtHYi1MZVdmVmY1dE9RTVNlTlFzSURoV3FDam5ZdDdvTVBpSUE0WEdfSmNFOTE0ejFuZmtwdDg2cXh3dlI1WEpPeXR"
+          "date": "Tue, 03 Feb 2026 11:47:33 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE82U3E0Y09HNWZZVGpjcmFtTlR1XzU5MDNqLUFTTTRLOWFIbWJRNTNLeU1CMkM3SzQ5TmdjcU13TC05TkdjUV83M3RNN25pczA2SnRr?oc=5\" target=\"_blank\"&gt;Winter Ol"
+        },
+        {
+          "headline": "Winter Olympics Medal tracker - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWWNyT28yQUljR2h3aWFRYVFFQ0dNVjNmZ2RpUHlnVUpBREJyMTBaaEdaUW1DeHRJeHFqOGNPdnlxdDV5aWRqSXk3RmlGX1NKbmw0QzE5aks3eEhC?oc=5",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 03 Feb 2026 10:23:29 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWWNyT28yQUljR2h3aWFRYVFFQ0dNVjNmZ2RpUHlnVUpBREJyMTBaaEdaUW1DeHRJeHFqOGNPdnlxdDV5aWRqSXk3RmlGX1NKbmw0QzE5aks3eEhC?oc=5\" target=\"_blank\"&"
+        },
+        {
+          "headline": "NASA targets a March launch of the moon rocket after test run reveals fuel leaks - AP News",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzdvcTIwMUN5RWxpRmczUTdUOUV2cDNaTEdrX1BndUxfVHRMc0JneUF3YUlKX3g2WFlWMERPSE1BREk1M3F0bjBlR0tnMEZiOEs1cFhHdTBFM2VNcWtmcS1Mblh4Znc1blFvTlQ5Vl9Wd0d1RUxYQWVsbzRKX2lBNDFfSTZzOGQta29zUkVwZDBXd25iUmhCR1paQ0ppaC1QcHNvUGVNZm0zMUhDMHhFZGQ1S3N4RUFPLUNzb2RYRmxkMllmQTVZNFlMeEI1Ti1vSE14MQ?oc=5",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 03 Feb 2026 09:51:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzdvcTIwMUN5RWxpRmczUTdUOUV2cDNaTEdrX1BndUxfVHRMc0JneUF3YUlKX3g2WFlWMERPSE1BREk1M3F0bjBlR0tnMEZiOEs1cFhHdTBFM2VNcWtmcS1Mblh4Znc1blFvTlQ"
         },
         {
           "headline": "Japan eyes Premier League parity by aligning calendar with Europe - Yahoo News Singapore",
@@ -1752,14 +1552,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWWJtR0VZUjl6a3M5aVdCTVhlSkVodmd0dGJoenhWWS0zR1RSWjI1X0FtVU00ZlYwV20xNUIzeTFGTEQ0OEVoTFVpODljSnFFQ1R2anFkMVY1WFd1cUtQbkFTS3lqbk1FVXFmVGp"
         },
         {
-          "headline": "Australian News Headlines | Yahoo News Australia - Yahoo News Australia",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9ENmFwd01iQ0xsejMwTkFTUkRhaXNXY2NWZmdkUktlazJZSzNlREhvSk4yaE54Y2VPTEpBdnJtUQ?oc=5",
+          "headline": "Latest news and today's top stories | Yahoo News UK - Yahoo News UK",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5mUml5cnhlSVQtOTJWUHFlYVI1clJ2eVoteW8wanJUbmZ2bG9uRnF6cTA5RTRwZDVhSUhQX3Zicw?oc=5",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 20 Nov 2011 01:53:53 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE9ENmFwd01iQ0xsejMwTkFTUkRhaXNXY2NWZmdkUktlazJZSzNlREhvSk4yaE54Y2VPTEpBdnJtUQ?oc=5\" target=\"_blank\"&gt;Australian News Headlines | Yahoo N"
+          "date": "Sun, 08 Dec 2013 07:54:31 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE5mUml5cnhlSVQtOTJWUHFlYVI1clJ2eVoteW8wanJUbmZ2bG9uRnF6cTA5RTRwZDVhSUhQX3Zicw?oc=5\" target=\"_blank\"&gt;Latest news and today's top stories"
         }
       ],
       "competitors": [
@@ -1984,23 +1784,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHE3QlRYX1ZoNGQ1Y19QcTFRbllZZ214WnhOSG84NW1kM2g3Smc4cGI2VHM3cDRmdU5RZEdMWmtZZ0dTVmpPQ291dDN3RmgycjlROU1LTXdlUUdBeXBOYTJfQUpadEMtR0dfdzN"
         },
         {
-          "headline": "Japan’s 10-Year Bond Sale Demand Weaker Than 12-Month Average - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUdfM2VsbHBaalRpTHFtaU0wckhjb3ZOSzFrS3F3bzVWREVadmh2Vkh4V09VMjRmdmpsanVqaXVKQ1hiRTNYS3FTU1dpdFRMV2pXUFV1dUFvVnM2cWRZM0pOc1g2eXJxYmRqWS1xQ2pfdHNveFBFRi04QTdJSXNpQWQ0RGZ4WHBsM2lCaVNqYzV1ZVVPTjZ0VGpVMFprakttdmNOVGhNX1NLeXQxc1liVE9n?oc=5",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 04:54:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUdfM2VsbHBaalRpTHFtaU0wckhjb3ZOSzFrS3F3bzVWREVadmh2Vkh4V09VMjRmdmpsanVqaXVKQ1hiRTNYS3FTU1dpdFRMV2pXUFV1dUFvVnM2cWRZM0pOc1g2eXJxYmRqWS1"
-        },
-        {
-          "headline": "Asian Stocks Poised to Track US Tech-Led Selloff: Markets Wrap - Bloomberg.com",
+          "headline": "Asian Stocks Pare Losses After US Tech-Led Selloff: Markets Wrap - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjlETmhMZ3cwa3hjOXV6ZEo1RGhQODd2ZlZPX004S0JkLXFYSGxvSF9O?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Wed, 04 Feb 2026 02:49:00 GMT",
+          "date": "Wed, 04 Feb 2026 04:06:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjl"
         },
         {
@@ -2024,16 +1814,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEU0Um12emF6Y1pSLTJmcG02el9hdkpVOEZwMlF5VTRtc25BeFBZbTJUSVFhWHpNbUIta29ZMFl2Qm1UZTJWN0ZvM3R3REZidms5S1NCOW5nekdwcUJIWG5qcUJoc0tWc2tkWVl"
         },
         {
-          "headline": "Bloomberg Asia - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tSGpjYlJXTTF0OHBWVG9HaUxxcUNDM014NUwxblE1OUw5X3M5NlFaVXNndEQ5clRSSzJtbjBFQXdoWU5T?oc=5",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Mon, 26 Oct 2015 20:22:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE8tSGpjYlJXTTF0OHBWVG9HaUxxcUNDM014NUwxblE1OUw5X3M5NlFaVXNndEQ5clRSSzJtbjBFQXdoWU5T?oc=5\" target=\"_blank\"&gt;Bloomberg Asia&lt;/a&gt;&amp;"
-        },
-        {
           "headline": "Australia Raises Key Rate to Combat Mounting Price Pressure - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2pQQ1FRQWkyTi03U1pYcHdRUFZaeFFsaUlkeURTclNpMDY4MWNHaFozX0pNQWp6cmVkcVNTTjdDWGo5YTc4YXlRSXgtdThtMVozRkFMNjBtRk1ORjBHSjhPbnZjSXVNMGxPSXpybmZwc2NlekVoN1BOWXpEZHZIUjk5OHR2LXZsQnZuaFdCTHJFYUl2R3J5QzI5SEhMb2EtQ29xYVFvWEVzQmszX1Jtc0taNVA?oc=5",
           "source": "Bloomberg Japan",
@@ -2054,14 +1834,34 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHV"
         },
         {
-          "headline": "Currencies - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5",
+          "headline": "Trump’s Surprise Trade Deal With India Resets Fractured Ties - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGNxLXp2ZUt5ZnBtTnZjYmh3cmZvSU9KLTV0Y2NHU3dNSlNVeE8yWEhYelJ1eHBwOUJaaDEyQmlETEpFbTF2bERoMmpSRw?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Wed, 28 Jan 2015 05:05:18 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5\" target=\"_blank\"&gt;Cur"
+          "date": "Tue, 03 Feb 2026 13:40:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGN"
+        },
+        {
+          "headline": "Nintendo’s Profit Disappoints Even as Memory Prices Climb - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVMyRlJPTTR5dTg1eG11YVlWYThJMWR2QnF5eUxTLTRobVVOa0VCNzBsd2dleFRYUHNEU3Z0Mmh1bGVIcnpNdlYwdTlSY1h6UkZub1hxT201aTdrRHZSQ0Q5LUZ5N2JScF9JWkJ3Nk5qVFNwQk81eHV2bTVCVW9RWDNJaTQ4c0h2QVJrOE5YWDZtZXUwNU5vTXY3V0FBeUJzSVQwYldNVk5BenZpaEVjdmZ6SQ?oc=5",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Tue, 03 Feb 2026 10:47:07 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVMyRlJPTTR5dTg1eG11YVlWYThJMWR2QnF5eUxTLTRobVVOa0VCNzBsd2dleFRYUHNEU3Z0Mmh1bGVIcnpNdlYwdTlSY1h6UkZub1hxT201aTdrRHZSQ0Q5LUZ5N2JScF9JWkJ"
+        },
+        {
+          "headline": "India Stock, Rupee Markets Celebrate As Modi, Trump Strike A Trade Deal - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFREZHhXTUNPRUJTY2xpRm1NNGM3Y0xNaXBGa1FfWDZQY0JMQzBMZGxCZmpIZTdncjVySl84VThxN3dYb1FwRVdRNi1jSWRJLTRNSGdERXhDSFZBeE1paTQydmYwcF83U1d2OVBreXZmR2hTRFRJb2NJdElidFRXSFZ4aWtpQk90MUZ2Ul9yWFZwT0RjU0kwSU5LNExtNndQeEdVZ0R3TTdTSHhhay1GWmhza3JNM2lIZUZHSXkwUktSNjR1RTVn?oc=5",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Tue, 03 Feb 2026 18:28:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFREZHhXTUNPRUJTY2xpRm1NNGM3Y0xNaXBGa1FfWDZQY0JMQzBMZGxCZmpIZTdncjVySl84VThxN3dYb1FwRVdRNi1jSWRJLTRNSGdERXhDSFZBeE1paTQydmYwcF83U1d2OVB"
         },
         {
           "headline": "Column | What science says we’ve been getting wrong about exercise - The Washington Post",
@@ -2124,16 +1924,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUlkV0I0Z3AyOXlLcmw1d0cyZXJqdmptdFpFc2QwTktray1Jakl6Z3l5M0FYWmxtUERPbXBlOFpzSEwwaVg3bHZXcmFNTmZIQzBGcmlLZ0JJc0syamtFQkRYQTZIMUhIeENxVVZ"
         },
         {
-          "headline": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Tue, 03 Feb 2026 23:32:08 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5\" target=\"_blank\"&gt;The Washington Post - Brea"
-        },
-        {
           "headline": "Opinion | Asian countries hedge against China — and America - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRDhHcHVKV2Z5YWY4Zlh1WUtlUkZ4S0lyQUtCSVBTa1duMjFDMFY0NnlYUlR3MTVNZFIwZ2E1TlROckRPYlZDS0FqdVQtUEZhNmpySTlobHR4WUNRVUh3YXlGNHJiVFJiTnVBTXN5UkcyX05xZmlYSEFaQWJ6OWY1TEw3RVltaHVHTXZ1RzZtZ01oSFFYMWZkODNB?oc=5",
           "source": "Washington Post",
@@ -2155,13 +1945,23 @@
         },
         {
           "headline": "367 horses nominated to compete in Triple Crown series, with trainer Todd Pletcher having 31 - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1rT1ZqZjB6cFY1NUNjWDI1SzEyZzBRWEFMX2NUaVR1MzFJdnhIR2NteEQ1TXdESlgxY1dvcWJTVmlVZU9kRzVTcHVaVi05d3RENlZGTU41Tzh3T25fNFkyMEZBWU43SWNQb0RyUjVV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaFhTRkdOWTFmb2w2QlJRaWd2dXB3alVGSFQ5OVpjTS1XOXc1Y0tIU3ZjcjdOcWlLYXVpYXhCUDVjLW5KaWtRYmU5b01zMDZocHJiUjNxWVViVXM5Y2dDaW9mTU40cU5mQW10SjkzT2xCMVJFc2UxSnlqNEhfVWhlek1KUTl0cVN3UjVncjBXc0VkUjZvU1pVZ296NHhPWV9PdjRsV3pCZFBJQm44QUthYVc2SmNNODVlcEtqV2Zn?oc=5",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Tue, 03 Feb 2026 19:55:51 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1"
+          "date": "Wed, 04 Feb 2026 02:45:04 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaFhTRkdOWTFmb2w2QlJRaWd2dXB3alVGSFQ5OVpjTS1XOXc1Y0tIU3ZjcjdOcWlLYXVpYXhCUDVjLW5KaWtRYmU5b01zMDZocHJiUjNxWVViVXM5Y2dDaW9mTU40cU5mQW10Sjk"
+        },
+        {
+          "headline": "Beltrán will have Mets cap on Hall of Fame plaque, Jones gets Braves and Kent has Giants - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1Y3X3o2dG1ab0lOYWlrVUVNUmYwaUtMVjl6S1RWZ0tZbU1mTnUzREtnTl95dFBEQWk4U1ZhRngwSVZYa2Zpc1l3djhCdGhoQXpJRzRBN2RmTzBQWjNFSmVhUFRzOEVLempiNUJvUWJvMnhtOXREcjYxVm5WWG9zRTZSUm5jLTNVLW5Zci1mT0F5U3BINm51OEthQnl6dlk2QjBWR2plRlVKcE5TV0hJY29iclU2Y1ZFcDE2LTE1UDBsUzNkSFdWamRzQ1ZxeUU?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Wed, 04 Feb 2026 03:37:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1Y3X3o2dG1ab0lOYWlrVUVNUmYwaUtMVjl6S1RWZ0tZbU1mTnUzREtnTl95dFBEQWk4U1ZhRngwSVZYa2Zpc1l3djhCdGhoQXpJRzRBN2RmTzBQWjNFSmVhUFRzOEVLempiNUJ"
         }
       ]
     },
@@ -2186,6 +1986,16 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 12:25:33 +0900",
           "description": "退職代行サービス「モームリ」を運営する会社の社長ら2人が、依頼者を弁護士に紹介して違法に報酬を得ていたとして弁護士法違反の疑いで逮捕された事件で、会社側が、弁護士側から紹介料を受け取るとする覚書を交わしたうえで、3年前から依頼者を紹介していたとみられることが捜査関係者への取材で分かりました。2人は容疑を否認しているということです。"
+        },
+        {
+          "headline": "東京 新宿 学童クラブで男児にわいせつ行為か 保育士逮捕",
+          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015043141000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 13:31:25 +0900",
+          "description": "東京 新宿区の学童クラブに勤めていた40歳の男の保育士が、宿泊を伴う行事で、当時小学生だった男の子の体を触るなどのわいせつな行為をしたとして逮捕されたことが、捜査関係者への取材で分かりました。この学童クラブと、保育士が現在勤める保育園では、保護者から同じような被害の相談が数十件寄せられているということで、警視庁が関連を調べています。"
         },
         {
           "headline": "安倍元首相銃撃事件 山上被告の弁護団が控訴 判決不服として",
@@ -2228,14 +2038,14 @@
           "description": "今回の衆議院選挙が「超短期決戦」となった影響で、都内の人材派遣会社では投票所や開票所で作業にあたる人手の確保に追われています。"
         },
         {
-          "headline": "五輪 日本選手団へのひぼう中傷対策でミラノにオフィス設置",
-          "url": "http://www3.nhk.or.jp/news/html/20260204/k10015042881000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
+          "headline": "JAL says passenger revenue in December was 20% short for China routes",
+          "url": "https://www.japantimes.co.jp/business/2026/02/04/companies/jal-china-revenue-low/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 12:38:48 +0900",
-          "description": "ミラノ・コルティナオリンピックの日本選手団の選手たちに対するSNSでのひぼう中傷への対策を行うオフィスがミラノ市内に設置され、報道陣に公開されました。"
+          "date": "Wed, 04 Feb 2026 13:31:00 +0900",
+          "description": "The drop was attributed to Beijing advice to Chinese citizens to refrain from traveling to Japan."
         },
         {
           "headline": "Taiwan military capabilities in jeopardy as defense budget row deepens",
@@ -2246,6 +2056,16 @@
           "priority": "primary",
           "date": "Wed, 04 Feb 2026 13:11:00 +0900",
           "description": "The dispute over a bill that would slash by 70% a DPP-backed defense spending request has prompted unease in both Taipei and Washington."
+        },
+        {
+          "headline": "Is this election really unpredictable?",
+          "url": "https://www.japantimes.co.jp/commentary/2026/02/04/japan/how-unpredictable-is-the-snap-election/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 12:40:00 +0900",
+          "description": "Despite media uncertainty, opposition weaknesses and recent polls suggest Takaichi and the LDP are likely headed for a strong victory."
         },
         {
           "headline": "Arteta backs Arsenal to build on 'magical' place in League Cup final",
@@ -2278,6 +2098,16 @@
           "description": "The prime minister seeming to avoid discussing the Lower House seat-cut proposal now is believed to reflect concerns within the Liberal Democratic Party about it, observers said."
         },
         {
+          "headline": "CRA heavyweights’ heated contests allude to party’s uphill struggle in Sunday’s vote",
+          "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/politics/cra-veterans-tight-race/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 04 Feb 2026 11:58:00 +0900",
+          "description": "Yukio Edano, Jun Azumi and Ichiro Ozawa are among candidates facing neck-and-neck races in their home turfs."
+        },
+        {
           "headline": "Clippers trade Harden to Cavaliers for Garland as deadline nears",
           "url": "https://www.japantimes.co.jp/sports/2026/02/04/basketball/nba/harden-garland-trade/",
           "source": "Japan Times",
@@ -2308,34 +2138,14 @@
           "description": "Koichi Hagiuda was among the five leading figures of the now-defunct LDP faction once led by the late Prime Minister Shinzo Abe, which was at the center of the scandal."
         },
         {
-          "headline": "Thai-born goalkeeper shines in national high school soccer tournament",
-          "url": "https://www.japantimes.co.jp/sports/2026/02/04/soccer/thai-goalkeeper-poomraphee-siribunyakul/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
+          "headline": "UK Police Open Criminal Investigation into Politician Peter Mandelson over Alleged Leaks to Epstein",
+          "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260204-308761/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
           "priority": "primary",
-          "date": "Wed, 04 Feb 2026 11:36:00 +0900",
-          "description": "Marking his school's maiden appearance in the championship match, Poomraphee Siribunyakul repeatedly produced crucial saves, including a first-half penalty stop."
-        },
-        {
-          "headline": "Japan coach Jones says 'fair' Rugby World Cup schedule helps small teams",
-          "url": "https://www.japantimes.co.jp/sports/2026/02/04/more-sports/rugby-world-cup-schedule/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 11:34:00 +0900",
-          "description": "The Brave Blossoms have been drawn in a pool with France, Samoa and the United States for next year's World Cup."
-        },
-        {
-          "headline": "Assassin of Shinzo Abe files appeal against life sentence",
-          "url": "https://www.japantimes.co.jp/news/2026/02/04/japan/crime-legal/yamagami-trial-appeal/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 04 Feb 2026 11:32:00 +0900",
-          "description": "Tetsuya Yamagami reportedly agreed to appeal after strong persuasion from his lawyers."
+          "date": "Wed, 04 Feb 2026 05:10:43 +0000",
+          "description": "LONDON (AP) — British police on Tuesday opened a criminal investigation into politician Peter Mandelson over alleged misconduct in public office related to his relationship with convicted sex offender"
         },
         {
           "headline": "Japan&#8217;s Nikkei Stock Average Slips after Sharp Gain, Tech Shares Weigh",
@@ -2426,119 +2236,9 @@
           "priority": "primary",
           "date": "Tue, 03 Feb 2026 17:00:15 +0000",
           "description": "Tokyo had a net migration gain of 65,219 people in 2025, but the margin declined by 14,066 people from the previous year, marking the first decline in four years, according to a government report rele"
-        },
-        {
-          "headline": "Not Ready for Robots in Homes? The Maker of a Friendly New Humanoid Thinks It Might Change Your Mind",
-          "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260203-308602/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Tue, 03 Feb 2026 13:10:37 +0000",
-          "description": "NEW YORK (AP) — As the new robot called Sprout walks around a Manhattan office, nodding its rectangular head, lifting its windshield wiper-like “eyebrows” and offering to shake your hand with its grip"
         }
       ],
       "secondary": [
-        {
-          "headline": "Arsenal sinks Chelsea to reach League Cup final",
-          "url": "https://japantoday.com/category/sports/arsenal-sink-chelsea-to-reach-league-cup-final",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Wed, 04 Feb 2026 01:00:10 +0000",
-          "description": "Arsenal reached the League Cup final for the first time in eight years as Kai Havertz sealed a 1-0 win against Chelsea in the semi-final second leg on…"
-        },
-        {
-          "headline": "U.S. immigration agents will have no role at Super Bowl: security chief",
-          "url": "https://japantoday.com/category/sports/no-us-immigration-agents-at-super-bowl-security-chief",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 23:40:32 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Paris cybercrime unit searches X office; Musk summoned",
-          "url": "https://japantoday.com/category/tech/paris-cybercrime-unit-searches-x-office-musk-summoned1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:41:52 +0000",
-          "description": "French police raided the offices of Elon Musk's social media network X on Tuesday and prosecutors ordered the tech billionaire to face questions in a widening investigation, amid growing…"
-        },
-        {
-          "headline": "Water-skiing demon",
-          "url": "https://japantoday.com/category/picture-of-the-day/water-skiing-demon",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:05:16 +0000",
-          "description": "A student depicting an oni, a demon-like figure in Japanese folklore, skims across the water on water skis during the annual Bean Throwing Festival near Hakone Shrine in…"
-        },
-        {
-          "headline": "U.S. announces military team sent to Nigeria after recent attacks",
-          "url": "https://japantoday.com/category/world/us-announces-military-team-sent-to-nigeria-after-recent-attacks",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:34:35 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Trump's call to 'nationalize' elections draws furious pushback from Democrats",
-          "url": "https://japantoday.com/category/world/trump%27s-call-to-%27nationalize%27-elections-draws-furious-pushback-from-democrats1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Wed, 04 Feb 2026 02:27:01 +0000",
-          "description": "President Donald Trump’s call for Republicans to &quot;nationalize&quot; elections drew pushback on Tuesday from lawmakers, including from a few Republicans, as Democrats voiced fresh concern that he "
-        },
-        {
-          "headline": "Ethiopia's prime minister accuses Eritrea of mass killings during Tigray war",
-          "url": "https://japantoday.com/category/world/ethiopia%27s-prime-minister-accuses-eritrea-of-mass-killings-during-tigray-war",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:34:47 +0000",
-          "description": "Ethiopia's government Tuesday for the first time acknowledged the involvement of troops from neighboring Eritrea in the war in the Tigray region that ended in 2022, accusing them…"
-        },
-        {
-          "headline": "Iran demands changes in venue and scope of talks with U.S., source says",
-          "url": "https://japantoday.com/category/world/iran-demands-changes-in-venue-and-scope-of-talks-with-us-source-says1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:33:52 +0000",
-          "description": "Iran is demanding that talks with the U.S. this week be held in Oman not Turkey, and that the scope be narrowed to two-way negotiations on nuclear issues…"
-        },
-        {
-          "headline": "Seif al-Islam Gadhafi, son of Libya’s late dictator, killed",
-          "url": "https://japantoday.com/category/world/seif-al-islam-gadhafi-son-of-libya%E2%80%99s-late-dictator-killed-in-north-africa-country-officials-say",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:34:58 +0000",
-          "description": ""
-        },
-        {
-          "headline": "367 horses nominated to compete in Triple Crown series, with trainer Todd Pletcher having 31",
-          "url": "https://japantoday.com/category/sports/367-horses-nominated-to-compete-in-triple-crown-series-with-trainer-todd-pletcher-having-31",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 21:41:23 +0000",
-          "description": ""
-        },
         {
           "headline": "Japan PM's idle yen comments send finance bureaucrats scrambling - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk13M1NTZW9mZnNUOWRKOUVUcjNXVlBlTHBicGFkalBfcW9BdUljeVFsd0pTSEg4ajBGYUhrRi1YQm5aNHcwWlJxeS04aW5HYXhuenBJRUhhcjZITlQ3dzVkYUI3dDQ0TVVOSFU3YmpRZFFmVEx0WHFTZGc3WHR4SVBSeHJaclEwc2hHUFdvSy1VWXh5bmN5em1lLVNWbDFLbldzNTJRb3dqMS1HTkVzMDNLcXRjM1FrclE?oc=5",
@@ -2660,26 +2360,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQOW1aR2xBWTBGQTMxOGJqUk1fZldEbmIwZUZIa216eXd2WDRxSkVfLWk1OS1hR3pOdEFIT0J6R09QUFY0YmZfMExhakU0RDJTSjJHRjFrQ1BZZ2VrYzYyN0hCZ0s3QkcxU0FGS0F"
         },
         {
-          "headline": "Seeking shelter from Trump’s fury, US trade partners reach deals with each other - AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTklUdmVTUW96MzhaRThidkJKN1VnMzdNV1JKUVVxZHJJZXZETi00MzJON0hWTHFvM3dnNm0tNFp2NmVIQTdIOGp5WjFXNGhhMGlmOHBVaEFMeTd3RkNZcWo4bEpGYnk3TVZMMHg4SEVmejJOby1QZGlmeWQ3aVU1RmcxRU1YV01GMXQ5TFFMVEs1Zw?oc=5",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 14:07:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTklUdmVTUW96MzhaRThidkJKN1VnMzdNV1JKUVVxZHJJZXZETi00MzJON0hWTHFvM3dnNm0tNFp2NmVIQTdIOGp5WjFXNGhhMGlmOHBVaEFMeTd3RkNZcWo4bEpGYnk3TVZMMHg"
-        },
-        {
-          "headline": "Why China is building so many coal plants despite its solar and wind boom - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmJRTXJHNk1GVkZtaWhsVEV3T2xaenl4OWc3LW1KVi0zakZYdkJwLTlrR2xWODN5M3lvRVJiV3RLY1FKS0ttT2k0MGJQT19QZE9rbzJmWlRJci1teUF3S3ZHX0NqTndIMl9va1duaWlmM0cyTkhBLUp5LXJ3aEVwR2Jhc2FRWHo3OTAwdVl0NUFfaTNIMzF0c2hJb2RIUnh3N0Vz?oc=5",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 09:57:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmJRTXJHNk1GVkZtaWhsVEV3T2xaenl4OWc3LW1KVi0zakZYdkJwLTlrR2xWODN5M3lvRVJiV3RLY1FKS0ttT2k0MGJQT19QZE9rbzJmWlRJci1teUF3S3ZHX0NqTndIMl9va1d"
-        },
-        {
           "headline": "Associated Press News: Breaking News | Latest News Today - AP News",
           "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
           "source": "AP Japan",
@@ -2690,14 +2370,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5\" target=\"_blank\"&gt;Associated Press News: Breaking News | Latest N"
         },
         {
-          "headline": "Families mourn those killed in a Congo mine landslide as some survivors prepare to return - AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHNjUFRvT2xvN1g4VFF4QTdIRVdjSXV4RUd6VHIxMUR2eks2V0NsY0pKTmVGdzRrWFBad1lVUDUyUi1xZ1lIMk5fU1YtVjdrSTNweHFrbVN4MG10UGpmcTRRU2tGQkJJQS1RSWQwQ0d2d2VHUHpwei12SlE1bENwUWtVQkdhZ2JxSUhWZk5iZlE1bjU5aUE?oc=5",
+          "headline": "2026 Winter Olympics - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oMHZqOElnSWhLYU5yVkNrck5BSG12VVVaTi16cHlic19sS29uNWxhUk1rWHpRRHdZaU0xV08wTEVPMjdGZnQtZjgxNGhDRHNzNkhETnlXOXpjYXAwSTRaeFc5eUg3WWJ0?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 08:03:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUHNjUFRvT2xvN1g4VFF4QTdIRVdjSXV4RUd6VHIxMUR2eks2V0NsY0pKTmVGdzRrWFBad1lVUDUyUi1xZ1lIMk5fU1YtVjdrSTNweHFrbVN4MG10UGpmcTRRU2tGQkJJQS1RSWQ"
+          "date": "Wed, 29 Oct 2025 18:45:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oMHZqOElnSWhLYU5yVkNrck5BSG12VVVaTi16cHlic19sS29uNWxhUk1rWHpRRHdZaU0xV08wTEVPMjdGZnQtZjgxNGhDRHNzNkhETnlXOXpjYXAwSTRaeFc5eUg3WWJ0?oc=5\" "
         },
         {
           "headline": "Hundreds reach out to catch lucky beans at Japan’s annual festival - AP News",
@@ -2720,24 +2400,44 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFotSi1OOHVPZDAtQXhySFpsdXhpYWNYajJ0YVFRc1JyZTJ4RmQ3cTlfa1FYaFA4c1A1MlRvLWQ5Y1lONUludlNiWWFqT1Q1T3dJNXV4TEVPWjlFbnhMWXBQeFMyeVdJV2x2Q0Z"
         },
         {
-          "headline": "NATO - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMeTlNQ0tzcGhkZ1VsSmlwOXVCTWpZMFhfN2QzU0pNLURZNUpWN1pXdzkyTGFIRGRVc05CNmJEN18?oc=5",
+          "headline": "Iran president seeks ‘fair and equitable negotiations’ with US; AP explains - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1dWVXJaTmhRbzdsYy12SndUVXVIQWRwVk5MTkV1Q0xfczU0bU9INVk1QXlXQVdkeHY2VzBKMzRMUWJxUVd4QzZIYWg0WGM4Z0k4LWt4Q09fY29zOGZQeUlZQjhhUjBKakdDX0c2eEw2LWota2hxT0cxWE55TFBuTmd3QWxPRmtKZmxCRk03TEVzdDJjbzlhUGNMc21zZk9JVDd2akZwWmxZVUh1dXdIbUg1bExLcmQxTFcwRl90cC1CSmlhaUE1N3RR?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 24 Feb 2022 21:11:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMeTlNQ0tzcGhkZ1VsSmlwOXVCTWpZMFhfN2QzU0pNLURZNUpWN1pXdzkyTGFIRGRVc05CNmJEN18?oc=5\" target=\"_blank\"&gt;NATO&lt;/a&gt;&amp;nbsp;&amp;nbsp;"
+          "date": "Tue, 03 Feb 2026 08:40:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1dWVXJaTmhRbzdsYy12SndUVXVIQWRwVk5MTkV1Q0xfczU0bU9INVk1QXlXQVdkeHY2VzBKMzRMUWJxUVd4QzZIYWg0WGM4Z0k4LWt4Q09fY29zOGZQeUlZQjhhUjBKakdDX0c"
         },
         {
-          "headline": "Beltrán will have Mets cap on Hall of Fame plaque, Jones gets Braves and Kent has Giants - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdThaYjFjcWZBbGlTeEZTeUQ4VmxSdzJxcEd6ZWV1bDBySGtHYi1MZVdmVmY1dE9RTVNlTlFzSURoV3FDam5ZdDdvTVBpSUE0WEdfSmNFOTE0ejFuZmtwdDg2cXh3dlI1WEpPeXRXZzYyTElzWnUzWFBVQ3JIM0gzeFVRbm5VM0pCMjRBNjV1SEpwcjlqc1ZFTA?oc=5",
+          "headline": "Winter Olympics Venues - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82U3E0Y09HNWZZVGpjcmFtTlR1XzU5MDNqLUFTTTRLOWFIbWJRNTNLeU1CMkM3SzQ5TmdjcU13TC05TkdjUV83M3RNN25pczA2SnRr?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 19:35:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdThaYjFjcWZBbGlTeEZTeUQ4VmxSdzJxcEd6ZWV1bDBySGtHYi1MZVdmVmY1dE9RTVNlTlFzSURoV3FDam5ZdDdvTVBpSUE0WEdfSmNFOTE0ejFuZmtwdDg2cXh3dlI1WEpPeXR"
+          "date": "Tue, 03 Feb 2026 11:47:33 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE82U3E0Y09HNWZZVGpjcmFtTlR1XzU5MDNqLUFTTTRLOWFIbWJRNTNLeU1CMkM3SzQ5TmdjcU13TC05TkdjUV83M3RNN25pczA2SnRr?oc=5\" target=\"_blank\"&gt;Winter Ol"
+        },
+        {
+          "headline": "Winter Olympics Medal tracker - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWWNyT28yQUljR2h3aWFRYVFFQ0dNVjNmZ2RpUHlnVUpBREJyMTBaaEdaUW1DeHRJeHFqOGNPdnlxdDV5aWRqSXk3RmlGX1NKbmw0QzE5aks3eEhC?oc=5",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 03 Feb 2026 10:23:29 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWWNyT28yQUljR2h3aWFRYVFFQ0dNVjNmZ2RpUHlnVUpBREJyMTBaaEdaUW1DeHRJeHFqOGNPdnlxdDV5aWRqSXk3RmlGX1NKbmw0QzE5aks3eEhC?oc=5\" target=\"_blank\"&"
+        },
+        {
+          "headline": "NASA targets a March launch of the moon rocket after test run reveals fuel leaks - AP News",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzdvcTIwMUN5RWxpRmczUTdUOUV2cDNaTEdrX1BndUxfVHRMc0JneUF3YUlKX3g2WFlWMERPSE1BREk1M3F0bjBlR0tnMEZiOEs1cFhHdTBFM2VNcWtmcS1Mblh4Znc1blFvTlQ5Vl9Wd0d1RUxYQWVsbzRKX2lBNDFfSTZzOGQta29zUkVwZDBXd25iUmhCR1paQ0ppaC1QcHNvUGVNZm0zMUhDMHhFZGQ1S3N4RUFPLUNzb2RYRmxkMllmQTVZNFlMeEI1Ti1vSE14MQ?oc=5",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 03 Feb 2026 09:51:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSzdvcTIwMUN5RWxpRmczUTdUOUV2cDNaTEdrX1BndUxfVHRMc0JneUF3YUlKX3g2WFlWMERPSE1BREk1M3F0bjBlR0tnMEZiOEs1cFhHdTBFM2VNcWtmcS1Mblh4Znc1blFvTlQ"
         },
         {
           "headline": "Japan eyes Premier League parity by aligning calendar with Europe - Yahoo News Singapore",
@@ -2830,14 +2530,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWWJtR0VZUjl6a3M5aVdCTVhlSkVodmd0dGJoenhWWS0zR1RSWjI1X0FtVU00ZlYwV20xNUIzeTFGTEQ0OEVoTFVpODljSnFFQ1R2anFkMVY1WFd1cUtQbkFTS3lqbk1FVXFmVGp"
         },
         {
-          "headline": "Australian News Headlines | Yahoo News Australia - Yahoo News Australia",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9ENmFwd01iQ0xsejMwTkFTUkRhaXNXY2NWZmdkUktlazJZSzNlREhvSk4yaE54Y2VPTEpBdnJtUQ?oc=5",
+          "headline": "Latest news and today's top stories | Yahoo News UK - Yahoo News UK",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5mUml5cnhlSVQtOTJWUHFlYVI1clJ2eVoteW8wanJUbmZ2bG9uRnF6cTA5RTRwZDVhSUhQX3Zicw?oc=5",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 20 Nov 2011 01:53:53 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE9ENmFwd01iQ0xsejMwTkFTUkRhaXNXY2NWZmdkUktlazJZSzNlREhvSk4yaE54Y2VPTEpBdnJtUQ?oc=5\" target=\"_blank\"&gt;Australian News Headlines | Yahoo N"
+          "date": "Sun, 08 Dec 2013 07:54:31 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE5mUml5cnhlSVQtOTJWUHFlYVI1clJ2eVoteW8wanJUbmZ2bG9uRnF6cTA5RTRwZDVhSUhQX3Zicw?oc=5\" target=\"_blank\"&gt;Latest news and today's top stories"
         },
         {
           "headline": "'Never imagined this': Indian village grapples with interfaith couple's killing",
@@ -3060,23 +2760,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHE3QlRYX1ZoNGQ1Y19QcTFRbllZZ214WnhOSG84NW1kM2g3Smc4cGI2VHM3cDRmdU5RZEdMWmtZZ0dTVmpPQ291dDN3RmgycjlROU1LTXdlUUdBeXBOYTJfQUpadEMtR0dfdzN"
         },
         {
-          "headline": "Japan’s 10-Year Bond Sale Demand Weaker Than 12-Month Average - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUdfM2VsbHBaalRpTHFtaU0wckhjb3ZOSzFrS3F3bzVWREVadmh2Vkh4V09VMjRmdmpsanVqaXVKQ1hiRTNYS3FTU1dpdFRMV2pXUFV1dUFvVnM2cWRZM0pOc1g2eXJxYmRqWS1xQ2pfdHNveFBFRi04QTdJSXNpQWQ0RGZ4WHBsM2lCaVNqYzV1ZVVPTjZ0VGpVMFprakttdmNOVGhNX1NLeXQxc1liVE9n?oc=5",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Tue, 03 Feb 2026 04:54:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUdfM2VsbHBaalRpTHFtaU0wckhjb3ZOSzFrS3F3bzVWREVadmh2Vkh4V09VMjRmdmpsanVqaXVKQ1hiRTNYS3FTU1dpdFRMV2pXUFV1dUFvVnM2cWRZM0pOc1g2eXJxYmRqWS1"
-        },
-        {
-          "headline": "Asian Stocks Poised to Track US Tech-Led Selloff: Markets Wrap - Bloomberg.com",
+          "headline": "Asian Stocks Pare Losses After US Tech-Led Selloff: Markets Wrap - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjlETmhMZ3cwa3hjOXV6ZEo1RGhQODd2ZlZPX004S0JkLXFYSGxvSF9O?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Wed, 04 Feb 2026 02:49:00 GMT",
+          "date": "Wed, 04 Feb 2026 04:06:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2VxSFlCVU54QWpwbVhiZGRqWmxWc1k3ZDcwaVBDcUV2STc2TGMxVGZrNllZdjR6UHZkV1NfNkYtMzBkdUJtTndSVzYzdDZDVkJWZmRna21wd093dTRrRmROU0gwa1drTjNnVjl"
         },
         {
@@ -3100,16 +2790,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEU0Um12emF6Y1pSLTJmcG02el9hdkpVOEZwMlF5VTRtc25BeFBZbTJUSVFhWHpNbUIta29ZMFl2Qm1UZTJWN0ZvM3R3REZidms5S1NCOW5nekdwcUJIWG5qcUJoc0tWc2tkWVl"
         },
         {
-          "headline": "Bloomberg Asia - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tSGpjYlJXTTF0OHBWVG9HaUxxcUNDM014NUwxblE1OUw5X3M5NlFaVXNndEQ5clRSSzJtbjBFQXdoWU5T?oc=5",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Mon, 26 Oct 2015 20:22:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE8tSGpjYlJXTTF0OHBWVG9HaUxxcUNDM014NUwxblE1OUw5X3M5NlFaVXNndEQ5clRSSzJtbjBFQXdoWU5T?oc=5\" target=\"_blank\"&gt;Bloomberg Asia&lt;/a&gt;&amp;"
-        },
-        {
           "headline": "Australia Raises Key Rate to Combat Mounting Price Pressure - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2pQQ1FRQWkyTi03U1pYcHdRUFZaeFFsaUlkeURTclNpMDY4MWNHaFozX0pNQWp6cmVkcVNTTjdDWGo5YTc4YXlRSXgtdThtMVozRkFMNjBtRk1ORjBHSjhPbnZjSXVNMGxPSXpybmZwc2NlekVoN1BOWXpEZHZIUjk5OHR2LXZsQnZuaFdCTHJFYUl2R3J5QzI5SEhMb2EtQ29xYVFvWEVzQmszX1Jtc0taNVA?oc=5",
           "source": "Bloomberg Japan",
@@ -3130,14 +2810,34 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa29SbUZZQkhMd3l6dlhDR0dvN1BuNjRNM2I3d1pJOXJ2TUJWWlo1Y2QtNTRUY2o0cnk0RWNCRVMzZkN5SElLeXR3OHQ1czFKcVdMUUNQVmpiU1hyMEYtSXBkMlBRVDBXcVJXdHV"
         },
         {
-          "headline": "Currencies - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5",
+          "headline": "Trump’s Surprise Trade Deal With India Resets Fractured Ties - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGNxLXp2ZUt5ZnBtTnZjYmh3cmZvSU9KLTV0Y2NHU3dNSlNVeE8yWEhYelJ1eHBwOUJaaDEyQmlETEpFbTF2bERoMmpSRw?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Wed, 28 Jan 2015 05:05:18 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNy1HLWE3TXJEUUhmRUktZ2toMmNvdlR3TjcxWGgzc0dNS0tZQXlDQ3JSaWN0Sjl2Tk9YYkpWZTZTWnRscUdfczlkenl5TXVfcjRLb21qVQ?oc=5\" target=\"_blank\"&gt;Cur"
+          "date": "Tue, 03 Feb 2026 13:40:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUlmMk5SZFVjWEdhWDZEcXZYUzVtakh2dXJlUmJVRlRaV1JVV09DRGdXYlJ3YTNXNnlodVg3R2ZWaVpLN2drWS12Uk1vZ2JJVGxuQ3lLdnFGQmo2Q2xhZkMwSUk2ZWxTd1JpdGN"
+        },
+        {
+          "headline": "Nintendo’s Profit Disappoints Even as Memory Prices Climb - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVMyRlJPTTR5dTg1eG11YVlWYThJMWR2QnF5eUxTLTRobVVOa0VCNzBsd2dleFRYUHNEU3Z0Mmh1bGVIcnpNdlYwdTlSY1h6UkZub1hxT201aTdrRHZSQ0Q5LUZ5N2JScF9JWkJ3Nk5qVFNwQk81eHV2bTVCVW9RWDNJaTQ4c0h2QVJrOE5YWDZtZXUwNU5vTXY3V0FBeUJzSVQwYldNVk5BenZpaEVjdmZ6SQ?oc=5",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Tue, 03 Feb 2026 10:47:07 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVMyRlJPTTR5dTg1eG11YVlWYThJMWR2QnF5eUxTLTRobVVOa0VCNzBsd2dleFRYUHNEU3Z0Mmh1bGVIcnpNdlYwdTlSY1h6UkZub1hxT201aTdrRHZSQ0Q5LUZ5N2JScF9JWkJ"
+        },
+        {
+          "headline": "India Stock, Rupee Markets Celebrate As Modi, Trump Strike A Trade Deal - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFREZHhXTUNPRUJTY2xpRm1NNGM3Y0xNaXBGa1FfWDZQY0JMQzBMZGxCZmpIZTdncjVySl84VThxN3dYb1FwRVdRNi1jSWRJLTRNSGdERXhDSFZBeE1paTQydmYwcF83U1d2OVBreXZmR2hTRFRJb2NJdElidFRXSFZ4aWtpQk90MUZ2Ul9yWFZwT0RjU0kwSU5LNExtNndQeEdVZ0R3TTdTSHhhay1GWmhza3JNM2lIZUZHSXkwUktSNjR1RTVn?oc=5",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Tue, 03 Feb 2026 18:28:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFREZHhXTUNPRUJTY2xpRm1NNGM3Y0xNaXBGa1FfWDZQY0JMQzBMZGxCZmpIZTdncjVySl84VThxN3dYb1FwRVdRNi1jSWRJLTRNSGdERXhDSFZBeE1paTQydmYwcF83U1d2OVB"
         }
       ],
       "tertiary": [
@@ -3202,16 +2902,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUlkV0I0Z3AyOXlLcmw1d0cyZXJqdmptdFpFc2QwTktray1Jakl6Z3l5M0FYWmxtUERPbXBlOFpzSEwwaVg3bHZXcmFNTmZIQzBGcmlLZ0JJc0syamtFQkRYQTZIMUhIeENxVVZ"
         },
         {
-          "headline": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Tue, 03 Feb 2026 23:32:08 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5\" target=\"_blank\"&gt;The Washington Post - Brea"
-        },
-        {
           "headline": "Opinion | Asian countries hedge against China — and America - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRDhHcHVKV2Z5YWY4Zlh1WUtlUkZ4S0lyQUtCSVBTa1duMjFDMFY0NnlYUlR3MTVNZFIwZ2E1TlROckRPYlZDS0FqdVQtUEZhNmpySTlobHR4WUNRVUh3YXlGNHJiVFJiTnVBTXN5UkcyX05xZmlYSEFaQWJ6OWY1TEw3RVltaHVHTXZ1RzZtZ01oSFFYMWZkODNB?oc=5",
           "source": "Washington Post",
@@ -3233,13 +2923,23 @@
         },
         {
           "headline": "367 horses nominated to compete in Triple Crown series, with trainer Todd Pletcher having 31 - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1rT1ZqZjB6cFY1NUNjWDI1SzEyZzBRWEFMX2NUaVR1MzFJdnhIR2NteEQ1TXdESlgxY1dvcWJTVmlVZU9kRzVTcHVaVi05d3RENlZGTU41Tzh3T25fNFkyMEZBWU43SWNQb0RyUjVV?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaFhTRkdOWTFmb2w2QlJRaWd2dXB3alVGSFQ5OVpjTS1XOXc1Y0tIU3ZjcjdOcWlLYXVpYXhCUDVjLW5KaWtRYmU5b01zMDZocHJiUjNxWVViVXM5Y2dDaW9mTU40cU5mQW10SjkzT2xCMVJFc2UxSnlqNEhfVWhlek1KUTl0cVN3UjVncjBXc0VkUjZvU1pVZ296NHhPWV9PdjRsV3pCZFBJQm44QUthYVc2SmNNODVlcEtqV2Zn?oc=5",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Tue, 03 Feb 2026 19:55:51 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVJJVFNtWUQwSE0ycFZhdEpDcDdZRzc3ZzZOSmdrSWNTVnZaREN3VE5vNDJKX2YtWjFvVElOcW5pYmNKakNJRFN5bENUU1RKSjBEbGZhYjhpQVdiT2swN1RncU1JQ1pHSDl1QS1"
+          "date": "Wed, 04 Feb 2026 02:45:04 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaFhTRkdOWTFmb2w2QlJRaWd2dXB3alVGSFQ5OVpjTS1XOXc1Y0tIU3ZjcjdOcWlLYXVpYXhCUDVjLW5KaWtRYmU5b01zMDZocHJiUjNxWVViVXM5Y2dDaW9mTU40cU5mQW10Sjk"
+        },
+        {
+          "headline": "Beltrán will have Mets cap on Hall of Fame plaque, Jones gets Braves and Kent has Giants - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1Y3X3o2dG1ab0lOYWlrVUVNUmYwaUtMVjl6S1RWZ0tZbU1mTnUzREtnTl95dFBEQWk4U1ZhRngwSVZYa2Zpc1l3djhCdGhoQXpJRzRBN2RmTzBQWjNFSmVhUFRzOEVLempiNUJvUWJvMnhtOXREcjYxVm5WWG9zRTZSUm5jLTNVLW5Zci1mT0F5U3BINm51OEthQnl6dlk2QjBWR2plRlVKcE5TV0hJY29iclU2Y1ZFcDE2LTE1UDBsUzNkSFdWamRzQ1ZxeUU?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Wed, 04 Feb 2026 03:37:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1Y3X3o2dG1ab0lOYWlrVUVNUmYwaUtMVjl6S1RWZ0tZbU1mTnUzREtnTl95dFBEQWk4U1ZhRngwSVZYa2Zpc1l3djhCdGhoQXpJRzRBN2RmTzBQWjNFSmVhUFRzOEVLempiNUJ"
         }
       ],
       "reference": []
@@ -3332,7 +3032,7 @@
       "language": "en",
       "tweets": [
         "\\Today is the first day of spring/\nThis is Tomomi Fuchioka.\nThere are likely to be many places where you can spend your time during the day.\nThere will be snow in many places today, even on the Sea of Japan side.\n\nDetailed weather information\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3/ep/Z8X57155XX?startOffset=780\n…\n\n#Good morning Japan",
-        "Yudai Hirose and Maifu Otani\n#4 days left until the House of Representatives election\nSpecial website “House of Representatives Election 2026” where you can check the latest information on the election\nYou can compare candidates' ideas and policies with the \"Candidate Questionnaire\"\n``Boat Match'' lets you see how closely you and the candidate agree. Please take advantage of it!\n\nhttps://\nnews.web.nhk/senkyo/databas\ne/shugiin/\n…",
+        "Yudai Hirose and Maifu Otani\n#4 days left until the House of Representatives election\nSpecial website “House of Representatives Election 2026” where you can check the latest information on the election\nYou can compare candidates' thoughts and policies with the \"Candidate Questionnaire\"\n``Boat Match'' lets you see how closely you and the candidate agree. Please take advantage of it!\n\nhttps://\nnews.web.nhk/senkyo/databas\ne/shugiin/\n…",
         "Check this morning's news on your smartphone!\n◆Momuri: Is there any actual situation regarding support money for labor unions?\n◆Iranian drone shot down as it approached US aircraft carrier\n◆The foreign and security policies of each party are\n\n▼Click here for the latest information▼\n\nhttps://\nnews.web.nhk/newsweb\n\nIf you want to watch it on your smartphone, go to NHK ONE\n \nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…",
         "[Scheduled to be broadcast on Wednesday, February 4th]\nAll parties continue to appeal to the House of Representatives election\nForeign and security policy\nThe number of farmers is rapidly decreasing...\nCan AI improve productivity?\nOne month after the US military operation, Venezuela\nIf you want to watch it on your smartphone, go to NHK ONE\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…\n#Good morning Japan",
         "Be wary of “cherry picking” information!\nDuring election periods, ``cherry-picking'' tends to occur, in which only part of the facts are picked out.\nCheck the information you see from multiple perspectives, such as checking its background and other data.\nWe have summarized the points to note↓\n\nhttps://\nnews.web.nhk/newsweb/na/na-\nk10015041711000\n…"

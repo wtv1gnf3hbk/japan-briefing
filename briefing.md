@@ -1,26 +1,31 @@
-Good afternoon, Javier. Here's your Tokyo briefing:
+The [Abe assassination](http://www3.nhk.or.jp/news/html/20260204/k10015043001000.html) case is back in the headlines as Tetsuya Yamagami's defense team filed an appeal today, challenging his life sentence for the 2022 killing of the former prime minister in Nara. The move sets up what will likely be a closely watched appeals process that could drag on for years.
 
-Japan woke up to a dangerous combination today: rapidly rising temperatures following one of the harshest winter seasons on record. [NHK warns](http://www3.nhk.or.jp/news/html/20260204/k10015043041000.html) of significant avalanche and roof collapse risks as temperatures spike above seasonal norms across regions still buried under record snowfall. The timing is particularly concerning given that soldiers and emergency crews are already [battling deadly storms](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSG82VFd1ejZJNlRmMzR6Vy1BQWlkZmtGX1RfYlNacHFENmppSUtieWhoVmQxWklCeEJSY0FqU29zdm4zcHJuMGx5Nmh3U1o0WFlXVHFTTURHcXBMZ21IZ0lmVXRwcngydnpyRW5XNERyY0tWVmlxcUwwX1p2b2x3NnBBTHU3aGxVb3pDQkcyWnpaekFWNFpGOTVTWldFa0VjdC1TUmdlME1ramYy?oc=5) nationwide, according to Reuters.
+Meanwhile, Japan is dealing with more immediate concerns as the country battles through what Reuters calls "[deadly winter storms](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSG82VFd1ejZJNlRmMzR6Vy1BQWlkZmtGX1RfYlNacHFENmppSUtieWhoVmQxWklCeEJSY0FqU29zdm4zcHJuMGx5Nmh3U1o0WFlXVHFTTURHcXBMZ21IZ0lmVXRwcngydnpyRW5XNERyY0tWVmlxcUwwX1p2b2x3NnBBTHU3aGxVb3pDQkcyWnpaekFWNFpGOTVTWldFa0VjdC1TUmdlME1ramYy?oc=5)." NHK is warning residents today to [watch for](http://www3.nhk.or.jp/news/html/20260204/k10015043041000.html) falling snow from rooftops and avalanches as temperatures rise on the first day of spring. The warmer weather is creating dangerous conditions in areas already dealing with above-average snowfall.
 
-The Shinzo Abe assassination case took a significant turn as defense lawyers for gunman Tetsuya Yamagami [filed an appeal](http://www3.nhk.or.jp/news/html/20260204/k10015043001000.html) against his life sentence. The move extends what has become Japan's most politically sensitive criminal case in decades, with the appeal likely to keep questions about religious groups and political influence in the spotlight for months to come.
+## Business & Markets
 
-**Regional Watch**
-• **Australia**: The Reserve Bank [raised rates](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zMkp4MHpwbGVpYXZoZnRNdmpGWGZzQUpoY1ZKanBFQ2hFbDA0anNwQ0g0emlFeVZDa2NacEVoYVFnbFBUcURqeWlrSHlPSWdsaVNtQkpwTzVmYURXMjIyaDA2Z3J5Y2pMdzFTbVZ) according to Reuters, marking another hawkish move as regional central banks grapple with persistent inflation pressures.
-• **Middle East tensions**: U.S. forces [shot down](http://www3.nhk.or.jp/news/html/20260204/k10015042961000.html) an Iranian drone approaching a carrier in the Arabian Sea, per NHK, just as high-level U.S.-Iran talks are scheduled to proceed despite the incident.
-• **Critical minerals**: Some 30 countries want to join the U.S.-led [critical minerals](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1BZaXBTaGVGaUdWaEpad2JtSXBBZThxZjFUUTVTT2FwQURRTzFuTmhQeVJJeWVMcDdQdXNuZzk5YmpzTUs2eUl4dndNYTM2YXBsMnYtZjg3SVFwM1lJX1kxbFJIZkE2R04tM2tCdUJGUFdwbDExUUtZT1M0eG1OYlN6RXRQVkxRSWxSUjR0TGFtdFhoMmxlMHVJaUl6OEx6eGcyOFdFUENiektodlJpWDRXOEhSeFhIbnBnTnZxVGtZQTRXNkE?oc=5) club, Interior Secretary Burgum said, highlighting the growing geopolitical importance of supply chain security.
+• **JAL struggles with China routes**: The carrier says passenger revenue on China routes was [20% short](https://www.japantimes.co.jp/business/2026/02/04/companies/jal-china-revenue-low/) in December, attributing the drop to Beijing's advice discouraging Chinese citizens from traveling to Japan.
 
-**Business & Markets**
-• **Energy security**: QatarEnergy secured a major [long-term deal](https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2tXODRjaGJ2TEFMRkJrZmJSNkhWUmZKZy1rNHd1eEQwQVdMVVJTVzBaaENvVmJmRE8wOElMajdLdmxjYlpqVDd2bDBXa1hZd2drVzJZR3I4aktXelUzc0NIa2FWNTNxZktFdndubUxwWVNHcm5SN1dQM1owcmxIbW9wYXZHOS1yblJqUGN2YTdqZWdtS3lGcGRLMHFFTTVYUU9nRUVGSi1MQnlRUjVxYjQ1Z2hoUQ?oc=5) with Jera as Japan doubles down on LNG imports, Reuters reports.
-• **Nintendo resilience**: The gaming giant posted [quarterly profits](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSm80OGREd01kblg1XzhfRXBHZ2QzdUlMaHY0RXpYd0JVRFdxNVZoT1BRSm5lcXRuTXI0V2JiaE1XTFQ2UmNqZ3RLMVFqZHJFbEtWOS04SGcyOXNPRGtWRE92RmF4MDFOaWR0Y0VnSVlvRlBTSmdBeldWaUdoWnZSQ2lCX3hobTNfcGNnVnI4OU5HYzRtQTMtSlBzUG83UnpJNDVPNUJyRFFnRFltQnRFV0FKWQ?oc=5) that beat expectations and said chip price spikes would not significantly impact operations, according to Reuters.
-• **Corporate scandals**: Prudential Life Insurance Japan will [suspend sales](http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html) of new policies for 90 days following a ¥3.1 billion employee fraud scandal, NHK reports.
-• **Currency pressure**: The Prime Minister's recent [yen comments](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk13M1NTZW9mZnNUOWRKOUVUcjNXVlBlTHBicGFkalBfcW9BdUljeVFsd0pTSEg4ajBGYUhrRi1YQm5aNHcwWlJxeS04aW5HYXhuenBJRUhhcjZITlQ3dzVkYUI3dDQ0TVVOSFU3YmpRZFFmVEx0WHFTZGc3WHR4SVBSeHJaclEwc2hHUFdvSy1VWXh5bmN5em1lLVNWbDFLbldzNTJRb3dqMS1HTkVzMDNLcXRjM1FrclE?oc=5) sent finance ministry officials scrambling, Reuters reports.
+• **Nintendo weathers chip costs**: The gaming giant reported [quarterly profit](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSm80OGREd01kblg1XzhfRXBHZ2QzdUlMaHY0RXpYd0JVRFdxNVZoT1BRSm5lcXRuTXI0V2JiaE1XTFQ2UmNqZ3RLMVFqZHJFbEtWOS04SGcyOXNPRGtWRE92RmF4MDFOaWR0Y0VnSVlvRlBTSmdBeldWaUdoWnZSQ2lCX3hobTNfcGNnVnI4OU5HYzRtQTMtSlBzUG83UnpJNDVPNUJyRFFnRFltQnRFV0FKWQ?oc=5) growth and said it expects no major impact from rising semiconductor prices.
 
-**Government & Policy**
-The sketchy retirement services story is getting murkier. Police suspect the [labor union](http://www3.nhk.or.jp/news/html/20260204/k10015042871000.html) that allegedly received referral fees in the Momuri case was essentially a shell organization, according to NHK. This could expand into a broader investigation of how retirement service companies exploit legal loopholes.
+• **Prudential suspends sales**: The life insurer announced it will [halt new contracts](http://www3.nhk.or.jp/news/html/20260204/k10015042991000.html) for 90 days starting February 9th while it overhauls governance and sales systems following a scandal where employees defrauded customers of 3.1 billion yen.
 
-**What to Watch**
-NASA postponed the Artemis moon mission launch from February 8 to next month due to [fuel leaks](http://www3.nhk.or.jp/news/html/20260204/k10015043031000.html), NHK reports. While not directly Japan-focused, this affects JAXA's participation in the international lunar program.
+• **Jera secures LNG deal**: QatarEnergy signed a [long-term supply](https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2tXODRjaGJ2TEFMRkJrZmJSNkhWUmZKZy1rNHd1eEQwQVdMVVJTVzBaaENvVmJmRE8wOElMajdLdmxjYlpqVDd2bDBXa1hZd2drVzJZR3I4aktXelUzc0NIa2FWNTNxZktFdndubUxwWVNHcm5SN1dQM1owcmxIbW9wYXZHOS1yblJqUGN2YTdqZWdtS3lGcGRLMHFFTTVYUU9nRUVGSi1MQnlRUjVxYjQ1Z2hoUQ?oc=5) contract with Japan's biggest power generator as LNG demand surges, according to Reuters.
 
-**Coverage flags**: Reuters is notably ahead on the PM's yen comments story - worth checking if Japanese outlets are playing this down. The winter weather story seems ripe for deeper NYT coverage, especially the human cost angle that wire services aren't fully capturing.
+## Government & Policy
 
-*Homepage screenshots captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan, plus Twitter feeds @takaichi_sanae and @nhk_ohayou, and competitor Asia pages (FT, WSJ, Economist) for reference.*
+• **PM's yen comments cause scramble**: Reuters reports the prime minister's "[idle yen comments](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk13M1NTZW9mZnNUOWRKOUVUcjNXVlBlTHBicGFkalBfcW9BdUljeVFsd0pTSEg4ajBGYUhrRi1YQm5aNHcwWlJxeS04aW5HYXhuenBJRUhhcjZITlQ3dzVkYUI3dDQ0TVVOSFU3YmpRZFFmVEx0WHFTZGc3WHR4SVBSeHJaclEwc2hHUFdvSy1VWXh5bmN5em1lLVNWbDFLbldzNTJRb3dqMS1HTkVzMDNLcXRjM1FrclE?oc=5)" sent Finance Ministry bureaucrats scrambling - worth tracking what exactly was said and the market reaction.
+
+• **Election staffing crunch**: Temp agencies are struggling to find enough workers for polling stations and vote counting as the "[super short](http://www3.nhk.or.jp/news/html/20260204/k10015043151000.html)" campaign timeline catches everyone off guard.
+
+## Coverage Flags
+
+The Prudential scandal and the "job-quitting agency" arrests highlight Japan's evolving labor practices - both stories involve services that profit from workplace dysfunction. The Reuters currency story suggests there may be more to the PM's comments than Japanese outlets are reporting.
+
+## Sources
+
+• [NHK World](http://www3.nhk.or.jp/news/html/20260204/k10015043041000.html)
+• [Japan Times](https://www.japantimes.co.jp/business/2026/02/04/companies/jal-china-revenue-low/)
+• [Reuters Japan](https://news.google.com/rss/articles/CBMiugFBVV85cUxOVk13M1NTZW9mZnNUOWRKOUVUcjNXVlBlTHBicGFkalBfcW9BdUljeVFsd0pTSEg4ajBGYUhrRi1YQm5aNHcwWlJxeS04aW5HYXhuenBJRUhhcjZITlQ3dzVkYUI3dDQ0TVVOSFU3YmpRZFFmVEx0WHFTZGc3WHR4SVBSeHJaclEwc2hHUFdvSy1VWXh5bmN5em1lLVNWbDFLbldzNTJRb3dqMS1HTkVzMDNLcXRjM1FrclE?oc=5)
+
+*Visual references available: Japanese outlet homepages (Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan), Twitter feeds (Takaichi Sanae, NHK Ohayou), international outlets (FT Asia, WSJ Asia, Economist Asia)*

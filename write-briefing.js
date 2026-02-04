@@ -472,17 +472,21 @@ CRITICAL RULES:
 
   const userPrompt = `${greeting} Here's what's happening:
 
-Write a conversational briefing using this headline data. Structure it as:
+Write a conversational briefing using this headline data. Use ONLY these sections in this order:
 
-1. **Opening** (2-3 paragraphs): Synthesize the top Japan stories. Lead with context and stakes, not just headlines.
+1. **Top News** (2-3 paragraphs, no header): Synthesize the top Japan stories in flowing prose. Lead with context and stakes, not just headlines.
 
 2. **Business & Markets** (3-4 bullets): Japan/Asia business news, market moves, corporate stories.
 
-3. **Government & Policy** (if relevant): Any notable official announcements, ministry statements, diplomatic developments.
+3. **Government & Policy** (2-3 bullets, if relevant): Official announcements, ministry statements, diplomatic developments. Skip entirely if nothing notable.
 
-4. **What to Watch** (1-2 items): Upcoming events or developing stories directly relevant to Japan. Skip this section entirely if there's nothing Japan-specific worth flagging.
+4. **What to Watch** (1-2 items, ONLY if compelling): Upcoming events or developing stories directly relevant to Japan. Skip entirely unless there is genuinely interesting news worth flagging.
 
-DO NOT include a "Regional Watch" section or NASA/space news unless it directly involves Japan or JAXA. This briefing is Japan-focused—non-Japan regional news should only appear if it directly affects Japan.
+5. **Coverage Flags** (1-2 sentences): Note any stories where international outlets are ahead of Japanese press, or gaps worth NYT Tokyo bureau attention.
+
+6. **Sources** (bulleted list with links): List the key sources cited in this briefing with their URLs.
+
+DO NOT include any other sections. No "Regional Watch", no NASA/space news unless it directly involves Japan or JAXA. This briefing is Japan-focused.
 
 Every bullet must have at least one link. Vary attribution: "Reuters reports", "according to Nikkei", "the Yomiuri notes", "per Kyodo" (use "per X" only once).
 

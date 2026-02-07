@@ -1,35 +1,27 @@
-The [Milan-Cortina Olympics](http://www3.nhk.or.jp/news/html/20260207/k10015045461000.html) officially opened yesterday with Japan's delegation marching in the unprecedented four-venue ceremony. Speed skater Mori Shigeko and snowboarder Tomita Sena carried Japan's flags as the games launched across Milan and Cortina simultaneously. Japan is already making moves in figure skating, with [Sakamoto Kaori](http://www3.nhk.or.jp/news/html/20260207/k10015045411000.html) topping the women's short program to help the team event squad climb to second place heading into the final discipline.
+Good morning Javier. Japan is heading to the polls today in what's shaping up to be a pivotal election for Prime Minister Takaichi's political future, while a major winter storm batters the country and Japanese athletes are already making Olympic history in Milan.
 
-Back home, Japan faces its final day of campaigning before tomorrow's [general election](http://www3.nhk.or.jp/news/html/20260207/k10015045271000.html), with party leaders making last-ditch appeals in swing districts. The timing is challenging as a winter storm system is bringing heavy snow to the Sea of Japan coast through Monday, with [Tokyo potentially](http://www3.nhk.or.jp/news/html/20260207/k10015045311000.html) seeing accumulation that could complicate voting logistics. The weather agency is warning of transport disruptions just as voters head to the polls.
+The [Lower House election](https://www.japantimes.co.jp/news/2026/02/08/japan/politics/voters-head-to-polls/) began this morning at 44,000 polling stations across the country, with Takaichi's Liberal Democratic Party setting expectations low by aiming only for a simple majority with their Japan Innovation Party coalition partners. The Japan Times notes this is being viewed as a referendum on Takaichi's leadership, coming after significant shifts in the opposition landscape. Meanwhile, [severe weather](http://www3.nhk.or.jp/news/html/20260208/k10015046081000.html) is complicating voting day, with the Japan Meteorological Agency issuing heavy snow warnings for Tottori Prefecture, where 30 centimeters fell in just six hours this morning. [Snow accumulation](http://www3.nhk.or.jp/news/html/20260208/k10015046071000.html) is affecting even central Tokyo, with NHK warning of major transportation disruptions and urging caution on icy roads.
+
+On a brighter note, Japan got off to a spectacular start at the Milano-Cortina Olympics with a historic double medal sweep. First-time Olympian [Kimura Aoi won](http://www3.nhk.or.jp/news/html/20260208/k10015046001000.html) Japan's first gold of the games in men's snowboard big air, while compatriot Kimata Ryuma claimed silver in the same event. Hours later, [Maruyama Nozomi captured bronze](http://www3.nhk.or.jp/news/html/20260208/k10015045921000.html) in women's ski jumping normal hill, also in her Olympic debut.
 
 ## Business & Markets
 
-• **Kirin** is [selling Four Roses](https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3d6RVZXLVFNV3ZjdWktN1Q0UjR1Unp1Mm1tLUZWZXUzUXU1TEhwa0t2MXBMM2NOenNOSDl4cHliOU1pWmdrU180OWhnUWZlLW5NQWZ5a2JZZU1NQWFDMWsxcXE1RjFnSy1hLUVwaUQwdk9HVmw1aHJjZ2dqMnNoM0Q2b1p0LVJoMUh5T1pCR1V0SmdXd3I5ZW5zMkxybUExY3RkZ0pJdHR1SzR2elhaYTFnNnlGQQ?oc=5) bourbon brand to Gallo for $775 million, according to Reuters, as the Japanese beverage giant reshapes its international portfolio.
+• [Toyota announced](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTjNBMUpKY1gta0FhTnBIRGFSQ1o1UDNPaG1tckRXSFBRemV0SUVidzZBUnhCTmR6MTN0bHNsX2x5bXhGa3czOEUwRExaNDR5c1FxcFY4ZmVXTS11R0gxTkZWM2NVNGswUXFnbFZuS3F4ZVl1TUk2bjJuZzVvRVk4U255VHZlaDZyeGtuallINmNoYnllTjF4UWRhQVJfdWsyNm5IX0x4M3hZSzVVREEweDFXQ3RpclIxeUxWUHdzN0M4UUhXV0lKYjB5UW0yVXdYM1RYZEhTSQ?oc=5) a CEO change despite the automaker's resilience through recent industry upheaval, according to Reuters
 
-• **Toyota named** a [new CEO](https://news.google.com/rss/articles/CBMiwgFBVV85cUxQVldMOEV3cXg0dmMteHBkWXZJVmVPNlhVUjVxbkViY3MtdmVsTG40M2tNU0E2NHBlNWc3MVp4TE9PNW51dVJiSFhlTzU4eDVMb1JRaVdsS21RaV9Teng1emc0T040c1R1YjNHS2RTaFBtSkN0VnljVjhhVUU5cURWNG1rOGtwanE4RFktVU9NZkJzcVpnUjNmaV9PazB3VzItSjd4ZzRWN0Rrb0JHQjlzbmtUdHEwdENzRWF2YXA4Q1RGZw?oc=5) - the former secretary to Chairman Toyoda, Reuters reports, marking another leadership transition at Japan's largest automaker.
-
-• **Mitsui** is close to [buying stakes](https://news.google.com/rss/articles/CBMiywFBVV85cUxNYkctVm54WFJnemZBMzNWdzdGMnRyWERzWXY5NWJfWGZwVDhFYjFMS3F6dl9kLXA2ZjBTTHctNzhESF9jOGtXclFSeElkaTh6MjRPMFFINmtFT2hRT3hzLWlzQjhBb0RNdjdyTl8xZGoyaEh1WTdoQ3B0Rm5ZMWhfQjUxbW5CYmo3aFZJSDNOZlAtbVEtbnhBcUxIRjNueDEzT0ZkSHhmQ2FxUmswdXZteHpBeXpTRXhKVGhyYzEwY0dEQkVzeXk0VnJlMA?oc=5) in a Qatar LNG project, per Reuters sources, as Japanese trading houses continue expanding their energy portfolios.
-
-• **Japanese banks** are ready to [increase JGB](https://news.google.com/rss/articles/CBMiwgFBVV85cUxPYzcyRjFyUjk5N05Ld2hGWldkcUVlR1RiQ3pOb2J6TElwNm04d21GdUI4MHQ1S2tOLUxJSE96MTdwUnloV1o1cDR4WGl0YlJvSWpSbUprUHl6eGU2RGhFbmtJYkxoelhPZVZRV2RzeDFPMzZZVS1qSVVVVDJkTldLZGRWSjQ3X2pGb0psU1dYOU51ZDJSZ3prTllpd2E4d0pWMk9nRGNzX1lmeVhoRFRGb2M1T2tkSW1aV1dReXBOSkYwdw?oc=5) holdings despite growing losses from rate hikes, Reuters notes, signaling continued support for government debt.
+• [China conducted](https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0dfNzlVbjdtRVhmWmtKNUVKRkV3ZnZmZjN1MUpONWQ1OVlsSl83Y1Q2RGZ3ZlRPaF84bFVHQWQwVy1yMnJ2UWpTazRiUkU0QWM2ZDVWV2IyYmgtTDlfWVktYzktOGxJcTJrOW9MeUJ0aXo2TlF5QXZUXzdiOEJqYnZxbmFROVJDaGdvVF90S2VaQ29OanQtY2s2ZWJNN1I5VUpBVkNLaFNfLXlldDVpdVhB?oc=5) naval and air patrols around disputed South China Sea territories, per Reuters
 
 ## Government & Policy
 
-• A **Bank of Japan** policymaker is calling for [timely rate](https://news.google.com/rss/articles/CBMirgFBVV85cUxObkxNb09ERmJQSGhsRnYtbkJhdlZtX3lfdHJsak9lRkJWUlVEWU9IM3Vadnl5bmQzcVhfTVYtZ0ZDcEdCWm9RYTZGSXZOMndhODRRS2xFRDBjX2NseEpIdVdlUmlnQldwTm95X3lYMHpBQ0tyeVJ5M3N0a29oek1rSlNqMUVYYlFZRHVnX0dvd2N1RmxtWlp6dG41akZxR3QyU3FRWXoxUXhZVVRKQXc?oc=5) hikes to manage inflation, according to Reuters, adding pressure for the central bank to move beyond ultra-low rates.
-
-• **Japan and the U.S.** have identified [three projects](http://www3.nhk.or.jp/news/html/20260207/k10015045291000.html) as first-wave candidates for the 80 trillion yen investment commitment, NHK reports, including gas-fired power plant construction with ministerial talks expected soon.
-
-## What to Watch
-
-Tomorrow's **general election** polling opens at 7 AM as Japan chooses its next government, with winter weather potentially affecting turnout in key districts.
+• [Figure skating](http://www3.nhk.or.jp/news/html/20260208/k10015046061000.html) team competition saw Japan's Kagiyama Yuma top the men's short program, putting Japan second overall behind the US heading into finals
 
 ## Coverage Flags
 
-Japanese pharmaceutical stocks tumbled after Trump announced a discount drug website, but English-language coverage from Reuters appears more detailed than domestic Japanese outlets on the specific market impact and company responses.
+The election coverage shows strong alignment between Japanese and international outlets, with both emphasizing the referendum nature of today's vote. The Olympic success is getting extensive play on NHK's social media, with multiple celebratory posts highlighting Japan's medal haul.
 
 ## Sources
 
-• [NHK World](http://www3.nhk.or.jp/news/html/20260207/k10015045461000.html)
-• [Japan Times](https://www.japantimes.co.jp/olympics/2026/02/07/us-leading-skating-japan/)
-• [Reuters Japan](https://news.google.com/rss/articles/CBMitgFBVV85cUxQd3d6RVZXLVFNV3ZjdWktN1Q0UjR1Unp1Mm1tLUZWZXUzUXU1TEhwa0t2MXBMM2NOenNOSDl4cHliOU1pWmdrU180OWhnUWZlLW5NQWZ5a2JZZU1NQWFDMWsxcXE1RjFnSy1hLUVwaUQwdk9HVmw1aHJjZ2dqMnNoM0Q2b1p0LVJoMUh5T1pCR1V0SmdXd3I5ZW5zMkxybUExY3RkZ0pJdHR1SzR2elhaYTFnNnlGQQ?oc=5)
+• [NHK World](http://www3.nhk.or.jp/news/html/20260208/k10015046081000.html) - Heavy snow warnings
+• [Japan Times](https://www.japantimes.co.jp/news/2026/02/08/japan/politics/voters-head-to-polls/) - Election coverage  
+• [Reuters Japan](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTjNBMUpKY1gta0FhTnBIRGFSQ1o1UDNPaG1tckRXSFBRemV0SUVidzZBUnhCTmR6MTN0bHNsX2x5bXhGa3czOEUwRExaNDR5c1FxcFY4ZmVXTS11R0gxTkZWM2NVNGswUXFnbFZuS3F4ZVl1TUk2bjJuZzVvRVk4U255VHZlaDZyeGtuallINmNoYnllTjF4UWRhQVJfdWsyNm5IX0x4M3hZSzVVREEweDFXQ3RpclIxeUxWUHdzN0M4UUhXV0lKYjB5UW0yVXdYM1RYZEhTSQ?oc=5) - Toyota, China patrols
 
-*Screenshots captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages; Takaichi Sanae, NHK Ohayou Twitter feeds; FT Asia, WSJ Asia, Economist Asia homepages*
+*Reference materials: Screenshots captured from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from @takaichi_sanae and @nhk_ohayou, and international outlets FT Asia, WSJ Asia, and Economist Asia.*

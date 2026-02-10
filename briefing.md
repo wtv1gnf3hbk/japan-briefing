@@ -1,32 +1,31 @@
-Good morning from Tokyo. Japan is riding high at the Milan-Cortina Olympics with a trio of medals overnight, while Prime Minister Takaichi capitalizes on her landslide election victory to push through campaign promises. The momentum from her historic win is translating into both policy action and market enthusiasm, though her plans for deeper engagement with NATO on Ukraine support signal a more assertive international stance.
+Good morning from Tokyo. Japan is on a medal run at the Milan-Cortina Olympics, building momentum heading into key figure skating events. The country [secured bronze](http://www3.nhk.or.jp/news/html/20260211/k10015048881000.html) in the mixed team ski jumping event yesterday—its first medal in this relatively new Olympic discipline—while figure skater Yuma Kagiyama [positioned himself](http://www3.nhk.or.jp/news/html/20260211/k10015048991000.html) strongly in second place after the men's short program.
 
-Snowboarder Kokomo Murase made history by winning Japan's [first Olympic gold](http://www3.nhk.or.jp/news/html/20260210/k10015047911000.html) in women's big air, according to NHK. Speed skater Miho Takagi claimed [bronze in](http://www3.nhk.or.jp/news/html/20260210/k10015047811000.html) the 1000m for her third consecutive Olympic medal in the event, while ski jumper Ren Nikaido took [bronze on](http://www3.nhk.or.jp/news/html/20260210/k10015047851000.html) the normal hill in his Olympic debut. The medal haul provides a welcome boost for Japan early in the Games, though veteran jumper Ryoyu Kobayashi finished a disappointing eighth in his bid for back-to-back golds.
+The ski jumping triumph featured standout performances from the full Japanese squad, including Sara Takanashi and Ryoyu Kobayashi, marking a breakthrough in a sport where Japan has traditionally excelled individually but struggled in team formats. For figure skating, Kagiyama's strong opening puts him in medal contention ahead of today's free skate, though [Japan's women's ice hockey team](https://www.japantimes.co.jp/olympics/2026/02/11/smile-japan-olympics-eliminated/) faced an early Olympic exit, raising questions about the program's development compared to rapidly improving European competitors.
 
-## Business & Markets
+**Business & Markets**
 
-• Japanese stocks surged to historic highs, with the Nikkei [surpassing 56,000](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUC1wWWU1ak54TFZKM0h2bURNV2xscGdLU2RkMVVKZ1hETUJlTjFBSERTZ1hwWnl1clBKQjJsNEh1YVJ2bzF4eVE1djRkZDZ1RnlVUm1FZDF2dVR3YVBSRGxtclF0WXJ0dDhCbklYT19IUzZ0c3U5UW1ETjNEa0tfeGNja2dlVnZIQmcxd3hoSVZLbzZSVVA2M0dCdE8tWFBuc0tubzA5V3l6RmE2THRPSGpOTWN5TXZqWkFFNEQ2OA?oc=5) for the first time as investors bet on Takaichi's stimulus promises, Reuters reports.
+• The yen [continued strengthening](http://www3.nhk.or.jp/news/html/20260211/k10015048971000.html) overnight, hitting 154 to the dollar in New York trading as concerns about slowing U.S. consumer spending drove investors toward the Japanese currency
 
-• The yen [strengthened against](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRW9HNXptUmJGR3V4dThsRmF0dnJVd0plc3dmM0NzU1dxbVFaaThqTzN5RUN1dGljUkxBYlBpMzBCdURHdlNrcGFnUGRfSlhIQkhEcGw0V1lvVjNLNWk5ZEVpMVJKbnJCczBDdkFjaU5MTU5QNWdYV2hFcmdZZFJNSGxRVnlSNnIxSzJMNU82cTB3M0pjT3BaYzVxOTFlQzJGeEhIckdUR1k0N2dua05rYlZSeThpc194OEdaa09FdHN5Rm0wWkxZ?oc=5) the dollar following the election results, while super-long bonds held steady as markets viewed Takaichi's stimulus plans as "responsible," according to Reuters.
+• Finance Minister Suzuki [indicated](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDlWQ2Rya3pWSzQ4NVZtQjVPS2hGa0Q1eVUtSGpIVjNybTBMQmx6YTVucjJkNHlHY3liZGxtZ1hudVhXaFZkdlhUbEJhVC1NUC13MGVBWS1xM0ZhVGxTQnM5NkFJbndyS2xMU1hiZXJOM3o3d05ZMXkzMVpJeGZJUG1yQ1JFSkgyWnJJSW9yNHlDUGpXVG9yV2lrUTNwcHRjLThhMXpDaHBKQzNhVThBT3FOTlhIWXVuZGdITmRNUllkbE9hdzd5dEtRVF9zVHM?oc=5) that surplus funds from foreign exchange reserves could be discussed as a potential funding source, per Reuters, though he provided no specifics on timing or amounts
 
-• Global stock indexes [gained alongside](https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1Q0QWZ5V3hQLU1ma0l0NFR3NWFUc0pvM0I2WFh3QWJiVUtDa0FISzdJNm52S2s4UFRCVkdicWhyQk5ZYlU3NXZKTjV1SnJfOTNIRTBRVWhWbllJRkExRlU1SUMySmw1WEFxd2p2Y3RvLUhqMC1QUDNKVFJHVzJHcnpDUQ?oc=5) US technology shares, with silver jumping, per Reuters coverage of Monday trading.
+• Indian pharmaceutical company Lupin [settled](https://news.google.com/rss/articles/CBMi5wFBVV95cUxORmxlTDl2VW9aenZBRFM2a3Zfdi05aUJ4RXlxY1NVM2dRV3RmS1hjSThEdTdmWGRhZFNveGkzQy1vQS1YcVloSUpCUmJYVTlOOVNGUFNqVTVXbXc3VkdvOGR3US1hOHhLOTdveFlNMm9nbTBUUlJsWGI0U040QmRJZXNueVhjVlo0eUxwclFIQWxiZDEydDJFTGctanM5QVExOFFoc2N4TXlubEpiLURaOEJCU2lURVlyWHBxa3ozRmhLelVTXzVDbTVSdDVEQmxRb2ZXMUN4Y2pRa2JuQWFOUGVBcjBGUVU?oc=5) a U.S. patent dispute with Japan's Astellas Pharma for $90 million, according to Reuters
 
-• Reuters analysis suggests Takaichi's [landslide victory](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnBEMGlLM1Q0S29DRlUzSEw3QmFnclNScDkxLUhxWUxYbzF4bWk0VlROSm54cEJDdzVPWk9RTVlybFBRdlV2Yk9VOGVCeG5qdFRLckJvRmVxUENJSlliZ05hOE1JaE8wMHNfb05mU1Flc1RxdklrV0dwZUUySzNybUYwVU9ZN1M0WXBXMHM3MF82WThrenZ1bXBkMC02R2JzUTkzSXBJRllqbGVsa3BrMTVrWXFTQWFu?oc=5) clears the path for tax cuts and other campaign promises, though markets remain the key constraint.
+**Government & Policy**
 
-## Government & Policy
+• The ruling Liberal Democratic Party [appears set](http://www3.nhk.or.jp/news/html/20260211/k10015048711000.html) to control nearly all key parliamentary committee chairs when the special Diet session convenes February 18, including the crucial budget committee, reflecting the party's decisive election victory
 
-• Japan has decided to [join NATO](http://www3.nhk.or.jp/news/html/20260210/k10015047881000.html) procurement framework for Ukraine support, multiple NATO officials told NHK. Japanese funds will be limited to purchasing non-lethal defense equipment under the US-led weapons acquisition program.
+• The Transport Ministry [issued new guidelines](http://www3.nhk.or.jp/news/html/20260211/k10015048741000.html) requiring local governments to track the nationality of foreign residents applying for public housing, following the government's updated foreign policy framework
 
-• Takaichi is [accelerating policy](http://www3.nhk.or.jp/news/html/20260210/k10015047831000.html) reviews for campaign promises including temporary food tax cuts, NHK reports. She plans careful consensus-building with opposition parties in the upper house, where the ruling coalition lacks a majority.
+**Coverage Flags**
 
-• The centrist opposition will [hold leadership](http://www3.nhk.or.jp/news/html/20260210/k10015047821000.html) elections soon after suffering major losses, with former Democratic Party executives Kenta Izumi and Junya Ogawa emerging as potential candidates, according to NHK.
+Reuters appears to be ahead of Japanese outlets on the Finance Ministry's foreign exchange reserve comments, which could warrant follow-up reporting given the yen's recent strength and potential policy implications.
 
-## Coverage Flags
+**Sources**
 
-Reuters has been particularly aggressive in analyzing the China implications of Takaichi's win, noting her election victory could mean ["more beef with Beijing"](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWHRHQWtsSUo2cWtIZzFYUjZkRlliWWEzcURTVFFlVG5lcFE0ZHM0SUg0aVh4aVprMEg0SGQwSGtEMERKVFB4a0ZRMnFmeVpRMHBreWl6T2UxYUpwYTdURXM4T3FraW1OSGd6bWVfNHI0dnUxOWVDaUxwZEF1Ukl3c2RoZnUxMTBQaUNHbGNqaXV3eFl5bDRZMndRalgyd0trZC15WjNZc3JMQTNj?oc=5) while Beijing predictably responded that its Japan policy would not change based on "one election." The NATO Ukraine story may warrant deeper reporting on Japan's evolving security role.
+• [NHK World - Kagiyama figure skating](http://www3.nhk.or.jp/news/html/20260211/k10015048991000.html)
+• [NHK World - Ski jumping bronze](http://www3.nhk.or.jp/news/html/20260211/k10015048881000.html)
+• [NHK World - Yen strength](http://www3.nhk.or.jp/news/html/20260211/k10015048971000.html)
+• [Japan Times - Ice hockey analysis](https://www.japantimes.co.jp/olympics/2026/02/11/smile-japan-olympics-eliminated/)
+• [Reuters - Finance Minister comments](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDlWQ2Rya3pWSzQ4NVZtQjVPS2hGa0Q1eVUtSGpIVjNybTBMQmx6YTVucjJkNHlHY3liZGxtZ1hudVhXaFZkdlhUbEJhVC1NUC13MGVBWS1xM0ZhVGxTQnM5NkFJbndyS2xMU1hiZXJOM3o3d05ZMXkzMVpJeGZJUG1yQ1JFSkgyWnJJSW9yNHlDUGpXVG9yV2lrUTNwcHRjLThhMXpDaHBKQzNhVThBT3FOTlhIWXVuZGdITmRNUllkbE9hdzd5dEtRVF9zVHM?oc=5)
 
-## Sources
-
-• [NHK World](http://www3.nhk.or.jp/news/html/20260210/k10015047911000.html) - Olympic medals, NATO participation, domestic politics
-• [Reuters Japan](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUC1wWWU1ak54TFZKM0h2bURNV2xscGdLU2RkMVVKZ1hETUJlTjFBSERTZ1hwWnl1clBKQjJsNEh1YVJ2bzF4eVE1djRkZDZ1RnlVUm1FZDF2dVR3YVBSRGxtclF0WXJ0dDhCbklYT19IUzZ0c3U5UW1ETjNEa0tfeGNja2dlVnZIQmcxd3hoSVZLbzZSVVA2M0dCdE8tWFBuc0tubzA5V3l6RmE2THRPSGpOTWN5TXZqWkFFNEQ2OA?oc=5) - Market reactions, China analysis
-
-*Screenshots captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages; Twitter feeds from PM Takaichi and NHK Ohayou; FT Asia, WSJ Asia, Economist Asia pages*
+*Homepage screenshots captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan. Twitter feeds monitored: @takaichi_sanae, @nhk_ohayou*

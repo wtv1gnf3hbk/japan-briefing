@@ -1,31 +1,24 @@
-Good morning from Tokyo. Japan's Olympic momentum continues to build at the Milan-Cortina Games, but the weekend brought darker news closer to home. Ski jumper Ren Nikaido [claimed silver](http://www3.nhk.or.jp/news/html/20260215/k10015052121000.html) in the men's large hill event, marking his third medal of the games after earlier bronze wins in normal hill and mixed team events. The achievement comes as Japanese winter sports athletes are delivering their strongest Olympic performance in years.
+Good morning from Tokyo. Japan's Olympic momentum continues to build at Milan-Cortina, with [speed skater](http://www3.nhk.or.jp/news/html/20260216/k10015052781000.html) Miho Takagi claiming bronze in the women's 500m early this morning — her second medal of these Games and ninth Olympic medal overall, setting a new record for most medals by a Japanese female Olympian. The [Japan Times reports](https://www.japantimes.co.jp/olympics/2026/02/16/takagi-bronze-500/) Takagi will have two more medal opportunities ahead. Meanwhile, figure skating pair Riku Miura and Ryuichi Kihara — known as "RikuRyu" — sit in fifth place after the short program following an uncharacteristic error on their signature lift, though they advance to the [free skate](http://www3.nhk.or.jp/news/html/20260216/k10015052871000.html) with medal hopes intact.
 
-That Olympic success, however, contrasts sharply with a deadly stabbing in Osaka's Dotonbori district late Saturday night. Police are hunting for a man in his twenties who [stabbed three](http://www3.nhk.or.jp/news/html/20260215/k10015052111000.html) teenage victims, killing a 17-year-old boy and injuring two others before fleeing the scene. The attack in one of Japan's most bustling entertainment districts underscores growing concerns about public safety, particularly as crime statistics released this weekend show [special fraud cases](http://www3.nhk.or.jp/news/html/20260215/k10015051951000.html) and SNS-based investment scams hit record highs last year, contributing to 770,000 reported crimes nationwide.
+Domestically, a [deadly stabbing](http://www3.nhk.or.jp/news/html/20260216/k10015052661000.html) in Osaka's Dotonbori district has revealed new details about the group dynamics behind the attack that killed one 17-year-old and injured two others Friday night. Police say the 21-year-old suspect got into an argument with the victims while in a group of seven to eight people, highlighting ongoing concerns about youth violence in Japan's entertainment districts.
 
 **Business & Markets**
 
-• Chinese tourists may bypass Japan during the week-long Spring Festival holiday that [began today](http://www3.nhk.or.jp/news/html/20260215/k10015051831000.html), with Beijing's travel advisories dampening what traditionally represents a major boost for Japanese retailers and hotels.
+• Japanese automakers are struggling with American trade pressures, according to [nine-month earnings](http://www3.nhk.or.jp/news/html/20260216/k10015052611000.html) released by NHK — three major companies posted final losses, with executives citing both U.S. tariff measures and growing concerns about securing rare earth supplies as key challenges ahead.
 
-• A Los Angeles museum has opened an [immersive exhibit](https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFpqYzRTM0daNDJkZVJZOG1CT3lsUG90SWRQNkx3TWpzOEk0ckNjelRSREVpNmIxaW5XSFhnOE0ybFpHVTZWeWdhLXlvRHE2SW04U0hCMUZ4Z19qSzRrUVFRbXByMzR5T1NyU2dXS3lvcEw4NzFTLVUzdjFkVXZEcVdpemNZUkQwdUMwVl96WjNmRDc0c0kwOTNkTmlfamNoUkc4Zk1kOXRwWE8zdk8tNWJ2ZjRnc21hbFo2ODNudFlfaEg2b0E?oc=5) featuring Hayao Miyazaki's "Ponyo," highlighting continued global appetite for Japanese cultural exports.
-
-• Figure skating delivered mixed results for Japan at the Olympics, with [silver and bronze](https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1FpSWkwTkR1RGtUUUNPUHdmRGJuNk5fdHpVN3lmX2ZqSnRqU1RIdkFKN3pGTWZwck1GZ1hhUGhOVllXNElmNV9GZk1Lb0h5T1ZxaXJLNEs2ZXY3MHdoQmdfTEJFRU50cDNGVGtEa3ZVeldPa2swVGNyaGVMR2Eya29zaGJ5d3BQMUIxd0N4dGh4LWpFcDBKYmxtNkdQandEbXp0MHA2aDEzQ0M1dlE?oc=5) medals in what Reuters describes as a "bittersweet night for Kagiyama," suggesting the favored Japanese skater may have underperformed.
-
-• China's top diplomat warned against ["knee-jerk" calls](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjRXVnY3cU85OHpEcDBINU44Y3BRdkxzRDZfaDVBRjRkY0hST1ZyMEV4SzlHb0xoWXp4LVYyNVhIbUNxU2g3b3lUelBpQklIYWdNQ2NhVk9ZWGEtb29zQld4T3o3NGdkY1A4aUpNekRpNUJDRTF5Z2FHWktuYWJuWjE1WVVRYUJDeG1yNFpHaDlpUnk3MUhraTVHT0FvdW5xUUdIVGpOa0RGaVRM?oc=5) for economic decoupling, as Chinese AI models mark Spring Festival a year after the DeepSeek shock rattled global tech markets.
+• Tokyo Electric Power began [trial power generation](http://www3.nhk.or.jp/news/html/20260216/k10015052641000.html) at the Kashiwazaki-Kariwa nuclear plant's Unit 6 reactor at 3 a.m. this morning, with full-scale generation expected as early as tonight if testing proceeds smoothly — a significant step toward commercial operation of the long-delayed facility.
 
 **Government & Policy**
 
-• Secretary of State Marco Rubio struck a [more conciliatory tone](https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWVEQW8ySkZIRUtWTzdHbVF3a0xDSGVVYTVjRE9fdlZjbG5XdDZTVFA0aTBpQVpZZ2VVeHFxNlYwTUpEbnRDQlFPdmcwQ0lzc19kUm9jN3BQRmoyeFNlemNpZWdtb21SdVhtUklWckJORmFlRUJOZjdURHJmVGMteDJDbDNiamZ4LTRGVXpsSWY1dW55dGdXZ3dqR1lMYnBlWUQ5dmFmdnJWYWJnSFE?oc=5) toward European allies at the Munich Security Conference while still pressing for increased defense spending, per NHK reports showing tensions over Greenland and other territorial issues have strained US-Europe relations.
-
-• Temperatures across Japan will rise to [April-like levels](http://www3.nhk.or.jp/news/html/20260215/k10015052221000.html) today, prompting warnings about rapid snow melt and potential avalanches in heavy-snow regions.
+• The extraordinary Diet session convenes Tuesday with the ruling Liberal Democratic Party, which secured a two-thirds majority in the lower house, pushing to [accelerate deliberations](http://www3.nhk.or.jp/news/html/20260216/k10015052631000.html) on the new fiscal year budget while opposition parties demand more careful parliamentary procedures.
 
 **Coverage Flags**
 
-International outlets appear ahead on Olympic figure skating details, with Reuters providing more specific context on Japanese skaters' performances than domestic coverage currently available.
+The "Luffy" robbery case verdict expected today could draw international attention given the cross-border nature of these crimes, particularly the Philippines connection that has become a template for organized crime investigations across Asia.
 
 **Sources**
 
-• [NHK World](http://www3.nhk.or.jp/news/html/20260215/k10015052121000.html)
-• [Japan Times](https://www.japantimes.co.jp/olympics/2026/02/15/nikaido-ski-jumping-silver/)
-• [Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1FpSWkwTkR1RGtUUUNPUHdmRGJuNk5fdHpVN3lmX2ZqSnRqU1RIdkFKN3pGTWZwck1GZ1hhUGhOVllXNElmNV9GZk1Lb0h5T1ZxaXJLNEs2ZXY3MHdoQmdfTEJFRU50cDNGVGt)
+• [NHK World](http://www3.nhk.or.jp/news/html/20260216/k10015052781000.html) — Olympic and domestic coverage
+• [Japan Times](https://www.japantimes.co.jp/olympics/2026/02/16/takagi-bronze-500/) — Olympic analysis
 
-*Screenshot references available: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages; Takaichi Sanae, NHK Ohayou Twitter feeds; FT Asia, WSJ Asia, Economist Asia.*
+*Reference materials: Screenshots captured from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages; Twitter feeds from Sanae Takaichi and NHK Ohayou; international outlets FT Asia, WSJ Asia, Economist Asia*

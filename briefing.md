@@ -1,22 +1,31 @@
-Good morning, Javier. Japan is making headlines on two fronts today: diplomatic deal-making with Trump and Olympic glory in Milan-Cortina. President Trump [announced yesterday](https://www3.nhk.or.jp/news/html/20260218/k10015054771000.html) that he has selected the first batch of projects for Japan's massive 80 trillion yen investment commitment to the US, focusing on oil, gas, and critical minerals ventures. The timing is strategic, coming just a month before Prime Minister Takaichi's planned White House visit. Meanwhile, Japan continues its best Olympic performance ever, with the medal count reaching 19 — surpassing the previous record from Beijing — after the women's speed skating team pursuit squad [claimed bronze](https://www3.nhk.or.jp/news/html/20260218/k10015054651000.html) for their third consecutive Games medal in the discipline.
+Good morning, Javier. Japan just made Winter Olympic history overnight, and there's significant political movement happening in Tokyo that deserves your attention.
 
-The Olympic momentum builds ahead of tonight's figure skating women's free program, where 17-year-old newcomer Ami Nakai [sits atop](https://www3.nhk.or.jp/news/html/20260218/k10015054741000.html) the leaderboard after nailing a triple axel in her short program debut. Veteran Kaori Sakamoto trails in second, setting up what could be a Japanese one-two finish. Back home, the political machinery churns as the special Diet session convenes today to formally install Takaichi as the 105th prime minister, with her [second cabinet](https://www3.nhk.or.jp/news/html/20260218/k10015054631000.html) expected to take shape by evening.
+At the Milano Cortina Olympics, 19-year-old Mari Fukada [claimed gold](http://www3.nhk.or.jp/news/html/20260218/k10015055581000.html) in women's snowboard slopestyle, making her the youngest Japanese woman ever to win Winter Olympic gold. Kokona Murase added bronze in the same event. This gives Japan five golds at these Games, tying the record set at Nagano 1998 on home soil. The breakthrough is particularly significant because it comes in snowboarding, a sport where Japan has been building depth for years but hadn't achieved this level of success at the Olympics.
+
+Meanwhile, Prime Minister Sanae Takaichi's [second cabinet](http://www3.nhk.or.jp/news/html/20260219/k10015055421000.html) officially launched yesterday with her expressing strong determination to pass the fiscal year budget before March ends. This comes as Japan and the US continue expanding their strategic investment partnership, with officials now [working on](http://www3.nhk.or.jp/news/html/20260219/k10015055431000.html) a second round of projects that includes next-generation nuclear reactor construction. The timing is notable given broader US-Japan coordination as Trump administration tensions with Iran escalate.
 
 **Business & Markets**
-• AI demand is driving a memory chip shortage that could push smartphone and PC prices [up 6-8%](https://www3.nhk.or.jp/news/html/20260218/k10015054601000.html) this year, according to private research firms — a development that could hit Japanese consumer electronics companies particularly hard
-• Fresh vegetable imports surged [more than 20%](https://www3.nhk.or.jp/news/html/20260218/k10015054611000.html) last year as weather disruptions sent domestic produce prices soaring, forcing businesses to rely heavily on foreign suppliers
-• Environmental concerns emerge in Ishikawa after a Tokyo chemical company reported that groundwater at its Hakusan facility contained PFOS and PFOA levels [1,992 times higher](https://www3.nhk.or.jp/news/html/20260218/k10015054621000.html) than national guidelines
-• Market sentiment remains cautious as [geopolitical tensions](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVnpwMkVCcmt4MUtiQXlULXc3SF9rR3lPOVh4c3BETFdMYWdYeVRJbFl4N3lKN3Q0R3hQY3FMWnFXX09rc05uRFdCZzZ2QlgtYW9XekQxU21LR1ZsLWJQVU9JWG5yZDlQUXQ2cE1DSDlTWlFVeVFHYVRmRXdkTnZlczFDQUluUzNMUWoyZl8yMmlXMTVKUFFzanNmbmtsb01fQmU0QlZybzhIZjBnczhqR19zQXM2dFRDZUZF?oc=5) drive risk-off sentiment, strengthening the dollar against regional currencies
 
-**What to Watch**
-Takaichi's cabinet appointments tonight will signal her policy priorities and potential shifts from the previous administration, particularly on economic stimulus measures and the US relationship.
+• The IMF is [urging Japan](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWQxUGhCMkRZU0xfcmNRS0o2Tk5PWllNaUw0TmtnbjVzR2d3aF9QdW1MeHJCN3B4WWp1bXlsdURlbklUQ29nanZwLUI0dUM0THVNanRNUTlBUkhIckR4QmVsbzFBX1ZvTWlYTEl3akdPWUdlQWpURnVvM29wMmgtWXB0cGVWZ3NlaURTS2N0dVN4RFVZSHFIYUh1Uk03LXhCaFlXZkc1QWV3XzBFOWRoUWRn?oc=5) to continue raising interest rates and avoid reducing the sales tax, according to Reuters reporting that appears ahead of Japanese outlets on this IMF assessment.
+
+• Markets are showing mixed signals with [geopolitical jitters](https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0xqOGVuOWFETzZfRWlVSDZ6Z3Fkcm5hQW9JZmxZUF8yVlhwNk9pR1BVZGVLcWZUVjNmZzNLNFY5R1l2NTU1RGhMbjEtMkZ1d19iTlpUSmJIS3hJQnFZcmZ0SUVTT0RzMXFNaVVpcE1EWS1nNEZscV9ad3d0U1QyRWRBRQ?oc=5) boosting oil and gold prices as US stocks followed European gains higher, per Reuters.
+
+• The dollar strengthened after Fed minutes while the euro weakened on [reports](https://news.google.com/rss/articles/CBMisAFBVV85cUxPQ2tTZ2JiYmJ3T3IwdmxmbjdZX2FITENobm1JNDc2cTJBWFk3NEc1NXFNa3hUSnZOdk9zaXNsa0VPeVRCbzFqNWdwRWdlQ0U0ZnpUTWUxN3pPQ3ZfSEEtQTRCb1FxdDRELW41Z2J4U0pIaVNKcmxiOWZVUnlFalg3YlpSMWx1T2lMZDM1T2xpNkp5SkFJR0dKNXVqMThNODBBYm1KNU1QWnE4UG9wN0wyTg?oc=5) that the ECB chief may leave, Reuters notes.
+
+**Government & Policy**
+
+• The health ministry's expert panel meets today to [decide whether](http://www3.nhk.or.jp/news/html/20260219/k10015055311000.html) to approve two iPS cell-based treatments for heart disease and Parkinson's disease, which would mark the world's first practical application of iPS cell therapy.
+
+• The education ministry has [relaxed enrollment](http://www3.nhk.or.jp/news/html/20260219/k10015055441000.html) caps for international students at three national universities including Tohoku University as Japan intensifies competition for global talent.
 
 **Coverage Flags**
-The Japan Times has [solid English coverage](https://www.japantimes.co.jp/news/2026/02/18/japan/politics/tang-trump-japan-deal/) of the Trump investment announcement, while Reuters is ahead on the figure skating [pairs gold medal](https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHVULW9nQU5FX1ZrYlZvNXBkWHBBcmpUdkRKaE1JX0JsdVZmOV80X2dxNzRlZ203TGF5ZlJVUmVBZkNxWjNRUXhOakMxSFI1VmVKWndOUmFUeVlhb2FHLWRCUG9VQjBQSVY0TGxHaGVrWWFMQ1YtcnJrcmpMYm5qSkJDUTdkeDVKOExmaUZmQUFhS3I3SnpHc0pnLTZxM3haOU9wRFNmb2RCOHdXek1NRk1CRTB5aXpTODVpYg?oc=5) story from yesterday.
+
+The Reuters IMF assessment on Japan's monetary policy appears to be running ahead of Japanese media coverage. The iPS cell approval decision happening today could be globally significant and warrants close attention.
 
 **Sources**
-• [NHK World](https://www3.nhk.or.jp/news/html/20260218/k10015054771000.html)
-• [Japan Times](https://www.japantimes.co.jp/news/2026/02/18/japan/politics/tang-trump-japan-deal/)
-• [Reuters Japan](https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHVULW9nQU5FX1ZrYlZvNXBkWHBBcmpUdkRKaE1JX0JsdVZmOV80X2dxNzRlZ203TGF5ZlJVUmVBZkNxWjNRUXhOakMxSFI1VmVKWndOUmFUeVlhb2FHLWRCUG9VQjBQSVY0TGxHaGVrWWFMQ1YtcnJrcmpMYm5qSkJDUTdkeDVKOExmaUZmQUFhS3I3SnpHc0pnLTZxM3haOU9wRFNmb2RCOHdXek1NRk1CRTB5aXpTODVpYg?oc=5)
 
-*Homepage screenshots captured from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, and BuzzFeed Japan. Twitter feeds monitored include @takaichi_sanae and @nhk_ohayou.*
+• [NHK World](http://www3.nhk.or.jp/news/html/20260218/k10015055581000.html)
+• [Japan Times](https://www.japantimes.co.jp/olympics/2026/02/19/canada-czechia-quarterfinals/)  
+• [Reuters Japan](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWQxUGhCMkRZU0xfcmNRS0o2Tk5PWllNaUw0TmtnbjVzR2d3aF9QdW1MeHJCN3B4WWp1bXlsdURlbklUQ29nanZwLUI0dUM0THVNanRNUTlBUkhIckR4QmVsbzFBX1ZvTWlYTEl3akdPWUdlQWpURnVvM29wMmgtWXB0cGVWZ3NlaURTS2N0dVN4RFVZSHFIYUh1Uk03LXhCaFlXZkc1QWV3XzBFOWRoUWRn?oc=5)
+
+*Homepage screenshots captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan; Twitter feeds monitored: @takaichi_sanae, @nhk_ohayou; International competitor sites: FT Asia, WSJ Asia, Economist Asia*

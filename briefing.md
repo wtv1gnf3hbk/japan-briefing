@@ -1,33 +1,35 @@
-Good morning, Javier. A major legal setback hit Trump's trade agenda yesterday as the U.S. Supreme Court ruled he lacks presidential authority to impose reciprocal tariffs under the International Emergency Economic Powers Act. [NHK reports](http://www3.nhk.or.jp/news/html/20260221/k10015057551000.html) Trump responded defiantly, vowing to sign new orders imposing a flat 10% tariff on foreign goods using different legal authorities. This comes as [Trump prepares](http://www3.nhk.or.jp/news/html/20260221/k10015057781000.html) for a crucial March 31-April 2 visit to China for summit talks with Xi Jinping on trade disputes and Taiwan tensions.
+The U.S. tariff story is dominating everything this morning. President Trump [raised tariffs](http://www3.nhk.or.jp/news/html/20260222/k10015058381000.html) from the planned 10% to 15% on Japan and other major trading partners, calling the move "immediately effective" after the Supreme Court blocked his earlier global tariff plan. The announcement came after what Reuters described as Trump being "furious" over the court ruling, though details remain murky about implementation and scope.
 
-The timing creates fresh uncertainty for Japan Inc., which has been navigating Trump's tariff threats since his return to office. Prime Minister Takaichi has been positioning Japan as a reliable partner while warning against Chinese "coercion" in the region. [Reuters notes](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb2VEaXJ6b2pMM0hadXRZNmp6dUdmdDRMMDE0NE5yeHlSN1ppNUI5NW9mazg2cDQwRGZ3dFZ0bExZSnRZNVZCWDZmeHIxS2d3NXhkZUtGTk9sSy1NcFlSczBxT2dXSzUwOE9oU184ME80QjRIQ3BoN0hlcHZPU1NiaXEwVDJmd0xjeDJYWGExcnc3TjYzMk4tTnV3VmxwS2V5NHI0Slc1TkFKbGJocWc?oc=5) she has promised a security overhaul while reassuring markets with [fiscal pledges](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNGxiV081YXZ2VGJDWnMxSXFKTzhPWWdNbnJFN1BvdmRxUnBtcW1rZHhGSi1TOFZmb01GZmRCREFNX2NMd1hpY2dRWDNVc3dJal9OYXlDN1B4U0cxNmJmYTV4TmdweHZEMUNvQ1duWUxFbmdrcFhsVGJua0JiaE5LU2FfMWQwcUxVUDh2OF9KYXY1VlhFTlVqTFl4WFJYSUFoNzRDMTVVS1V6RFVGdnpTSTljV2RLZDdzaFU1MndwSDRrN2Z2?oc=5) to ditch austerity policies.
+Asian economies are scrambling to assess the impact of what Reuters calls Trump's "fresh tariff moves" creating widespread "confusion" across the region. Taiwan's government [says impact](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0VOYzZxYy1MVTVjdTNEdWRQOTRHM2lMbGlsS2RDUEZUbkhUN2NrbUVkQW5IdC1rbm9DSVJHd0FBZ21WQ1dvLUVXaV9UMkZaVVdFWjRkMDVQVV9zVGo4Y1E5WVFFSDBTMnlFRktPQllDbk8xMWRnT1RDdnlRYUVTbmN6bzlYZWMtQmZ1VHJEUWoyLUZIVkZLWmh0UERGWmNCOXkzaEROYXVQV2c?oc=5) appears "limited" so far, but markets are waiting for Tokyo to open. This follows the U.S. Trade Representative announcing new Section 301 investigations that Reuters reports will [cover most](https://news.google.com/rss/articles/CBMiuAFBVV85cUxPX191cFpsSVM4SDhMVUc0S01xOWlUckJTaUhLcXd0VFNiYllJWFpQU2lOYUs1dm0wWmJDQlRhUy0wOE85c1JOWDBXYmxuSGFJMlNuOTlPZWdfMENvbTdrdEJ5NVcydWhvaHdoWFNvRERDX2xtSFROMlM5ZWdQSzZzVTNUcmhERy1fOUxwSVV6R2M0NnhvSmZJNGh4WnJBc3c1RDJqc3I5X3RrZXZKVjM3Zkl2NmRRNXdy?oc=5) major trading partners.
+
+Domestically, a traditional festival turned dangerous when [three men](http://www3.nhk.or.jp/news/html/20260222/k10015058351000.html) were hospitalized unconscious after injuries at Okayama's "naked festival," where loincloth-clad participants compete for sacred wooden objects. Police are investigating the incident at the centuries-old tradition.
 
 ## Business & Markets
 
-• Japan faces [monetary headaches](https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFIxUWhDZmVJNTlZX2tKNkVHZzhhRk1wVkQwRXVNNklmSmlTbzNtMmV5bHp1aG9UOGp6X2dKeWlGdjFsRDJESG52TDhMLTY5cjVhOVM2blJUWEtydmtCOXdhMnFxbHFFM29TZzE0aDIxVHo1VWFYdEtTY3RhSFJKb1hhd01zMlh1S3Fsd3hYRkdROWlITnp6TmhKVW4yOVdTZjVTSkU5ZUJUbWNzVi1RY3BIbFNQdWZaemRtZ2xYV1o0SHYz?oc=5) as core inflation slowed to a two-year low, complicating Bank of Japan rate-hike timing according to Reuters.
+• A Tokyo company and hospital group [developed](http://www3.nhk.or.jp/news/html/20260222/k10015058191000.html) an AI system that analyzes cervical cancer cells in 3D computer images, promising higher detection accuracy than current screening methods
 
-• Global markets held steady overnight with risk appetite firm, though [US-Iran tensions](https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1ZWQVhic1lydFJSemdISEZEbTFSZ08tNmE0akJCQWNDUWpld0Q0MHVWamEzWVl3YlN6ZXFudC1TbTUwajVpaC1uVF9INWd4MXBVLVdUTDFvdTRKSzlEVVZ1S0dLajhTNlR0NzNJcjd1eS12Q1U5ZFoxcUM4TEFLSzRZbw?oc=5) boosted oil prices per Reuters.
+• Reuters reports that European companies face relief from some U.S. tariffs but with [complications](https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnU1VFN5M3NYbXNDaHpVUU1aZHg5T3RHeDlqVjNBQ25oRlR0X1p3c0hDZU82SVVya3M5MmpJOGhkVmV0bU00SUY5anVUbzRvOWdERTVCTk5MZF9NYk9rQTdJWTM3NTNFOHF0WW9HVmU3a2FrNURxX2Flb0J2OUx4R3BRcmJua3FTR3k2cTBfQl9EX0t3VFlFSi1uQ2g5cm8?oc=5) that create new uncertainties
 
-• Wall Street's exodus continues with international investors [abandoning US assets](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkN2U2RDOThMSURMWG42c1dna1FjZGtnVjVVM1ZNcHhzTkhURFhnYjdwcjBVdkE2dGVWQ1EyWGNDQkZxVFNRUEVTU29hSGdtNnZ6NndmeWJWVG8zWVoybnVBeDhsQUtmaGx6amE4d3A3eXhzVkxxVFhtVGFxalBHN19yM0VQZjAwMkduanNYeUJQYkJUaWxhOUtwb2ZhSFh4a3c?oc=5) faster than expected, Reuters reports.
+• A toymaker is assessing next steps in its Supreme Court battle over [tariff refunds](https://news.google.com/rss/articles/CBMiuwFBVV85cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSys3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1VZmhKZkllbVFEWXBlMW44UDZZUUtldk5OUnowNmpxRndpZzhrUjk4LXA0YzFUNkdqaGtFanAzRExBaVlNc3UzeVc3X3VPNDlIbWZ3Vk9J?oc=5), according to Reuters
 
 ## Government & Policy
 
-• Russia [dismissed prospects](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXBqRmJRRm5FanBVLWJDSHJ5MU1ZOVFYN3VQT0owQzFUVmlCdnMwVHh6VVRVbmp6S0g5c0dpOUt5Q05EU3RVblg0WEczSVQyY2ZRTTVxV0lwY0c1SDBsSGVYc0t5NEFqWHRnZF9rSmRVNmRXaVVlc2RPdmU0UHFrSUwtV0dKampnb2hRRHRmU2MxMkQ3QUpYNFQzaXZ5SU9SMTNBbV93?oc=5) for renewed peace dialogue with Japan over their territorial dispute, according to Reuters.
+• Nippon Ishin proposed [reducing](http://www3.nhk.or.jp/news/html/20260222/k10015058221000.html) Lower House seats by 10% through proportional representation cuts only, drawing opposition criticism about imposing electoral system changes through "force of numbers"
 
-• A fallen Democratic Party candidate was [arrested yesterday](http://www3.nhk.or.jp/news/html/20260220/k10015057721000.html) for allegedly paying university students cash for campaign work during this month's Lower House election, NHK reports.
+• The Supreme Court's check on Trump's executive power demonstrates, per Reuters, broader limits on his [expansive view](https://news.google.com/rss/articles/CBMisAFBVV85cUxPVzdiX3Q2bFIyX1BTR21yMllSR3Y4X2xpQ2dfRTJ4RjkxRDZZNFJkYlpaY0dZRk1saldxQlVfV1Z2SE5vcERyNE9qQk02TnUyMTRadEE5b2FNWmRrV2VMX1NBSFYxZnRkWmpVeW1Ba2l0Nm0tWTBLWmZQdDJjSXJNendMSEg0NENSdmVid0JPZ0l3NnBkSG1iVmtYUkJRUWRZSlp5SHFRM21yVEZVOUpsRw?oc=5) of presidential authority
 
 ## What to Watch
 
-Prime Minister Takaichi delivered her policy speech to the Diet yesterday and faces parliamentary debate this week as her "2.0" cabinet pushes forward with promised security and fiscal reforms.
+The [Osaka Marathon](http://www3.nhk.or.jp/news/html/20260222/k10015058211000.html) takes place today, serving as a qualifier for the Los Angeles Olympics representative selection race, with high-level competition expected.
 
 ## Coverage Flags
 
-International outlets are ahead on Takaichi's broader policy positioning and market reassurances, while Japanese coverage focuses more on ceremonial aspects and individual appointments.
+The Trump tariff story shows interesting divergence: International outlets like Reuters are providing more detailed analysis of the policy mechanics and Asian economic impact, while Japanese outlets focus more on the basic announcement. The cervical cancer AI development seems under-covered internationally and could warrant deeper NYT attention given its global health implications.
 
 ## Sources
 
-• [NHK World](http://www3.nhk.or.jp/news/html/20260221/k10015057551000.html) - Trump tariff ruling
-• [NHK World](http://www3.nhk.or.jp/news/html/20260221/k10015057781000.html) - Trump China visit
-• [NHK World](http://www3.nhk.or.jp/news/html/20260220/k10015057721000.html) - Election violation arrest
-• [Reuters Japan](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb2VEaXJ6b2pMM0hadXRZNmp6dUdmdDRMMDE0NE5yeHlSN1ppNUI5NW9mazg2cDQwRGZ3dFZ0bExZSnRZNVZCWDZmeHIxS2d3NXhkZUtGTk9sSy1NcFlSczBxT2dXSzUwOE9oU184ME80QjRIQ3BoN0hlcHZPU1NiaXEwVDJmd0xjeDJYWGExcnc3TjYzMk4tTnV3VmxwS2V5NHI0Slc1TkFKbGJocWc?oc=5) - Takaichi security warnings
-• [Reuters Japan](https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFIxUWhDZmVJNTlZX2tKNkVHZzhhRk1wVkQwRXVNNklmSmlTbzNtMmV5bHp1aG9UOGp6X2dKeWlGdjFsRDJESG52TDhMLTY5cjVhOVM2blJUWEtydmtCOXdhMnFxbHFFM29TZzE0aDIxVHo1VWFYdEtTY3RhSFJKb1hhd01zMlh1S3Fsd3hYRkdROWlITnp6TmhKVW4yOVdTZjVTSkU5ZUJUbWNzVi1RY3BIbFN
+• [NHK World](http://www3.nhk.or.jp)
+• [Reuters Japan](https://news.google.com/rss)
+• [Japan Times](https://www.japantimes.co.jp)
+
+*Reference materials: Screenshots captured from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from Takaichi Sanae and NHK Ohayou, along with FT Asia, WSJ Asia, and Economist Asia pages.*

@@ -4,27 +4,27 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-02-22T22:32:55.146Z",
-    "generatedTimestamp": 1771799575146
+    "generated": "2026-02-22T23:33:05.995Z",
+    "generatedTimestamp": 1771803185995
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
     "totalStories": 100,
     "totalScreenshots": 11,
-    "elapsed": "79.6s"
+    "elapsed": "69.8s"
   },
   "stories": {
     "all": [
       {
-        "headline": "スカイツリーエレベーター停止で閉じ込め5時間半 20人全員救助",
+        "headline": "スカイツリー エレベーター閉じ込め5時間半 きょう臨時休業",
         "url": "http://www3.nhk.or.jp/news/html/20260222/k10015058721000.html",
         "source": "NHK World",
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Mon, 23 Feb 2026 06:28:48 +0900",
-        "description": "22日夜、「東京スカイツリー」で客が乗ったエレベーターが突然停止し、子どもを含む20人が5時間半余りにわたって中に閉じ込められました。その後、全員が救助されけが人などはいないということで、警視庁などが原因を詳しく調べています。"
+        "date": "Mon, 23 Feb 2026 08:02:42 +0900",
+        "description": "22日夜、「東京スカイツリー」で客が乗ったエレベーターが突然停止し、子どもを含む20人が5時間半余りにわたって中に閉じ込められました。その後、全員が救助されけが人などはいないということで、警視庁などが原因を詳しく調べています。「東京スカイツリー」を運営する会社によりますと、エレベーターが停止した原因の調査や、ほかのエレベーターの点検などを行うため、23日は臨時休業することを決めたということです。"
       },
       {
         "headline": "ミラノ・コルティナオリンピックが閉幕 【詳しく】",
@@ -33,7 +33,7 @@
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Mon, 23 Feb 2026 07:25:26 +0900",
+        "date": "Mon, 23 Feb 2026 07:45:28 +0900",
         "description": "イタリア北部を舞台に大きく4つのエリアに分かれる「広域開催」で行われたミラノ・コルティナオリンピックの閉会式が行われ、17日間にわたる冬のスポーツの祭典が幕を下ろしました。記事後半では閉会式の経過を詳しくお伝えしています。"
       },
       {
@@ -57,14 +57,14 @@
         "description": "天皇陛下は、23日、66歳の誕生日を迎えられました。"
       },
       {
-        "headline": "最高検察庁 「保護観察」付き判決 積極的に求めるよう通知",
-        "url": "http://www3.nhk.or.jp/news/html/20260223/k10015058741000.html",
+        "headline": "文化庁 博物館法 基準改正案めぐり「廃棄検討は慎重に」追記",
+        "url": "http://www3.nhk.or.jp/news/html/20260223/k10015058851000.html",
         "source": "NHK World",
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Mon, 23 Feb 2026 00:12:38 +0900",
-        "description": "罪を犯した人の再犯の防止につなげようと、最高検察庁が、裁判で「保護観察」の付いた判決をこれまでより積極的に求めるよう全国の検察に通知したことが、関係者への取材でわかりました。執行猶予の期間中に指導や支援をすることで、再犯防止や更生につなげるねらいがあります。"
+        "date": "Mon, 23 Feb 2026 08:19:59 +0900",
+        "description": "文化庁が公表した博物館の運営などに関する基準の改正案をめぐり、資料の収集や管理の規定に「廃棄」の文言が盛り込まれたことに対し、一部の学会が文言の削除などを求めていた問題で、文化庁は文言は削除せず「廃棄を検討する場合、長期的かつ総合的な見地から慎重に行う」などと追記した修正案をまとめたことがわかりました。"
       },
       {
         "headline": "トランプ大統領の別荘に侵入試みたか 男を射殺 大統領は不在",
@@ -85,6 +85,26 @@
         "priority": "primary",
         "date": "Mon, 23 Feb 2026 06:14:25 +0900",
         "description": "23日は関東では5月並みの暖かさとなるところがある一方、そのほかの地域では最高気温が22日よりも下がるところが多い見込みで、体調の管理に注意してください。北海道では風が強まり荒れた天気となっていて、暴風や高波に警戒が必要です。"
+      },
+      {
+        "headline": "IN PHOTOS: Japan's defining moments at Milan Cortina",
+        "url": "https://english.kyodonews.net/articles/-/70974",
+        "source": "Kyodo News",
+        "sourceId": "kyodo_english",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 23 Feb 2026 07:58:00 +0900",
+        "description": "Figure skating pair Ryuichi Kihara and Riku Miura captured the hearts of a nation as the Japanese team delivered its most successfRead full story here"
+      },
+      {
+        "headline": "Olympics: Milan Cortina Winter Games end with Japan at new height",
+        "url": "https://english.kyodonews.net/articles/-/71024",
+        "source": "Kyodo News",
+        "sourceId": "kyodo_english",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 23 Feb 2026 07:33:00 +0900",
+        "description": "The curtain came down on the Milan Cortina Winter Olympics with Sunday&#39;s closing ceremony at the ancient Arena di Verona markiRead full story here"
       },
       {
         "headline": "Kyodo News Digest: Feb. 22, 2026",
@@ -165,26 +185,6 @@
         "priority": "primary",
         "date": "Sun, 22 Feb 2026 12:48:00 +0900",
         "description": "The Japanese government plans to expand the market for used goods to around 4.6 trillion yen ($29.7 bllion) in 2030, up 32 percentRead full story here"
-      },
-      {
-        "headline": "Japan's traditional \"naked festival\" leaves 3 attendees unconscious",
-        "url": "https://english.kyodonews.net/articles/-/71007",
-        "source": "Kyodo News",
-        "sourceId": "kyodo_english",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sun, 22 Feb 2026 12:31:00 +0900",
-        "description": "A traditional Japanese festival known for thousands of nearly naked men competing to claim sacred talismans left three men unconscRead full story here"
-      },
-      {
-        "headline": "Internship in English-speaking Niseko provides immersive \"study abroad\"",
-        "url": "https://english.kyodonews.net/articles/-/71005",
-        "source": "Kyodo News",
-        "sourceId": "kyodo_english",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sun, 22 Feb 2026 11:03:00 +0900",
-        "description": "A unique internship program in Hokkaido, under which Japanese university students work and live for a month at the famed Niseko skRead full story here"
       },
       {
         "headline": "Eileen Gu wins Olympic gold in women's freeski halfpipe",
@@ -287,6 +287,16 @@
         "description": "The tiny islets, known as Takeshima in Japan ⁠and Dokdo in South Korea, which controls them, have long been ⁠a source of tension between the neighboring countries."
       },
       {
+        "headline": "Emperor Turns 66 Ahead of Disaster Milestones",
+        "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260223-313031/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 23:06:20 +0000",
+        "description": ""
+      },
+      {
         "headline": "Ukrainian Ambassador Closely Watching Japan’s Revision of Defense Export Rules, Hopes for Future Arms Support",
         "url": "https://japannews.yomiuri.co.jp/world/wider-world/20260223-312922/",
         "source": "Japan News (Yomiuri)",
@@ -307,7 +317,7 @@
         "description": "LONDON — Japan’s major real estate companies are expanding businesses overseas. With the ease of the COVID-19 pandemic and market conditions stabilizing, companies have continued making large-scale in"
       },
       {
-        "headline": "Tokyo Skytree&#8217;s Elevator Stops, Trapping 20 People, Police Say",
+        "headline": "Tokyo Skytree&#8217;s Elevator Stops, Trapping 20 People; All Rescued (Update 1)",
         "url": "https://japannews.yomiuri.co.jp/society/general-news/20260222-313020/",
         "source": "Japan News (Yomiuri)",
         "sourceId": "japan_news_yomiuri",
@@ -377,16 +387,6 @@
         "description": "Tuesday will mark four years since Russia’s aggression against Ukraine began, yet prospects for peace remain elusive."
       },
       {
-        "headline": "‘Storytellers’ Being Dispatched Overseas to Promote Japan; Events Planned in More Than 20 Countries",
-        "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260222-312949/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sun, 22 Feb 2026 07:16:24 +0000",
-        "description": "The Foreign Ministry has launched an initiative to dispatch “storytellers” overseas to convey the appeal and history of Japanese culture, including traditional performing arts and anime."
-      },
-      {
         "headline": "South Korea protests Japanese event over disputed islands - Reuters",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc081SFlCd2RxbGZmS3NlVEVqNENuRXVtUXdnaHJrWHUzTVc3UGotRzJwc21MY0M4UUx5YVB3MWNidjJGLTBVWGp4aWEtRUR4aG83SngybERZSFJLbGdnVERuUGtXMGh3VTNGSlZiMnYyM1ZKM1FxMllPaVhzdGdfd2FNNEIyUHMtcy16aTdDME9rcVV0YUllU1JsOWVNb3k3MlNSLVJURFNCU3E2UFRQcld3?oc=5",
         "source": "Reuters Japan",
@@ -437,6 +437,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UNHRoVTZNOWFFUndnZ2wtNkE1eWRDTUNHdG1EZVNjbmJlTkVvNk5td1JUWVdsRVA1bkFuT1FRNkw5OFhDcE9QdzJhZ1VzSTliNDBvS0t3dEF4dTR1cnFwNTZIbnBLM2c?oc=5\" t"
       },
       {
+        "headline": "Cop turned crime boss, Nemesio 'El Mencho' Oseguera leaves bloody legacy - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM01ndUF4Q242Y05abjdDazR4Mkg1NEIxMjRKazF6T3RuOTFSa3d2OGpudkdBNjd1ZlBPZHM3NTRQM0NCMENxOFBpVGlrWlloM1ZyNW1EWUNpLXBZS3FJX1Fld3hCM2VTZWtrZTl3S0dlMFFabU1jRjdvNHFmOENlM2wzTnlJa2R0bFZRUmVYZlRtOUZSSEtuSEJvYmg2RDNCRVV5MGt3azJFXzhQUWxGMXFxcktEQWlVX2lnYw?oc=5",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 20:54:49 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQM01ndUF4Q242Y05abjdDazR4Mkg1NEIxMjRKazF6T3RuOTFSa3d2OGpudkdBNjd1ZlBPZHM3NTRQM0NCMENxOFBpVGlrWlloM1ZyNW1EWUNpLXBZS3FJX1Fld3hCM2VTZWtrZTl"
+      },
+      {
         "headline": "Tehran is ready for nuclear concessions if US meets demands, Iranian official says - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW9RZnJsVzJSLVVTMFFvaE9uNmtkekE4NW1Iekc3NWNYQlpxUUdZVU5iZUFwN0xPcmNuN2NtTk9wVk1rV2xfbE9uZWhGWHJURm50eDFpWU9INVIyQUZxc3lKNFgweW5KeTRHMm5LdGRvZWZxWnQyZDE0SXB3ay1wZWJ0NVBCX1VEZ2Y5ejJPTlZGdVVtLTJmbllzYnd2NjZ6MWllcF9xRnIycE1KWTU4NGpHeXVZNV9WLUgydW8wUUYwUQ?oc=5",
         "source": "Reuters Japan",
@@ -447,14 +457,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW9RZnJsVzJSLVVTMFFvaE9uNmtkekE4NW1Iekc3NWNYQlpxUUdZVU5iZUFwN0xPcmNuN2NtTk9wVk1rV2xfbE9uZWhGWHJURm50eDFpWU9INVIyQUZxc3lKNFgweW5KeTRHMm5"
       },
       {
-        "headline": "Tariff ruling limits Trump's leverage but won't end uncertainty for trade partners - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDN2UGlDN25SVFBfdktXRmV3aDJERFVNMFI2UUV1dmFzWjcyVFZyelNad01HZXl2eG1ZOHd1RER5cjdjZ2h2bGtSU0xjTHBLb3F4YlJCdjZGTnZGbFpKU3V2NDZfV0t4NkFvcGJmUlRwOEtmd2lMek9FOU9CSFhNYzdyNmhhbVpldHhaWmdTRWVlcmdkOVpOaDBoN0lwdVV0c2lRQUNPY3Bna2hwOUhPd1pIbXdCMFdG?oc=5",
+        "headline": "Exclusive: New US military-led group aided Mexico's hunt for 'El Mencho' cartel boss - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMEkwbDAweURKU2o0MDZZbkZMdGZ3azZrTVVETXV2NzJqN0tOay1xNzE1Snl6NzdtTXA1UmNXQmw1R2t1WHkzRzVXQVZlbFdObWZ2ZU50SjdIR3Q1YkV1ZjNqaHRmLVlTZjByZ3FWdlBYdmpMek52WjdUalM0WENzY2YxYmNJVFJnQnJCME9LdEo3M1l0MTA0dFBHSWJvQWlLNUE4eXlycC1xYjgxZ2drX0xHOXRCN1Fo?oc=5",
         "source": "Reuters Japan",
         "sourceId": "reuters_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 11:07:46 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDN2UGlDN25SVFBfdktXRmV3aDJERFVNMFI2UUV1dmFzWjcyVFZyelNad01HZXl2eG1ZOHd1RER5cjdjZ2h2bGtSU0xjTHBLb3F4YlJCdjZGTnZGbFpKU3V2NDZfV0t4NkFvcGJ"
+        "date": "Sun, 22 Feb 2026 21:42:32 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMEkwbDAweURKU2o0MDZZbkZMdGZ3azZrTVVETXV2NzJqN0tOay1xNzE1Snl6NzdtTXA1UmNXQmw1R2t1WHkzRzVXQVZlbFdObWZ2ZU50SjdIR3Q1YkV1ZjNqaHRmLVlTZjByZ3F"
+      },
+      {
+        "headline": "Russia hits Ukraine energy infrastructure with major missile, drone strikes, Kyiv says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWNiMmdKX3hrVklxLTUwek5DaWV2SnBmczlZWjF5bDZLRVFxdXdyckI3YUF2aWl4RTlyd3lNaWhOaVd0cDlCQ29FVHdWemV0c2VVNmE0MGlYekFZQV9GUnhSaFV0WURxckg1Y2NseURjb3RRcTJLZjR4RUJ3b2o5ZE45XzFrV0hrbEM0OEJPak9weTdqZ1ZTWkpmYnRBU3FzQ1YwbGctT3JKUlVBZ0s0SnloTXhrdDk0SnpwYm1qemVRNV9LUjhHZGNpYw?oc=5",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 06:26:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWNiMmdKX3hrVklxLTUwek5DaWV2SnBmczlZWjF5bDZLRVFxdXdyckI3YUF2aWl4RTlyd3lNaWhOaVd0cDlCQ29FVHdWemV0c2VVNmE0MGlYekFZQV9GUnhSaFV0WURxckg1Y2N"
       },
       {
         "headline": "Supreme Court wades into US-Cuba business disputes, with billions at stake - Reuters",
@@ -467,36 +487,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORGVyQjVTZUZWRkZQQ05TSjdSS1lvVDdYaG5PSmZvZ09hLURwVGtNYlZ6Sm8zZEhzbjBPeEZyemt0d1pwc0JCYlVPWm5TQ3Fial9lck9lTHZQOUhFLVpIWWxKWVRNeWRpc3FjMFV"
       },
       {
-        "headline": "US trade chief says not seeing countries move to pull out of tariff deals - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJpUm1odlhjbjBOZGg4bEZDYjh0U3ViOHROSlktLTNYZDIwQ3ZRajlyWXhObldTa2pOT1p6eTEzMzFYYmZrWjcyclMwcGdsM0QxeUVka1l1RExxcGV5bUVDMzE4bjByNjVxUXV5Z1NaNmthX0lFcE1tc1l6ZkgtdEg4c0xhQk5yVjVrZUU4ZWxUWDRvbHhIaWpvUTRWYUxGVDFfbWRtQVNVVmZHME1aRnktOTdPdjlqa3d3?oc=5",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 14:05:55 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJpUm1odlhjbjBOZGg4bEZDYjh0U3ViOHROSlktLTNYZDIwQ3ZRajlyWXhObldTa2pOT1p6eTEzMzFYYmZrWjcyclMwcGdsM0QxeUVka1l1RExxcGV5bUVDMzE4bjByNjVxUXV"
-      },
-      {
-        "headline": "Afghanistan's ruling Taliban says Pakistan strikes kill, injure dozens - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0tocEVIbUZxbTh6SG1rdFBfRTM5OWdnU0YtS1kwV01vX2JRdzFlWXFneWdpNFBqcmlPem8yYzFYeU1Ta2xybjdRdEdYemo3aTFHZDA3clFRcTYyLXpXWHB6SVlvWndsSXJMRTlVUGJ4REM1bHpqWXM3bnhKTTRNZm9qRThSZXprT3NhZl9KRkVsYkxuMTZ5dmpPNFkwbjNORXBkRFdnMDFrTEVUdkhNcFpmQUFRNTQ?oc=5",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 02:20:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0tocEVIbUZxbTh6SG1rdFBfRTM5OWdnU0YtS1kwV01vX2JRdzFlWXFneWdpNFBqcmlPem8yYzFYeU1Ta2xybjdRdEdYemo3aTFHZDA3clFRcTYyLXpXWHB6SVlvWndsSXJMRTl"
-      },
-      {
-        "headline": "As it happened: 2026 Winter Games closing ceremony - AP News",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0U1c21wNUJWOVI5UC1oa3IwY1BaVllEX1VON1NtMGNpVDZCUWNranBJZHZQelBSdzBDVFRvenpsV2gySmxMSTMzd3dHRmt2MmJTc2RFUTFPNUNFZFRZNnRXVGVKdUMxTm5ZUzhtMGtNVWtHZ1hUMkNMbWg3RWJiTDVyVzVCcnVuVnQ1X2Z3?oc=5",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 22:05:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0U1c21wNUJWOVI5UC1oa3IwY1BaVllEX1VON1NtMGNpVDZCUWNranBJZHZQelBSdzBDVFRvenpsV2gySmxMSTMzd3dHRmt2MmJTc2RFUTFPNUNFZFRZNnRXVGVKdUMxTm5ZUzh"
-      },
-      {
         "headline": "TSA shuts down Global Entry as the partial government shutdown drags on - AP News",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb291dUtuMWoxamZNdUJtMENnal9hLU94Wm9tRXRTcGVaTnRkaEl2Z3RVWVhFU2JWcHE4YmRVN0NKdGU3Uk84eHhiaWxjWW1qWkVWNGd2MTBkb3RUM0Nha3ZBakVwYTZYa2VZMVFRdDlyZ0xyZ3J6R0hEdGRSb2prS3AyQTVjdmY0d0dEc1MxY0pSUVp2SmZ0Mk9uS0hfQ0Jwc3JpWWt3?oc=5",
         "source": "AP Japan",
@@ -507,14 +497,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPb291dUtuMWoxamZNdUJtMENnal9hLU94Wm9tRXRTcGVaTnRkaEl2Z3RVWVhFU2JWcHE4YmRVN0NKdGU3Uk84eHhiaWxjWW1qWkVWNGd2MTBkb3RUM0Nha3ZBakVwYTZYa2VZMVF"
       },
       {
-        "headline": "Goepper walks away with knee sprain, hurt shin after crash in all-or-nothing Olympic halfpipe gamble - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDFuNndDemxaYmRlR0Vqd2M4OWFJSHNZbEtXVFZmUUJjdk04bFRfbkd3dDZnem9jdjJ1aHBkd0hxVzd6SURMcWJkbXJVNGNNSHJlQmxXVENaZmdIRGpBMTlrRHNSVEwxTnUtX3RMNkJhSFUyT2hINWN2ODRKNmlfMGtXLVZiRmRKLUE?oc=5",
+        "headline": "Blizzard warnings cascade across East Coast with winter storm’s approach - AP News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnctd1BOeTBSQUNVVmJlQ2lXUjJ6bWpvNEFablV4YmNDTFN2cVRnOHVjbVJLcGpNX2lCcXJvM3Blb1Nmc1lkUHVNU2QzYm9oODR4bUdPWExOZHU5WTdNTmlSX1MteWgteDdjckVNYlRJSF84NUZMb2pQbXMxWDNTOTlYMW5QMmg1Mm5uUWJLWVVpa3Fl?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sat, 21 Feb 2026 22:41:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDFuNndDemxaYmRlR0Vqd2M4OWFJSHNZbEtXVFZmUUJjdk04bFRfbkd3dDZnem9jdjJ1aHBkd0hxVzd6SURMcWJkbXJVNGNNSHJlQmxXVENaZmdIRGpBMTlrRHNSVEwxTnUtX3R"
+        "date": "Sun, 22 Feb 2026 20:25:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnctd1BOeTBSQUNVVmJlQ2lXUjJ6bWpvNEFablV4YmNDTFN2cVRnOHVjbVJLcGpNX2lCcXJvM3Blb1Nmc1lkUHVNU2QzYm9oODR4bUdPWExOZHU5WTdNTmlSX1MteWgteDdjckV"
       },
       {
         "headline": "Cameron Boozer and No. 3 Duke knock off No. 1 Michigan 68-63 as top 2 teams lose on same day - AP News",
@@ -527,64 +517,74 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1Q0cnhtWVNjSkJqWWlQZERFRGlkY2VLcWhRZkFGeHphYWtiQ2tZUnMwX1NXZGl4OEhjTUE3MEEwZFpfZlRyWXdiOVQtRU42MWl4b25mbTVrYk5CUDV0Q2MtVWxRS1U2QlB3VWZ"
       },
       {
-        "headline": "NYC nursing walkout ends as last striking nurses approve new contract - AP News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5fdDlrM2JyamtqZzZrVFN4eDBfSk43Z3JDa1NhOHBidFI3NFdIUW9uaHpHU3pVLUYyZXRR?oc=5",
+        "headline": "The bones of St. Francis are going on public display, a mixed blessing for Assisi - AP News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNm9BSWFBUmR2Ynh3SVMxaDVhS0tESzlYNW1JbGstT2tDcGwyTTY4ZlRQTnJLT25DLXZLempZa21lLVp1SDZQaWo5ejAzZGllbUJ3R3A0WkNkUkhQN2wxNkhxMzgzaTVnNXE0V3ozWGRzQm11TDQwMi1jSGo2RzEycHBFdmZBUVlFUGFCMEhvMjdtVVk?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 00:17:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5"
+        "date": "Sat, 21 Feb 2026 23:37:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNm9BSWFBUmR2Ynh3SVMxaDVhS0tESzlYNW1JbGstT2tDcGwyTTY4ZlRQTnJLT25DLXZLempZa21lLVp1SDZQaWo5ejAzZGllbUJ3R3A0WkNkUkhQN2wxNkhxMzgzaTVnNXE0V3o"
       },
       {
-        "headline": "Pakistan claims to have killed at least 70 militants in strikes along the Afghan border - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEhZQ3c3YkhZS0hkbUlIbFktSTdMNmlwTnlUX1VjZDEtVWRGbkhwNXF4Tm1Rb1pRZVp3VUVkT3Z3MnFZOHBJY3g5VUJTOEpHNnBDWHBJTWhkRERJcWFpTkxZb3J4dzF1MGdLYk1oQ0FmR2ZwWjNLcnlUTEpES0tUZFdpcUpfWGxmLTNQdHppYTVyd3pLS3lPN3FBdDhDRlBYTl9KU2d1TE0?oc=5",
+        "headline": "EU says US must honor a trade deal after court blocks Trump tariffs - AP News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUk0MnZnM0RCTVRtUkgxVGgyVnRqSWF4c01LZW1VeWhPZ19wZGduNk1qMjJFcHR0T19iX1IwTDNwSzBLN21tVW1aUVdESE0yaWNXUzQtSXBpU01GNlhaM2lnQmRmNTNYMUkyQV9hYmZEV2U0SHYxcUNSYW1lOXIwa29QeGNQTFVvV3Y0R080MDg2Q3EwOXZnVGhGenc?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 18:16:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEhZQ3c3YkhZS0hkbUlIbFktSTdMNmlwTnlUX1VjZDEtVWRGbkhwNXF4Tm1Rb1pRZVp3VUVkT3Z3MnFZOHBJY3g5VUJTOEpHNnBDWHBJTWhkRERJcWFpTkxZb3J4dzF1MGdLYk1"
+        "date": "Sun, 22 Feb 2026 16:23:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUk0MnZnM0RCTVRtUkgxVGgyVnRqSWF4c01LZW1VeWhPZ19wZGduNk1qMjJFcHR0T19iX1IwTDNwSzBLN21tVW1aUVdESE0yaWNXUzQtSXBpU01GNlhaM2lnQmRmNTNYMUkyQV9"
       },
       {
-        "headline": "France will summon Ambassador Charles Kushner over US comments on activist’s death - AP News",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMi1JQ1F4V2R0Nnp6dXh5SDNQMGNabFBHMDlaSlY3M1VLUHVFMXREemxEZHNGcl9wcmhXd0x6c01zM3Bad0RlUDdJSkViUlpyMmlGSWNoUGR3N1R5anItZ1piM0RYQTQ1TWlwTVgyRGNIb2YwU05iN3I4V280ZndsTmllSmdwLWtGNi1JME9IOGhVZXdYZWg0Zm9NZXc4clU?oc=5",
+        "headline": "Olympic curling scandal like 'foot fault in tennis or traveling in basketball,' Canada official says - AP News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjNPU1p6bXpDMnp1QzVXNURwU2JrMzFjbnZGYS1EM1c2UWRrQXdSZHU1Y0MxQkJ2blN4aTBOXzR2UnBOZ0ZhR2pyODFoWU5UcUVpX3MtRGtHd3h1cjMwaEw3cWFrVWFkV3NPM1NxN1ZBbVRhLWEwUHo4MUFGenM4UWVvcGtuTERFT05Edk1sekczTG5Q?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 16:39:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMi1JQ1F4V2R0Nnp6dXh5SDNQMGNabFBHMDlaSlY3M1VLUHVFMXREemxEZHNGcl9wcmhXd0x6c01zM3Bad0RlUDdJSkViUlpyMmlGSWNoUGR3N1R5anItZ1piM0RYQTQ1TWlwTVg"
+        "date": "Sun, 22 Feb 2026 11:42:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjNPU1p6bXpDMnp1QzVXNURwU2JrMzFjbnZGYS1EM1c2UWRrQXdSZHU1Y0MxQkJ2blN4aTBOXzR2UnBOZ0ZhR2pyODFoWU5UcUVpX3MtRGtHd3h1cjMwaEw3cWFrVWFkV3NPM1N"
       },
       {
-        "headline": "A powerful magnitude 7.1 earthquake shakes parts of Malaysia, USGS says - AP News",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTl9WNUhGUklaRVdxQmRMbGtLcEo5R21NaHNBV1BmMjhSejhQdk03czI2WG8xYzNhdENSQndaUEdPb2pRZmxmWnoxcVlHTVM1c0F3R010VTZCWUswbUlMOTR5c0wxcmJsY1NOZHBoSG9SUFA1dEJuUy0yS0xRWlE2Y0NmaU8tUQ?oc=5",
+        "headline": "NFL receiver Rondale Moore found dead in his Indiana hometown - AP News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2Q3Rk85bzZJdTF2M0xlWW4wdG5OTERRYTNyX2EwWlRFNXhwUE9VeXVhVm1qV2dTYktKVFVSZ184VUxOY1ZDempHd2lnZHhBX0NSVVZDRXlOUHA3N01XOGFhSXlYQ1RWNjN5d09GaUMyNWxtRVA1eHJCeUo5OU5WcDBiNDFuT1BOc0I0X0E1VjVzd2JuZlg3Nm91R1UtUQ?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 18:16:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTl9WNUhGUklaRVdxQmRMbGtLcEo5R21NaHNBV1BmMjhSejhQdk03czI2WG8xYzNhdENSQndaUEdPb2pRZmxmWnoxcVlHTVM1c0F3R010VTZCWUswbUlMOTR5c0wxcmJsY1NOZHB"
+        "date": "Sun, 22 Feb 2026 16:20:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2Q3Rk85bzZJdTF2M0xlWW4wdG5OTERRYTNyX2EwWlRFNXhwUE9VeXVhVm1qV2dTYktKVFVSZ184VUxOY1ZDempHd2lnZHhBX0NSVVZDRXlOUHA3N01XOGFhSXlYQ1RWNjN5d09"
       },
       {
-        "headline": "Ski guides in spotlight as investigators probe deadly California avalanche - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo3ZWlrbV9UNTNuN2luSWVNS0dXUUhsRnB4eEJvRmhjdkctRGFuRFRqNG5DMkZYVFZfOWxpTWxHZzV1VEdNVzQ?oc=5",
+        "headline": "US says ambassador’s comments on Israel and the Middle East were taken out of context - AP News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOem5OMXZ4V0hFampqTDNOdWtrSDhEVW5qSHpRN3J1Q3FNc0NJZ2lpcEdDcFlINHBUQ08wOEpXbmJSY2kzaVFaZEVOOFVqbXNfekFIZGdkZ0V2djVnbm0wQ1I4Q0ZJbTNmcGVGaUI2WFJNUmZCODBhakNaVWVZaTZneTB4R0EyZzFPRXJGZk9kdUd4VS1OS1VFY2t3LW5NUQ?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sat, 21 Feb 2026 23:31:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo"
+        "date": "Sun, 22 Feb 2026 15:24:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOem5OMXZ4V0hFampqTDNOdWtrSDhEVW5qSHpRN3J1Q3FNc0NJZ2lpcEdDcFlINHBUQ08wOEpXbmJSY2kzaVFaZEVOOFVqbXNfekFIZGdkZ0V2djVnbm0wQ1I4Q0ZJbTNmcGVGaUI"
       },
       {
-        "headline": "From abdication to Diana, Harry and ex-Prince Andrew. A look at major British royal scandals - AP News",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDVsWGhPQ01JYWRuSFZTYlhvY2prQXhOVnFnT2Jzbm9VRTRwcDlZOHRBWVdfZU9EZVNfTWxPeC1iTV81c1poNHRaVzMyaUNTdVJFc1JOVHdVX3VobDdCcDV4YlQ5cnY3SzNjclhmXy1QcktwNC01QjFWZkdDR3pFOXFUNnBTbzRtN1FCYXBFNGw4QnVr?oc=5",
+        "headline": "Sweden’s Ebba Andersson gets redemption in winning 50km cross-country ski race at Milan Cortina - AP News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeExNeUk3Uy1ELWNzblZGWHplc2JrdUJ3TGtHQzNmSTRRMWRXVGxLRVExUHJ4c3dZdGNTbGhPaXM4eW5KcVhUVzBZSkF3VmF6Wm1Qc2JpNWQwN1RrSUNVM2p5cFgxN1JlVlY0Nm56SzI3N0pTUHhwelNGYlo4VWxXNWgtQm1PM0tzcE1yMG96dVFScDZlVGJWRUc4T0liS0FGU1RPV3U1OHFrU0pjbElhZDV2Mk8?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 05:09:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDVsWGhPQ01JYWRuSFZTYlhvY2prQXhOVnFnT2Jzbm9VRTRwcDlZOHRBWVdfZU9EZVNfTWxPeC1iTV81c1poNHRaVzMyaUNTdVJFc1JOVHdVX3VobDdCcDV4YlQ5cnY3SzNjclh"
+        "date": "Sun, 22 Feb 2026 13:01:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQeExNeUk3Uy1ELWNzblZGWHplc2JrdUJ3TGtHQzNmSTRRMWRXVGxLRVExUHJ4c3dZdGNTbGhPaXM4eW5KcVhUVzBZSkF3VmF6Wm1Qc2JpNWQwN1RrSUNVM2p5cFgxN1JlVlY0Nm5"
+      },
+      {
+        "headline": "Jack Hughes lost teeth from a high-stick to the mouth before his Olympic gold-winning goal - AP News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUQwMHk5RU0zY0UzZ3pXLVMxY0hmMk9IdmlNT2FXU2k2MkpjUUpLdkh2UE5xTy1Ua1BVZ3E5eTROUUhGRTNsc0lsRFd4SzR2ZXRxWEd6S0FsSnl3MDl1VG9rbWZxQ25IZDAxZnVfRHNUdjIyTTNpVmNQRVMxWEZxMlBPaE9JYU5xVkM4NlVDNnB5c2NMa2tpRw?oc=5",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 17:34:27 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUQwMHk5RU0zY0UzZ3pXLVMxY0hmMk9IdmlNT2FXU2k2MkpjUUpLdkh2UE5xTy1Ua1BVZ3E5eTROUUhGRTNsc0lsRFd4SzR2ZXRxWEd6S0FsSnl3MDl1VG9rbWZxQ25IZDAxZnV"
       },
       {
         "headline": "Food Lion recalls ground beef over ‘black rubber plastic’ contamination - Yahoo News Canada",
@@ -605,6 +605,16 @@
         "priority": "secondary",
         "date": "Sun, 22 Feb 2026 13:36:24 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTVqUUNwUTA2MDc5cUd2S201TWE5Y19JdFI5SmRuYS03a0VyWFlDLXFBZkVHNkl1VnVFbUIzRVlxMHFwTXZNOWJnV2ZzRzllcXBIUGtET1Ytc1pOeEREUGlqZ25UdHcycGtSNFh"
+      },
+      {
+        "headline": "Premier League Latest: Eberechi Eze proves the difference for Arsenal; Man City stumble at Aston Villa - Yahoo News Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTFEREZybDdaTTRIejUzcDkxSU54bThmMlN1R1RqVFY2N09DRGNjM0VmNWR3eFRBdkRhdFhDNUZvSzJocUpLT3dHX2d3Tlg3N2dpUlF0S0pUbkZkb2M5bngzWGZVem1nTmV2Zk1xX1pkMmNXaG50dmU3NkFfU2NmbTF5WXpTdFVwQ3RXUG9ab0xadllwc01ndzE2dW5zOHduRkFqY1NnYVN0X1NIaHRiMzA4czJhQ3NOU2tRR3hpU0dEMml1SlBENQ?oc=5",
+        "source": "AFP Japan",
+        "sourceId": "afp_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 21:55:50 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTFEREZybDdaTTRIejUzcDkxSU54bThmMlN1R1RqVFY2N09DRGNjM0VmNWR3eFRBdkRhdFhDNUZvSzJocUpLT3dHX2d3Tlg3N2dpUlF0S0pUbkZkb2M5bngzWGZVem1nTmV2Zk1"
       },
       {
         "headline": "\"Straight White Man... We Can't Take Any Chances\": People Are Sharing Who They Are Likely To Vote For In 2028, And I Need To Know If You Agree - Yahoo News UK",
@@ -817,7 +827,7 @@
         "description": "If you're planning a trip to Japan, here's what you'll need to know and expect if you want to visit during the global coronavirus pandemic."
       },
       {
-        "headline": "Japan’s Ruling Party Tax Chief Calls US Tariff Situation ‘Messy’ - Bloomberg",
+        "headline": "Japan’s Ruling Party Tax Chief Calls US Tariff Situation ‘Messy’ - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVUzZWZvQXBqYVA4bkM5WVc5OFUyTWNwQ1ZmZTVucVNEWGE2T2lQVjRNd1dUX0h5ZklWNUlacFV0aEVUZWRlVFFhbzhiMkZxWQ?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -827,7 +837,17 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVU"
       },
       {
-        "headline": "Germany Is About to Find Out Whether Its Recovery Is Real - Bloomberg",
+        "headline": "US Tells Partners to Honor Tariff Deals as Trump Recalibrates - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWRLZHUzQW5QYXpEdEFwX0dCZ01oVWpVZGFYTHQwYXFQMko1WERHQzNaMVZ5Rmd1Y2VTdXVERkgyQXV0eGk?oc=5",
+        "source": "Bloomberg Japan",
+        "sourceId": "bloomberg_japan",
+        "category": "competitors",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 22:36:25 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWR"
+      },
+      {
+        "headline": "Germany Is About to Find Out Whether Its Recovery Is Real - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDhkczRiUk80djVLTWx1NXpLRXBaRWl2c0xJQnZtLVAwVkw4RG0tRVlBZG9Kak4tQzV5c3JkalpDTEkzaEVSQ0lFd3FKNWJtZENJYXVQRTI5Z0pKS0RKYy1CSGZMYkcwajlhWnZFeUVJT3BZNHEtWHlZRWJ6YzgwTlZwc1pCMEt4ckFhUnFXTmd3MXJncnp0eTd4TmFydnQzNGlfcUNQYm8?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -837,7 +857,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDhkczRiUk80djVLTWx1NXpLRXBaRWl2c0xJQnZtLVAwVkw4RG0tRVlBZG9Kak4tQzV5c3JkalpDTEkzaEVSQ0lFd3FKNWJtZENJYXVQRTI5Z0pKS0RKYy1CSGZMYkcwajlhWnZ"
       },
       {
-        "headline": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence - Bloomberg",
+        "headline": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -847,17 +867,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkV"
       },
       {
-        "headline": "US Tells Partners to Honor Tariff Deals as Trump Recalibrates - Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWRLZHUzQW5QYXpEdEFwX0dCZ01oVWpVZGFYTHQwYXFQMko1WERHQzNaMVZ5Rmd1Y2VTdXVERkgyQXV0eGk?oc=5",
-        "source": "Bloomberg Japan",
-        "sourceId": "bloomberg_japan",
-        "category": "competitors",
-        "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 17:22:56 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWR"
-      },
-      {
-        "headline": "Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash - Bloomberg",
+        "headline": "Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tnYzJJVHFlSWdLWlFObkZaTlRBRUlUeFV3SjRvVVV1UWxMT3BEbHp0c0MtZVlvS3NUM2NUNXQ5YXMwYTlDOGxSdHBkb1A5YnBtN2RUN1VRMnVXWXIwQ3pILVA1WHNYM0Yzelo0M0Exc0tUaWFMV2VmMTVRc1laYXROMzlsc3lJczFYQkZCanUzWGZDa2doRnJEc2ktUVJISmZjTkF0aVczTERKT1Rj?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -867,7 +877,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tnYzJJVHFlSWdLWlFObkZaTlRBRUlUeFV3SjRvVVV1UWxMT3BEbHp0c0MtZVlvS3NUM2NUNXQ5YXMwYTlDOGxSdHBkb1A5YnBtN2RUN1VRMnVXWXIwQ3pILVA1WHNYM0Yzelo"
       },
       {
-        "headline": "Option Pros Trade Index Versus Index to Play Huge Stock Rotation - Bloomberg",
+        "headline": "Option Pros Trade Index Versus Index to Play Huge Stock Rotation - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFZhT1UxMW9uZEQyck9xbm1zdkFYNUFkVXdXckg4N0draTBwRnhXcnRIQjExa01xamRlRGVvdS12bHloU1ZMcUc1d3NpeHBqTHNMb0Z1Wks0ZGlEeEpjMG9ZREEtMDhuYzZTRnREOWd2Y2pIS1R3Wm1lSC1QYXlYaXJRWDRBQVlOZjQzbWI1amVoeUYxX2xsMWtNbnhGTFF3cG93bTRYLXk5Uk5ubTNDbzBrcTJpZw?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -877,17 +887,17 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFZhT1UxMW9uZEQyck9xbm1zdkFYNUFkVXdXckg4N0draTBwRnhXcnRIQjExa01xamRlRGVvdS12bHloU1ZMcUc1d3NpeHBqTHNMb0Z1Wks0ZGlEeEpjMG9ZREEtMDhuYzZTRnR"
       },
       {
-        "headline": "Trump’s Trade War: A News Guide to His Second Term as President - Bloomberg",
+        "headline": "Trump’s Trade War: A News Guide to His Second Term as President - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iZGVGa3RSQWJwcFpkd2tPbVpiOExBWWZzdmc2YTM3d3BDal8tT0Z5ejhLSHNXXzBEbEx1UkRFRklRS0hEb2VBM3F6V0FnY3JSRnp4Nk5n?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
         "category": "competitors",
         "priority": "secondary",
-        "date": "Sun, 22 Feb 2026 17:16:36 GMT",
+        "date": "Sun, 22 Feb 2026 20:17:15 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iZGVGa3RSQWJwcFpkd2tPbVpiOExBWWZzdmc2YTM3d3BDal8tT0Z5ejhLSHNXXzBEbEx1UkRFRklRS0hEb2VBM3F6V0FnY3JSRnp4Nk5n?oc=5\" target=\"_blank\"&gt;Trump"
       },
       {
-        "headline": "Tomoku Co Ltd - Bloomberg",
+        "headline": "Tomoku Co Ltd - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNSlRuN3dYTWNtcWlrOEtYUERiY04zWnR5SVEzZ1hRS0pucndoQnNtT2pDN1ZScGlvOE55R21YTFFlbm1HQ0tua3dkWDZwLWdHQmxpenJ6Y0hic2xW?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -897,17 +907,17 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNSlRuN3dYTWNtcWlrOEtYUERiY04zWnR5SVEzZ1hRS0pucndoQnNtT2pDN1ZScGlvOE55R21YTFFlbm1HQ0tua3dkWDZwLWdHQmxpenJ6Y0hic2xW?oc=5\" target=\"_blank\"&"
       },
       {
-        "headline": "Dollar Trades Within Range Amid Tariff Uncertainty: Markets Wrap - Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnU3SHM1ZFEzYWdoQm5CYTl6bVQxT1V0LU9ZUVZ2UUNIRHdsekloQVRFYVNxUWREekV5TC1pX1JXUjJBNFVoN2NSdG9YUVhsM0FmaGtSZFdJOFN0Tm5PZjJORUFsdUNBQTRjTFJPNTJkdEtkMjlCQmJYVVFYM0lxMjg1dE1pTEx4bzFqbEJpUzJ4Z0lsSGZoQUhtaFhseXVBaVF0am96UFN5S0RndWZlczY0Ty0?oc=5",
+        "headline": "Dollar Trades Within Range Amid Tariff Uncertainty: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVc5bm5hczA2THB1a2ZiWk9nYXhaazM2Rkc1d0tJVnh1ZDhLUExOaS1La3VQWlY2WkZWRHp1MGx0YmxBTjFkMzNOem9LbHZ0Q0lweUNIWlVvNEtCSnQyMzFCYWRTNjh0b0wwd1NROC1wRlRtYTZmMVhYT2F5TXBCNGFXQVppZFFtZWNndVQ4WVpBMjFzV09mSXYxX2Z4ZHpkd19naUtwTnJycHk0aEtQbmNaSHg5MnhsZlpueEh2TUh4VE5zVk55LXVZRWFBTVFSaE5V?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
         "category": "competitors",
         "priority": "secondary",
         "date": "Sun, 22 Feb 2026 21:03:47 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnU3SHM1ZFEzYWdoQm5CYTl6bVQxT1V0LU9ZUVZ2UUNIRHdsekloQVRFYVNxUWREekV5TC1pX1JXUjJBNFVoN2NSdG9YUVhsM0FmaGtSZFdJOFN0Tm5PZjJORUFsdUNBQTRjTFJ"
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVc5bm5hczA2THB1a2ZiWk9nYXhaazM2Rkc1d0tJVnh1ZDhLUExOaS1La3VQWlY2WkZWRHp1MGx0YmxBTjFkMzNOem9LbHZ0Q0lweUNIWlVvNEtCSnQyMzFCYWRTNjh0b0wwd1N"
       },
       {
-        "headline": "The New Face of Extremism Among Asia’s Youth - Bloomberg",
+        "headline": "The New Face of Extremism Among Asia’s Youth - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpOT2Y0bXIxazgzYzJwcjdrTTBrRllKUWxNYlZnbnltNmpoSEljSDQ4TlNYZndJTnl4V3BGdlBhNy05NUwzN3Nwem1Xa2NPdlp3emRScHpqZ1dXS2VDZzBlN0xPWmtHX2RLU3hBTnFOdWppQ3paeVAxYjdwSHBIUENJdnFrT3lPOC13aUNSQm4tNzgwdmlYWmR6WngwN2hKMnpDeE1NcGQ1dElKV0RqaGpkZ0pPdw?oc=5",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -915,6 +925,16 @@
         "priority": "secondary",
         "date": "Sun, 22 Feb 2026 19:00:02 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpOT2Y0bXIxazgzYzJwcjdrTTBrRllKUWxNYlZnbnltNmpoSEljSDQ4TlNYZndJTnl4V3BGdlBhNy05NUwzN3Nwem1Xa2NPdlp3emRScHpqZ1dXS2VDZzBlN0xPWmtHX2RLU3h"
+      },
+      {
+        "headline": "Analysis | Meet Mikhail Shaidorov, the guy who actually won men’s singles figure skating - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWJvemNnX2w0ZFRoQUd0eUFYSDN6ZG5obUp3NmRkU3l2VnhERTVPWENULW1JTG5HOG9IWXMyX2tzWDBkUzF6TlRyNVUycnhlUUZkYW41R0JIY041TmxSVThhQS1Pcy04VEdkWEo3enZrVDl2OW4xRWpWZnBYQnRvb3Iybmg3NHdKM3IxVXBmRXlBbk9XOEJ6dGhZWktnVW9VRXlBWnhCZkk?oc=5",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 22:00:29 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWJvemNnX2w0ZFRoQUd0eUFYSDN6ZG5obUp3NmRkU3l2VnhERTVPWENULW1JTG5HOG9IWXMyX2tzWDBkUzF6TlRyNVUycnhlUUZkYW41R0JIY041TmxSVThhQS1Pcy04VEdkWEo"
       },
       {
         "headline": "Tickets for the 1984 Olympics in L.A. were $3. Could it happen again? - The Washington Post",
@@ -925,36 +945,6 @@
         "priority": "tertiary",
         "date": "Sun, 22 Feb 2026 18:00:34 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXFjenF2cndRYU5WdGp0S2hvdGlnUkMtMGwwblViT2kyVTRFX1NFaHZRRlZPWlAtbjFCRE1WemNlc2ZQNE1RV01yd2FLUnFCT3o2TGR6bEo0aE9oYjU4UVRwUjlLNHBUdHJpVDM"
-      },
-      {
-        "headline": "Tucker Carlson, Mike Huckabee debate Israel’s right to land in Middle East - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1c4WXhMSzkxZU8xVi1OUEIyS0stZkxMTnVEaGNDVG9vVm1XdnVjbzdrN19CTWZ3amg2bVRWNlVSTmVYZ2FHaTVZNkZ1aXhJcFJDOExuTkk2bjFiTVRya1M5SDEydms4QXlsZ1NVYXBjbFZiY05CdlBRanNQa3luV2hhdTBrbXdvbG0tQUFXblZ4UlR4MDZuRVNVaXloZw?oc=5",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Sat, 21 Feb 2026 23:05:36 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNV1c4WXhMSzkxZU8xVi1OUEIyS0stZkxMTnVEaGNDVG9vVm1XdnVjbzdrN19CTWZ3amg2bVRWNlVSTmVYZ2FHaTVZNkZ1aXhJcFJDOExuTkk2bjFiTVRya1M5SDEydms4QXlsZ1N"
-      },
-      {
-        "headline": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Sun, 22 Feb 2026 19:22:56 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5\" target=\"_blank\"&gt;The Washington Post - Brea"
-      },
-      {
-        "headline": "CWG Live: Rain mixing with snow this afternoon. Accumulating snow likely tonight. - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzZ4SHlYUENIMUFiRjVuMmVQNGpTVkgyaW5TMkh3MkJ2MWdJUENwMWNoU2tnSTFLV1BMTklSajNCSzRxTWZWLVRMdGU2bHNkM0NXU3hWUDhZR24xRWVHSmk0WExVeE1aNldKVzlPN21wUWV4a21hcEVVVVgxREpBLUVySW1uUll1QmhYd1Q0S2hqbDJqQ3c?oc=5",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Sun, 22 Feb 2026 19:01:49 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzZ4SHlYUENIMUFiRjVuMmVQNGpTVkgyaW5TMkh3MkJ2MWdJUENwMWNoU2tnSTFLV1BMTklSajNCSzRxTWZWLVRMdGU2bHNkM0NXU3hWUDhZR24xRWVHSmk0WExVeE1aNldKVzl"
       },
       {
         "headline": "Dodgers star Shohei Ohtani set to play a couple of Cactus League games before joining Japan for WBC - The Washington Post",
@@ -983,18 +973,8 @@
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Sun, 22 Feb 2026 21:35:44 GMT",
+        "date": "Sun, 22 Feb 2026 22:00:15 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSi0zR0NQUHJpVVJVTXBXTEtTTzgzTkJocGJsYWlESGlFZU4yNkpNRVVuX0M5Sk10UjlESmFGMld3bXNDX0l6MzdhbmlQZUJJQkg2MWFNM0FjUGRGYm1TcFR1TW5SSFRaWXhFM3h"
-      },
-      {
-        "headline": "Freiburg moves to 7th in Bundesliga with 2-1 win over Gladbach - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUxwT3dfYVBtWmFRdzVMMUJsSkdrR3NwdVk5bXkzVm5RLUVYYTgzWjZQNVdiWExMQk1OYi02cTVnOXNyNm9tM3pyQXRQRHBpak9hTWZINjhUOGpEVVVnRGhPNGxPTEMydjJUUmV3SUdoVUNRVXkwcjBKUElUUzF6NHRCRGpr?oc=5",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Sun, 22 Feb 2026 21:22:15 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUx"
       },
       {
         "headline": "Ryan Garcia beats Mario Barrios by unanimous decision to win the WBC welterweight title - The Washington Post",
@@ -1007,6 +987,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUpvSVk2SDEzTC1nY1NZTDNzRUR1QWhKWVk1NURYRzlFUENDb2lOS0xqUkRscnU3ODJoN2NvaGF4dGM4aGZ0elBuSnlERC1rTVJoWkw3bzhUYjRyVUdydXRTbXVKTGpIY0lIdHV"
       },
       {
+        "headline": "Stuttgart rescues 3-3 draw as Bundesliga relegation scrap impacts Champions League race - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUxwT3dfYVBtWmFRdzVMMUJsSkdrR3NwdVk5bXkzVm5RLUVYYTgzWjZQNVdiWExMQk1OYi02cTVnOXNyNm9tM3pyQXRQRHBpak9hTWZINjhUOGpEVVVnRGhPNGxPTEMydjJUUmV3SUdoVUNRVXkwcjBKUElUUzF6NHRCRGpr?oc=5",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 22:52:16 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUx"
+      },
+      {
         "headline": "Major League Baseball - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbzVCY3NDanN6LUtiVUQ2aURLbld0MUhOZUpIZjRhWGh4bWNJMEFnRnlWTXlsRWt1WFNTMnZTeUVuSm1MSHdLVTV4Q2NMbHVhUUFHYg?oc=5",
         "source": "Washington Post",
@@ -1015,19 +1005,29 @@
         "priority": "tertiary",
         "date": "Mon, 21 Sep 2015 17:09:08 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbzVCY3NDanN6LUtiVUQ2aURLbld0MUhOZUpIZjRhWGh4bWNJMEFnRnlWTXlsRWt1WFNTMnZTeUVuSm1MSHdLVTV4Q2NMbHVhUUFHYg?oc=5\" target=\"_blank\"&gt;Major L"
+      },
+      {
+        "headline": "Stars descend on the BAFTA film awards, with 'One Battle' and 'Sinners' leading the race - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGFHY3I5OFZGUHM5UEZZTVJuczhLaENhYUlOb2xpY18xYjRsV1FsZlZhQlFXVEUxbzQ1dUkwZ2ZpRjNxbnoyeGFxUHVUQVF4dHRkY2NCTTBBRHRrSGNrTE5RQTk1WVAxSklNRU9Bc0wxeXJvVEY4NnJ5VzZyZmlZZkRoY1BVSEtsa2ZmZGNhbzJCdEdIcUR5MzY3SmItbWlBU3VTWmZjMjhOM0NLdi1fcDFiRmxVOGtjWG5DVm9SYjNpUE11R0xr?oc=5",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Sun, 22 Feb 2026 16:55:49 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGFHY3I5OFZGUHM5UEZZTVJuczhLaENhYUlOb2xpY18xYjRsV1FsZlZhQlFXVEUxbzQ1dUkwZ2ZpRjNxbnoyeGFxUHVUQVF4dHRkY2NCTTBBRHRrSGNrTE5RQTk1WVAxSklNRU9"
       }
     ],
     "byCategory": {
       "national": [
         {
-          "headline": "スカイツリーエレベーター停止で閉じ込め5時間半 20人全員救助",
+          "headline": "スカイツリー エレベーター閉じ込め5時間半 きょう臨時休業",
           "url": "http://www3.nhk.or.jp/news/html/20260222/k10015058721000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Mon, 23 Feb 2026 06:28:48 +0900",
-          "description": "22日夜、「東京スカイツリー」で客が乗ったエレベーターが突然停止し、子どもを含む20人が5時間半余りにわたって中に閉じ込められました。その後、全員が救助されけが人などはいないということで、警視庁などが原因を詳しく調べています。"
+          "date": "Mon, 23 Feb 2026 08:02:42 +0900",
+          "description": "22日夜、「東京スカイツリー」で客が乗ったエレベーターが突然停止し、子どもを含む20人が5時間半余りにわたって中に閉じ込められました。その後、全員が救助されけが人などはいないということで、警視庁などが原因を詳しく調べています。「東京スカイツリー」を運営する会社によりますと、エレベーターが停止した原因の調査や、ほかのエレベーターの点検などを行うため、23日は臨時休業することを決めたということです。"
         },
         {
           "headline": "ミラノ・コルティナオリンピックが閉幕 【詳しく】",
@@ -1036,7 +1036,7 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Mon, 23 Feb 2026 07:25:26 +0900",
+          "date": "Mon, 23 Feb 2026 07:45:28 +0900",
           "description": "イタリア北部を舞台に大きく4つのエリアに分かれる「広域開催」で行われたミラノ・コルティナオリンピックの閉会式が行われ、17日間にわたる冬のスポーツの祭典が幕を下ろしました。記事後半では閉会式の経過を詳しくお伝えしています。"
         },
         {
@@ -1060,14 +1060,14 @@
           "description": "天皇陛下は、23日、66歳の誕生日を迎えられました。"
         },
         {
-          "headline": "最高検察庁 「保護観察」付き判決 積極的に求めるよう通知",
-          "url": "http://www3.nhk.or.jp/news/html/20260223/k10015058741000.html",
+          "headline": "文化庁 博物館法 基準改正案めぐり「廃棄検討は慎重に」追記",
+          "url": "http://www3.nhk.or.jp/news/html/20260223/k10015058851000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Mon, 23 Feb 2026 00:12:38 +0900",
-          "description": "罪を犯した人の再犯の防止につなげようと、最高検察庁が、裁判で「保護観察」の付いた判決をこれまでより積極的に求めるよう全国の検察に通知したことが、関係者への取材でわかりました。執行猶予の期間中に指導や支援をすることで、再犯防止や更生につなげるねらいがあります。"
+          "date": "Mon, 23 Feb 2026 08:19:59 +0900",
+          "description": "文化庁が公表した博物館の運営などに関する基準の改正案をめぐり、資料の収集や管理の規定に「廃棄」の文言が盛り込まれたことに対し、一部の学会が文言の削除などを求めていた問題で、文化庁は文言は削除せず「廃棄を検討する場合、長期的かつ総合的な見地から慎重に行う」などと追記した修正案をまとめたことがわかりました。"
         },
         {
           "headline": "トランプ大統領の別荘に侵入試みたか 男を射殺 大統領は不在",
@@ -1190,6 +1190,16 @@
           "description": "The tiny islets, known as Takeshima in Japan ⁠and Dokdo in South Korea, which controls them, have long been ⁠a source of tension between the neighboring countries."
         },
         {
+          "headline": "Emperor Turns 66 Ahead of Disaster Milestones",
+          "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260223-313031/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 23:06:20 +0000",
+          "description": ""
+        },
+        {
           "headline": "Ukrainian Ambassador Closely Watching Japan’s Revision of Defense Export Rules, Hopes for Future Arms Support",
           "url": "https://japannews.yomiuri.co.jp/world/wider-world/20260223-312922/",
           "source": "Japan News (Yomiuri)",
@@ -1210,7 +1220,7 @@
           "description": "LONDON — Japan’s major real estate companies are expanding businesses overseas. With the ease of the COVID-19 pandemic and market conditions stabilizing, companies have continued making large-scale in"
         },
         {
-          "headline": "Tokyo Skytree&#8217;s Elevator Stops, Trapping 20 People, Police Say",
+          "headline": "Tokyo Skytree&#8217;s Elevator Stops, Trapping 20 People; All Rescued (Update 1)",
           "url": "https://japannews.yomiuri.co.jp/society/general-news/20260222-313020/",
           "source": "Japan News (Yomiuri)",
           "sourceId": "japan_news_yomiuri",
@@ -1278,19 +1288,29 @@
           "priority": "primary",
           "date": "Sun, 22 Feb 2026 07:18:57 +0000",
           "description": "Tuesday will mark four years since Russia’s aggression against Ukraine began, yet prospects for peace remain elusive."
-        },
-        {
-          "headline": "‘Storytellers’ Being Dispatched Overseas to Promote Japan; Events Planned in More Than 20 Countries",
-          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260222-312949/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sun, 22 Feb 2026 07:16:24 +0000",
-          "description": "The Foreign Ministry has launched an initiative to dispatch “storytellers” overseas to convey the appeal and history of Japanese culture, including traditional performing arts and anime."
         }
       ],
       "wire": [
+        {
+          "headline": "IN PHOTOS: Japan's defining moments at Milan Cortina",
+          "url": "https://english.kyodonews.net/articles/-/70974",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Feb 2026 07:58:00 +0900",
+          "description": "Figure skating pair Ryuichi Kihara and Riku Miura captured the hearts of a nation as the Japanese team delivered its most successfRead full story here"
+        },
+        {
+          "headline": "Olympics: Milan Cortina Winter Games end with Japan at new height",
+          "url": "https://english.kyodonews.net/articles/-/71024",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Feb 2026 07:33:00 +0900",
+          "description": "The curtain came down on the Milan Cortina Winter Olympics with Sunday&#39;s closing ceremony at the ancient Arena di Verona markiRead full story here"
+        },
         {
           "headline": "Kyodo News Digest: Feb. 22, 2026",
           "url": "https://english.kyodonews.net/articles/-/71004",
@@ -1372,26 +1392,6 @@
           "description": "The Japanese government plans to expand the market for used goods to around 4.6 trillion yen ($29.7 bllion) in 2030, up 32 percentRead full story here"
         },
         {
-          "headline": "Japan's traditional \"naked festival\" leaves 3 attendees unconscious",
-          "url": "https://english.kyodonews.net/articles/-/71007",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 22 Feb 2026 12:31:00 +0900",
-          "description": "A traditional Japanese festival known for thousands of nearly naked men competing to claim sacred talismans left three men unconscRead full story here"
-        },
-        {
-          "headline": "Internship in English-speaking Niseko provides immersive \"study abroad\"",
-          "url": "https://english.kyodonews.net/articles/-/71005",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 22 Feb 2026 11:03:00 +0900",
-          "description": "A unique internship program in Hokkaido, under which Japanese university students work and live for a month at the famed Niseko skRead full story here"
-        },
-        {
           "headline": "South Korea protests Japanese event over disputed islands - Reuters",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc081SFlCd2RxbGZmS3NlVEVqNENuRXVtUXdnaHJrWHUzTVc3UGotRzJwc21MY0M4UUx5YVB3MWNidjJGLTBVWGp4aWEtRUR4aG83SngybERZSFJLbGdnVERuUGtXMGh3VTNGSlZiMnYyM1ZKM1FxMllPaVhzdGdfd2FNNEIyUHMtcy16aTdDME9rcVV0YUllU1JsOWVNb3k3MlNSLVJURFNCU3E2UFRQcld3?oc=5",
           "source": "Reuters Japan",
@@ -1442,6 +1442,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UNHRoVTZNOWFFUndnZ2wtNkE1eWRDTUNHdG1EZVNjbmJlTkVvNk5td1JUWVdsRVA1bkFuT1FRNkw5OFhDcE9QdzJhZ1VzSTliNDBvS0t3dEF4dTR1cnFwNTZIbnBLM2c?oc=5\" t"
         },
         {
+          "headline": "Cop turned crime boss, Nemesio 'El Mencho' Oseguera leaves bloody legacy - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM01ndUF4Q242Y05abjdDazR4Mkg1NEIxMjRKazF6T3RuOTFSa3d2OGpudkdBNjd1ZlBPZHM3NTRQM0NCMENxOFBpVGlrWlloM1ZyNW1EWUNpLXBZS3FJX1Fld3hCM2VTZWtrZTl3S0dlMFFabU1jRjdvNHFmOENlM2wzTnlJa2R0bFZRUmVYZlRtOUZSSEtuSEJvYmg2RDNCRVV5MGt3azJFXzhQUWxGMXFxcktEQWlVX2lnYw?oc=5",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 20:54:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQM01ndUF4Q242Y05abjdDazR4Mkg1NEIxMjRKazF6T3RuOTFSa3d2OGpudkdBNjd1ZlBPZHM3NTRQM0NCMENxOFBpVGlrWlloM1ZyNW1EWUNpLXBZS3FJX1Fld3hCM2VTZWtrZTl"
+        },
+        {
           "headline": "Tehran is ready for nuclear concessions if US meets demands, Iranian official says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW9RZnJsVzJSLVVTMFFvaE9uNmtkekE4NW1Iekc3NWNYQlpxUUdZVU5iZUFwN0xPcmNuN2NtTk9wVk1rV2xfbE9uZWhGWHJURm50eDFpWU9INVIyQUZxc3lKNFgweW5KeTRHMm5LdGRvZWZxWnQyZDE0SXB3ay1wZWJ0NVBCX1VEZ2Y5ejJPTlZGdVVtLTJmbllzYnd2NjZ6MWllcF9xRnIycE1KWTU4NGpHeXVZNV9WLUgydW8wUUYwUQ?oc=5",
           "source": "Reuters Japan",
@@ -1452,14 +1462,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW9RZnJsVzJSLVVTMFFvaE9uNmtkekE4NW1Iekc3NWNYQlpxUUdZVU5iZUFwN0xPcmNuN2NtTk9wVk1rV2xfbE9uZWhGWHJURm50eDFpWU9INVIyQUZxc3lKNFgweW5KeTRHMm5"
         },
         {
-          "headline": "Tariff ruling limits Trump's leverage but won't end uncertainty for trade partners - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDN2UGlDN25SVFBfdktXRmV3aDJERFVNMFI2UUV1dmFzWjcyVFZyelNad01HZXl2eG1ZOHd1RER5cjdjZ2h2bGtSU0xjTHBLb3F4YlJCdjZGTnZGbFpKU3V2NDZfV0t4NkFvcGJmUlRwOEtmd2lMek9FOU9CSFhNYzdyNmhhbVpldHhaWmdTRWVlcmdkOVpOaDBoN0lwdVV0c2lRQUNPY3Bna2hwOUhPd1pIbXdCMFdG?oc=5",
+          "headline": "Exclusive: New US military-led group aided Mexico's hunt for 'El Mencho' cartel boss - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMEkwbDAweURKU2o0MDZZbkZMdGZ3azZrTVVETXV2NzJqN0tOay1xNzE1Snl6NzdtTXA1UmNXQmw1R2t1WHkzRzVXQVZlbFdObWZ2ZU50SjdIR3Q1YkV1ZjNqaHRmLVlTZjByZ3FWdlBYdmpMek52WjdUalM0WENzY2YxYmNJVFJnQnJCME9LdEo3M1l0MTA0dFBHSWJvQWlLNUE4eXlycC1xYjgxZ2drX0xHOXRCN1Fo?oc=5",
           "source": "Reuters Japan",
           "sourceId": "reuters_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 11:07:46 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDN2UGlDN25SVFBfdktXRmV3aDJERFVNMFI2UUV1dmFzWjcyVFZyelNad01HZXl2eG1ZOHd1RER5cjdjZ2h2bGtSU0xjTHBLb3F4YlJCdjZGTnZGbFpKU3V2NDZfV0t4NkFvcGJ"
+          "date": "Sun, 22 Feb 2026 21:42:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMEkwbDAweURKU2o0MDZZbkZMdGZ3azZrTVVETXV2NzJqN0tOay1xNzE1Snl6NzdtTXA1UmNXQmw1R2t1WHkzRzVXQVZlbFdObWZ2ZU50SjdIR3Q1YkV1ZjNqaHRmLVlTZjByZ3F"
+        },
+        {
+          "headline": "Russia hits Ukraine energy infrastructure with major missile, drone strikes, Kyiv says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWNiMmdKX3hrVklxLTUwek5DaWV2SnBmczlZWjF5bDZLRVFxdXdyckI3YUF2aWl4RTlyd3lNaWhOaVd0cDlCQ29FVHdWemV0c2VVNmE0MGlYekFZQV9GUnhSaFV0WURxckg1Y2NseURjb3RRcTJLZjR4RUJ3b2o5ZE45XzFrV0hrbEM0OEJPak9weTdqZ1ZTWkpmYnRBU3FzQ1YwbGctT3JKUlVBZ0s0SnloTXhrdDk0SnpwYm1qemVRNV9LUjhHZGNpYw?oc=5",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 06:26:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWNiMmdKX3hrVklxLTUwek5DaWV2SnBmczlZWjF5bDZLRVFxdXdyckI3YUF2aWl4RTlyd3lNaWhOaVd0cDlCQ29FVHdWemV0c2VVNmE0MGlYekFZQV9GUnhSaFV0WURxckg1Y2N"
         },
         {
           "headline": "Supreme Court wades into US-Cuba business disputes, with billions at stake - Reuters",
@@ -1472,36 +1492,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORGVyQjVTZUZWRkZQQ05TSjdSS1lvVDdYaG5PSmZvZ09hLURwVGtNYlZ6Sm8zZEhzbjBPeEZyemt0d1pwc0JCYlVPWm5TQ3Fial9lck9lTHZQOUhFLVpIWWxKWVRNeWRpc3FjMFV"
         },
         {
-          "headline": "US trade chief says not seeing countries move to pull out of tariff deals - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJpUm1odlhjbjBOZGg4bEZDYjh0U3ViOHROSlktLTNYZDIwQ3ZRajlyWXhObldTa2pOT1p6eTEzMzFYYmZrWjcyclMwcGdsM0QxeUVka1l1RExxcGV5bUVDMzE4bjByNjVxUXV5Z1NaNmthX0lFcE1tc1l6ZkgtdEg4c0xhQk5yVjVrZUU4ZWxUWDRvbHhIaWpvUTRWYUxGVDFfbWRtQVNVVmZHME1aRnktOTdPdjlqa3d3?oc=5",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 14:05:55 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJpUm1odlhjbjBOZGg4bEZDYjh0U3ViOHROSlktLTNYZDIwQ3ZRajlyWXhObldTa2pOT1p6eTEzMzFYYmZrWjcyclMwcGdsM0QxeUVka1l1RExxcGV5bUVDMzE4bjByNjVxUXV"
-        },
-        {
-          "headline": "Afghanistan's ruling Taliban says Pakistan strikes kill, injure dozens - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0tocEVIbUZxbTh6SG1rdFBfRTM5OWdnU0YtS1kwV01vX2JRdzFlWXFneWdpNFBqcmlPem8yYzFYeU1Ta2xybjdRdEdYemo3aTFHZDA3clFRcTYyLXpXWHB6SVlvWndsSXJMRTlVUGJ4REM1bHpqWXM3bnhKTTRNZm9qRThSZXprT3NhZl9KRkVsYkxuMTZ5dmpPNFkwbjNORXBkRFdnMDFrTEVUdkhNcFpmQUFRNTQ?oc=5",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 02:20:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0tocEVIbUZxbTh6SG1rdFBfRTM5OWdnU0YtS1kwV01vX2JRdzFlWXFneWdpNFBqcmlPem8yYzFYeU1Ta2xybjdRdEdYemo3aTFHZDA3clFRcTYyLXpXWHB6SVlvWndsSXJMRTl"
-        },
-        {
-          "headline": "As it happened: 2026 Winter Games closing ceremony - AP News",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0U1c21wNUJWOVI5UC1oa3IwY1BaVllEX1VON1NtMGNpVDZCUWNranBJZHZQelBSdzBDVFRvenpsV2gySmxMSTMzd3dHRmt2MmJTc2RFUTFPNUNFZFRZNnRXVGVKdUMxTm5ZUzhtMGtNVWtHZ1hUMkNMbWg3RWJiTDVyVzVCcnVuVnQ1X2Z3?oc=5",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 22:05:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0U1c21wNUJWOVI5UC1oa3IwY1BaVllEX1VON1NtMGNpVDZCUWNranBJZHZQelBSdzBDVFRvenpsV2gySmxMSTMzd3dHRmt2MmJTc2RFUTFPNUNFZFRZNnRXVGVKdUMxTm5ZUzh"
-        },
-        {
           "headline": "TSA shuts down Global Entry as the partial government shutdown drags on - AP News",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb291dUtuMWoxamZNdUJtMENnal9hLU94Wm9tRXRTcGVaTnRkaEl2Z3RVWVhFU2JWcHE4YmRVN0NKdGU3Uk84eHhiaWxjWW1qWkVWNGd2MTBkb3RUM0Nha3ZBakVwYTZYa2VZMVFRdDlyZ0xyZ3J6R0hEdGRSb2prS3AyQTVjdmY0d0dEc1MxY0pSUVp2SmZ0Mk9uS0hfQ0Jwc3JpWWt3?oc=5",
           "source": "AP Japan",
@@ -1512,14 +1502,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPb291dUtuMWoxamZNdUJtMENnal9hLU94Wm9tRXRTcGVaTnRkaEl2Z3RVWVhFU2JWcHE4YmRVN0NKdGU3Uk84eHhiaWxjWW1qWkVWNGd2MTBkb3RUM0Nha3ZBakVwYTZYa2VZMVF"
         },
         {
-          "headline": "Goepper walks away with knee sprain, hurt shin after crash in all-or-nothing Olympic halfpipe gamble - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDFuNndDemxaYmRlR0Vqd2M4OWFJSHNZbEtXVFZmUUJjdk04bFRfbkd3dDZnem9jdjJ1aHBkd0hxVzd6SURMcWJkbXJVNGNNSHJlQmxXVENaZmdIRGpBMTlrRHNSVEwxTnUtX3RMNkJhSFUyT2hINWN2ODRKNmlfMGtXLVZiRmRKLUE?oc=5",
+          "headline": "Blizzard warnings cascade across East Coast with winter storm’s approach - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnctd1BOeTBSQUNVVmJlQ2lXUjJ6bWpvNEFablV4YmNDTFN2cVRnOHVjbVJLcGpNX2lCcXJvM3Blb1Nmc1lkUHVNU2QzYm9oODR4bUdPWExOZHU5WTdNTmlSX1MteWgteDdjckVNYlRJSF84NUZMb2pQbXMxWDNTOTlYMW5QMmg1Mm5uUWJLWVVpa3Fl?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 22:41:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDFuNndDemxaYmRlR0Vqd2M4OWFJSHNZbEtXVFZmUUJjdk04bFRfbkd3dDZnem9jdjJ1aHBkd0hxVzd6SURMcWJkbXJVNGNNSHJlQmxXVENaZmdIRGpBMTlrRHNSVEwxTnUtX3R"
+          "date": "Sun, 22 Feb 2026 20:25:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnctd1BOeTBSQUNVVmJlQ2lXUjJ6bWpvNEFablV4YmNDTFN2cVRnOHVjbVJLcGpNX2lCcXJvM3Blb1Nmc1lkUHVNU2QzYm9oODR4bUdPWExOZHU5WTdNTmlSX1MteWgteDdjckV"
         },
         {
           "headline": "Cameron Boozer and No. 3 Duke knock off No. 1 Michigan 68-63 as top 2 teams lose on same day - AP News",
@@ -1532,64 +1522,74 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1Q0cnhtWVNjSkJqWWlQZERFRGlkY2VLcWhRZkFGeHphYWtiQ2tZUnMwX1NXZGl4OEhjTUE3MEEwZFpfZlRyWXdiOVQtRU42MWl4b25mbTVrYk5CUDV0Q2MtVWxRS1U2QlB3VWZ"
         },
         {
-          "headline": "NYC nursing walkout ends as last striking nurses approve new contract - AP News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5fdDlrM2JyamtqZzZrVFN4eDBfSk43Z3JDa1NhOHBidFI3NFdIUW9uaHpHU3pVLUYyZXRR?oc=5",
+          "headline": "The bones of St. Francis are going on public display, a mixed blessing for Assisi - AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNm9BSWFBUmR2Ynh3SVMxaDVhS0tESzlYNW1JbGstT2tDcGwyTTY4ZlRQTnJLT25DLXZLempZa21lLVp1SDZQaWo5ejAzZGllbUJ3R3A0WkNkUkhQN2wxNkhxMzgzaTVnNXE0V3ozWGRzQm11TDQwMi1jSGo2RzEycHBFdmZBUVlFUGFCMEhvMjdtVVk?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 00:17:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5"
+          "date": "Sat, 21 Feb 2026 23:37:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNm9BSWFBUmR2Ynh3SVMxaDVhS0tESzlYNW1JbGstT2tDcGwyTTY4ZlRQTnJLT25DLXZLempZa21lLVp1SDZQaWo5ejAzZGllbUJ3R3A0WkNkUkhQN2wxNkhxMzgzaTVnNXE0V3o"
         },
         {
-          "headline": "Pakistan claims to have killed at least 70 militants in strikes along the Afghan border - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEhZQ3c3YkhZS0hkbUlIbFktSTdMNmlwTnlUX1VjZDEtVWRGbkhwNXF4Tm1Rb1pRZVp3VUVkT3Z3MnFZOHBJY3g5VUJTOEpHNnBDWHBJTWhkRERJcWFpTkxZb3J4dzF1MGdLYk1oQ0FmR2ZwWjNLcnlUTEpES0tUZFdpcUpfWGxmLTNQdHppYTVyd3pLS3lPN3FBdDhDRlBYTl9KU2d1TE0?oc=5",
+          "headline": "EU says US must honor a trade deal after court blocks Trump tariffs - AP News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUk0MnZnM0RCTVRtUkgxVGgyVnRqSWF4c01LZW1VeWhPZ19wZGduNk1qMjJFcHR0T19iX1IwTDNwSzBLN21tVW1aUVdESE0yaWNXUzQtSXBpU01GNlhaM2lnQmRmNTNYMUkyQV9hYmZEV2U0SHYxcUNSYW1lOXIwa29QeGNQTFVvV3Y0R080MDg2Q3EwOXZnVGhGenc?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 18:16:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEhZQ3c3YkhZS0hkbUlIbFktSTdMNmlwTnlUX1VjZDEtVWRGbkhwNXF4Tm1Rb1pRZVp3VUVkT3Z3MnFZOHBJY3g5VUJTOEpHNnBDWHBJTWhkRERJcWFpTkxZb3J4dzF1MGdLYk1"
+          "date": "Sun, 22 Feb 2026 16:23:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUk0MnZnM0RCTVRtUkgxVGgyVnRqSWF4c01LZW1VeWhPZ19wZGduNk1qMjJFcHR0T19iX1IwTDNwSzBLN21tVW1aUVdESE0yaWNXUzQtSXBpU01GNlhaM2lnQmRmNTNYMUkyQV9"
         },
         {
-          "headline": "France will summon Ambassador Charles Kushner over US comments on activist’s death - AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMi1JQ1F4V2R0Nnp6dXh5SDNQMGNabFBHMDlaSlY3M1VLUHVFMXREemxEZHNGcl9wcmhXd0x6c01zM3Bad0RlUDdJSkViUlpyMmlGSWNoUGR3N1R5anItZ1piM0RYQTQ1TWlwTVgyRGNIb2YwU05iN3I4V280ZndsTmllSmdwLWtGNi1JME9IOGhVZXdYZWg0Zm9NZXc4clU?oc=5",
+          "headline": "Olympic curling scandal like 'foot fault in tennis or traveling in basketball,' Canada official says - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjNPU1p6bXpDMnp1QzVXNURwU2JrMzFjbnZGYS1EM1c2UWRrQXdSZHU1Y0MxQkJ2blN4aTBOXzR2UnBOZ0ZhR2pyODFoWU5UcUVpX3MtRGtHd3h1cjMwaEw3cWFrVWFkV3NPM1NxN1ZBbVRhLWEwUHo4MUFGenM4UWVvcGtuTERFT05Edk1sekczTG5Q?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 16:39:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMi1JQ1F4V2R0Nnp6dXh5SDNQMGNabFBHMDlaSlY3M1VLUHVFMXREemxEZHNGcl9wcmhXd0x6c01zM3Bad0RlUDdJSkViUlpyMmlGSWNoUGR3N1R5anItZ1piM0RYQTQ1TWlwTVg"
+          "date": "Sun, 22 Feb 2026 11:42:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjNPU1p6bXpDMnp1QzVXNURwU2JrMzFjbnZGYS1EM1c2UWRrQXdSZHU1Y0MxQkJ2blN4aTBOXzR2UnBOZ0ZhR2pyODFoWU5UcUVpX3MtRGtHd3h1cjMwaEw3cWFrVWFkV3NPM1N"
         },
         {
-          "headline": "A powerful magnitude 7.1 earthquake shakes parts of Malaysia, USGS says - AP News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTl9WNUhGUklaRVdxQmRMbGtLcEo5R21NaHNBV1BmMjhSejhQdk03czI2WG8xYzNhdENSQndaUEdPb2pRZmxmWnoxcVlHTVM1c0F3R010VTZCWUswbUlMOTR5c0wxcmJsY1NOZHBoSG9SUFA1dEJuUy0yS0xRWlE2Y0NmaU8tUQ?oc=5",
+          "headline": "NFL receiver Rondale Moore found dead in his Indiana hometown - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2Q3Rk85bzZJdTF2M0xlWW4wdG5OTERRYTNyX2EwWlRFNXhwUE9VeXVhVm1qV2dTYktKVFVSZ184VUxOY1ZDempHd2lnZHhBX0NSVVZDRXlOUHA3N01XOGFhSXlYQ1RWNjN5d09GaUMyNWxtRVA1eHJCeUo5OU5WcDBiNDFuT1BOc0I0X0E1VjVzd2JuZlg3Nm91R1UtUQ?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 18:16:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTl9WNUhGUklaRVdxQmRMbGtLcEo5R21NaHNBV1BmMjhSejhQdk03czI2WG8xYzNhdENSQndaUEdPb2pRZmxmWnoxcVlHTVM1c0F3R010VTZCWUswbUlMOTR5c0wxcmJsY1NOZHB"
+          "date": "Sun, 22 Feb 2026 16:20:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2Q3Rk85bzZJdTF2M0xlWW4wdG5OTERRYTNyX2EwWlRFNXhwUE9VeXVhVm1qV2dTYktKVFVSZ184VUxOY1ZDempHd2lnZHhBX0NSVVZDRXlOUHA3N01XOGFhSXlYQ1RWNjN5d09"
         },
         {
-          "headline": "Ski guides in spotlight as investigators probe deadly California avalanche - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo3ZWlrbV9UNTNuN2luSWVNS0dXUUhsRnB4eEJvRmhjdkctRGFuRFRqNG5DMkZYVFZfOWxpTWxHZzV1VEdNVzQ?oc=5",
+          "headline": "US says ambassador’s comments on Israel and the Middle East were taken out of context - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOem5OMXZ4V0hFampqTDNOdWtrSDhEVW5qSHpRN3J1Q3FNc0NJZ2lpcEdDcFlINHBUQ08wOEpXbmJSY2kzaVFaZEVOOFVqbXNfekFIZGdkZ0V2djVnbm0wQ1I4Q0ZJbTNmcGVGaUI2WFJNUmZCODBhakNaVWVZaTZneTB4R0EyZzFPRXJGZk9kdUd4VS1OS1VFY2t3LW5NUQ?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 23:31:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo"
+          "date": "Sun, 22 Feb 2026 15:24:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOem5OMXZ4V0hFampqTDNOdWtrSDhEVW5qSHpRN3J1Q3FNc0NJZ2lpcEdDcFlINHBUQ08wOEpXbmJSY2kzaVFaZEVOOFVqbXNfekFIZGdkZ0V2djVnbm0wQ1I4Q0ZJbTNmcGVGaUI"
         },
         {
-          "headline": "From abdication to Diana, Harry and ex-Prince Andrew. A look at major British royal scandals - AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDVsWGhPQ01JYWRuSFZTYlhvY2prQXhOVnFnT2Jzbm9VRTRwcDlZOHRBWVdfZU9EZVNfTWxPeC1iTV81c1poNHRaVzMyaUNTdVJFc1JOVHdVX3VobDdCcDV4YlQ5cnY3SzNjclhmXy1QcktwNC01QjFWZkdDR3pFOXFUNnBTbzRtN1FCYXBFNGw4QnVr?oc=5",
+          "headline": "Sweden’s Ebba Andersson gets redemption in winning 50km cross-country ski race at Milan Cortina - AP News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeExNeUk3Uy1ELWNzblZGWHplc2JrdUJ3TGtHQzNmSTRRMWRXVGxLRVExUHJ4c3dZdGNTbGhPaXM4eW5KcVhUVzBZSkF3VmF6Wm1Qc2JpNWQwN1RrSUNVM2p5cFgxN1JlVlY0Nm56SzI3N0pTUHhwelNGYlo4VWxXNWgtQm1PM0tzcE1yMG96dVFScDZlVGJWRUc4T0liS0FGU1RPV3U1OHFrU0pjbElhZDV2Mk8?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 05:09:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDVsWGhPQ01JYWRuSFZTYlhvY2prQXhOVnFnT2Jzbm9VRTRwcDlZOHRBWVdfZU9EZVNfTWxPeC1iTV81c1poNHRaVzMyaUNTdVJFc1JOVHdVX3VobDdCcDV4YlQ5cnY3SzNjclh"
+          "date": "Sun, 22 Feb 2026 13:01:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQeExNeUk3Uy1ELWNzblZGWHplc2JrdUJ3TGtHQzNmSTRRMWRXVGxLRVExUHJ4c3dZdGNTbGhPaXM4eW5KcVhUVzBZSkF3VmF6Wm1Qc2JpNWQwN1RrSUNVM2p5cFgxN1JlVlY0Nm5"
+        },
+        {
+          "headline": "Jack Hughes lost teeth from a high-stick to the mouth before his Olympic gold-winning goal - AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUQwMHk5RU0zY0UzZ3pXLVMxY0hmMk9IdmlNT2FXU2k2MkpjUUpLdkh2UE5xTy1Ua1BVZ3E5eTROUUhGRTNsc0lsRFd4SzR2ZXRxWEd6S0FsSnl3MDl1VG9rbWZxQ25IZDAxZnVfRHNUdjIyTTNpVmNQRVMxWEZxMlBPaE9JYU5xVkM4NlVDNnB5c2NMa2tpRw?oc=5",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:34:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUQwMHk5RU0zY0UzZ3pXLVMxY0hmMk9IdmlNT2FXU2k2MkpjUUpLdkh2UE5xTy1Ua1BVZ3E5eTROUUhGRTNsc0lsRFd4SzR2ZXRxWEd6S0FsSnl3MDl1VG9rbWZxQ25IZDAxZnV"
         },
         {
           "headline": "Food Lion recalls ground beef over ‘black rubber plastic’ contamination - Yahoo News Canada",
@@ -1610,6 +1610,16 @@
           "priority": "secondary",
           "date": "Sun, 22 Feb 2026 13:36:24 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTVqUUNwUTA2MDc5cUd2S201TWE5Y19JdFI5SmRuYS03a0VyWFlDLXFBZkVHNkl1VnVFbUIzRVlxMHFwTXZNOWJnV2ZzRzllcXBIUGtET1Ytc1pOeEREUGlqZ25UdHcycGtSNFh"
+        },
+        {
+          "headline": "Premier League Latest: Eberechi Eze proves the difference for Arsenal; Man City stumble at Aston Villa - Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTFEREZybDdaTTRIejUzcDkxSU54bThmMlN1R1RqVFY2N09DRGNjM0VmNWR3eFRBdkRhdFhDNUZvSzJocUpLT3dHX2d3Tlg3N2dpUlF0S0pUbkZkb2M5bngzWGZVem1nTmV2Zk1xX1pkMmNXaG50dmU3NkFfU2NmbTF5WXpTdFVwQ3RXUG9ab0xadllwc01ndzE2dW5zOHduRkFqY1NnYVN0X1NIaHRiMzA4czJhQ3NOU2tRR3hpU0dEMml1SlBENQ?oc=5",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 21:55:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTFEREZybDdaTTRIejUzcDkxSU54bThmMlN1R1RqVFY2N09DRGNjM0VmNWR3eFRBdkRhdFhDNUZvSzJocUpLT3dHX2d3Tlg3N2dpUlF0S0pUbkZkb2M5bngzWGZVem1nTmV2Zk1"
         },
         {
           "headline": "\"Straight White Man... We Can't Take Any Chances\": People Are Sharing Who They Are Likely To Vote For In 2028, And I Need To Know If You Agree - Yahoo News UK",
@@ -1824,7 +1834,7 @@
           "description": "If you're planning a trip to Japan, here's what you'll need to know and expect if you want to visit during the global coronavirus pandemic."
         },
         {
-          "headline": "Japan’s Ruling Party Tax Chief Calls US Tariff Situation ‘Messy’ - Bloomberg",
+          "headline": "Japan’s Ruling Party Tax Chief Calls US Tariff Situation ‘Messy’ - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVUzZWZvQXBqYVA4bkM5WVc5OFUyTWNwQ1ZmZTVucVNEWGE2T2lQVjRNd1dUX0h5ZklWNUlacFV0aEVUZWRlVFFhbzhiMkZxWQ?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1834,7 +1844,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVU"
         },
         {
-          "headline": "Germany Is About to Find Out Whether Its Recovery Is Real - Bloomberg",
+          "headline": "US Tells Partners to Honor Tariff Deals as Trump Recalibrates - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWRLZHUzQW5QYXpEdEFwX0dCZ01oVWpVZGFYTHQwYXFQMko1WERHQzNaMVZ5Rmd1Y2VTdXVERkgyQXV0eGk?oc=5",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:36:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWR"
+        },
+        {
+          "headline": "Germany Is About to Find Out Whether Its Recovery Is Real - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDhkczRiUk80djVLTWx1NXpLRXBaRWl2c0xJQnZtLVAwVkw4RG0tRVlBZG9Kak4tQzV5c3JkalpDTEkzaEVSQ0lFd3FKNWJtZENJYXVQRTI5Z0pKS0RKYy1CSGZMYkcwajlhWnZFeUVJT3BZNHEtWHlZRWJ6YzgwTlZwc1pCMEt4ckFhUnFXTmd3MXJncnp0eTd4TmFydnQzNGlfcUNQYm8?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1844,7 +1864,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDhkczRiUk80djVLTWx1NXpLRXBaRWl2c0xJQnZtLVAwVkw4RG0tRVlBZG9Kak4tQzV5c3JkalpDTEkzaEVSQ0lFd3FKNWJtZENJYXVQRTI5Z0pKS0RKYy1CSGZMYkcwajlhWnZ"
         },
         {
-          "headline": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence - Bloomberg",
+          "headline": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1854,17 +1874,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkV"
         },
         {
-          "headline": "US Tells Partners to Honor Tariff Deals as Trump Recalibrates - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWRLZHUzQW5QYXpEdEFwX0dCZ01oVWpVZGFYTHQwYXFQMko1WERHQzNaMVZ5Rmd1Y2VTdXVERkgyQXV0eGk?oc=5",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 17:22:56 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWR"
-        },
-        {
-          "headline": "Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash - Bloomberg",
+          "headline": "Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tnYzJJVHFlSWdLWlFObkZaTlRBRUlUeFV3SjRvVVV1UWxMT3BEbHp0c0MtZVlvS3NUM2NUNXQ5YXMwYTlDOGxSdHBkb1A5YnBtN2RUN1VRMnVXWXIwQ3pILVA1WHNYM0Yzelo0M0Exc0tUaWFMV2VmMTVRc1laYXROMzlsc3lJczFYQkZCanUzWGZDa2doRnJEc2ktUVJISmZjTkF0aVczTERKT1Rj?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1874,7 +1884,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tnYzJJVHFlSWdLWlFObkZaTlRBRUlUeFV3SjRvVVV1UWxMT3BEbHp0c0MtZVlvS3NUM2NUNXQ5YXMwYTlDOGxSdHBkb1A5YnBtN2RUN1VRMnVXWXIwQ3pILVA1WHNYM0Yzelo"
         },
         {
-          "headline": "Option Pros Trade Index Versus Index to Play Huge Stock Rotation - Bloomberg",
+          "headline": "Option Pros Trade Index Versus Index to Play Huge Stock Rotation - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFZhT1UxMW9uZEQyck9xbm1zdkFYNUFkVXdXckg4N0draTBwRnhXcnRIQjExa01xamRlRGVvdS12bHloU1ZMcUc1d3NpeHBqTHNMb0Z1Wks0ZGlEeEpjMG9ZREEtMDhuYzZTRnREOWd2Y2pIS1R3Wm1lSC1QYXlYaXJRWDRBQVlOZjQzbWI1amVoeUYxX2xsMWtNbnhGTFF3cG93bTRYLXk5Uk5ubTNDbzBrcTJpZw?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1884,17 +1894,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFZhT1UxMW9uZEQyck9xbm1zdkFYNUFkVXdXckg4N0draTBwRnhXcnRIQjExa01xamRlRGVvdS12bHloU1ZMcUc1d3NpeHBqTHNMb0Z1Wks0ZGlEeEpjMG9ZREEtMDhuYzZTRnR"
         },
         {
-          "headline": "Trump’s Trade War: A News Guide to His Second Term as President - Bloomberg",
+          "headline": "Trump’s Trade War: A News Guide to His Second Term as President - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iZGVGa3RSQWJwcFpkd2tPbVpiOExBWWZzdmc2YTM3d3BDal8tT0Z5ejhLSHNXXzBEbEx1UkRFRklRS0hEb2VBM3F6V0FnY3JSRnp4Nk5n?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 17:16:36 GMT",
+          "date": "Sun, 22 Feb 2026 20:17:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iZGVGa3RSQWJwcFpkd2tPbVpiOExBWWZzdmc2YTM3d3BDal8tT0Z5ejhLSHNXXzBEbEx1UkRFRklRS0hEb2VBM3F6V0FnY3JSRnp4Nk5n?oc=5\" target=\"_blank\"&gt;Trump"
         },
         {
-          "headline": "Tomoku Co Ltd - Bloomberg",
+          "headline": "Tomoku Co Ltd - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNSlRuN3dYTWNtcWlrOEtYUERiY04zWnR5SVEzZ1hRS0pucndoQnNtT2pDN1ZScGlvOE55R21YTFFlbm1HQ0tua3dkWDZwLWdHQmxpenJ6Y0hic2xW?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1904,17 +1914,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNSlRuN3dYTWNtcWlrOEtYUERiY04zWnR5SVEzZ1hRS0pucndoQnNtT2pDN1ZScGlvOE55R21YTFFlbm1HQ0tua3dkWDZwLWdHQmxpenJ6Y0hic2xW?oc=5\" target=\"_blank\"&"
         },
         {
-          "headline": "Dollar Trades Within Range Amid Tariff Uncertainty: Markets Wrap - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnU3SHM1ZFEzYWdoQm5CYTl6bVQxT1V0LU9ZUVZ2UUNIRHdsekloQVRFYVNxUWREekV5TC1pX1JXUjJBNFVoN2NSdG9YUVhsM0FmaGtSZFdJOFN0Tm5PZjJORUFsdUNBQTRjTFJPNTJkdEtkMjlCQmJYVVFYM0lxMjg1dE1pTEx4bzFqbEJpUzJ4Z0lsSGZoQUhtaFhseXVBaVF0am96UFN5S0RndWZlczY0Ty0?oc=5",
+          "headline": "Dollar Trades Within Range Amid Tariff Uncertainty: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVc5bm5hczA2THB1a2ZiWk9nYXhaazM2Rkc1d0tJVnh1ZDhLUExOaS1La3VQWlY2WkZWRHp1MGx0YmxBTjFkMzNOem9LbHZ0Q0lweUNIWlVvNEtCSnQyMzFCYWRTNjh0b0wwd1NROC1wRlRtYTZmMVhYT2F5TXBCNGFXQVppZFFtZWNndVQ4WVpBMjFzV09mSXYxX2Z4ZHpkd19naUtwTnJycHk0aEtQbmNaSHg5MnhsZlpueEh2TUh4VE5zVk55LXVZRWFBTVFSaE5V?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
           "date": "Sun, 22 Feb 2026 21:03:47 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnU3SHM1ZFEzYWdoQm5CYTl6bVQxT1V0LU9ZUVZ2UUNIRHdsekloQVRFYVNxUWREekV5TC1pX1JXUjJBNFVoN2NSdG9YUVhsM0FmaGtSZFdJOFN0Tm5PZjJORUFsdUNBQTRjTFJ"
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVc5bm5hczA2THB1a2ZiWk9nYXhaazM2Rkc1d0tJVnh1ZDhLUExOaS1La3VQWlY2WkZWRHp1MGx0YmxBTjFkMzNOem9LbHZ0Q0lweUNIWlVvNEtCSnQyMzFCYWRTNjh0b0wwd1N"
         },
         {
-          "headline": "The New Face of Extremism Among Asia’s Youth - Bloomberg",
+          "headline": "The New Face of Extremism Among Asia’s Youth - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpOT2Y0bXIxazgzYzJwcjdrTTBrRllKUWxNYlZnbnltNmpoSEljSDQ4TlNYZndJTnl4V3BGdlBhNy05NUwzN3Nwem1Xa2NPdlp3emRScHpqZ1dXS2VDZzBlN0xPWmtHX2RLU3hBTnFOdWppQ3paeVAxYjdwSHBIUENJdnFrT3lPOC13aUNSQm4tNzgwdmlYWmR6WngwN2hKMnpDeE1NcGQ1dElKV0RqaGpkZ0pPdw?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1922,6 +1932,16 @@
           "priority": "secondary",
           "date": "Sun, 22 Feb 2026 19:00:02 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpOT2Y0bXIxazgzYzJwcjdrTTBrRllKUWxNYlZnbnltNmpoSEljSDQ4TlNYZndJTnl4V3BGdlBhNy05NUwzN3Nwem1Xa2NPdlp3emRScHpqZ1dXS2VDZzBlN0xPWmtHX2RLU3h"
+        },
+        {
+          "headline": "Analysis | Meet Mikhail Shaidorov, the guy who actually won men’s singles figure skating - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWJvemNnX2w0ZFRoQUd0eUFYSDN6ZG5obUp3NmRkU3l2VnhERTVPWENULW1JTG5HOG9IWXMyX2tzWDBkUzF6TlRyNVUycnhlUUZkYW41R0JIY041TmxSVThhQS1Pcy04VEdkWEo3enZrVDl2OW4xRWpWZnBYQnRvb3Iybmg3NHdKM3IxVXBmRXlBbk9XOEJ6dGhZWktnVW9VRXlBWnhCZkk?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:00:29 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWJvemNnX2w0ZFRoQUd0eUFYSDN6ZG5obUp3NmRkU3l2VnhERTVPWENULW1JTG5HOG9IWXMyX2tzWDBkUzF6TlRyNVUycnhlUUZkYW41R0JIY041TmxSVThhQS1Pcy04VEdkWEo"
         },
         {
           "headline": "Tickets for the 1984 Olympics in L.A. were $3. Could it happen again? - The Washington Post",
@@ -1932,36 +1952,6 @@
           "priority": "tertiary",
           "date": "Sun, 22 Feb 2026 18:00:34 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXFjenF2cndRYU5WdGp0S2hvdGlnUkMtMGwwblViT2kyVTRFX1NFaHZRRlZPWlAtbjFCRE1WemNlc2ZQNE1RV01yd2FLUnFCT3o2TGR6bEo0aE9oYjU4UVRwUjlLNHBUdHJpVDM"
-        },
-        {
-          "headline": "Tucker Carlson, Mike Huckabee debate Israel’s right to land in Middle East - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1c4WXhMSzkxZU8xVi1OUEIyS0stZkxMTnVEaGNDVG9vVm1XdnVjbzdrN19CTWZ3amg2bVRWNlVSTmVYZ2FHaTVZNkZ1aXhJcFJDOExuTkk2bjFiTVRya1M5SDEydms4QXlsZ1NVYXBjbFZiY05CdlBRanNQa3luV2hhdTBrbXdvbG0tQUFXblZ4UlR4MDZuRVNVaXloZw?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sat, 21 Feb 2026 23:05:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNV1c4WXhMSzkxZU8xVi1OUEIyS0stZkxMTnVEaGNDVG9vVm1XdnVjbzdrN19CTWZ3amg2bVRWNlVSTmVYZ2FHaTVZNkZ1aXhJcFJDOExuTkk2bjFiTVRya1M5SDEydms4QXlsZ1N"
-        },
-        {
-          "headline": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sun, 22 Feb 2026 19:22:56 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5\" target=\"_blank\"&gt;The Washington Post - Brea"
-        },
-        {
-          "headline": "CWG Live: Rain mixing with snow this afternoon. Accumulating snow likely tonight. - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzZ4SHlYUENIMUFiRjVuMmVQNGpTVkgyaW5TMkh3MkJ2MWdJUENwMWNoU2tnSTFLV1BMTklSajNCSzRxTWZWLVRMdGU2bHNkM0NXU3hWUDhZR24xRWVHSmk0WExVeE1aNldKVzlPN21wUWV4a21hcEVVVVgxREpBLUVySW1uUll1QmhYd1Q0S2hqbDJqQ3c?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sun, 22 Feb 2026 19:01:49 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzZ4SHlYUENIMUFiRjVuMmVQNGpTVkgyaW5TMkh3MkJ2MWdJUENwMWNoU2tnSTFLV1BMTklSajNCSzRxTWZWLVRMdGU2bHNkM0NXU3hWUDhZR24xRWVHSmk0WExVeE1aNldKVzl"
         },
         {
           "headline": "Dodgers star Shohei Ohtani set to play a couple of Cactus League games before joining Japan for WBC - The Washington Post",
@@ -1990,18 +1980,8 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Sun, 22 Feb 2026 21:35:44 GMT",
+          "date": "Sun, 22 Feb 2026 22:00:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSi0zR0NQUHJpVVJVTXBXTEtTTzgzTkJocGJsYWlESGlFZU4yNkpNRVVuX0M5Sk10UjlESmFGMld3bXNDX0l6MzdhbmlQZUJJQkg2MWFNM0FjUGRGYm1TcFR1TW5SSFRaWXhFM3h"
-        },
-        {
-          "headline": "Freiburg moves to 7th in Bundesliga with 2-1 win over Gladbach - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUxwT3dfYVBtWmFRdzVMMUJsSkdrR3NwdVk5bXkzVm5RLUVYYTgzWjZQNVdiWExMQk1OYi02cTVnOXNyNm9tM3pyQXRQRHBpak9hTWZINjhUOGpEVVVnRGhPNGxPTEMydjJUUmV3SUdoVUNRVXkwcjBKUElUUzF6NHRCRGpr?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sun, 22 Feb 2026 21:22:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUx"
         },
         {
           "headline": "Ryan Garcia beats Mario Barrios by unanimous decision to win the WBC welterweight title - The Washington Post",
@@ -2014,6 +1994,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUpvSVk2SDEzTC1nY1NZTDNzRUR1QWhKWVk1NURYRzlFUENDb2lOS0xqUkRscnU3ODJoN2NvaGF4dGM4aGZ0elBuSnlERC1rTVJoWkw3bzhUYjRyVUdydXRTbXVKTGpIY0lIdHV"
         },
         {
+          "headline": "Stuttgart rescues 3-3 draw as Bundesliga relegation scrap impacts Champions League race - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUxwT3dfYVBtWmFRdzVMMUJsSkdrR3NwdVk5bXkzVm5RLUVYYTgzWjZQNVdiWExMQk1OYi02cTVnOXNyNm9tM3pyQXRQRHBpak9hTWZINjhUOGpEVVVnRGhPNGxPTEMydjJUUmV3SUdoVUNRVXkwcjBKUElUUzF6NHRCRGpr?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:52:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUx"
+        },
+        {
           "headline": "Major League Baseball - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbzVCY3NDanN6LUtiVUQ2aURLbld0MUhOZUpIZjRhWGh4bWNJMEFnRnlWTXlsRWt1WFNTMnZTeUVuSm1MSHdLVTV4Q2NMbHVhUUFHYg?oc=5",
           "source": "Washington Post",
@@ -2022,20 +2012,30 @@
           "priority": "tertiary",
           "date": "Mon, 21 Sep 2015 17:09:08 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbzVCY3NDanN6LUtiVUQ2aURLbld0MUhOZUpIZjRhWGh4bWNJMEFnRnlWTXlsRWt1WFNTMnZTeUVuSm1MSHdLVTV4Q2NMbHVhUUFHYg?oc=5\" target=\"_blank\"&gt;Major L"
+        },
+        {
+          "headline": "Stars descend on the BAFTA film awards, with 'One Battle' and 'Sinners' leading the race - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGFHY3I5OFZGUHM5UEZZTVJuczhLaENhYUlOb2xpY18xYjRsV1FsZlZhQlFXVEUxbzQ1dUkwZ2ZpRjNxbnoyeGFxUHVUQVF4dHRkY2NCTTBBRHRrSGNrTE5RQTk1WVAxSklNRU9Bc0wxeXJvVEY4NnJ5VzZyZmlZZkRoY1BVSEtsa2ZmZGNhbzJCdEdIcUR5MzY3SmItbWlBU3VTWmZjMjhOM0NLdi1fcDFiRmxVOGtjWG5DVm9SYjNpUE11R0xr?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 16:55:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGFHY3I5OFZGUHM5UEZZTVJuczhLaENhYUlOb2xpY18xYjRsV1FsZlZhQlFXVEUxbzQ1dUkwZ2ZpRjNxbnoyeGFxUHVUQVF4dHRkY2NCTTBBRHRrSGNrTE5RQTk1WVAxSklNRU9"
         }
       ]
     },
     "byPriority": {
       "primary": [
         {
-          "headline": "スカイツリーエレベーター停止で閉じ込め5時間半 20人全員救助",
+          "headline": "スカイツリー エレベーター閉じ込め5時間半 きょう臨時休業",
           "url": "http://www3.nhk.or.jp/news/html/20260222/k10015058721000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Mon, 23 Feb 2026 06:28:48 +0900",
-          "description": "22日夜、「東京スカイツリー」で客が乗ったエレベーターが突然停止し、子どもを含む20人が5時間半余りにわたって中に閉じ込められました。その後、全員が救助されけが人などはいないということで、警視庁などが原因を詳しく調べています。"
+          "date": "Mon, 23 Feb 2026 08:02:42 +0900",
+          "description": "22日夜、「東京スカイツリー」で客が乗ったエレベーターが突然停止し、子どもを含む20人が5時間半余りにわたって中に閉じ込められました。その後、全員が救助されけが人などはいないということで、警視庁などが原因を詳しく調べています。「東京スカイツリー」を運営する会社によりますと、エレベーターが停止した原因の調査や、ほかのエレベーターの点検などを行うため、23日は臨時休業することを決めたということです。"
         },
         {
           "headline": "ミラノ・コルティナオリンピックが閉幕 【詳しく】",
@@ -2044,7 +2044,7 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Mon, 23 Feb 2026 07:25:26 +0900",
+          "date": "Mon, 23 Feb 2026 07:45:28 +0900",
           "description": "イタリア北部を舞台に大きく4つのエリアに分かれる「広域開催」で行われたミラノ・コルティナオリンピックの閉会式が行われ、17日間にわたる冬のスポーツの祭典が幕を下ろしました。記事後半では閉会式の経過を詳しくお伝えしています。"
         },
         {
@@ -2068,14 +2068,14 @@
           "description": "天皇陛下は、23日、66歳の誕生日を迎えられました。"
         },
         {
-          "headline": "最高検察庁 「保護観察」付き判決 積極的に求めるよう通知",
-          "url": "http://www3.nhk.or.jp/news/html/20260223/k10015058741000.html",
+          "headline": "文化庁 博物館法 基準改正案めぐり「廃棄検討は慎重に」追記",
+          "url": "http://www3.nhk.or.jp/news/html/20260223/k10015058851000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Mon, 23 Feb 2026 00:12:38 +0900",
-          "description": "罪を犯した人の再犯の防止につなげようと、最高検察庁が、裁判で「保護観察」の付いた判決をこれまでより積極的に求めるよう全国の検察に通知したことが、関係者への取材でわかりました。執行猶予の期間中に指導や支援をすることで、再犯防止や更生につなげるねらいがあります。"
+          "date": "Mon, 23 Feb 2026 08:19:59 +0900",
+          "description": "文化庁が公表した博物館の運営などに関する基準の改正案をめぐり、資料の収集や管理の規定に「廃棄」の文言が盛り込まれたことに対し、一部の学会が文言の削除などを求めていた問題で、文化庁は文言は削除せず「廃棄を検討する場合、長期的かつ総合的な見地から慎重に行う」などと追記した修正案をまとめたことがわかりました。"
         },
         {
           "headline": "トランプ大統領の別荘に侵入試みたか 男を射殺 大統領は不在",
@@ -2096,6 +2096,26 @@
           "priority": "primary",
           "date": "Mon, 23 Feb 2026 06:14:25 +0900",
           "description": "23日は関東では5月並みの暖かさとなるところがある一方、そのほかの地域では最高気温が22日よりも下がるところが多い見込みで、体調の管理に注意してください。北海道では風が強まり荒れた天気となっていて、暴風や高波に警戒が必要です。"
+        },
+        {
+          "headline": "IN PHOTOS: Japan's defining moments at Milan Cortina",
+          "url": "https://english.kyodonews.net/articles/-/70974",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Feb 2026 07:58:00 +0900",
+          "description": "Figure skating pair Ryuichi Kihara and Riku Miura captured the hearts of a nation as the Japanese team delivered its most successfRead full story here"
+        },
+        {
+          "headline": "Olympics: Milan Cortina Winter Games end with Japan at new height",
+          "url": "https://english.kyodonews.net/articles/-/71024",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Feb 2026 07:33:00 +0900",
+          "description": "The curtain came down on the Milan Cortina Winter Olympics with Sunday&#39;s closing ceremony at the ancient Arena di Verona markiRead full story here"
         },
         {
           "headline": "Kyodo News Digest: Feb. 22, 2026",
@@ -2176,26 +2196,6 @@
           "priority": "primary",
           "date": "Sun, 22 Feb 2026 12:48:00 +0900",
           "description": "The Japanese government plans to expand the market for used goods to around 4.6 trillion yen ($29.7 bllion) in 2030, up 32 percentRead full story here"
-        },
-        {
-          "headline": "Japan's traditional \"naked festival\" leaves 3 attendees unconscious",
-          "url": "https://english.kyodonews.net/articles/-/71007",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 22 Feb 2026 12:31:00 +0900",
-          "description": "A traditional Japanese festival known for thousands of nearly naked men competing to claim sacred talismans left three men unconscRead full story here"
-        },
-        {
-          "headline": "Internship in English-speaking Niseko provides immersive \"study abroad\"",
-          "url": "https://english.kyodonews.net/articles/-/71005",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 22 Feb 2026 11:03:00 +0900",
-          "description": "A unique internship program in Hokkaido, under which Japanese university students work and live for a month at the famed Niseko skRead full story here"
         },
         {
           "headline": "Eileen Gu wins Olympic gold in women's freeski halfpipe",
@@ -2298,6 +2298,16 @@
           "description": "The tiny islets, known as Takeshima in Japan ⁠and Dokdo in South Korea, which controls them, have long been ⁠a source of tension between the neighboring countries."
         },
         {
+          "headline": "Emperor Turns 66 Ahead of Disaster Milestones",
+          "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260223-313031/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 23:06:20 +0000",
+          "description": ""
+        },
+        {
           "headline": "Ukrainian Ambassador Closely Watching Japan’s Revision of Defense Export Rules, Hopes for Future Arms Support",
           "url": "https://japannews.yomiuri.co.jp/world/wider-world/20260223-312922/",
           "source": "Japan News (Yomiuri)",
@@ -2318,7 +2328,7 @@
           "description": "LONDON — Japan’s major real estate companies are expanding businesses overseas. With the ease of the COVID-19 pandemic and market conditions stabilizing, companies have continued making large-scale in"
         },
         {
-          "headline": "Tokyo Skytree&#8217;s Elevator Stops, Trapping 20 People, Police Say",
+          "headline": "Tokyo Skytree&#8217;s Elevator Stops, Trapping 20 People; All Rescued (Update 1)",
           "url": "https://japannews.yomiuri.co.jp/society/general-news/20260222-313020/",
           "source": "Japan News (Yomiuri)",
           "sourceId": "japan_news_yomiuri",
@@ -2386,16 +2396,6 @@
           "priority": "primary",
           "date": "Sun, 22 Feb 2026 07:18:57 +0000",
           "description": "Tuesday will mark four years since Russia’s aggression against Ukraine began, yet prospects for peace remain elusive."
-        },
-        {
-          "headline": "‘Storytellers’ Being Dispatched Overseas to Promote Japan; Events Planned in More Than 20 Countries",
-          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260222-312949/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sun, 22 Feb 2026 07:16:24 +0000",
-          "description": "The Foreign Ministry has launched an initiative to dispatch “storytellers” overseas to convey the appeal and history of Japanese culture, including traditional performing arts and anime."
         }
       ],
       "secondary": [
@@ -2450,6 +2450,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UNHRoVTZNOWFFUndnZ2wtNkE1eWRDTUNHdG1EZVNjbmJlTkVvNk5td1JUWVdsRVA1bkFuT1FRNkw5OFhDcE9QdzJhZ1VzSTliNDBvS0t3dEF4dTR1cnFwNTZIbnBLM2c?oc=5\" t"
         },
         {
+          "headline": "Cop turned crime boss, Nemesio 'El Mencho' Oseguera leaves bloody legacy - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM01ndUF4Q242Y05abjdDazR4Mkg1NEIxMjRKazF6T3RuOTFSa3d2OGpudkdBNjd1ZlBPZHM3NTRQM0NCMENxOFBpVGlrWlloM1ZyNW1EWUNpLXBZS3FJX1Fld3hCM2VTZWtrZTl3S0dlMFFabU1jRjdvNHFmOENlM2wzTnlJa2R0bFZRUmVYZlRtOUZSSEtuSEJvYmg2RDNCRVV5MGt3azJFXzhQUWxGMXFxcktEQWlVX2lnYw?oc=5",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 20:54:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQM01ndUF4Q242Y05abjdDazR4Mkg1NEIxMjRKazF6T3RuOTFSa3d2OGpudkdBNjd1ZlBPZHM3NTRQM0NCMENxOFBpVGlrWlloM1ZyNW1EWUNpLXBZS3FJX1Fld3hCM2VTZWtrZTl"
+        },
+        {
           "headline": "Tehran is ready for nuclear concessions if US meets demands, Iranian official says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW9RZnJsVzJSLVVTMFFvaE9uNmtkekE4NW1Iekc3NWNYQlpxUUdZVU5iZUFwN0xPcmNuN2NtTk9wVk1rV2xfbE9uZWhGWHJURm50eDFpWU9INVIyQUZxc3lKNFgweW5KeTRHMm5LdGRvZWZxWnQyZDE0SXB3ay1wZWJ0NVBCX1VEZ2Y5ejJPTlZGdVVtLTJmbllzYnd2NjZ6MWllcF9xRnIycE1KWTU4NGpHeXVZNV9WLUgydW8wUUYwUQ?oc=5",
           "source": "Reuters Japan",
@@ -2460,14 +2470,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW9RZnJsVzJSLVVTMFFvaE9uNmtkekE4NW1Iekc3NWNYQlpxUUdZVU5iZUFwN0xPcmNuN2NtTk9wVk1rV2xfbE9uZWhGWHJURm50eDFpWU9INVIyQUZxc3lKNFgweW5KeTRHMm5"
         },
         {
-          "headline": "Tariff ruling limits Trump's leverage but won't end uncertainty for trade partners - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDN2UGlDN25SVFBfdktXRmV3aDJERFVNMFI2UUV1dmFzWjcyVFZyelNad01HZXl2eG1ZOHd1RER5cjdjZ2h2bGtSU0xjTHBLb3F4YlJCdjZGTnZGbFpKU3V2NDZfV0t4NkFvcGJmUlRwOEtmd2lMek9FOU9CSFhNYzdyNmhhbVpldHhaWmdTRWVlcmdkOVpOaDBoN0lwdVV0c2lRQUNPY3Bna2hwOUhPd1pIbXdCMFdG?oc=5",
+          "headline": "Exclusive: New US military-led group aided Mexico's hunt for 'El Mencho' cartel boss - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMEkwbDAweURKU2o0MDZZbkZMdGZ3azZrTVVETXV2NzJqN0tOay1xNzE1Snl6NzdtTXA1UmNXQmw1R2t1WHkzRzVXQVZlbFdObWZ2ZU50SjdIR3Q1YkV1ZjNqaHRmLVlTZjByZ3FWdlBYdmpMek52WjdUalM0WENzY2YxYmNJVFJnQnJCME9LdEo3M1l0MTA0dFBHSWJvQWlLNUE4eXlycC1xYjgxZ2drX0xHOXRCN1Fo?oc=5",
           "source": "Reuters Japan",
           "sourceId": "reuters_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 11:07:46 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDN2UGlDN25SVFBfdktXRmV3aDJERFVNMFI2UUV1dmFzWjcyVFZyelNad01HZXl2eG1ZOHd1RER5cjdjZ2h2bGtSU0xjTHBLb3F4YlJCdjZGTnZGbFpKU3V2NDZfV0t4NkFvcGJ"
+          "date": "Sun, 22 Feb 2026 21:42:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMEkwbDAweURKU2o0MDZZbkZMdGZ3azZrTVVETXV2NzJqN0tOay1xNzE1Snl6NzdtTXA1UmNXQmw1R2t1WHkzRzVXQVZlbFdObWZ2ZU50SjdIR3Q1YkV1ZjNqaHRmLVlTZjByZ3F"
+        },
+        {
+          "headline": "Russia hits Ukraine energy infrastructure with major missile, drone strikes, Kyiv says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWNiMmdKX3hrVklxLTUwek5DaWV2SnBmczlZWjF5bDZLRVFxdXdyckI3YUF2aWl4RTlyd3lNaWhOaVd0cDlCQ29FVHdWemV0c2VVNmE0MGlYekFZQV9GUnhSaFV0WURxckg1Y2NseURjb3RRcTJLZjR4RUJ3b2o5ZE45XzFrV0hrbEM0OEJPak9weTdqZ1ZTWkpmYnRBU3FzQ1YwbGctT3JKUlVBZ0s0SnloTXhrdDk0SnpwYm1qemVRNV9LUjhHZGNpYw?oc=5",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 06:26:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWNiMmdKX3hrVklxLTUwek5DaWV2SnBmczlZWjF5bDZLRVFxdXdyckI3YUF2aWl4RTlyd3lNaWhOaVd0cDlCQ29FVHdWemV0c2VVNmE0MGlYekFZQV9GUnhSaFV0WURxckg1Y2N"
         },
         {
           "headline": "Supreme Court wades into US-Cuba business disputes, with billions at stake - Reuters",
@@ -2480,36 +2500,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORGVyQjVTZUZWRkZQQ05TSjdSS1lvVDdYaG5PSmZvZ09hLURwVGtNYlZ6Sm8zZEhzbjBPeEZyemt0d1pwc0JCYlVPWm5TQ3Fial9lck9lTHZQOUhFLVpIWWxKWVRNeWRpc3FjMFV"
         },
         {
-          "headline": "US trade chief says not seeing countries move to pull out of tariff deals - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJpUm1odlhjbjBOZGg4bEZDYjh0U3ViOHROSlktLTNYZDIwQ3ZRajlyWXhObldTa2pOT1p6eTEzMzFYYmZrWjcyclMwcGdsM0QxeUVka1l1RExxcGV5bUVDMzE4bjByNjVxUXV5Z1NaNmthX0lFcE1tc1l6ZkgtdEg4c0xhQk5yVjVrZUU4ZWxUWDRvbHhIaWpvUTRWYUxGVDFfbWRtQVNVVmZHME1aRnktOTdPdjlqa3d3?oc=5",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 14:05:55 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZGJpUm1odlhjbjBOZGg4bEZDYjh0U3ViOHROSlktLTNYZDIwQ3ZRajlyWXhObldTa2pOT1p6eTEzMzFYYmZrWjcyclMwcGdsM0QxeUVka1l1RExxcGV5bUVDMzE4bjByNjVxUXV"
-        },
-        {
-          "headline": "Afghanistan's ruling Taliban says Pakistan strikes kill, injure dozens - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0tocEVIbUZxbTh6SG1rdFBfRTM5OWdnU0YtS1kwV01vX2JRdzFlWXFneWdpNFBqcmlPem8yYzFYeU1Ta2xybjdRdEdYemo3aTFHZDA3clFRcTYyLXpXWHB6SVlvWndsSXJMRTlVUGJ4REM1bHpqWXM3bnhKTTRNZm9qRThSZXprT3NhZl9KRkVsYkxuMTZ5dmpPNFkwbjNORXBkRFdnMDFrTEVUdkhNcFpmQUFRNTQ?oc=5",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 02:20:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0tocEVIbUZxbTh6SG1rdFBfRTM5OWdnU0YtS1kwV01vX2JRdzFlWXFneWdpNFBqcmlPem8yYzFYeU1Ta2xybjdRdEdYemo3aTFHZDA3clFRcTYyLXpXWHB6SVlvWndsSXJMRTl"
-        },
-        {
-          "headline": "As it happened: 2026 Winter Games closing ceremony - AP News",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0U1c21wNUJWOVI5UC1oa3IwY1BaVllEX1VON1NtMGNpVDZCUWNranBJZHZQelBSdzBDVFRvenpsV2gySmxMSTMzd3dHRmt2MmJTc2RFUTFPNUNFZFRZNnRXVGVKdUMxTm5ZUzhtMGtNVWtHZ1hUMkNMbWg3RWJiTDVyVzVCcnVuVnQ1X2Z3?oc=5",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 22:05:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0U1c21wNUJWOVI5UC1oa3IwY1BaVllEX1VON1NtMGNpVDZCUWNranBJZHZQelBSdzBDVFRvenpsV2gySmxMSTMzd3dHRmt2MmJTc2RFUTFPNUNFZFRZNnRXVGVKdUMxTm5ZUzh"
-        },
-        {
           "headline": "TSA shuts down Global Entry as the partial government shutdown drags on - AP News",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb291dUtuMWoxamZNdUJtMENnal9hLU94Wm9tRXRTcGVaTnRkaEl2Z3RVWVhFU2JWcHE4YmRVN0NKdGU3Uk84eHhiaWxjWW1qWkVWNGd2MTBkb3RUM0Nha3ZBakVwYTZYa2VZMVFRdDlyZ0xyZ3J6R0hEdGRSb2prS3AyQTVjdmY0d0dEc1MxY0pSUVp2SmZ0Mk9uS0hfQ0Jwc3JpWWt3?oc=5",
           "source": "AP Japan",
@@ -2520,14 +2510,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPb291dUtuMWoxamZNdUJtMENnal9hLU94Wm9tRXRTcGVaTnRkaEl2Z3RVWVhFU2JWcHE4YmRVN0NKdGU3Uk84eHhiaWxjWW1qWkVWNGd2MTBkb3RUM0Nha3ZBakVwYTZYa2VZMVF"
         },
         {
-          "headline": "Goepper walks away with knee sprain, hurt shin after crash in all-or-nothing Olympic halfpipe gamble - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDFuNndDemxaYmRlR0Vqd2M4OWFJSHNZbEtXVFZmUUJjdk04bFRfbkd3dDZnem9jdjJ1aHBkd0hxVzd6SURMcWJkbXJVNGNNSHJlQmxXVENaZmdIRGpBMTlrRHNSVEwxTnUtX3RMNkJhSFUyT2hINWN2ODRKNmlfMGtXLVZiRmRKLUE?oc=5",
+          "headline": "Blizzard warnings cascade across East Coast with winter storm’s approach - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnctd1BOeTBSQUNVVmJlQ2lXUjJ6bWpvNEFablV4YmNDTFN2cVRnOHVjbVJLcGpNX2lCcXJvM3Blb1Nmc1lkUHVNU2QzYm9oODR4bUdPWExOZHU5WTdNTmlSX1MteWgteDdjckVNYlRJSF84NUZMb2pQbXMxWDNTOTlYMW5QMmg1Mm5uUWJLWVVpa3Fl?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 22:41:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDFuNndDemxaYmRlR0Vqd2M4OWFJSHNZbEtXVFZmUUJjdk04bFRfbkd3dDZnem9jdjJ1aHBkd0hxVzd6SURMcWJkbXJVNGNNSHJlQmxXVENaZmdIRGpBMTlrRHNSVEwxTnUtX3R"
+          "date": "Sun, 22 Feb 2026 20:25:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnctd1BOeTBSQUNVVmJlQ2lXUjJ6bWpvNEFablV4YmNDTFN2cVRnOHVjbVJLcGpNX2lCcXJvM3Blb1Nmc1lkUHVNU2QzYm9oODR4bUdPWExOZHU5WTdNTmlSX1MteWgteDdjckV"
         },
         {
           "headline": "Cameron Boozer and No. 3 Duke knock off No. 1 Michigan 68-63 as top 2 teams lose on same day - AP News",
@@ -2540,64 +2530,74 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1Q0cnhtWVNjSkJqWWlQZERFRGlkY2VLcWhRZkFGeHphYWtiQ2tZUnMwX1NXZGl4OEhjTUE3MEEwZFpfZlRyWXdiOVQtRU42MWl4b25mbTVrYk5CUDV0Q2MtVWxRS1U2QlB3VWZ"
         },
         {
-          "headline": "NYC nursing walkout ends as last striking nurses approve new contract - AP News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5fdDlrM2JyamtqZzZrVFN4eDBfSk43Z3JDa1NhOHBidFI3NFdIUW9uaHpHU3pVLUYyZXRR?oc=5",
+          "headline": "The bones of St. Francis are going on public display, a mixed blessing for Assisi - AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNm9BSWFBUmR2Ynh3SVMxaDVhS0tESzlYNW1JbGstT2tDcGwyTTY4ZlRQTnJLT25DLXZLempZa21lLVp1SDZQaWo5ejAzZGllbUJ3R3A0WkNkUkhQN2wxNkhxMzgzaTVnNXE0V3ozWGRzQm11TDQwMi1jSGo2RzEycHBFdmZBUVlFUGFCMEhvMjdtVVk?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 00:17:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5"
+          "date": "Sat, 21 Feb 2026 23:37:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNm9BSWFBUmR2Ynh3SVMxaDVhS0tESzlYNW1JbGstT2tDcGwyTTY4ZlRQTnJLT25DLXZLempZa21lLVp1SDZQaWo5ejAzZGllbUJ3R3A0WkNkUkhQN2wxNkhxMzgzaTVnNXE0V3o"
         },
         {
-          "headline": "Pakistan claims to have killed at least 70 militants in strikes along the Afghan border - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEhZQ3c3YkhZS0hkbUlIbFktSTdMNmlwTnlUX1VjZDEtVWRGbkhwNXF4Tm1Rb1pRZVp3VUVkT3Z3MnFZOHBJY3g5VUJTOEpHNnBDWHBJTWhkRERJcWFpTkxZb3J4dzF1MGdLYk1oQ0FmR2ZwWjNLcnlUTEpES0tUZFdpcUpfWGxmLTNQdHppYTVyd3pLS3lPN3FBdDhDRlBYTl9KU2d1TE0?oc=5",
+          "headline": "EU says US must honor a trade deal after court blocks Trump tariffs - AP News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUk0MnZnM0RCTVRtUkgxVGgyVnRqSWF4c01LZW1VeWhPZ19wZGduNk1qMjJFcHR0T19iX1IwTDNwSzBLN21tVW1aUVdESE0yaWNXUzQtSXBpU01GNlhaM2lnQmRmNTNYMUkyQV9hYmZEV2U0SHYxcUNSYW1lOXIwa29QeGNQTFVvV3Y0R080MDg2Q3EwOXZnVGhGenc?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 18:16:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEhZQ3c3YkhZS0hkbUlIbFktSTdMNmlwTnlUX1VjZDEtVWRGbkhwNXF4Tm1Rb1pRZVp3VUVkT3Z3MnFZOHBJY3g5VUJTOEpHNnBDWHBJTWhkRERJcWFpTkxZb3J4dzF1MGdLYk1"
+          "date": "Sun, 22 Feb 2026 16:23:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUk0MnZnM0RCTVRtUkgxVGgyVnRqSWF4c01LZW1VeWhPZ19wZGduNk1qMjJFcHR0T19iX1IwTDNwSzBLN21tVW1aUVdESE0yaWNXUzQtSXBpU01GNlhaM2lnQmRmNTNYMUkyQV9"
         },
         {
-          "headline": "France will summon Ambassador Charles Kushner over US comments on activist’s death - AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMi1JQ1F4V2R0Nnp6dXh5SDNQMGNabFBHMDlaSlY3M1VLUHVFMXREemxEZHNGcl9wcmhXd0x6c01zM3Bad0RlUDdJSkViUlpyMmlGSWNoUGR3N1R5anItZ1piM0RYQTQ1TWlwTVgyRGNIb2YwU05iN3I4V280ZndsTmllSmdwLWtGNi1JME9IOGhVZXdYZWg0Zm9NZXc4clU?oc=5",
+          "headline": "Olympic curling scandal like 'foot fault in tennis or traveling in basketball,' Canada official says - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjNPU1p6bXpDMnp1QzVXNURwU2JrMzFjbnZGYS1EM1c2UWRrQXdSZHU1Y0MxQkJ2blN4aTBOXzR2UnBOZ0ZhR2pyODFoWU5UcUVpX3MtRGtHd3h1cjMwaEw3cWFrVWFkV3NPM1NxN1ZBbVRhLWEwUHo4MUFGenM4UWVvcGtuTERFT05Edk1sekczTG5Q?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 16:39:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMi1JQ1F4V2R0Nnp6dXh5SDNQMGNabFBHMDlaSlY3M1VLUHVFMXREemxEZHNGcl9wcmhXd0x6c01zM3Bad0RlUDdJSkViUlpyMmlGSWNoUGR3N1R5anItZ1piM0RYQTQ1TWlwTVg"
+          "date": "Sun, 22 Feb 2026 11:42:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjNPU1p6bXpDMnp1QzVXNURwU2JrMzFjbnZGYS1EM1c2UWRrQXdSZHU1Y0MxQkJ2blN4aTBOXzR2UnBOZ0ZhR2pyODFoWU5UcUVpX3MtRGtHd3h1cjMwaEw3cWFrVWFkV3NPM1N"
         },
         {
-          "headline": "A powerful magnitude 7.1 earthquake shakes parts of Malaysia, USGS says - AP News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTl9WNUhGUklaRVdxQmRMbGtLcEo5R21NaHNBV1BmMjhSejhQdk03czI2WG8xYzNhdENSQndaUEdPb2pRZmxmWnoxcVlHTVM1c0F3R010VTZCWUswbUlMOTR5c0wxcmJsY1NOZHBoSG9SUFA1dEJuUy0yS0xRWlE2Y0NmaU8tUQ?oc=5",
+          "headline": "NFL receiver Rondale Moore found dead in his Indiana hometown - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2Q3Rk85bzZJdTF2M0xlWW4wdG5OTERRYTNyX2EwWlRFNXhwUE9VeXVhVm1qV2dTYktKVFVSZ184VUxOY1ZDempHd2lnZHhBX0NSVVZDRXlOUHA3N01XOGFhSXlYQ1RWNjN5d09GaUMyNWxtRVA1eHJCeUo5OU5WcDBiNDFuT1BOc0I0X0E1VjVzd2JuZlg3Nm91R1UtUQ?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 18:16:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTl9WNUhGUklaRVdxQmRMbGtLcEo5R21NaHNBV1BmMjhSejhQdk03czI2WG8xYzNhdENSQndaUEdPb2pRZmxmWnoxcVlHTVM1c0F3R010VTZCWUswbUlMOTR5c0wxcmJsY1NOZHB"
+          "date": "Sun, 22 Feb 2026 16:20:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2Q3Rk85bzZJdTF2M0xlWW4wdG5OTERRYTNyX2EwWlRFNXhwUE9VeXVhVm1qV2dTYktKVFVSZ184VUxOY1ZDempHd2lnZHhBX0NSVVZDRXlOUHA3N01XOGFhSXlYQ1RWNjN5d09"
         },
         {
-          "headline": "Ski guides in spotlight as investigators probe deadly California avalanche - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo3ZWlrbV9UNTNuN2luSWVNS0dXUUhsRnB4eEJvRmhjdkctRGFuRFRqNG5DMkZYVFZfOWxpTWxHZzV1VEdNVzQ?oc=5",
+          "headline": "US says ambassador’s comments on Israel and the Middle East were taken out of context - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOem5OMXZ4V0hFampqTDNOdWtrSDhEVW5qSHpRN3J1Q3FNc0NJZ2lpcEdDcFlINHBUQ08wOEpXbmJSY2kzaVFaZEVOOFVqbXNfekFIZGdkZ0V2djVnbm0wQ1I4Q0ZJbTNmcGVGaUI2WFJNUmZCODBhakNaVWVZaTZneTB4R0EyZzFPRXJGZk9kdUd4VS1OS1VFY2t3LW5NUQ?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 23:31:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo"
+          "date": "Sun, 22 Feb 2026 15:24:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOem5OMXZ4V0hFampqTDNOdWtrSDhEVW5qSHpRN3J1Q3FNc0NJZ2lpcEdDcFlINHBUQ08wOEpXbmJSY2kzaVFaZEVOOFVqbXNfekFIZGdkZ0V2djVnbm0wQ1I4Q0ZJbTNmcGVGaUI"
         },
         {
-          "headline": "From abdication to Diana, Harry and ex-Prince Andrew. A look at major British royal scandals - AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDVsWGhPQ01JYWRuSFZTYlhvY2prQXhOVnFnT2Jzbm9VRTRwcDlZOHRBWVdfZU9EZVNfTWxPeC1iTV81c1poNHRaVzMyaUNTdVJFc1JOVHdVX3VobDdCcDV4YlQ5cnY3SzNjclhmXy1QcktwNC01QjFWZkdDR3pFOXFUNnBTbzRtN1FCYXBFNGw4QnVr?oc=5",
+          "headline": "Sweden’s Ebba Andersson gets redemption in winning 50km cross-country ski race at Milan Cortina - AP News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeExNeUk3Uy1ELWNzblZGWHplc2JrdUJ3TGtHQzNmSTRRMWRXVGxLRVExUHJ4c3dZdGNTbGhPaXM4eW5KcVhUVzBZSkF3VmF6Wm1Qc2JpNWQwN1RrSUNVM2p5cFgxN1JlVlY0Nm56SzI3N0pTUHhwelNGYlo4VWxXNWgtQm1PM0tzcE1yMG96dVFScDZlVGJWRUc4T0liS0FGU1RPV3U1OHFrU0pjbElhZDV2Mk8?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 05:09:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDVsWGhPQ01JYWRuSFZTYlhvY2prQXhOVnFnT2Jzbm9VRTRwcDlZOHRBWVdfZU9EZVNfTWxPeC1iTV81c1poNHRaVzMyaUNTdVJFc1JOVHdVX3VobDdCcDV4YlQ5cnY3SzNjclh"
+          "date": "Sun, 22 Feb 2026 13:01:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQeExNeUk3Uy1ELWNzblZGWHplc2JrdUJ3TGtHQzNmSTRRMWRXVGxLRVExUHJ4c3dZdGNTbGhPaXM4eW5KcVhUVzBZSkF3VmF6Wm1Qc2JpNWQwN1RrSUNVM2p5cFgxN1JlVlY0Nm5"
+        },
+        {
+          "headline": "Jack Hughes lost teeth from a high-stick to the mouth before his Olympic gold-winning goal - AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUQwMHk5RU0zY0UzZ3pXLVMxY0hmMk9IdmlNT2FXU2k2MkpjUUpLdkh2UE5xTy1Ua1BVZ3E5eTROUUhGRTNsc0lsRFd4SzR2ZXRxWEd6S0FsSnl3MDl1VG9rbWZxQ25IZDAxZnVfRHNUdjIyTTNpVmNQRVMxWEZxMlBPaE9JYU5xVkM4NlVDNnB5c2NMa2tpRw?oc=5",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 17:34:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUQwMHk5RU0zY0UzZ3pXLVMxY0hmMk9IdmlNT2FXU2k2MkpjUUpLdkh2UE5xTy1Ua1BVZ3E5eTROUUhGRTNsc0lsRFd4SzR2ZXRxWEd6S0FsSnl3MDl1VG9rbWZxQ25IZDAxZnV"
         },
         {
           "headline": "Food Lion recalls ground beef over ‘black rubber plastic’ contamination - Yahoo News Canada",
@@ -2618,6 +2618,16 @@
           "priority": "secondary",
           "date": "Sun, 22 Feb 2026 13:36:24 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTVqUUNwUTA2MDc5cUd2S201TWE5Y19JdFI5SmRuYS03a0VyWFlDLXFBZkVHNkl1VnVFbUIzRVlxMHFwTXZNOWJnV2ZzRzllcXBIUGtET1Ytc1pOeEREUGlqZ25UdHcycGtSNFh"
+        },
+        {
+          "headline": "Premier League Latest: Eberechi Eze proves the difference for Arsenal; Man City stumble at Aston Villa - Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTFEREZybDdaTTRIejUzcDkxSU54bThmMlN1R1RqVFY2N09DRGNjM0VmNWR3eFRBdkRhdFhDNUZvSzJocUpLT3dHX2d3Tlg3N2dpUlF0S0pUbkZkb2M5bngzWGZVem1nTmV2Zk1xX1pkMmNXaG50dmU3NkFfU2NmbTF5WXpTdFVwQ3RXUG9ab0xadllwc01ndzE2dW5zOHduRkFqY1NnYVN0X1NIaHRiMzA4czJhQ3NOU2tRR3hpU0dEMml1SlBENQ?oc=5",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 21:55:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTFEREZybDdaTTRIejUzcDkxSU54bThmMlN1R1RqVFY2N09DRGNjM0VmNWR3eFRBdkRhdFhDNUZvSzJocUpLT3dHX2d3Tlg3N2dpUlF0S0pUbkZkb2M5bngzWGZVem1nTmV2Zk1"
         },
         {
           "headline": "\"Straight White Man... We Can't Take Any Chances\": People Are Sharing Who They Are Likely To Vote For In 2028, And I Need To Know If You Agree - Yahoo News UK",
@@ -2830,7 +2840,7 @@
           "description": "If you're planning a trip to Japan, here's what you'll need to know and expect if you want to visit during the global coronavirus pandemic."
         },
         {
-          "headline": "Japan’s Ruling Party Tax Chief Calls US Tariff Situation ‘Messy’ - Bloomberg",
+          "headline": "Japan’s Ruling Party Tax Chief Calls US Tariff Situation ‘Messy’ - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVUzZWZvQXBqYVA4bkM5WVc5OFUyTWNwQ1ZmZTVucVNEWGE2T2lQVjRNd1dUX0h5ZklWNUlacFV0aEVUZWRlVFFhbzhiMkZxWQ?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2840,7 +2850,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVU"
         },
         {
-          "headline": "Germany Is About to Find Out Whether Its Recovery Is Real - Bloomberg",
+          "headline": "US Tells Partners to Honor Tariff Deals as Trump Recalibrates - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWRLZHUzQW5QYXpEdEFwX0dCZ01oVWpVZGFYTHQwYXFQMko1WERHQzNaMVZ5Rmd1Y2VTdXVERkgyQXV0eGk?oc=5",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 22:36:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWR"
+        },
+        {
+          "headline": "Germany Is About to Find Out Whether Its Recovery Is Real - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDhkczRiUk80djVLTWx1NXpLRXBaRWl2c0xJQnZtLVAwVkw4RG0tRVlBZG9Kak4tQzV5c3JkalpDTEkzaEVSQ0lFd3FKNWJtZENJYXVQRTI5Z0pKS0RKYy1CSGZMYkcwajlhWnZFeUVJT3BZNHEtWHlZRWJ6YzgwTlZwc1pCMEt4ckFhUnFXTmd3MXJncnp0eTd4TmFydnQzNGlfcUNQYm8?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2850,7 +2870,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRDhkczRiUk80djVLTWx1NXpLRXBaRWl2c0xJQnZtLVAwVkw4RG0tRVlBZG9Kak4tQzV5c3JkalpDTEkzaEVSQ0lFd3FKNWJtZENJYXVQRTI5Z0pKS0RKYy1CSGZMYkcwajlhWnZ"
         },
         {
-          "headline": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence - Bloomberg",
+          "headline": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2860,17 +2880,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkV"
         },
         {
-          "headline": "US Tells Partners to Honor Tariff Deals as Trump Recalibrates - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWRLZHUzQW5QYXpEdEFwX0dCZ01oVWpVZGFYTHQwYXFQMko1WERHQzNaMVZ5Rmd1Y2VTdXVERkgyQXV0eGk?oc=5",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 17:22:56 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3BLQ0wyaEM5NldaZ3ZsNVN5OGdMS0JsS1J3bE5kNkd5bDk1eWNLMG9ERU5Ncm5mTTVXd25KY0oyeDNFQTBtdUpfcFZoX0VjM1FsN1BYSmgxUjFQbFVyVnBZc1NRTUNEbEg5ZWR"
-        },
-        {
-          "headline": "Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash - Bloomberg",
+          "headline": "Bond Market Momentum Shifts Bears’ Way as Sell Signals Flash - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tnYzJJVHFlSWdLWlFObkZaTlRBRUlUeFV3SjRvVVV1UWxMT3BEbHp0c0MtZVlvS3NUM2NUNXQ5YXMwYTlDOGxSdHBkb1A5YnBtN2RUN1VRMnVXWXIwQ3pILVA1WHNYM0Yzelo0M0Exc0tUaWFMV2VmMTVRc1laYXROMzlsc3lJczFYQkZCanUzWGZDa2doRnJEc2ktUVJISmZjTkF0aVczTERKT1Rj?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2880,7 +2890,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tnYzJJVHFlSWdLWlFObkZaTlRBRUlUeFV3SjRvVVV1UWxMT3BEbHp0c0MtZVlvS3NUM2NUNXQ5YXMwYTlDOGxSdHBkb1A5YnBtN2RUN1VRMnVXWXIwQ3pILVA1WHNYM0Yzelo"
         },
         {
-          "headline": "Option Pros Trade Index Versus Index to Play Huge Stock Rotation - Bloomberg",
+          "headline": "Option Pros Trade Index Versus Index to Play Huge Stock Rotation - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFZhT1UxMW9uZEQyck9xbm1zdkFYNUFkVXdXckg4N0draTBwRnhXcnRIQjExa01xamRlRGVvdS12bHloU1ZMcUc1d3NpeHBqTHNMb0Z1Wks0ZGlEeEpjMG9ZREEtMDhuYzZTRnREOWd2Y2pIS1R3Wm1lSC1QYXlYaXJRWDRBQVlOZjQzbWI1amVoeUYxX2xsMWtNbnhGTFF3cG93bTRYLXk5Uk5ubTNDbzBrcTJpZw?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2890,17 +2900,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFZhT1UxMW9uZEQyck9xbm1zdkFYNUFkVXdXckg4N0draTBwRnhXcnRIQjExa01xamRlRGVvdS12bHloU1ZMcUc1d3NpeHBqTHNMb0Z1Wks0ZGlEeEpjMG9ZREEtMDhuYzZTRnR"
         },
         {
-          "headline": "Trump’s Trade War: A News Guide to His Second Term as President - Bloomberg",
+          "headline": "Trump’s Trade War: A News Guide to His Second Term as President - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iZGVGa3RSQWJwcFpkd2tPbVpiOExBWWZzdmc2YTM3d3BDal8tT0Z5ejhLSHNXXzBEbEx1UkRFRklRS0hEb2VBM3F6V0FnY3JSRnp4Nk5n?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Sun, 22 Feb 2026 17:16:36 GMT",
+          "date": "Sun, 22 Feb 2026 20:17:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iZGVGa3RSQWJwcFpkd2tPbVpiOExBWWZzdmc2YTM3d3BDal8tT0Z5ejhLSHNXXzBEbEx1UkRFRklRS0hEb2VBM3F6V0FnY3JSRnp4Nk5n?oc=5\" target=\"_blank\"&gt;Trump"
         },
         {
-          "headline": "Tomoku Co Ltd - Bloomberg",
+          "headline": "Tomoku Co Ltd - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNSlRuN3dYTWNtcWlrOEtYUERiY04zWnR5SVEzZ1hRS0pucndoQnNtT2pDN1ZScGlvOE55R21YTFFlbm1HQ0tua3dkWDZwLWdHQmxpenJ6Y0hic2xW?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2910,17 +2920,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNSlRuN3dYTWNtcWlrOEtYUERiY04zWnR5SVEzZ1hRS0pucndoQnNtT2pDN1ZScGlvOE55R21YTFFlbm1HQ0tua3dkWDZwLWdHQmxpenJ6Y0hic2xW?oc=5\" target=\"_blank\"&"
         },
         {
-          "headline": "Dollar Trades Within Range Amid Tariff Uncertainty: Markets Wrap - Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnU3SHM1ZFEzYWdoQm5CYTl6bVQxT1V0LU9ZUVZ2UUNIRHdsekloQVRFYVNxUWREekV5TC1pX1JXUjJBNFVoN2NSdG9YUVhsM0FmaGtSZFdJOFN0Tm5PZjJORUFsdUNBQTRjTFJPNTJkdEtkMjlCQmJYVVFYM0lxMjg1dE1pTEx4bzFqbEJpUzJ4Z0lsSGZoQUhtaFhseXVBaVF0am96UFN5S0RndWZlczY0Ty0?oc=5",
+          "headline": "Dollar Trades Within Range Amid Tariff Uncertainty: Markets Wrap - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVc5bm5hczA2THB1a2ZiWk9nYXhaazM2Rkc1d0tJVnh1ZDhLUExOaS1La3VQWlY2WkZWRHp1MGx0YmxBTjFkMzNOem9LbHZ0Q0lweUNIWlVvNEtCSnQyMzFCYWRTNjh0b0wwd1NROC1wRlRtYTZmMVhYT2F5TXBCNGFXQVppZFFtZWNndVQ4WVpBMjFzV09mSXYxX2Z4ZHpkd19naUtwTnJycHk0aEtQbmNaSHg5MnhsZlpueEh2TUh4VE5zVk55LXVZRWFBTVFSaE5V?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
           "date": "Sun, 22 Feb 2026 21:03:47 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnU3SHM1ZFEzYWdoQm5CYTl6bVQxT1V0LU9ZUVZ2UUNIRHdsekloQVRFYVNxUWREekV5TC1pX1JXUjJBNFVoN2NSdG9YUVhsM0FmaGtSZFdJOFN0Tm5PZjJORUFsdUNBQTRjTFJ"
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVc5bm5hczA2THB1a2ZiWk9nYXhaazM2Rkc1d0tJVnh1ZDhLUExOaS1La3VQWlY2WkZWRHp1MGx0YmxBTjFkMzNOem9LbHZ0Q0lweUNIWlVvNEtCSnQyMzFCYWRTNjh0b0wwd1N"
         },
         {
-          "headline": "The New Face of Extremism Among Asia’s Youth - Bloomberg",
+          "headline": "The New Face of Extremism Among Asia’s Youth - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpOT2Y0bXIxazgzYzJwcjdrTTBrRllKUWxNYlZnbnltNmpoSEljSDQ4TlNYZndJTnl4V3BGdlBhNy05NUwzN3Nwem1Xa2NPdlp3emRScHpqZ1dXS2VDZzBlN0xPWmtHX2RLU3hBTnFOdWppQ3paeVAxYjdwSHBIUENJdnFrT3lPOC13aUNSQm4tNzgwdmlYWmR6WngwN2hKMnpDeE1NcGQ1dElKV0RqaGpkZ0pPdw?oc=5",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2932,6 +2942,16 @@
       ],
       "tertiary": [
         {
+          "headline": "Analysis | Meet Mikhail Shaidorov, the guy who actually won men’s singles figure skating - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWJvemNnX2w0ZFRoQUd0eUFYSDN6ZG5obUp3NmRkU3l2VnhERTVPWENULW1JTG5HOG9IWXMyX2tzWDBkUzF6TlRyNVUycnhlUUZkYW41R0JIY041TmxSVThhQS1Pcy04VEdkWEo3enZrVDl2OW4xRWpWZnBYQnRvb3Iybmg3NHdKM3IxVXBmRXlBbk9XOEJ6dGhZWktnVW9VRXlBWnhCZkk?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:00:29 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWJvemNnX2w0ZFRoQUd0eUFYSDN6ZG5obUp3NmRkU3l2VnhERTVPWENULW1JTG5HOG9IWXMyX2tzWDBkUzF6TlRyNVUycnhlUUZkYW41R0JIY041TmxSVThhQS1Pcy04VEdkWEo"
+        },
+        {
           "headline": "Tickets for the 1984 Olympics in L.A. were $3. Could it happen again? - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXFjenF2cndRYU5WdGp0S2hvdGlnUkMtMGwwblViT2kyVTRFX1NFaHZRRlZPWlAtbjFCRE1WemNlc2ZQNE1RV01yd2FLUnFCT3o2TGR6bEo0aE9oYjU4UVRwUjlLNHBUdHJpVDM0S0Y5MEV2SnI4LU5QY01NaEMxd3JRdjZ0bDM1ZVdiNWpicw?oc=5",
           "source": "Washington Post",
@@ -2940,36 +2960,6 @@
           "priority": "tertiary",
           "date": "Sun, 22 Feb 2026 18:00:34 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNTXFjenF2cndRYU5WdGp0S2hvdGlnUkMtMGwwblViT2kyVTRFX1NFaHZRRlZPWlAtbjFCRE1WemNlc2ZQNE1RV01yd2FLUnFCT3o2TGR6bEo0aE9oYjU4UVRwUjlLNHBUdHJpVDM"
-        },
-        {
-          "headline": "Tucker Carlson, Mike Huckabee debate Israel’s right to land in Middle East - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1c4WXhMSzkxZU8xVi1OUEIyS0stZkxMTnVEaGNDVG9vVm1XdnVjbzdrN19CTWZ3amg2bVRWNlVSTmVYZ2FHaTVZNkZ1aXhJcFJDOExuTkk2bjFiTVRya1M5SDEydms4QXlsZ1NVYXBjbFZiY05CdlBRanNQa3luV2hhdTBrbXdvbG0tQUFXblZ4UlR4MDZuRVNVaXloZw?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sat, 21 Feb 2026 23:05:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNV1c4WXhMSzkxZU8xVi1OUEIyS0stZkxMTnVEaGNDVG9vVm1XdnVjbzdrN19CTWZ3amg2bVRWNlVSTmVYZ2FHaTVZNkZ1aXhJcFJDOExuTkk2bjFiTVRya1M5SDEydms4QXlsZ1N"
-        },
-        {
-          "headline": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sun, 22 Feb 2026 19:22:56 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5\" target=\"_blank\"&gt;The Washington Post - Brea"
-        },
-        {
-          "headline": "CWG Live: Rain mixing with snow this afternoon. Accumulating snow likely tonight. - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzZ4SHlYUENIMUFiRjVuMmVQNGpTVkgyaW5TMkh3MkJ2MWdJUENwMWNoU2tnSTFLV1BMTklSajNCSzRxTWZWLVRMdGU2bHNkM0NXU3hWUDhZR24xRWVHSmk0WExVeE1aNldKVzlPN21wUWV4a21hcEVVVVgxREpBLUVySW1uUll1QmhYd1Q0S2hqbDJqQ3c?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sun, 22 Feb 2026 19:01:49 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzZ4SHlYUENIMUFiRjVuMmVQNGpTVkgyaW5TMkh3MkJ2MWdJUENwMWNoU2tnSTFLV1BMTklSajNCSzRxTWZWLVRMdGU2bHNkM0NXU3hWUDhZR24xRWVHSmk0WExVeE1aNldKVzl"
         },
         {
           "headline": "Dodgers star Shohei Ohtani set to play a couple of Cactus League games before joining Japan for WBC - The Washington Post",
@@ -2998,18 +2988,8 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Sun, 22 Feb 2026 21:35:44 GMT",
+          "date": "Sun, 22 Feb 2026 22:00:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSi0zR0NQUHJpVVJVTXBXTEtTTzgzTkJocGJsYWlESGlFZU4yNkpNRVVuX0M5Sk10UjlESmFGMld3bXNDX0l6MzdhbmlQZUJJQkg2MWFNM0FjUGRGYm1TcFR1TW5SSFRaWXhFM3h"
-        },
-        {
-          "headline": "Freiburg moves to 7th in Bundesliga with 2-1 win over Gladbach - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUxwT3dfYVBtWmFRdzVMMUJsSkdrR3NwdVk5bXkzVm5RLUVYYTgzWjZQNVdiWExMQk1OYi02cTVnOXNyNm9tM3pyQXRQRHBpak9hTWZINjhUOGpEVVVnRGhPNGxPTEMydjJUUmV3SUdoVUNRVXkwcjBKUElUUzF6NHRCRGpr?oc=5",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sun, 22 Feb 2026 21:22:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUx"
         },
         {
           "headline": "Ryan Garcia beats Mario Barrios by unanimous decision to win the WBC welterweight title - The Washington Post",
@@ -3022,6 +3002,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUpvSVk2SDEzTC1nY1NZTDNzRUR1QWhKWVk1NURYRzlFUENDb2lOS0xqUkRscnU3ODJoN2NvaGF4dGM4aGZ0elBuSnlERC1rTVJoWkw3bzhUYjRyVUdydXRTbXVKTGpIY0lIdHV"
         },
         {
+          "headline": "Stuttgart rescues 3-3 draw as Bundesliga relegation scrap impacts Champions League race - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUxwT3dfYVBtWmFRdzVMMUJsSkdrR3NwdVk5bXkzVm5RLUVYYTgzWjZQNVdiWExMQk1OYi02cTVnOXNyNm9tM3pyQXRQRHBpak9hTWZINjhUOGpEVVVnRGhPNGxPTEMydjJUUmV3SUdoVUNRVXkwcjBKUElUUzF6NHRCRGpr?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 22:52:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQnhRTmFDU0p4LVhpV0Y2TUw2cnJPdXN6d2pPUEk2dHdQTUhtRGI2YkRCNTFtd3VXX0tORGE5bTgwaFlYOVFnenRqa2JuZjB2OGdoMHJSOV9wOEc3M0V0OGoyMnlhMWVOMGVoOUx"
+        },
+        {
           "headline": "Major League Baseball - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbzVCY3NDanN6LUtiVUQ2aURLbld0MUhOZUpIZjRhWGh4bWNJMEFnRnlWTXlsRWt1WFNTMnZTeUVuSm1MSHdLVTV4Q2NMbHVhUUFHYg?oc=5",
           "source": "Washington Post",
@@ -3030,6 +3020,16 @@
           "priority": "tertiary",
           "date": "Mon, 21 Sep 2015 17:09:08 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TbzVCY3NDanN6LUtiVUQ2aURLbld0MUhOZUpIZjRhWGh4bWNJMEFnRnlWTXlsRWt1WFNTMnZTeUVuSm1MSHdLVTV4Q2NMbHVhUUFHYg?oc=5\" target=\"_blank\"&gt;Major L"
+        },
+        {
+          "headline": "Stars descend on the BAFTA film awards, with 'One Battle' and 'Sinners' leading the race - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGFHY3I5OFZGUHM5UEZZTVJuczhLaENhYUlOb2xpY18xYjRsV1FsZlZhQlFXVEUxbzQ1dUkwZ2ZpRjNxbnoyeGFxUHVUQVF4dHRkY2NCTTBBRHRrSGNrTE5RQTk1WVAxSklNRU9Bc0wxeXJvVEY4NnJ5VzZyZmlZZkRoY1BVSEtsa2ZmZGNhbzJCdEdIcUR5MzY3SmItbWlBU3VTWmZjMjhOM0NLdi1fcDFiRmxVOGtjWG5DVm9SYjNpUE11R0xr?oc=5",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Sun, 22 Feb 2026 16:55:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGFHY3I5OFZGUHM5UEZZTVJuczhLaENhYUlOb2xpY18xYjRsV1FsZlZhQlFXVEUxbzQ1dUkwZ2ZpRjNxbnoyeGFxUHVUQVF4dHRkY2NCTTBBRHRrSGNrTE5RQTk1WVAxSklNRU9"
         }
       ],
       "reference": []
@@ -3107,7 +3107,7 @@
       "tweets": [
         "The Milan-Cortina Olympics are coming to a close soon.\n\nDuring this time, TEAM JAPAN athletes brought the happy news of winning medals to Japan almost every day.",
         "Congratulations to Kaori Sakamoto, who won the silver medal in women's singles figure skating at the Milan-Cortina Olympics, her second medal in a row, and Ami Nakai, who won the bronze medal, becoming the youngest Japanese medalist in this event!",
-        "Today, in the presence of His Majesty the Emperor, the opening ceremony of the 221st Diet session was held, and afterwards I delivered a policy speech at the plenary sessions of both the House of Representatives and the House of Councilors.\n\n“We must see through this important policy shift at all costs.”",
+        "Today, the opening ceremony of the 221st Diet session was held in the presence of His Majesty the Emperor, and I delivered a policy speech at the subsequent plenary sessions of both the House of Representatives and the House of Councilors.\n\n“We must see through this important policy shift at all costs.”",
         "Yesterday (February 19th), the Ministry of Health, Labor and Welfare's council approved the world's first pharmaceutical approval for regenerative medicine products using iPS cells for two products, Reheart, which is used for severe heart disease, and Amshepri, which is used for Parkinson's disease, with conditions and deadlines.",
         "Today, we held a certification ceremony for the second Takauchi Cabinet as vice ministers, and a commemorative photo was taken with the vice ministers and parliamentary vice-ministers.\nWe have reappointed everyone who has been working at full speed to realize our policies since October last year, and ``Takauchi Cabinet 2.0'' is finally starting in earnest!\n\nTomorrow, it's finally time for the administrative policy speech."
       ]
@@ -3121,11 +3121,11 @@
       "priority": "primary",
       "language": "en",
       "tweets": [
+        "Milan Cortina 2026 Olympics\n\nClosing ceremony Japanese athletes enter\nThe appearance of the gold medal Rikuryu pair\n“A lift that is stable both on the ice and on the ground.”\n\n\nhttps://\nweb.nhk/tv/pl/series-t\nep-WLZ79LP4Y8/ep/34RN286717\n…\nThe closing ceremony is also being streamed on NHK ONE!\n\nBroadcasting/live streaming on terrestrial TV\n\n#That moment on NHK",
+        "Check this morning's news on your smartphone!\n◆Customers trapped in Tokyo Skytree elevator\n◆Iranian Foreign Minister “will meet again with the US on the 26th”\n◆Milan-Cortina Olympics end\nClick here for the latest information\n\nhttps://\nnews.web.nhk/newsweb\nIf you want to watch it on your smartphone, go to NHK ONE\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…",
         "This is Yukihiro Osawa, the announcer.\nA skating rink in Sagamihara City, Kanagawa Prefecture holds skating classes for the general public early on Sunday mornings.\n\nIt was so crowded that the rink was filled with people visiting from both inside and outside the city.\nFuture Olympians are among them!?\n\nClick here if you missed it\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3/ep/3GXGJ7L3R1\n…\nAround 10 minutes",
         "Check this morning's news on your smartphone!\n◆Figure skating shows brilliant performance at exhibition\n◆Breaking news: House fire in Mutsuzawa Town, Chiba; 3 people, including children, unable to be contacted\n▼Click here for the latest information▼\n　\nhttps://\nnews.web.nhk/newsweb\nIf you want to watch it on your smartphone, go to NHK ONE\n　 \nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…",
-        "This is Maifu Otani\n#Ijuin Hikari's 100 Years Radio\nThis time it was broadcast in 1986\nThis is an interview with composer Yasushi Akutagawa.\n\nTaiga drama ``Ako Roshi'' and movie ``Hakkoda Mountains'', etc.\nMr. Akutagawa has created many songs.\nAlso about his childhood, when he played in his father Ryunosuke Akutagawa's study!\n\nFM 22nd (Sun) 11am~\n\nhttp://\nnhk.jp/p/ijuin100r/rs\n/KZ1MQWYKVV/episode/re/68787N6LK9/\n…",
-        "Check this morning's news on your smartphone!\n◆ “Trump Tariffs “Defeated”” US Supreme Court\n◆New tariff measures: Impact on Japan\n◆Administrative policy speech received and debate begins\n◆Figures Sakamoto & Nakai live appearance\n\n▼Click here for the latest information▼\n\nhttps://\nnews.web.nhk/newsweb\n\nIf you want to watch it on your smartphone, go to NHK ONE\n \nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…",
-        "[Scheduled to be broadcast on Saturday, February 21st]\n\nSpeed skating girl Miho Takagi aims for the top\nFigures Kaori Sakamoto & Ami Nakai will appear live!\nDebate over administrative policy speeches\n\nIf you want to watch it on your smartphone, go to NHK ONE\n \nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n… #Good Morning Japan"
+        "This is Maifu Otani\n#Hikari Ijuin's 100 Years Radio\nThis time it was broadcast in 1986\nThis is an interview with composer Yasushi Akutagawa.\n\nTaiga drama ``Ako Roshi'' and movie ``Hakkoda Mountains'', etc.\nMr. Akutagawa has created many songs.\nAlso about his childhood, when he played in his father Ryunosuke Akutagawa's study!\n\nFM 22nd (Sun) 11am~\n\nhttp://\nnhk.jp/p/ijuin100r/rs\n/KZ1MQWYKVV/episode/re/68787N6LK9/\n…"
       ]
     },
     {

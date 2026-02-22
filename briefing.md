@@ -1,35 +1,34 @@
-The U.S. tariff story is dominating everything this morning. President Trump [raised tariffs](http://www3.nhk.or.jp/news/html/20260222/k10015058381000.html) from the planned 10% to 15% on Japan and other major trading partners, calling the move "immediately effective" after the Supreme Court blocked his earlier global tariff plan. The announcement came after what Reuters described as Trump being "furious" over the court ruling, though details remain murky about implementation and scope.
+Emperor Akihito [celebrated his](https://www3.nhk.or.jp/news/html/20260223/k10015058601000.html) 66th birthday today, marking a key moment in Japan's ceremonial calendar as the Milano Cortina Olympics draw to a close. Japanese figure skaters delivered stellar performances, with [Ami Nakai](https://english.kyodonews.net/news/2026/02/22/japan-ami-nakai-surges-olympic-lead/) surging into the lead after the women's short program while the US struggles at the Winter Games. The games have been a bright spot for Japan, with Deputy Prime Minister Takaichi Sanae noting on Twitter that "TEAM JAPAN athletes brought the happy news of winning medals to Japan almost every day."
 
-Asian economies are scrambling to assess the impact of what Reuters calls Trump's "fresh tariff moves" creating widespread "confusion" across the region. Taiwan's government [says impact](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0VOYzZxYy1MVTVjdTNEdWRQOTRHM2lMbGlsS2RDUEZUbkhUN2NrbUVkQW5IdC1rbm9DSVJHd0FBZ21WQ1dvLUVXaV9UMkZaVVdFWjRkMDVQVV9zVGo4Y1E5WVFFSDBTMnlFRktPQllDbk8xMWRnT1RDdnlRYUVTbmN6bzlYZWMtQmZ1VHJEUWoyLUZIVkZLWmh0UERGWmNCOXkzaEROYXVQV2c?oc=5) appears "limited" so far, but markets are waiting for Tokyo to open. This follows the U.S. Trade Representative announcing new Section 301 investigations that Reuters reports will [cover most](https://news.google.com/rss/articles/CBMiuAFBVV85cUxPX191cFpsSVM4SDhMVUc0S01xOWlUckJTaUhLcXd0VFNiYllJWFpQU2lOYUs1dm0wWmJDQlRhUy0wOE85c1JOWDBXYmxuSGFJMlNuOTlPZWdfMENvbTdrdEJ5NVcydWhvaHdoWFNvRERDX2xtSFROMlM5ZWdQSzZzVTNUcmhERy1fOUxwSVV6R2M0NnhvSmZJNGh4WnJBc3c1RDJqc3I5X3RrZXZKVjM3Zkl2NmRRNXdy?oc=5) major trading partners.
-
-Domestically, a traditional festival turned dangerous when [three men](http://www3.nhk.or.jp/news/html/20260222/k10015058351000.html) were hospitalized unconscious after injuries at Okayama's "naked festival," where loincloth-clad participants compete for sacred wooden objects. Police are investigating the incident at the centuries-old tradition.
+Meanwhile, a mechanical failure at Tokyo Skytree trapped 20 people in an elevator for several hours before all were [safely rescued](https://japannews.yomiuri.co.jp/society/general-news/20260222-313020/), according to Japan News. The incident temporarily disrupted operations at one of Tokyo's most iconic landmarks. The Supreme Public Prosecutors Office also issued new guidance encouraging courts to [actively seek](https://www3.nhk.or.jp/news/html/20260223/k10015058741000.html) "probation-attached" sentences, per NHK, signaling a potential shift in Japan's approach to criminal justice.
 
 ## Business & Markets
 
-• A Tokyo company and hospital group [developed](http://www3.nhk.or.jp/news/html/20260222/k10015058191000.html) an AI system that analyzes cervical cancer cells in 3D computer images, promising higher detection accuracy than current screening methods
+• Japan's major real estate firms are [expanding overseas](https://japannews.yomiuri.co.jp/business/economy/20260223-312886/) to secure future growth, focusing on Europe, the US, and Asia as domestic market pressures mount, the Yomiuri reports.
 
-• Reuters reports that European companies face relief from some U.S. tariffs but with [complications](https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnU1VFN5M3NYbXNDaHpVUU1aZHg5T3RHeDlqVjNBQ25oRlR0X1p3c0hDZU82SVVya3M5MmpJOGhkVmV0bU00SUY5anVUbzRvOWdERTVCTk5MZF9NYk9rQTdJWTM3NTNFOHF0WW9HVmU3a2FrNURxX2Flb0J2OUx4R3BRcmJua3FTR3k2cTBfQl9EX0t3VFlFSi1uQ2g5cm8?oc=5) that create new uncertainties
+• Japanese domestic tourism recovery is [continuing to stall](https://www.japantimes.co.jp/business/2026/02/22/recovery-stalling-in-japanese-domestic-tourism/), creating headaches for the tourism industry that had hoped for stronger post-pandemic rebounds, according to the Japan Times.
 
-• A toymaker is assessing next steps in its Supreme Court battle over [tariff refunds](https://news.google.com/rss/articles/CBMiuwFBVV85cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSys3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1VZmhKZkllbVFEWXBlMW44UDZZUUtldk5OUnowNmpxRndpZzhrUjk4LXA0YzFUNkdqaGtFanAzRExBaVlNc3UzeVc3X3VPNDlIbWZ3Vk9J?oc=5), according to Reuters
+• Japan's ruling party tax chief called the US tariff situation "messy" following a Supreme Court [ruling against](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVUzZWZvQXBqYVA4bkM5WVc5OFUyTWNwQ1ZmZTVucVNEWGE2T2lQVjRNd1dUX0h5ZklWNUlacFV0aEVUZWRlVFFhbzhiMkZxWQ?oc=5) Trump's global tariffs, Bloomberg reports.
+
+• Shohei Ohtani is set to play a couple of Cactus League games before [joining Japan](https://news.google.com/rss/articles/CBMinAFBVV85cUxNZTRWVFgza3JYSGlwZ0Y0Y3BiajE4RS10QzFuQWQ5ZUx1Wl9CU2swczd6bU5lV29PMDY2cjBoNGlvME1lZXRpdVRONlU4b0tGQ2tMTGlZenVOaUVVeGp2LVR6bEYyMFJnYXV6R1piaG5BcW1ia1VSNG9EWXhZd1FmT2RnZ3pweFBlQlB0ekZSSDYwRjhlWnZFMVMya1M?oc=5) for the World Baseball Classic, AP reports.
 
 ## Government & Policy
 
-• Nippon Ishin proposed [reducing](http://www3.nhk.or.jp/news/html/20260222/k10015058221000.html) Lower House seats by 10% through proportional representation cuts only, drawing opposition criticism about imposing electoral system changes through "force of numbers"
+• Trump announced an Indo-Pacific energy meeting will be [held in Tokyo](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZERDQ3hEb1NZSlFvUEkyRVU5VFpfNFp6MktoLTJRMFY5NTNFRHVPUG5jNkRsM0w4WmM3WU0wXzlkeFdYN3kydXZsUWxFSTRrYkJfNXBkbFp0MFJpaWpCb2gwcksxVXJqclRZYkpmclN1ZXhyd3ZSaTMtWHhwYjdZV3lkUC1aNHRkOWZwQTNnejZHTUVxeTBIVDlkYlA0RlloSmk0YlUzTHZPa2p4WXpF?oc=5) in March, Reuters reports.
 
-• The Supreme Court's check on Trump's executive power demonstrates, per Reuters, broader limits on his [expansive view](https://news.google.com/rss/articles/CBMisAFBVV85cUxPVzdiX3Q2bFIyX1BTR21yMllSR3Y4X2xpQ2dfRTJ4RjkxRDZZNFJkYlpaY0dZRk1saldxQlVfV1Z2SE5vcERyNE9qQk02TnUyMTRadEE5b2FNWmRrV2VMX1NBSFYxZnRkWmpVeW1Ba2l0Nm0tWTBLWmZQdDJjSXJNendMSEg0NENSdmVid0JPZ0l3NnBkSG1iVmtYUkJRUWRZSlp5SHFRM21yVEZVOUpsRw?oc=5) of presidential authority
-
-## What to Watch
-
-The [Osaka Marathon](http://www3.nhk.or.jp/news/html/20260222/k10015058211000.html) takes place today, serving as a qualifier for the Los Angeles Olympics representative selection race, with high-level competition expected.
+• Japan and Pacific Island nations agreed to [deepen cooperation](https://japannews.yomiuri.co.jp/world/asia-pacific/20260222-312978/) following discussions on regional security and development issues, per Japan News.
 
 ## Coverage Flags
-
-The Trump tariff story shows interesting divergence: International outlets like Reuters are providing more detailed analysis of the policy mechanics and Asian economic impact, while Japanese outlets focus more on the basic announcement. The cervical cancer AI development seems under-covered internationally and could warrant deeper NYT attention given its global health implications.
+South Korea has protested a Japanese event over the disputed Takeshima/Dokdo islands, but coverage appears limited to Reuters' brief mention. This territorial dispute typically generates more extensive coverage in Japanese media, suggesting potential for deeper reporting on the diplomatic friction.
 
 ## Sources
-
 • [NHK World](http://www3.nhk.or.jp)
-• [Reuters Japan](https://news.google.com/rss)
+• [Kyodo News](https://english.kyodonews.net) 
 • [Japan Times](https://www.japantimes.co.jp)
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp)
+• [Reuters](https://reuters.com)
+• [Associated Press](https://apnews.com)
+• [Bloomberg](https://bloomberg.com)
+• [BBC](https://www.bbc.com)
 
-*Reference materials: Screenshots captured from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from Takaichi Sanae and NHK Ohayou, along with FT Asia, WSJ Asia, and Economist Asia pages.*
+*Reference materials: Screenshots captured of Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from Deputy PM Takaichi Sanae and NHK Ohayou, and competitor Asia pages from FT, WSJ, and Economist.*

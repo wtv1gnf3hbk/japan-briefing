@@ -21,7 +21,7 @@
       "id": "kyodo_english",
       "name": "Kyodo News",
       "type": "rss",
-      "url": "https://english.kyodonews.net/rss/all.xml",
+      "url": "https://english.kyodonews.net/list/feed/rss4kyodonews-fzone",
       "priority": "primary",
       "category": "wire"
     },

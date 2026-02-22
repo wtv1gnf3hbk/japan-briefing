@@ -339,21 +339,32 @@ function buildPrompt(briefing) {
     greeting = "Here's your briefing from Tokyo.";
   }
 
-  // Organize stories for the prompt
-  const stories = briefing.stories || {};
-  const byCategory = stories.byCategory || {};
-  const byPriority = stories.byPriority || {};
+  // Organize stories for the prompt.
+  // Group by source so Claude sees equal representation from all outlets,
+  // rather than the old priority-tier bucketing which caused NHK/Japan Times
+  // to dominate while Kyodo, Yomiuri, AP, Bloomberg etc. were buried or skipped.
+  const allStories = (briefing.stories?.all || []);
 
-  // Condense for token efficiency
-  const condensed = {
-    primary: (byPriority.primary || []).slice(0, 8),
-    secondary: (byPriority.secondary || []).slice(0, 10),
-    national: (byCategory.national || []).slice(0, 5),
-    business: (byCategory.business || []).slice(0, 5),
-    regional: (byCategory.regional || []).slice(0, 5),
-    government: (byCategory.government || []).slice(0, 5),
-    wire: (byCategory.wire || []).slice(0, 5)
-  };
+  // Build a per-source map: { sourceName: [story, story, ...] }
+  const bySource = {};
+  for (const story of allStories) {
+    if (!bySource[story.source]) bySource[story.source] = [];
+    if (bySource[story.source].length < 5) {  // max 5 per source for token budget
+      bySource[story.source].push({
+        headline: story.headline,
+        url: story.url,
+        description: story.description || ''
+      });
+    }
+  }
+
+  // Format as a readable block: source name as header, then its stories
+  const storiesBlock = Object.entries(bySource)
+    .map(([source, stories]) => {
+      const items = stories.map(s => `  - ${s.headline} (${s.url})`).join('\n');
+      return `**${source}**\n${items}`;
+    })
+    .join('\n\n');
 
   // Get screenshots info
   const screenshots = briefing.screenshots || [];
@@ -389,39 +400,20 @@ Write a conversational briefing using this headline data. Use ONLY these section
 
 5. **Coverage Flags** (1-2 sentences): Note any stories where international outlets are ahead of Japanese press, or gaps worth NYT Tokyo bureau attention.
 
-6. **Sources** (bulleted list with links): List the key sources cited in this briefing with their URLs.
+6. **Sources** (bulleted list with links): List EVERY source cited in the briefing with its homepage URL. This should reflect the full range of outlets you drew from — not just 2-3.
 
 DO NOT include any other sections. No "Regional Watch", no NASA/space news unless it directly involves Japan or JAXA. This briefing is Japan-focused.
 
-Every bullet must have at least one link. Vary attribution: "Reuters reports", "according to Nikkei", "the Yomiuri notes", "per Kyodo" (use "per X" only once).
+Every bullet must have at least one link. Vary attribution across sources: "Reuters reports", "according to Kyodo", "the Yomiuri notes", "Bloomberg reports", "Japan Times reports", "AP reports", "per NHK" — draw from all available sources, not just the first few.
 
 FLAG any stories where:
 - International outlets are ahead of Japanese press
 - A story might warrant NYT Tokyo bureau coverage
 - There's a notable gap between Japanese and English coverage
 
-Here's the data:
+Here's the data, organized by outlet. Draw from ALL of these sources when writing:
 
-PRIMARY STORIES (lead with these):
-${JSON.stringify(condensed.primary, null, 2)}
-
-SECONDARY STORIES:
-${JSON.stringify(condensed.secondary, null, 2)}
-
-NATIONAL NEWS:
-${JSON.stringify(condensed.national, null, 2)}
-
-BUSINESS:
-${JSON.stringify(condensed.business, null, 2)}
-
-REGIONAL:
-${JSON.stringify(condensed.regional, null, 2)}
-
-GOVERNMENT/OFFICIAL:
-${JSON.stringify(condensed.government, null, 2)}
-
-WIRE SERVICES:
-${JSON.stringify(condensed.wire, null, 2)}
+${storiesBlock}
 
 HOMEPAGE SCREENSHOTS CAPTURED (Japanese outlets, competitors, Twitter):
 ${screenshots.map(s => `- ${s.name} (${s.language || 'en'}): screenshots/${s.filename}`).join('\n')}

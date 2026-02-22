@@ -395,7 +395,7 @@ async function scrapeAll(config) {
     if (r.error) {
       console.log(`  ✗ ${r.name}: ${r.error}`);
     } else {
-      console.log(`  ✓ ${r.name} (${r.storyCount} stories)`);
+      console.log(`  ✓ ${r.name} (${r.storyCount ?? r.stories?.length ?? 0} stories)`);
     }
   }
 

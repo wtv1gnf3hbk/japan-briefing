@@ -1,34 +1,42 @@
-Emperor Akihito [celebrated his](https://www3.nhk.or.jp/news/html/20260223/k10015058601000.html) 66th birthday today, marking a key moment in Japan's ceremonial calendar as the Milano Cortina Olympics draw to a close. Japanese figure skaters delivered stellar performances, with [Ami Nakai](https://english.kyodonews.net/news/2026/02/22/japan-ami-nakai-surges-olympic-lead/) surging into the lead after the women's short program while the US struggles at the Winter Games. The games have been a bright spot for Japan, with Deputy Prime Minister Takaichi Sanae noting on Twitter that "TEAM JAPAN athletes brought the happy news of winning medals to Japan almost every day."
+Good morning from Tokyo. Japan is digesting major trade developments as a [U.S. Supreme Court](https://news.web.nhk/newsweb) ruling struck down Trump-era tariffs, a move that could reshape economic relations across the Asia-Pacific. The decision comes as Japan's ruling party tax chief describes the current tariff situation as "messy," according to [Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVUzZWZvQXBqYVA4bkM5WVc5OFUyTWNwQ1ZmZTVucVNEWGE2T2lQVjRNd1dUX0h5ZklWNUlacFV0aEVUZWRlVFFhbzhiMkZxWQ?oc=5), while the Biden administration is telling partners to honor existing tariff agreements as Trump prepares for a potential return to power.
 
-Meanwhile, a mechanical failure at Tokyo Skytree trapped 20 people in an elevator for several hours before all were [safely rescued](https://japannews.yomiuri.co.jp/society/general-news/20260222-313020/), according to Japan News. The incident temporarily disrupted operations at one of Tokyo's most iconic landmarks. The Supreme Public Prosecutors Office also issued new guidance encouraging courts to [actively seek](https://www3.nhk.or.jp/news/html/20260223/k10015058741000.html) "probation-attached" sentences, per NHK, signaling a potential shift in Japan's approach to criminal justice.
+Meanwhile, the [Milano Cortina Olympics](http://www3.nhk.or.jp/news/html/20260223/k10015058821000.html) concluded with Japan celebrating figure skating success. Kaori Sakamoto claimed silver and Ami Nakai took bronze in women's singles, with Nakai becoming the youngest Japanese medalist in the event. The games wrapped up at Verona's ancient Arena, marking Italy's successful hosting of the winter spectacle.
 
 ## Business & Markets
 
-• Japan's major real estate firms are [expanding overseas](https://japannews.yomiuri.co.jp/business/economy/20260223-312886/) to secure future growth, focusing on Europe, the US, and Asia as domestic market pressures mount, the Yomiuri reports.
+• Japan's major real estate firms are [expanding overseas](https://japannews.yomiuri.co.jp/business/economy/20260223-312886/) aggressively, focusing on Europe, the U.S., and Asia to secure future growth as the domestic market faces demographic headwinds.
 
-• Japanese domestic tourism recovery is [continuing to stall](https://www.japantimes.co.jp/business/2026/02/22/recovery-stalling-in-japanese-domestic-tourism/), creating headaches for the tourism industry that had hoped for stronger post-pandemic rebounds, according to the Japan Times.
+• Domestic tourism recovery is [stalling in Japan](https://www.japantimes.co.jp/business/2026/02/22/recovery-stalling-in-japanese-domestic-tourism/), according to the Japan Times, suggesting the post-pandemic bounce may be losing momentum.
 
-• Japan's ruling party tax chief called the US tariff situation "messy" following a Supreme Court [ruling against](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVUzZWZvQXBqYVA4bkM5WVc5OFUyTWNwQ1ZmZTVucVNEWGE2T2lQVjRNd1dUX0h5ZklWNUlacFV0aEVUZWRlVFFhbzhiMkZxWQ?oc=5) Trump's global tariffs, Bloomberg reports.
+• Bond markets are flashing [sell signals](https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tnYzJJVHFlSWdLWlFObkZaTlRBRUlUeFV3SjRvVVV1UWxMT3BEbHp0c0MtZVlvS3NUM2NUNXQ5YXMwYTlDOGxSdHBkb1A5YnBtN2RUN1VRMnVXWXIwQ3pILVA1WHNYM0Yzelo0M0Exc0tUaWFMV2VmMTVRc1laYXROMzlsc3lJczFYQkZCanUzWGZDa2doRnJEc2ktUVJISmZjTkF0aVczTERKT1Rj?oc=5) as momentum shifts toward bears, per Bloomberg, potentially signaling broader market volatility ahead.
 
-• Shohei Ohtani is set to play a couple of Cactus League games before [joining Japan](https://news.google.com/rss/articles/CBMinAFBVV85cUxNZTRWVFgza3JYSGlwZ0Y0Y3BiajE4RS10QzFuQWQ5ZUx1Wl9CU2swczd6bU5lV29PMDY2cjBoNGlvME1lZXRpdVRONlU4b0tGQ2tMTGlZenVOaUVVeGp2LVR6bEYyMFJnYXV6R1piaG5BcW1ia1VSNG9EWXhZd1FmT2RnZ3pweFBlQlB0ekZSSDYwRjhlWnZFMVMya1M?oc=5) for the World Baseball Classic, AP reports.
+• Trump announced an Indo-Pacific energy meeting will be [held in Tokyo](https://news.google.com/rss/articles/CBMirwFBVV85cUxNZERDQ3hEb1NZSlFvUEkyRVU5VFpfNFp6MktoLTJRMFY5NTNFRHVPUG5jNkRsM0w4WmM3WU0wXzlkeFdYN3kydXZsUWxFSTRrYkJfNXBkbFp0MFJpaWpCb2gwcksxVXJqclRZYkpmclN1ZXhyd3ZSaTMtWHhwYjdZV3lkUC1aNHRkOWZwQTNnejZHTUVxeTBIVDlkYlA0RlloSmk0YlUzTHZPa2p4WXpF?oc=5) in March, signaling continued U.S. engagement in regional energy partnerships.
 
 ## Government & Policy
 
-• Trump announced an Indo-Pacific energy meeting will be [held in Tokyo](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZERDQ3hEb1NZSlFvUEkyRVU5VFpfNFp6MktoLTJRMFY5NTNFRHVPUG5jNkRsM0w4WmM3WU0wXzlkeFdYN3kydXZsUWxFSTRrYkJfNXBkbFp0MFJpaWpCb2gwcksxVXJqclRZYkpmclN1ZXhyd3ZSaTMtWHhwYjdZV3lkUC1aNHRkOWZwQTNnejZHTUVxeTBIVDlkYlA0RlloSmk0YlUzTHZPa2p4WXpF?oc=5) in March, Reuters reports.
+• Japan's Supreme Prosecutor's Office issued guidance encouraging courts to seek "[probationary sentences](http://www3.nhk.or.jp/news/html/20260223/k10015058741000.html)" more actively, per NHK, potentially signaling a shift in criminal justice approach.
 
-• Japan and Pacific Island nations agreed to [deepen cooperation](https://japannews.yomiuri.co.jp/world/asia-pacific/20260222-312978/) following discussions on regional security and development issues, per Japan News.
+• Ukraine's ambassador is [closely watching](https://japannews.yomiuri.co.jp/world/wider-world/20260223-312922/) Japan's revision of defense export rules, expressing hope for future arms support as Tokyo considers loosening weapons export restrictions.
+
+• Emperor Naruhito marked his [66th birthday](http://www3.nhk.or.jp/news/html/20260223/k10015058601000.html) today, with the Imperial Household Agency likely to release his annual remarks on domestic and international affairs.
+
+## What to Watch
+
+• Diet debates begin following Prime Minister Takaichi's policy speech, with opposition parties likely to challenge her administration's economic and security policies.
 
 ## Coverage Flags
-South Korea has protested a Japanese event over the disputed Takeshima/Dokdo islands, but coverage appears limited to Reuters' brief mention. This territorial dispute typically generates more extensive coverage in Japanese media, suggesting potential for deeper reporting on the diplomatic friction.
+
+The U.S. Supreme Court tariff ruling appears to be getting more English-language coverage than Japanese press attention so far. Worth monitoring if Japanese outlets are playing catch-up on this significant trade development. The Milano Cortina Olympics closing ceremony received extensive Japanese coverage but minimal international focus beyond sports wire services.
 
 ## Sources
-• [NHK World](http://www3.nhk.or.jp)
-• [Kyodo News](https://english.kyodonews.net) 
-• [Japan Times](https://www.japantimes.co.jp)
-• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp)
-• [Reuters](https://reuters.com)
-• [Associated Press](https://apnews.com)
-• [Bloomberg](https://bloomberg.com)
-• [BBC](https://www.bbc.com)
 
-*Reference materials: Screenshots captured of Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from Deputy PM Takaichi Sanae and NHK Ohayou, and competitor Asia pages from FT, WSJ, and Economist.*
+• [NHK World](http://www3.nhk.or.jp/news/)
+• [Kyodo News](https://english.kyodonews.net/)
+• [Japan Times](https://www.japantimes.co.jp/)
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp/)
+�� [Reuters](https://news.google.com/)
+• [AP News](https://news.google.com/)
+• [Bloomberg](https://news.google.com/)
+• [BBC Asia](https://www.bbc.com/)
+
+*Screenshots captured: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages; Twitter feeds from Takaichi Sanae and NHK Ohayou; FT Asia, WSJ Asia, Economist Asia pages*

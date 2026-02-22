@@ -392,6 +392,15 @@ Write a conversational briefing using this headline data. Use ONLY these section
 
 1. **Top News** (2-3 paragraphs, no header): Synthesize the top Japan stories in flowing prose. Lead with context and stakes, not just headlines.
 
+LEAD STORY PRIORITY (use this hierarchy):
+  1. Trade/tariffs, sanctions, military/security — policy with direct consequences
+  2. Major diplomatic developments — summits, treaties, bilateral tensions
+  3. Economic shocks — market crashes, currency moves, corporate crises
+  4. Natural disasters, public safety emergencies
+  5. Elections, government formation, leadership changes
+  6. Ceremonial events, cultural milestones, Olympics prep — NEVER lead with these unless unprecedented (e.g., abdication). These are section items, not leads.
+When in doubt: "Would a bureau chief rearrange their day for this?" If no, it's not the lead.
+
 2. **Business & Markets** (3-4 bullets): Japan/Asia business news, market moves, corporate stories.
 
 3. **Government & Policy** (2-3 bullets, if relevant): Official announcements, ministry statements, diplomatic developments. Skip entirely if nothing notable.

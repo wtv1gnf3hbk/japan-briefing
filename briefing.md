@@ -1,36 +1,35 @@
-Good morning from Tokyo. Emperor Naruhito [turned 66](http://www3.nhk.or.jp/news/html/20260223/k10015058601000.html) today as Japan reached new Olympic heights at Milan-Cortina, but international trade tensions are casting shadows over the celebration. A U.S. court has blocked Trump's tariff plans, prompting the EU to demand America honor existing trade deals, while Japan's ruling party tax chief called the situation ["messy"](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0VMVFRTejBwdUZPTkptRG1fYjVHbGVNQ0RYUkVJcGdtOWNwclZZYVFlaHFjckdNS2gxNEtlM2tOWkdZMHBDZENxZlZfVk1tYmtRVVdXMkdLbkZOX2xPalVaQnZWcUFJeUh3dVUzZWZvQXBqYVA4bkM5WVc5OFUyTWNwQ1ZmZTVucVNEWGE2T2lQVjRNd1dUX0h5ZklWNUlacFV0aEVUZWRlVFFhbzhiMkZxWQ?oc=5) according to Bloomberg.
+The Trump administration is preparing to implement [new tariffs](http://www3.nhk.or.jp/news/html/20260224/k10015059091000.html) as early as today, with plans to raise rates from 10% to 15%, according to NHK. The move comes as international markets react with [uncertainty](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTFB0aGM0MUVXTXBReEFVMW1XYjFvVy1aQXd0WS1OY1o4ejZCY05TYXhyYmpLSU85TVR1dlVaUzY1OEZDLTFTUVlaVVBmempDakYydnRMWE1MaklscElRWVpPUXVobzA2V1BxN21KYUE0X2VHblNHYWFvM2VEM3MzUUdzRQ?oc=5) to the tariff expansion. Bloomberg reports that [China and India](https://news.google.com/rss/articles/CBMiswFBVV95cUxNclBqZnJNOXRzTjVOZjdmNndiU2RTY1dQcy1ya1NBYnltRGNZUVhoRzc4V0lPZE1VU3lWb1kwYVNZS2dfTkxOa1RFR3ZMQ1NpRVUtelVWYTUwQnNUVWR0WHdZQ0pMTDJDSGtPYTRKVUNsNWhYQ3N3dXhVa1hLSlhkYThQaGdZdFQ0NUJ2VkFlMnhIQ1NmRkY5eGkxMGVHMlFvOXBhWV9qaXV0azdVOE1wYnhITQ?oc=5) are among the winners after the US Supreme Court blocked earlier tariff plans, though Trump has vowed even [higher tariffs](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUIxUElOclQ1OEFMZjFaZ0lnWTRvamNkTU1jSVdEVnJBdXgxbEFOMnMydUVLanhVZFc1YlJPbVpIOXQxazFjdkM5dlpuX25fZHU0T0JCOVRueUdUWXJjZGlFVHpFcEdSN0xYdVZyeXgySlBIVXNxTVAwdC1HR1VHTUxtOUFnMnhyTzZmWHNzeW85SDdfTWhZSWd1dWlrdmJ2dDJGM1BPM3ZuWlNVNnBrUWRaaw?oc=5) for nations that "play games" on trade deals.
 
-The Milan-Cortina Games [concluded tonight](http://www3.nhk.or.jp/news/html/20260223/k10015058821000.html) with Japan celebrating unprecedented success after athletes delivered medal news almost daily throughout the competition. Prime Minister Takaichi tweeted congratulations to figure skaters Kaori Sakamoto, who won silver in her second consecutive Olympic medal, and Ami Nakai, who became Japan's youngest medalist in the event with bronze. The [closing ceremony](https://news.google.com/rss/articles/CBMitwFBVV85cUxOM1Y2Mnp0d0stLVZhemlNNUY1ZElUSWp2WjVqZVJuWG40UHdEdE9tWmJXQnRDMkFrMnNPWHdLSFl3a19ZX1JqTkk0Y19aUEZqYTR3OHZMN2JoQmdOdk5CUmprbGFmeXgyaDQ1VDBMcVc2emJaTjJpU1ZxYzAyR1ZkODlxTDR3SEVyMEdfdTVQazFzaHpYUEtJekoxN2VRRDNVREdZNXNKRVZoTThwOV9oeEg1NDlXcDA?oc=5) featured Japanese athletes prominently as the Games wrapped up in ancient Verona's arena.
+Japanese government officials are closely watching these developments as the Diet begins [representative questioning](http://www3.nhk.or.jp/news/html/20260224/k10015059051000.html) today, with Prime Minister Takaichi's "responsible active fiscal policy" set to face scrutiny. NHK notes that overseas investors are questioning how markets will respond to the administration's [fiscal approach](http://www3.nhk.or.jp/news/html/20260224/k10015059121000.html). One former Bank of Japan policymaker tells Reuters that the central bank [may raise rates](https://news.google.com/rss/articles/CBMivgFBVV95cUxPazl3MVhGWFAtaUZHS3NZQy10WlRYRXp1YkNzV1pMS2hrRDFHbjBFNzM0dGlaZkkzNm5JaDFOVnhINTBHdVg3QWltS0N3UzB2YnRabDFrNmI1bkRDTmpJWUZ6LWkzd2JMSHRXdWtqN0xGYmZDUWZ2bGNUb21YRVVoNWZzaEh4Vlc0ZmxmNVl4R3VfUFlUcVA2ZlBzamJHeEtHS29sU3JqcW1DSnJjdGprUUt3UGl0eEV3WTV4MTBR?oc=5) in March if the yen resumes its slide against strengthening global trade tensions.
 
 **Business & Markets**
-• Japan's domestic tourism recovery is [stalling](https://www.japantimes.co.jp/business/2026/02/22/recovery-stalling-in-japanese-domestic-tourism/), the Japan Times reports, despite earlier optimism about the sector's post-pandemic rebound.
 
-• Major Japanese real estate firms are [expanding overseas](https://japannews.yomiuri.co.jp/business/economy/20260223-312886/) to secure future growth, the Yomiuri notes, focusing on European, U.S., and Asian markets as domestic opportunities plateau.
+• Canadian Prime Minister Mark Carney is planning visits to India, Australia, and Japan as his country [seeks new](https://news.google.com/rss/articles/CBMieEFVX3lxTFA1VFRENWFIOGRLaHFVb3V4YWFwUG1XQlNfRlhSaGxNUDVMSDJzN3JuWlcwdlRqTDFKd2U3UkJDYzQ0ZVcwczVDZDJJWHB6dlJyOEVCdTlPTFBRUl8tcVJsMnBQMG5DTUI5V1FHNHhVajh0MmRUS21TZQ?oc=5) trade partners after US ties have deteriorated, according to AFP
 
-• Trump announced an Indo-Pacific energy meeting will be [held in Tokyo](https://news.google.com/rss/articles/CBMirwFBVV85cUxNZERDQ3hEb1NZSlFvUEkyRVU5VFpfNFp6MktoLTJRMFY5NTNFRHVPUG5jNkRsM0w4WmM3WU0wXzlkeFdYN3kydXZsUWxFSTRrYkJfNXBkbFp0MFJpaWpCb2gwcksxVXJqclRZYkpmclN1ZXhyd3ZSaTMtWHhwYjdZV3lkUC1aNHRkOWZwQTNnejZHTUVxeTBIVDlkYlA0RlloSmk0YlUzTHZPa2p4WXpF?oc=5) in March, per Reuters, signaling continued regional energy cooperation despite trade uncertainties.
+• Bloomberg reports that the [Indian rupee](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzRuSzctdXhOeWlOSldHMnBEbS1nRXBPajBwc2ZsQ1RybWkwa1Z5dldDb25qSmoxSDNNWmlJbGxpVk5Cek0zY0VyYkhSakRxRXNoSVQ1ZWFTbHRFT182aG10Q0tkTC1MYUF1YUs2ZFNyTVM2a1pCWUdxQ3pqVWxFYmZ4azJYdVNiQjl2WkM0QVN2ZVUxbGlWakVYTzlCU21FT3dsTzZndVFGZk9SVVNnTlFQbw?oc=5) needs stronger foreign inflows to sustain its recent rebound against the dollar
 
-• Bond markets are showing [sell signals](https://news.google.com/rss/articles/CBMirwFBVV85cUxPY0tnYzJJVHFlSWdLWlFObkZaTlRBRUlUeFV3SjRvVVV1UWxMT3BEbHp0c0MtZVlvS3NUM2NUNXQ5YXMwYTlDOGxSdHBkb1A5YnBtN2RUN1VRMnVXWXIwQ3pILVA1WHNYM0Yzelo0M0Exc0tUaWFMV2VmMTVRc1laYXROMzlsc3lJczFYQkZCanUzWGZDa2doRnJEc2ktUVJISmZjTkF0aVczTERKT1Rj?oc=5) as momentum shifts toward bearish sentiment, Bloomberg reports.
+• South Korea and Brazil have agreed to expand [cooperation](https://www.japantimes.co.jp/business/2026/02/23/south-korea-brazil-minerals-trade/) in key minerals and trade, the Japan Times reports, as countries diversify supply chains
+
+• AP reports that [Nvidia led](https://news.google.com/rss/articles/CBMimAFBVV95cUxONktJSkFaQ0VQT29WdGNCTjVlMDRwX2plVFdRUVhLOElBZldsOTU3dEIzT2llSV9jSWI4UTRwdC1JQVJHTmNvNjJBZlE0MEJsVDVURUp6eExVbUo3NDd6cWVEMDRHai02TjFmSlVBSkwxTGdqWFpvcTRMVXZTN3E4WmhzRjdtMFJmaFdFaDg1VWpYVUlrTFhJNQ?oc=5) the US stock market higher despite ongoing tariff uncertainty
 
 **Government & Policy**
-• Ukraine's ambassador is closely [watching Japan's](https://japannews.yomiuri.co.jp/world/wider-world/20260223-312922/) revision of defense export rules and hopes for future arms support, according to Japan News.
 
-• The Culture Agency [added language](http://www3.nhk.or.jp/news/html/20260223/k10015058851000.html) to museum law reform proposals urging "careful consideration" of artifact disposal after criticism, NHK reports.
+• Emperor Naruhito marked his 66th birthday today, with The Washington Post reporting he expressed [ongoing concern](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaGxhWmw1amI1aXh6SUFubWJqQm15dEltVzlSRXVKRFlUS1NQYXFJLTJ4YkdzdjlpZ3ZBT1FvV1NlTlJHSGVNZG1lWHlfRFhndzAwZldiRmxkanNPZHN6ckNVWDJDdGtYQ0d4NThvME5TS0p4bDhkOEJFb0E2ZVp5R1c4d09BYTNIRUxTS3ZIUlNsR3FUdzdWSVE2d2l3c2dBTmJ6dFZLV1pVdkF6UkF2aHhiNEZmWWh5VHBpazczYw?oc=5) about survivors of the 2011 disaster
 
-• Takaichi tweeted that her government held certification ceremonies for second-term vice ministers, calling it the official start of "Takauchi Cabinet 2.0" ahead of today's policy speech.
+• Japan is planning to host an international conference on [plastic pollution](https://english.kyodonews.net/articles/-/70999) in Tokyo this March, Kyodo reports
+
+• Kyodo also reports Japan is seeking [cooperation](https://english.kyodonews.net/articles/-/71058) with Pacific island nations over maintaining free and open seas
+
+**What to Watch**
+
+The Diet's representative questioning sessions will likely focus on how Japan positions itself economically as global trade tensions escalate. With the yen's stability tied to both US monetary policy and trade developments, Takaichi's fiscal strategy faces its first major parliamentary test.
 
 **Coverage Flags**
-South Korea has [protested](https://news.google.com/rss/articles/CBMisgFBVV85cUxNc081SFlCd2RxbGZmS3NlVEVqNENuRXVtUXdnaHJrWHUzTVc3UGotRzJwc21MY0M4UUx5YVB3MWNidjJGLTBVWGp4aWEtRUR4aG83SngybERZSFJLbGdnVERuUGtXMGh3VTNGSlZiMnYyM1ZKM1FxMllPaVhzdGdfd2FNNEIyUHMtcy16aTdDME9rcVV0YUllU1JsOWVNb3k3MlNSLVJURFNCU3E2UFRQcld3?oc=5) a Japanese event over disputed islands, Reuters reports, but Japanese outlets have not covered this diplomatic friction.
+
+The Washington Post beat Japanese outlets on the Emperor's birthday comments about disaster survivors, while international financial outlets are providing more detailed analysis of how Japan might be affected by evolving US trade policy than domestic business press.
 
 **Sources**
-• [NHK World](http://www3.nhk.or.jp)
-• [Kyodo News](https://english.kyodonews.net)  
-• [Japan Times](https://www.japantimes.co.jp)
-• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp)
-• [Reuters](https://reuters.com)
-• [AP News](https://apnews.com)
-• [AFP](https://afp.com)
-• [BBC](https://bbc.com)
-• [Bloomberg](https://bloomberg.com)
-• [Washington Post](https://washingtonpost.com)
-
-*Visual reference materials captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages; Takaichi Sanae and NHK Ohayou Twitter feeds; FT, WSJ, Economist Asia pages*
+• [NHK World](http://www3.nhk.or.jp/)
+• [Kyodo News](https://english.kyodonews.net/)
+• [Japan Times](https://www.japantimes.co.jp/)
+• [Japan News (Y

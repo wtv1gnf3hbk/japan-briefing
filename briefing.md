@@ -1,35 +1,38 @@
-The Trump administration is preparing to implement [new tariffs](http://www3.nhk.or.jp/news/html/20260224/k10015059091000.html) as early as today, with plans to raise rates from 10% to 15%, according to NHK. The move comes as international markets react with [uncertainty](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTFB0aGM0MUVXTXBReEFVMW1XYjFvVy1aQXd0WS1OY1o4ejZCY05TYXhyYmpLSU85TVR1dlVaUzY1OEZDLTFTUVlaVVBmempDakYydnRMWE1MaklscElRWVpPUXVobzA2V1BxN21KYUE0X2VHblNHYWFvM2VEM3MzUUdzRQ?oc=5) to the tariff expansion. Bloomberg reports that [China and India](https://news.google.com/rss/articles/CBMiswFBVV95cUxNclBqZnJNOXRzTjVOZjdmNndiU2RTY1dQcy1ya1NBYnltRGNZUVhoRzc4V0lPZE1VU3lWb1kwYVNZS2dfTkxOa1RFR3ZMQ1NpRVUtelVWYTUwQnNUVWR0WHdZQ0pMTDJDSGtPYTRKVUNsNWhYQ3N3dXhVa1hLSlhkYThQaGdZdFQ0NUJ2VkFlMnhIQ1NmRkY5eGkxMGVHMlFvOXBhWV9qaXV0azdVOE1wYnhITQ?oc=5) are among the winners after the US Supreme Court blocked earlier tariff plans, though Trump has vowed even [higher tariffs](https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUIxUElOclQ1OEFMZjFaZ0lnWTRvamNkTU1jSVdEVnJBdXgxbEFOMnMydUVLanhVZFc1YlJPbVpIOXQxazFjdkM5dlpuX25fZHU0T0JCOVRueUdUWXJjZGlFVHpFcEdSN0xYdVZyeXgySlBIVXNxTVAwdC1HR1VHTUxtOUFnMnhyTzZmWHNzeW85SDdfTWhZSWd1dWlrdmJ2dDJGM1BPM3ZuWlNVNnBrUWRaaw?oc=5) for nations that "play games" on trade deals.
+China has escalated its trade dispute with Japan by [imposing export controls](https://english.kyodonews.net/articles/-/71082) on 40 Japanese entities, including defense giant Mitsubishi Heavy Industries, as part of what Beijing calls efforts to curb Japan's "remilitarization." The move, announced by China's Commerce Ministry, targets 20 companies under dual-use export restrictions and another 20 under broader trade controls. Japan's government [strongly protested](https://english.kyodonews.net/articles/-/71115) the measures and demanded their immediate withdrawal, with Tokyo viewing this as retaliation for its own export controls on semiconductors and military-related technology.
 
-Japanese government officials are closely watching these developments as the Diet begins [representative questioning](http://www3.nhk.or.jp/news/html/20260224/k10015059051000.html) today, with Prime Minister Takaichi's "responsible active fiscal policy" set to face scrutiny. NHK notes that overseas investors are questioning how markets will respond to the administration's [fiscal approach](http://www3.nhk.or.jp/news/html/20260224/k10015059121000.html). One former Bank of Japan policymaker tells Reuters that the central bank [may raise rates](https://news.google.com/rss/articles/CBMivgFBVV95cUxPazl3MVhGWFAtaUZHS3NZQy10WlRYRXp1YkNzV1pMS2hrRDFHbjBFNzM0dGlaZkkzNm5JaDFOVnhINTBHdVg3QWltS0N3UzB2YnRabDFrNmI1bkRDTmpJWUZ6LWkzd2JMSHRXdWtqN0xGYmZDUWZ2bGNUb21YRVVoNWZzaEh4Vlc0ZmxmNVl4R3VfUFlUcVA2ZlBzamJHeEtHS29sU3JqcW1DSnJjdGprUUt3UGl0eEV3WTV4MTBR?oc=5) in March if the yen resumes its slide against strengthening global trade tensions.
+The timing appears deliberate, coming as Prime Minister Sanae Takaichi faces questions about her economic policies in Diet deliberations. [Bloomberg reports](https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2xFWHNHLTdwN3ozZGZ1eUR0aGVqalQ4RmNvRXJCXzN3U2w1MXlxckQ0N3N1NFlHTVh3TGhpN1VpUnNQeWtRUUlDSVFxSHpFejdUak5fckZSMW40S3BQdmJBOXoyVWpGeTRzMXlyRGRQS1BwQnpRMW9MU01oNERZcW85UmU3Z20wbjByNGI4eU9KdXNGdG4tT0llanhUbHVwSjJSWEltdmJ2dXBFWS0yMg?oc=5) the yen weakened after reports emerged that Takaichi had privately [questioned further rate hikes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTHQ5WXZ2N2VhYkppYWc5Qkx3dnk1YlBITndScXVPQ0JHVEJEaXpneGRsTTM3UkQ2MEJMYVYxblNFQjlHQTB0R0lQTGstYU9xQmdmTm91c2xDbHJ6ZjY4dzFKV3ViY3NrSzY3R20tYzBLa1I5bkw3QjF3RFhPRzhBMjByM25jeHJjNFBfbkRJdmNUSlZSX1hIU243cWNQMnRqVHZxaVR5dUE5UERRdnFBMFNiMWtTMlNIbGZRaV9BMXZoZjk3RHJTU1BxZ1l0aEVM?oc=5) with Bank of Japan officials, raising fresh concerns about political pressure on monetary policy independence.
 
 **Business & Markets**
 
-• Canadian Prime Minister Mark Carney is planning visits to India, Australia, and Japan as his country [seeks new](https://news.google.com/rss/articles/CBMieEFVX3lxTFA1VFRENWFIOGRLaHFVb3V4YWFwUG1XQlNfRlhSaGxNUDVMSDJzN3JuWlcwdlRqTDFKd2U3UkJDYzQ0ZVcwczVDZDJJWHB6dlJyOEVCdTlPTFBRUl8tcVJsMnBQMG5DTUI5V1FHNHhVajh0MmRUS21TZQ?oc=5) trade partners after US ties have deteriorated, according to AFP
+• The yen [extended its decline](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTERlMGRmak44d1RxVktlbkN4N1JjaHI3d29kT09obGNSalhOcXRfdDIwWHg2c1kyOVpub2txRG84YzZBNFhSdmtQbDl1OTlDdURGYjR1M2VlYnpWNEtQamxNbjc5YzdTQ2RUSGZMYmF0SW9VcjYxZmhrN1BuUGFjN2lHSW16eElrZUV3eFkwOEJQQ1paZGJKdnFkbFpVOEg1QkVIZlZ1QnI4Q29vNnRScmVB?oc=5) on the Mainichi report about Takaichi's rate concerns, per Bloomberg, with traders questioning whether the new administration will maintain the BOJ's gradual tightening path.
 
-• Bloomberg reports that the [Indian rupee](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzRuSzctdXhOeWlOSldHMnBEbS1nRXBPajBwc2ZsQ1RybWkwa1Z5dldDb25qSmoxSDNNWmlJbGxpVk5Cek0zY0VyYkhSakRxRXNoSVQ1ZWFTbHRFT182aG10Q0tkTC1MYUF1YUs2ZFNyTVM2a1pCWUdxQ3pqVWxFYmZ4azJYdVNiQjl2WkM0QVN2ZVUxbGlWakVYTzlCU21FT3dsTzZndVFGZk9SVVNnTlFQbw?oc=5) needs stronger foreign inflows to sustain its recent rebound against the dollar
+• Amundi has [gone long](https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2xFWHNHLTdwN3ozZGZ1eUR0aGVqalQ4RmNvRXJCXzN3U2w1MXlxckQ0N3N1NFlHTVh3TGhpN1VpUnNQeWtRUUlDSVFxSHpFejdUak5fckZSMW40S3BQdmJBOXoyVWpGeTRzMXlyRGRQS1BwQnpRMW9MU01oNERZcW85UmU3Z20wbjByNGI4eU9KdXNGdG4tT0llanhUbHVwSjJSWEltdmJ2dXBFWS0yMg?oc=5) on Japanese government bonds for the first time in decades, Bloomberg reports, betting on continued policy uncertainty and potential fiscal expansion under Takaichi.
 
-• South Korea and Brazil have agreed to expand [cooperation](https://www.japantimes.co.jp/business/2026/02/23/south-korea-brazil-minerals-trade/) in key minerals and trade, the Japan Times reports, as countries diversify supply chains
+• A Japanese startup conducted its first [demonstration flight](https://english.kyodonews.net/articles/-/71122) of a "flying car" in Tokyo, according to Kyodo News, as the industry pushes toward commercial operations ahead of the 2030s timeline.
 
-• AP reports that [Nvidia led](https://news.google.com/rss/articles/CBMimAFBVV95cUxONktJSkFaQ0VQT29WdGNCTjVlMDRwX2plVFdRUVhLOElBZldsOTU3dEIzT2llSV9jSWI4UTRwdC1JQVJHTmNvNjJBZlE0MEJsVDVURUp6eExVbUo3NDd6cWVEMDRHai02TjFmSlVBSkwxTGdqWFpvcTRMVXZTN3E4WmhzRjdtMFJmaFdFaDg1VWpYVUlrTFhJNQ?oc=5) the US stock market higher despite ongoing tariff uncertainty
+• Reports suggest [US-led interventions](https://news.google.com/rss/articles/CBMisgFBVV95cUxPeERvVVpuWVlDTUM1ZEdEQzZCemFma184ZkkzY0JPazZrRDlHRjVZNnhlbU91ZFpPU1VVTkhxYzBWc2pNblRpQ2tLVEd0dXhpakYzUVZUcDFILTlCNkZ2ZnZZRWRVYlBGMXRveU01WHRrbGl1eWJfRE03VTVSa3hZMElfX3V1WDk5VUNnYjNnV3hKLTRZQjROWmhjTDZsRC01U0JOQlpON0JsVE8xRWVITF9n?oc=5) checked yen movements in January, with Washington considering joint action with Tokyo to stabilize the currency, the Nikkei reports via Reuters.
 
 **Government & Policy**
 
-• Emperor Naruhito marked his 66th birthday today, with The Washington Post reporting he expressed [ongoing concern](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaGxhWmw1amI1aXh6SUFubWJqQm15dEltVzlSRXVKRFlUS1NQYXFJLTJ4YkdzdjlpZ3ZBT1FvV1NlTlJHSGVNZG1lWHlfRFhndzAwZldiRmxkanNPZHN6ckNVWDJDdGtYQ0d4NThvME5TS0p4bDhkOEJFb0E2ZVp5R1c4d09BYTNIRUxTS3ZIUlNsR3FUdzdWSVE2d2l3c2dBTmJ6dFZLV1pVdkF6UkF2aHhiNEZmWWh5VHBpazczYw?oc=5) about survivors of the 2011 disaster
+• Defense Minister Koizumi announced Japan will [deploy missiles](https://www.japantimes.co.jp/news/2026/02/24/japan/koizumi-japan-missiles-yonaguni-fiscal-2030/) to Yonaguni Island by fiscal 2030, according to the Japan Times, as part of Tokyo's broader defense buildup along the southwestern island chain.
 
-• Japan is planning to host an international conference on [plastic pollution](https://english.kyodonews.net/articles/-/70999) in Tokyo this March, Kyodo reports
+• Japan is seeking to [maintain existing](https://news.google.com/rss/articles/CBMizgFBVV85cUxObzhzazhZcXRKT3Jrd0tJMkFhUDdWVkhCWHRaY1NGeU1BNjVKdUIwTWt6dGJrX3dDaFhLaEdZYnRDZGpiN242NWVWd3ZQUUtza0JpSHNtdGllRjNuODJsMmhkeVdYUFpqZVhIcnRRWnZRbm1NaXdlRjFNX0liTUdXWDQzdTctVVp2ay1LSFBPSmVfYkFnc3RoZEcyR3FPTUVSRTYzbUdvdEpYWW1iai13MmpQaVk0NElpeUstbXhERnFyTXNTQVVTQWFEb0Zodw?oc=5) US trade deals despite Trump's new tariff threats, Reuters reports, with officials hoping to avoid renegotiation of bilateral agreements.
 
-• Kyodo also reports Japan is seeking [cooperation](https://english.kyodonews.net/articles/-/71058) with Pacific island nations over maintaining free and open seas
-
-**What to Watch**
-
-The Diet's representative questioning sessions will likely focus on how Japan positions itself economically as global trade tensions escalate. With the yen's stability tied to both US monetary policy and trade developments, Takaichi's fiscal strategy faces its first major parliamentary test.
+• The Yomiuri notes Japan is working to [counter China's influence](https://japannews.yomiuri.co.jp/politics/defense-security/20260225-313287/) in the Pacific by strengthening ties with island nations, as regional competition intensifies.
 
 **Coverage Flags**
 
-The Washington Post beat Japanese outlets on the Emperor's birthday comments about disaster survivors, while international financial outlets are providing more detailed analysis of how Japan might be affected by evolving US trade policy than domestic business press.
+International outlets are leading coverage of the China export restrictions story, with more detailed analysis than Japanese media so far. The yen weakness angle tied to Takaichi's alleged BOJ comments is also being driven more by Bloomberg and Reuters than domestic sources.
 
 **Sources**
-• [NHK World](http://www3.nhk.or.jp/)
+
 • [Kyodo News](https://english.kyodonews.net/)
-• [Japan Times](https://www.japantimes.co.jp/)
-• [Japan News (Y
+• [Japan Times](https://www.japantimes.co.jp/)  
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp/)
+• [Reuters](https://www.reuters.com/)
+• [Bloomberg](https://www.bloomberg.com/)
+• [Associated Press](https://apnews.com/)
+• [AFP](https://www.afp.com/)
+• [NHK World](https://www3.nhk.or.jp/)
+
+*Japanese outlet homepages captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan. Twitter feeds: @takaichi_sanae, @nhk_ohayou. International competitors: Financial Times Asia, WSJ Asia, Economist Asia.*

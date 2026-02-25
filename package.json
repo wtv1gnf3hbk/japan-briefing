@@ -8,7 +8,8 @@
     "write": "node write-briefing.js",
     "email": "node send-email.js",
     "briefing": "node generate-briefing.js && node write-briefing.js",
-    "briefing:email": "node generate-briefing.js && node write-briefing.js && node send-email.js"
+    "briefing:email": "node generate-briefing.js && node write-briefing.js && node send-email.js",
+    "test": "node --test 'test/*.test.js'"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

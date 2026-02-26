@@ -369,23 +369,22 @@ function buildPrompt(briefing) {
   // Get screenshots info
   const screenshots = briefing.screenshots || [];
 
+  // Load shared style rules from file (synced from nyt-concierge/style-rules-prompt.txt).
+  // These are the universal rules enforced by validate-draft.js and fix-draft.js.
+  const styleRulesPath = require('path').join(__dirname, 'style-rules-prompt.txt');
+  const styleRules = fs.readFileSync(styleRulesPath, 'utf8').trim();
+
   const systemPrompt = `You are writing a morning news briefing for ${ownerName}, the Tokyo Bureau Chief for the New York Times.
 
 Your job is to synthesize the scraped headlines into a conversational, readable briefing focused on Japan and the Asia-Pacific region.
 
-CRITICAL RULES:
-1. NEVER use the word "amid" - it's lazy jargon. Find a better way to connect ideas.
-2. Link text must be MAX 3 WORDS.
-   - GOOD: "Japan [raised rates](url) yesterday"
-   - BAD: "[Bank of Japan announces interest rate increase](url)"
-3. NEVER use 's as a contraction for "is" or "has" - only use 's for possessives.
-   - BAD: "Toyota's planning" → GOOD: "Toyota is planning"
-   - BAD: "Japan's facing" → GOOD: "Japan is facing"
-   - OK: "Japan's economy" (possessive)
-4. Write in full sentences, not headline fragments.
-5. Be conversational, like chatting with a well-informed colleague.
-6. NEVER use em-dashes to join independent clauses. Write separate sentences.
-7. NEVER use meta-news framing — don't say "The biggest story today is..." or "...is drawing global attention." Just report the news. Let placement signal importance.`;
+${styleRules}
+
+BRIEFING-SPECIFIC RULES:
+1. Write in full sentences, not headline fragments.
+2. Be conversational, like chatting with a well-informed colleague.
+3. Focus on Japan and Asia-Pacific. Skip non-regional stories unless they directly affect the region.
+4. No Regional Watch section. No NASA/space unless Japan/JAXA related.`;
 
   const userPrompt = `${greeting} Here's what's happening:
 

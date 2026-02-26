@@ -177,6 +177,78 @@ function parseRSS(xml, source) {
 }
 
 // ============================================
+// GOOGLE NEWS URL RESOLVER
+// Google News RSS returns opaque redirect URLs like:
+//   news.google.com/rss/articles/<encrypted-base64>
+// These don't work as direct links — they use JS-based redirection.
+// We resolve them to real article URLs using Playwright.
+// ============================================
+
+function isGoogleNewsUrl(url) {
+  return url && url.includes('news.google.com/rss/articles/');
+}
+
+/**
+ * Resolves a batch of Google News redirect URLs to their real destinations.
+ * Uses Playwright to follow the JS redirect chain.
+ * Returns a Map of googleNewsUrl -> resolvedUrl.
+ */
+async function resolveGoogleNewsUrls(urls) {
+  const BATCH_SIZE = 5;
+  const TOTAL_TIMEOUT_MS = 180000;
+  const resolved = new Map();
+
+  if (urls.length === 0) return resolved;
+
+  const b = await initBrowser();
+  if (!b) {
+    console.log('  ⚠ Browser not available — Google News URLs will remain unresolved');
+    return resolved;
+  }
+
+  console.log(`\nResolving ${urls.length} Google News URLs...`);
+  const startTime = Date.now();
+
+  for (let i = 0; i < urls.length; i += BATCH_SIZE) {
+    if (Date.now() - startTime > TOTAL_TIMEOUT_MS) {
+      console.log(`  ⚠ Hit ${TOTAL_TIMEOUT_MS / 1000}s timeout — stopping with ${resolved.size} resolved`);
+      break;
+    }
+
+    const batch = urls.slice(i, i + BATCH_SIZE);
+    const results = await Promise.all(batch.map(async (gnUrl) => {
+      let page;
+      try {
+        page = await b.newPage();
+        await page.goto(gnUrl, { waitUntil: 'domcontentloaded', timeout: 10000 });
+        await page.waitForTimeout(2000);
+        const finalUrl = page.url();
+        if (!finalUrl.includes('news.google.com')) {
+          return { gnUrl, finalUrl };
+        }
+        return { gnUrl, finalUrl: null };
+      } catch (e) {
+        return { gnUrl, finalUrl: null };
+      } finally {
+        if (page) await page.close().catch(() => {});
+      }
+    }));
+
+    for (const { gnUrl, finalUrl } of results) {
+      if (finalUrl) {
+        resolved.set(gnUrl, finalUrl);
+      }
+    }
+  }
+
+  const successCount = resolved.size;
+  const failCount = urls.length - successCount;
+  console.log(`  ✓ Resolved ${successCount}/${urls.length} URLs${failCount > 0 ? ` (${failCount} failed)` : ''}`);
+
+  return resolved;
+}
+
+// ============================================
 // SCREENSHOT HANDLER (Playwright)
 // ============================================
 
@@ -462,6 +534,18 @@ async function scrapeAll(config) {
     seen.add(story.url);
     return true;
   });
+
+  // Resolve Google News redirect URLs to real article URLs
+  const googleNewsUrls = [...new Set(
+    deduped.filter(s => isGoogleNewsUrl(s.url)).map(s => s.url)
+  )];
+  const resolvedUrls = await resolveGoogleNewsUrls(googleNewsUrls);
+
+  for (const story of deduped) {
+    if (resolvedUrls.has(story.url)) {
+      story.url = resolvedUrls.get(story.url);
+    }
+  }
 
   return {
     allStories: deduped,

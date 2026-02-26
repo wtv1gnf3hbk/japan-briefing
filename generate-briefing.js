@@ -541,6 +541,10 @@ async function scrapeAll(config) {
   )];
   const resolvedUrls = await resolveGoogleNewsUrls(googleNewsUrls);
 
+  // Close the browser opened by resolveGoogleNewsUrls — without this
+  // the orphan Playwright process keeps Node alive and the CI step hangs forever.
+  await closeBrowser();
+
   for (const story of deduped) {
     if (resolvedUrls.has(story.url)) {
       story.url = resolvedUrls.get(story.url);

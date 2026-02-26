@@ -384,7 +384,8 @@ CRITICAL RULES:
    - OK: "Japan's economy" (possessive)
 4. Write in full sentences, not headline fragments.
 5. Be conversational, like chatting with a well-informed colleague.
-6. NEVER use em-dashes to join independent clauses. Write separate sentences.`;
+6. NEVER use em-dashes to join independent clauses. Write separate sentences.
+7. NEVER use meta-news framing — don't say "The biggest story today is..." or "...is drawing global attention." Just report the news. Let placement signal importance.`;
 
   const userPrompt = `${greeting} Here's what's happening:
 

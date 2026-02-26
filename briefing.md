@@ -1,38 +1,38 @@
-China has escalated its trade dispute with Japan by [imposing export controls](https://english.kyodonews.net/articles/-/71082) on 40 Japanese entities, including defense giant Mitsubishi Heavy Industries, as part of what Beijing calls efforts to curb Japan's "remilitarization." The move, announced by China's Commerce Ministry, targets 20 companies under dual-use export restrictions and another 20 under broader trade controls. Japan's government [strongly protested](https://english.kyodonews.net/articles/-/71115) the measures and demanded their immediate withdrawal, with Tokyo viewing this as retaliation for its own export controls on semiconductors and military-related technology.
+Japan's [birth rate](https://english.kyodonews.net/articles/-/71247) hit another record low in 2025, falling to just 706,000 births for the tenth consecutive year of decline. The demographic crisis is accelerating at precisely the moment the Bank of Japan is signaling [more rate](https://www.reuters.com/world/asia-pacific/boj-chief-says-bank-will-scrutinise-data-march-april-meetings-yomiuri-reports-2026-02-25) hikes ahead, creating a pincer movement on government finances. Bloomberg reports Japan's [debt servicing](https://www.bloomberg.com/news/articles/2026-02-26/japan-sees-interest-payments-doubling-by-2029-as-boj-hikes-rate) costs could double by 2029 as borrowing costs rise on the world's largest debt pile.
 
-The timing appears deliberate, coming as Prime Minister Sanae Takaichi faces questions about her economic policies in Diet deliberations. [Bloomberg reports](https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2xFWHNHLTdwN3ozZGZ1eUR0aGVqalQ4RmNvRXJCXzN3U2w1MXlxckQ0N3N1NFlHTVh3TGhpN1VpUnNQeWtRUUlDSVFxSHpFejdUak5fckZSMW40S3BQdmJBOXoyVWpGeTRzMXlyRGRQS1BwQnpRMW9MU01oNERZcW85UmU3Z20wbjByNGI4eU9KdXNGdG4tT0llanhUbHVwSjJSWEltdmJ2dXBFWS0yMg?oc=5) the yen weakened after reports emerged that Takaichi had privately [questioned further rate hikes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTHQ5WXZ2N2VhYkppYWc5Qkx3dnk1YlBITndScXVPQ0JHVEJEaXpneGRsTTM3UkQ2MEJMYVYxblNFQjlHQTB0R0lQTGstYU9xQmdmTm91c2xDbHJ6ZjY4dzFKV3ViY3NrSzY3R20tYzBLa1I5bkw3QjF3RFhPRzhBMjByM25jeHJjNFBfbkRJdmNUSlZSX1hIU243cWNQMnRqVHZxaVR5dUE5UERRdnFBMFNiMWtTMlNIbGZRaV9BMXZoZjk3RHJTU1BxZ1l0aEVM?oc=5) with Bank of Japan officials, raising fresh concerns about political pressure on monetary policy independence.
+The political response is taking shape as Prime Minister Takaichi's [consumption tax](https://www.japantimes.co.jp/news/2026/02/26/japan/politics/consumption-tax-panel/) panel kicked off its first meeting yesterday, though two opposition parties boycotted the proceedings. Meanwhile, the trilateral security partnership with Manila and Washington is deepening, with [joint drills](https://english.kyodonews.net/articles/-/71277) held in waters near Taiwan as regional tensions simmer.
 
 **Business & Markets**
 
-• The yen [extended its decline](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTERlMGRmak44d1RxVktlbkN4N1JjaHI3d29kT09obGNSalhOcXRfdDIwWHg2c1kyOVpub2txRG84YzZBNFhSdmtQbDl1OTlDdURGYjR1M2VlYnpWNEtQamxNbjc5YzdTQ2RUSGZMYmF0SW9VcjYxZmhrN1BuUGFjN2lHSW16eElrZUV3eFkwOEJQQ1paZGJKdnFkbFpVOEg1QkVIZlZ1QnI4Q29vNnRScmVB?oc=5) on the Mainichi report about Takaichi's rate concerns, per Bloomberg, with traders questioning whether the new administration will maintain the BOJ's gradual tightening path.
+• The yen gained ground after BOJ Governor Ueda left the door open for [March or April](https://www.reuters.com/world/asia-pacific/boj-chief-says-bank-will-scrutinise-data-march-april-meetings-yomiuri-reports-2026-02-25) rate increases, per Reuters. Wall Street analysts now think Japan's [yield curve](https://www.bloomberg.com/news/articles/2026-02-26/wall-street-says-japan-yield-curve-flattening-has-gone-too-far) flattening has gone too far.
 
-• Amundi has [gone long](https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2xFWHNHLTdwN3ozZGZ1eUR0aGVqalQ4RmNvRXJCXzN3U2w1MXlxckQ0N3N1NFlHTVh3TGhpN1VpUnNQeWtRUUlDSVFxSHpFejdUak5fckZSMW40S3BQdmJBOXoyVWpGeTRzMXlyRGRQS1BwQnpRMW9MU01oNERZcW85UmU3Z20wbjByNGI4eU9KdXNGdG4tT0llanhUbHVwSjJSWEltdmJ2dXBFWS0yMg?oc=5) on Japanese government bonds for the first time in decades, Bloomberg reports, betting on continued policy uncertainty and potential fiscal expansion under Takaichi.
+• Mizuho Bank may have [lost data](https://japannews.yomiuri.co.jp/business/companies/20260226-313687/) on thousands of clients, according to the Yomiuri. The bank is investigating the scope of the potential breach.
 
-• A Japanese startup conducted its first [demonstration flight](https://english.kyodonews.net/articles/-/71122) of a "flying car" in Tokyo, according to Kyodo News, as the industry pushes toward commercial operations ahead of the 2030s timeline.
+• Japan's dependence on China for [rare earths](https://www.bloomberg.com/news/articles/2026-02-26/japan-leans-more-on-china-for-rare-earths-despite-lower-imports) is actually increasing despite lower overall import volumes, Bloomberg reports, highlighting strategic vulnerabilities.
 
-• Reports suggest [US-led interventions](https://news.google.com/rss/articles/CBMisgFBVV95cUxPeERvVVpuWVlDTUM1ZEdEQzZCemFma184ZkkzY0JPazZrRDlHRjVZNnhlbU91ZFpPU1VVTkhxYzBWc2pNblRpQ2tLVEd0dXhpakYzUVZUcDFILTlCNkZ2ZnZZRWRVYlBGMXRveU01WHRrbGl1eWJfRE03VTVSa3hZMElfX3V1WDk5VUNnYjNnV3hKLTRZQjROWmhjTDZsRC01U0JOQlpON0JsVE8xRWVITF9n?oc=5) checked yen movements in January, with Washington considering joint action with Tokyo to stabilize the currency, the Nikkei reports via Reuters.
+• Domestic [NISA accounts](http://www3.nhk.or.jp/news/html/20260227/k10015061621000.html) surged past 28 million, up more than 10% last year as retail investment appetite remains strong, NHK reports.
 
 **Government & Policy**
 
-• Defense Minister Koizumi announced Japan will [deploy missiles](https://www.japantimes.co.jp/news/2026/02/24/japan/koizumi-japan-missiles-yonaguni-fiscal-2030/) to Yonaguni Island by fiscal 2030, according to the Japan Times, as part of Tokyo's broader defense buildup along the southwestern island chain.
+• A US foundation claims [Chinese influence](https://www.japantimes.co.jp/news/2026/02/26/world/chinese-influence-operation-target/) operations are targeting Japanese elections and Trump, according to the Japan Times. The scale and methods of the alleged campaign remain unclear.
 
-• Japan is seeking to [maintain existing](https://news.google.com/rss/articles/CBMizgFBVV85cUxObzhzazhZcXRKT3Jrd0tJMkFhUDdWVkhCWHRaY1NGeU1BNjVKdUIwTWt6dGJrX3dDaFhLaEdZYnRDZGpiN242NWVWd3ZQUUtza0JpSHNtdGllRjNuODJsMmhkeVdYUFpqZVhIcnRRWnZRbm1NaXdlRjFNX0liTUdXWDQzdTctVVp2ay1LSFBPSmVfYkFnc3RoZEcyR3FPTUVSRTYzbUdvdEpYWW1iai13MmpQaVk0NElpeUstbXhERnFyTXNTQVVTQWFEb0Zodw?oc=5) US trade deals despite Trump's new tariff threats, Reuters reports, with officials hoping to avoid renegotiation of bilateral agreements.
+• Child victims of [social media](https://www.japantimes.co.jp/news/2026/02/26/japan/crime-legal/child-victims-social-media-high/) crimes hit a 10-year high, police data shows, adding pressure for stronger platform regulation.
 
-• The Yomiuri notes Japan is working to [counter China's influence](https://japannews.yomiuri.co.jp/politics/defense-security/20260225-313287/) in the Pacific by strengthening ties with island nations, as regional competition intensifies.
+**What to Watch**
+
+Budget deliberations begin in earnest today with [consumption tax](http://www3.nhk.or.jp/news/html/20260227/k10015061651000.html) cuts likely to dominate debate, per NHK. The opposition boycott of Takaichi's tax panel suggests rocky negotiations ahead.
 
 **Coverage Flags**
 
-International outlets are leading coverage of the China export restrictions story, with more detailed analysis than Japanese media so far. The yen weakness angle tied to Takaichi's alleged BOJ comments is also being driven more by Bloomberg and Reuters than domestic sources.
+The Chinese influence operations story appears stronger in international outlets than Japanese press coverage suggests. Worth digging deeper into the sourcing and Japanese government response.
 
 **Sources**
 
-• [Kyodo News](https://english.kyodonews.net/)
-• [Japan Times](https://www.japantimes.co.jp/)  
-• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp/)
-• [Reuters](https://www.reuters.com/)
-• [Bloomberg](https://www.bloomberg.com/)
-• [Associated Press](https://apnews.com/)
-• [AFP](https://www.afp.com/)
-• [NHK World](https://www3.nhk.or.jp/)
+• [NHK World](http://www3.nhk.or.jp)
+• [Kyodo News](https://english.kyodonews.net)
+• [Japan Times](https://www.japantimes.co.jp)
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp)
+• [Reuters](https://www.reuters.com)
+• [Bloomberg](https://www.bloomberg.com)
 
-*Japanese outlet homepages captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan. Twitter feeds: @takaichi_sanae, @nhk_ohayou. International competitors: Financial Times Asia, WSJ Asia, Economist Asia.*
+*Screenshots captured from Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from PM Takaichi and NHK Ohayou for reference.*

@@ -4,15 +4,15 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-02-26T20:57:23.005Z",
-    "generatedTimestamp": 1772139443005
+    "generated": "2026-02-26T21:05:48.406Z",
+    "generatedTimestamp": 1772139948406
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
     "totalStories": 105,
     "totalScreenshots": 11,
-    "elapsed": "101.1s"
+    "elapsed": "100.9s"
   },
   "stories": {
     "all": [
@@ -577,18 +577,18 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlI0azcyTHFUeVBKV3BIUVlNZDZHOThjRjU5dnBrYW9vRnJoNkx5OU9za2RPMklfV252cnFHWVZyendHYzJJeWlUeUxfZkVkb3l1ZTJVdGpkemI3dFpXeER2MWVldHBaSnlOOWV"
       },
       {
-        "headline": "Tatsuya Imai throws scoreless inning, struck by comebacker in Astros exhibition debut - AP News",
-        "url": "https://apnews.com/article/tatsuya-imai-astros-2a805ad8b1b168243e1ffdc0842abe3e",
+        "headline": "Brazil - AP News",
+        "url": "https://apnews.com/hub/brazil",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Thu, 26 Feb 2026 19:21:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONnRnNWM3T0ZJTWNGZWNPZVFXamtwRF9aQjZnM2stLW1aYjJqdDZUdUxvSUQwUWdNQmJiX01hNHhSakZyWkRaYV9yUHBvNTdnT0RaSS1lWk1RSjZGZjFYaGVENGJicnBFSkswVXZ"
+        "date": "Thu, 26 Feb 2026 20:01:37 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5\" target=\"_blank\"&gt;Brazil&lt;/a&gt;&amp;nbsp;&amp"
       },
       {
         "headline": "Cuba says its forces kill four in gunfight after Florida speedboat tries to ‘infiltrate’ island - Yahoo News UK",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0eb8fc2f-5d0a-44be-94c3-32378746af4b",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_500aa08b-8656-46cc-b0a2-c075a0691476",
         "source": "AFP Japan",
         "sourceId": "afp_japan",
         "category": "wire",
@@ -647,16 +647,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBxVWlEVzFqOXpoWG16NFRrd09rMzhTeWpjdnNpQW9mQ1h5SGgxYlZ4blpsaUhUWVdJQUZYZExwZU8xSjhnWmR5ODBPNGEyZEZXTG03ajMwZldUZy1ZMlVVUEpKeTFNaDBPbHBMTWd"
       },
       {
-        "headline": "Thieves target high-value Pokemon cards as franchise turns 30 - Yahoo News Singapore",
-        "url": "https://sg.news.yahoo.com/thieves-target-high-value-pokemon-192054958.html",
-        "source": "AFP Japan",
-        "sourceId": "afp_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 26 Feb 2026 19:20:54 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50R2VES2lYNWt6WmhveDRIX05tWDRMZHRORWtBX29SUndTR1RDZkpnZGp0b1M1N3k3VVRlRFVkTmNxMnVGRXlMZ3dvcUUxWVhfMzJvNUdJUjYyempLT3NvMjlobkR6Q0JlYUx1MnN"
-      },
-      {
         "headline": "Cuba vows to counter 'terrorist' attacks after clashing with US-based boat - Yahoo News Singapore",
         "url": "https://sg.news.yahoo.com/cuba-vows-counter-terrorist-attacks-151523384.html",
         "source": "AFP Japan",
@@ -667,24 +657,34 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjR4aFhBREx2MHAxMEVhRGpFclRGcllTNlpRdk9qOWhzRzM4MUpoZEJRV3dSTjMzYjlSTlE4aWdYZ19lTk9OY3VrbmtTb3Y3VllpNURpX3Z1eG1RWTVpb3lIbkZCQUpIbXEwcm1"
       },
       {
-        "headline": "Old video misrepresented as premature vote count in Bangladesh's 2026 elections - Yahoo News Malaysia",
-        "url": "https://malaysia.news.yahoo.com/old-video-misrepresented-premature-vote-065913192.html",
-        "source": "AFP Japan",
-        "sourceId": "afp_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 26 Feb 2026 06:59:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWszNWlSR2ljTzltSFR5WjZWRWpCT1Nzc3dPTHduVllveWlHOEhOWmxnM3ZmUUVOU1NoNXBDaFZFelVIZDkyNFF1Q1NaUUtkbGlISGJWd3ltWGdvS3BmNWI2RTlVUGVLX3Z4X2Q"
-      },
-      {
         "headline": "Free internet service hoax spreads in Indonesia during Ramadan - Yahoo News UK",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b27da6ba-ad5c-42cd-8a0d-1e8b37fc8217",
+        "url": "https://uk.news.yahoo.com/free-internet-hoax-spreads-indonesia-043933115.html",
         "source": "AFP Japan",
         "sourceId": "afp_japan",
         "category": "wire",
         "priority": "secondary",
         "date": "Thu, 26 Feb 2026 04:39:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnhQSXJZQkJHVm1oeXV3bFZhM3Q5OHBTa0pJR2lQWG1xTnBBVURiUC1CZFE3TmlYSDBQMDZrdkhFWXRhU3RuRDY2ZDFINEZoRWtIVnlZb1ByZ3hTSVpjUnpnZHRGSWt1cnNvV3h"
+      },
+      {
+        "headline": "African migrants won legal protections - then Trump deported them - Yahoo News Singapore",
+        "url": "https://sg.news.yahoo.com/african-migrants-won-legal-protections-012039329.html",
+        "source": "AFP Japan",
+        "sourceId": "afp_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 26 Feb 2026 01:20:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDhRWGk4eGFMZExfc3J0NDRhZDNOdTdld195TEdTMHkwVFQ3ZDU1X2lXa0pqQWlKbTA3dThGZlFrRnczOWRyYlc0dUp6aWs4UnpFRFFXeUs1elZzZzZrNm9kSFdJNnBxcDJDSmY"
+      },
+      {
+        "headline": "Booming markets propel Hong Kong exchange's profits to record high - Yahoo News Singapore",
+        "url": "https://sg.news.yahoo.com/booming-markets-propel-hong-kong-114511802.html",
+        "source": "AFP Japan",
+        "sourceId": "afp_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 26 Feb 2026 11:45:11 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE01N0VBR3RlWFJINjF0alk2VXNuX2JvcVhxZEJRRFlHaV92b3hIbGVzOXNha2tpYTJxbXh3ZEI4OEY5T1h4TGlXRl9yN0ZYNFJXdmVfckRnbWdGTU5XSGQzY1Q4bDJBUXFPSHNhMjc"
       },
       {
         "headline": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
@@ -867,7 +867,7 @@
         "description": "If you're planning a trip to Japan, here's what you'll need to know and expect if you want to visit during the global coronavirus pandemic."
       },
       {
-        "headline": "Wall Street Says Japan Yield Curve Flattening Has Gone Too Far - Bloomberg.com",
+        "headline": "Wall Street Says Japan Yield Curve Flattening Has Gone Too Far - Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-02-26/wall-street-says-japan-yield-curve-flattening-has-gone-too-far",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -877,7 +877,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUJNUUFJQ2xrVHF3Wi05UURpSS1PV2x4UHlPT2x5bDFZZllabEQ4ZXJtaW05ZXNMMkJhSUhiQ1FwYmczQ2YyNG9pT2hNTUtqSGI1UWl6eVFOT3h0UU5qbllRdmtyYmZTN2hnZVh"
       },
       {
-        "headline": "Does India’s Economy Really Rival Japan’s? - Bloomberg.com",
+        "headline": "Does India’s Economy Really Rival Japan’s? - Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-02-26/does-india-s-economy-really-rival-japan-s",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -887,7 +887,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0UzOHJRaGRYVUlhTmpGTEFmYVBLY2xWM3A1NW9EVENod2kyaWFrd0IzSHF2N09KdWtkWkZzRWxuLWs2VFQzUnUtajZPckRGQmMxejRBS0lLVFdzelZJN0RrSnlramY2YVdjLVd"
       },
       {
-        "headline": "Japan Sees Interest Payments Doubling by 2029 as BOJ Hikes Rate - Bloomberg.com",
+        "headline": "Japan Sees Interest Payments Doubling by 2029 as BOJ Hikes Rate - Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-02-26/japan-sees-interest-payments-doubling-by-2029-as-boj-hikes-rate",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -897,7 +897,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUzZxcW1pV20tcWpFTEtwakxDOXZ5WHpfeDVMcGRaMnY0ZWswd0tSSTE4WVB4ZXhOelNpSUk2X1JScUhiWVUyYVY2Y0FmQXJtSTBHNVE3Umx4WmxaLUF3R1AwaEVKSUcycXYwb0d"
       },
       {
-        "headline": "Japan’s Births Fall for 10th Year Adding to Demographic Strain - Bloomberg.com",
+        "headline": "Japan’s Births Fall for 10th Year Adding to Demographic Strain - Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-02-26/japan-s-births-fall-for-10th-year-adding-to-demographic-strain",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -907,7 +907,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWVpSlVZYnZWUHZKaEdpZnFKcEN0TEt3MnNLRXNSZUg1SGF6NjhORDRpZ0dxN3VCc05tTXRvazJ3cXZXQUNqb3ppZGRIUzRrVWlzSXBMa05pR2t6T1o1UUkzVzRRMmFYRU9meXd"
       },
       {
-        "headline": "Japan Leans More on China for Rare Earths Despite Lower Imports - Bloomberg.com",
+        "headline": "Japan Leans More on China for Rare Earths Despite Lower Imports - Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-02-26/japan-leans-more-on-china-for-rare-earths-despite-lower-imports",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -917,7 +917,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEZhMzBxc3E5S1FfeDV0ZWtPeUp1UDB4TmViRFR6TmNmZHdLQkZJaXE5dzd1dUZtODZJZ3lyWHVZc3plSzBKbzRIazRDZ3Njb3FBYm1jcVB5X0c3c0tHekNIcTlaZHlkSjQ4UWp"
       },
       {
-        "headline": "BlackRock Says Japanese Bonds Offer 6% Yield With Currency Boost - Bloomberg.com",
+        "headline": "BlackRock Says Japanese Bonds Offer 6% Yield With Currency Boost - Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-02-26/blackrock-says-japanese-bonds-offer-6-yield-with-currency-boost",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -927,7 +927,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGVlQjNVMnhiQVR2UjJYWlRBY2dYc1NNRENWVkVONFFxcklhTGN3eExZelRSN2hsVFhxMURjbWhodnJfS1c1RDNWa3hmQklidi1vQks5UkVmZ1cxc3ZGQktwVndKUVdhRGdnZWZ"
       },
       {
-        "headline": "Yen Outperforms G-10 Peers on BOJ Member Takata’s Hawkish Speech - Bloomberg.com",
+        "headline": "Yen Outperforms G-10 Peers on BOJ Member Takata’s Hawkish Speech - Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-02-26/yen-outperforms-g-10-peers-on-boj-member-takata-s-hawkish-speech",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -937,7 +937,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHczSVFuTElSeWlxN3BDMjMySXlaSU1TMlNlQm1BNlVUWE1wS0R5SmoyYjljSnNKUnBRWlJjOFNNb2h2NDJpTGVsUDBlUDgzMjRkRDF5cmVpVkxBak1XNjlKUmx3RUJraXhZdDE"
       },
       {
-        "headline": "BOJ Hawk Pushes for More Hikes in Response to Heating Up Prices - Bloomberg.com",
+        "headline": "BOJ Hawk Pushes for More Hikes in Response to Heating Up Prices - Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-02-26/boj-hawk-calls-for-more-hikes-after-takaichi-nominates-doves",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -957,7 +957,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWE2Yk1qWFB1LUpEX2RJSElVTnp6cGZOVWh3NzJwNzJFdDdTSHRJWUVkTkNSRUZHbURsc19aZmJIMGd2TVdlaVBoeUdXYm12REZkQkZNQ2xIRjNCRTUxMjJPRHhuMmRnUm1CRFV"
       },
       {
-        "headline": "Toyota Plans $19 Billion Share Sale, Reuters Reports - Bloomberg.com",
+        "headline": "Toyota Plans $19 Billion Share Sale, Reuters Reports - Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-02-26/toyota-plans-19-billion-share-sale-reuters-reports",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
@@ -1632,18 +1632,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlI0azcyTHFUeVBKV3BIUVlNZDZHOThjRjU5dnBrYW9vRnJoNkx5OU9za2RPMklfV252cnFHWVZyendHYzJJeWlUeUxfZkVkb3l1ZTJVdGpkemI3dFpXeER2MWVldHBaSnlOOWV"
         },
         {
-          "headline": "Tatsuya Imai throws scoreless inning, struck by comebacker in Astros exhibition debut - AP News",
-          "url": "https://apnews.com/article/tatsuya-imai-astros-2a805ad8b1b168243e1ffdc0842abe3e",
+          "headline": "Brazil - AP News",
+          "url": "https://apnews.com/hub/brazil",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 19:21:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONnRnNWM3T0ZJTWNGZWNPZVFXamtwRF9aQjZnM2stLW1aYjJqdDZUdUxvSUQwUWdNQmJiX01hNHhSakZyWkRaYV9yUHBvNTdnT0RaSS1lWk1RSjZGZjFYaGVENGJicnBFSkswVXZ"
+          "date": "Thu, 26 Feb 2026 20:01:37 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5\" target=\"_blank\"&gt;Brazil&lt;/a&gt;&amp;nbsp;&amp"
         },
         {
           "headline": "Cuba says its forces kill four in gunfight after Florida speedboat tries to ‘infiltrate’ island - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0eb8fc2f-5d0a-44be-94c3-32378746af4b",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_500aa08b-8656-46cc-b0a2-c075a0691476",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
@@ -1702,16 +1702,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBxVWlEVzFqOXpoWG16NFRrd09rMzhTeWpjdnNpQW9mQ1h5SGgxYlZ4blpsaUhUWVdJQUZYZExwZU8xSjhnWmR5ODBPNGEyZEZXTG03ajMwZldUZy1ZMlVVUEpKeTFNaDBPbHBMTWd"
         },
         {
-          "headline": "Thieves target high-value Pokemon cards as franchise turns 30 - Yahoo News Singapore",
-          "url": "https://sg.news.yahoo.com/thieves-target-high-value-pokemon-192054958.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 19:20:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50R2VES2lYNWt6WmhveDRIX05tWDRMZHRORWtBX29SUndTR1RDZkpnZGp0b1M1N3k3VVRlRFVkTmNxMnVGRXlMZ3dvcUUxWVhfMzJvNUdJUjYyempLT3NvMjlobkR6Q0JlYUx1MnN"
-        },
-        {
           "headline": "Cuba vows to counter 'terrorist' attacks after clashing with US-based boat - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/cuba-vows-counter-terrorist-attacks-151523384.html",
           "source": "AFP Japan",
@@ -1722,24 +1712,34 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjR4aFhBREx2MHAxMEVhRGpFclRGcllTNlpRdk9qOWhzRzM4MUpoZEJRV3dSTjMzYjlSTlE4aWdYZ19lTk9OY3VrbmtTb3Y3VllpNURpX3Z1eG1RWTVpb3lIbkZCQUpIbXEwcm1"
         },
         {
-          "headline": "Old video misrepresented as premature vote count in Bangladesh's 2026 elections - Yahoo News Malaysia",
-          "url": "https://malaysia.news.yahoo.com/old-video-misrepresented-premature-vote-065913192.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 06:59:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWszNWlSR2ljTzltSFR5WjZWRWpCT1Nzc3dPTHduVllveWlHOEhOWmxnM3ZmUUVOU1NoNXBDaFZFelVIZDkyNFF1Q1NaUUtkbGlISGJWd3ltWGdvS3BmNWI2RTlVUGVLX3Z4X2Q"
-        },
-        {
           "headline": "Free internet service hoax spreads in Indonesia during Ramadan - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b27da6ba-ad5c-42cd-8a0d-1e8b37fc8217",
+          "url": "https://uk.news.yahoo.com/free-internet-hoax-spreads-indonesia-043933115.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
           "date": "Thu, 26 Feb 2026 04:39:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnhQSXJZQkJHVm1oeXV3bFZhM3Q5OHBTa0pJR2lQWG1xTnBBVURiUC1CZFE3TmlYSDBQMDZrdkhFWXRhU3RuRDY2ZDFINEZoRWtIVnlZb1ByZ3hTSVpjUnpnZHRGSWt1cnNvV3h"
+        },
+        {
+          "headline": "African migrants won legal protections - then Trump deported them - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/african-migrants-won-legal-protections-012039329.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 26 Feb 2026 01:20:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDhRWGk4eGFMZExfc3J0NDRhZDNOdTdld195TEdTMHkwVFQ3ZDU1X2lXa0pqQWlKbTA3dThGZlFrRnczOWRyYlc0dUp6aWs4UnpFRFFXeUs1elZzZzZrNm9kSFdJNnBxcDJDSmY"
+        },
+        {
+          "headline": "Booming markets propel Hong Kong exchange's profits to record high - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/booming-markets-propel-hong-kong-114511802.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 26 Feb 2026 11:45:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE01N0VBR3RlWFJINjF0alk2VXNuX2JvcVhxZEJRRFlHaV92b3hIbGVzOXNha2tpYTJxbXh3ZEI4OEY5T1h4TGlXRl9yN0ZYNFJXdmVfckRnbWdGTU5XSGQzY1Q4bDJBUXFPSHNhMjc"
         }
       ],
       "competitors": [
@@ -1944,7 +1944,7 @@
           "description": "If you're planning a trip to Japan, here's what you'll need to know and expect if you want to visit during the global coronavirus pandemic."
         },
         {
-          "headline": "Wall Street Says Japan Yield Curve Flattening Has Gone Too Far - Bloomberg.com",
+          "headline": "Wall Street Says Japan Yield Curve Flattening Has Gone Too Far - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/wall-street-says-japan-yield-curve-flattening-has-gone-too-far",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1954,7 +1954,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUJNUUFJQ2xrVHF3Wi05UURpSS1PV2x4UHlPT2x5bDFZZllabEQ4ZXJtaW05ZXNMMkJhSUhiQ1FwYmczQ2YyNG9pT2hNTUtqSGI1UWl6eVFOT3h0UU5qbllRdmtyYmZTN2hnZVh"
         },
         {
-          "headline": "Does India’s Economy Really Rival Japan’s? - Bloomberg.com",
+          "headline": "Does India’s Economy Really Rival Japan’s? - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/does-india-s-economy-really-rival-japan-s",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1964,7 +1964,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0UzOHJRaGRYVUlhTmpGTEFmYVBLY2xWM3A1NW9EVENod2kyaWFrd0IzSHF2N09KdWtkWkZzRWxuLWs2VFQzUnUtajZPckRGQmMxejRBS0lLVFdzelZJN0RrSnlramY2YVdjLVd"
         },
         {
-          "headline": "Japan Sees Interest Payments Doubling by 2029 as BOJ Hikes Rate - Bloomberg.com",
+          "headline": "Japan Sees Interest Payments Doubling by 2029 as BOJ Hikes Rate - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/japan-sees-interest-payments-doubling-by-2029-as-boj-hikes-rate",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1974,7 +1974,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUzZxcW1pV20tcWpFTEtwakxDOXZ5WHpfeDVMcGRaMnY0ZWswd0tSSTE4WVB4ZXhOelNpSUk2X1JScUhiWVUyYVY2Y0FmQXJtSTBHNVE3Umx4WmxaLUF3R1AwaEVKSUcycXYwb0d"
         },
         {
-          "headline": "Japan’s Births Fall for 10th Year Adding to Demographic Strain - Bloomberg.com",
+          "headline": "Japan’s Births Fall for 10th Year Adding to Demographic Strain - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/japan-s-births-fall-for-10th-year-adding-to-demographic-strain",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1984,7 +1984,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWVpSlVZYnZWUHZKaEdpZnFKcEN0TEt3MnNLRXNSZUg1SGF6NjhORDRpZ0dxN3VCc05tTXRvazJ3cXZXQUNqb3ppZGRIUzRrVWlzSXBMa05pR2t6T1o1UUkzVzRRMmFYRU9meXd"
         },
         {
-          "headline": "Japan Leans More on China for Rare Earths Despite Lower Imports - Bloomberg.com",
+          "headline": "Japan Leans More on China for Rare Earths Despite Lower Imports - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/japan-leans-more-on-china-for-rare-earths-despite-lower-imports",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -1994,7 +1994,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEZhMzBxc3E5S1FfeDV0ZWtPeUp1UDB4TmViRFR6TmNmZHdLQkZJaXE5dzd1dUZtODZJZ3lyWHVZc3plSzBKbzRIazRDZ3Njb3FBYm1jcVB5X0c3c0tHekNIcTlaZHlkSjQ4UWp"
         },
         {
-          "headline": "BlackRock Says Japanese Bonds Offer 6% Yield With Currency Boost - Bloomberg.com",
+          "headline": "BlackRock Says Japanese Bonds Offer 6% Yield With Currency Boost - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/blackrock-says-japanese-bonds-offer-6-yield-with-currency-boost",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2004,7 +2004,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGVlQjNVMnhiQVR2UjJYWlRBY2dYc1NNRENWVkVONFFxcklhTGN3eExZelRSN2hsVFhxMURjbWhodnJfS1c1RDNWa3hmQklidi1vQks5UkVmZ1cxc3ZGQktwVndKUVdhRGdnZWZ"
         },
         {
-          "headline": "Yen Outperforms G-10 Peers on BOJ Member Takata’s Hawkish Speech - Bloomberg.com",
+          "headline": "Yen Outperforms G-10 Peers on BOJ Member Takata’s Hawkish Speech - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/yen-outperforms-g-10-peers-on-boj-member-takata-s-hawkish-speech",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2014,7 +2014,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHczSVFuTElSeWlxN3BDMjMySXlaSU1TMlNlQm1BNlVUWE1wS0R5SmoyYjljSnNKUnBRWlJjOFNNb2h2NDJpTGVsUDBlUDgzMjRkRDF5cmVpVkxBak1XNjlKUmx3RUJraXhZdDE"
         },
         {
-          "headline": "BOJ Hawk Pushes for More Hikes in Response to Heating Up Prices - Bloomberg.com",
+          "headline": "BOJ Hawk Pushes for More Hikes in Response to Heating Up Prices - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/boj-hawk-calls-for-more-hikes-after-takaichi-nominates-doves",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2034,7 +2034,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWE2Yk1qWFB1LUpEX2RJSElVTnp6cGZOVWh3NzJwNzJFdDdTSHRJWUVkTkNSRUZHbURsc19aZmJIMGd2TVdlaVBoeUdXYm12REZkQkZNQ2xIRjNCRTUxMjJPRHhuMmRnUm1CRFV"
         },
         {
-          "headline": "Toyota Plans $19 Billion Share Sale, Reuters Reports - Bloomberg.com",
+          "headline": "Toyota Plans $19 Billion Share Sale, Reuters Reports - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/toyota-plans-19-billion-share-sale-reuters-reports",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -2710,18 +2710,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlI0azcyTHFUeVBKV3BIUVlNZDZHOThjRjU5dnBrYW9vRnJoNkx5OU9za2RPMklfV252cnFHWVZyendHYzJJeWlUeUxfZkVkb3l1ZTJVdGpkemI3dFpXeER2MWVldHBaSnlOOWV"
         },
         {
-          "headline": "Tatsuya Imai throws scoreless inning, struck by comebacker in Astros exhibition debut - AP News",
-          "url": "https://apnews.com/article/tatsuya-imai-astros-2a805ad8b1b168243e1ffdc0842abe3e",
+          "headline": "Brazil - AP News",
+          "url": "https://apnews.com/hub/brazil",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 19:21:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONnRnNWM3T0ZJTWNGZWNPZVFXamtwRF9aQjZnM2stLW1aYjJqdDZUdUxvSUQwUWdNQmJiX01hNHhSakZyWkRaYV9yUHBvNTdnT0RaSS1lWk1RSjZGZjFYaGVENGJicnBFSkswVXZ"
+          "date": "Thu, 26 Feb 2026 20:01:37 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5\" target=\"_blank\"&gt;Brazil&lt;/a&gt;&amp;nbsp;&amp"
         },
         {
           "headline": "Cuba says its forces kill four in gunfight after Florida speedboat tries to ‘infiltrate’ island - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0eb8fc2f-5d0a-44be-94c3-32378746af4b",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_500aa08b-8656-46cc-b0a2-c075a0691476",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
@@ -2780,16 +2780,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBxVWlEVzFqOXpoWG16NFRrd09rMzhTeWpjdnNpQW9mQ1h5SGgxYlZ4blpsaUhUWVdJQUZYZExwZU8xSjhnWmR5ODBPNGEyZEZXTG03ajMwZldUZy1ZMlVVUEpKeTFNaDBPbHBMTWd"
         },
         {
-          "headline": "Thieves target high-value Pokemon cards as franchise turns 30 - Yahoo News Singapore",
-          "url": "https://sg.news.yahoo.com/thieves-target-high-value-pokemon-192054958.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 19:20:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50R2VES2lYNWt6WmhveDRIX05tWDRMZHRORWtBX29SUndTR1RDZkpnZGp0b1M1N3k3VVRlRFVkTmNxMnVGRXlMZ3dvcUUxWVhfMzJvNUdJUjYyempLT3NvMjlobkR6Q0JlYUx1MnN"
-        },
-        {
           "headline": "Cuba vows to counter 'terrorist' attacks after clashing with US-based boat - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/cuba-vows-counter-terrorist-attacks-151523384.html",
           "source": "AFP Japan",
@@ -2800,24 +2790,34 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjR4aFhBREx2MHAxMEVhRGpFclRGcllTNlpRdk9qOWhzRzM4MUpoZEJRV3dSTjMzYjlSTlE4aWdYZ19lTk9OY3VrbmtTb3Y3VllpNURpX3Z1eG1RWTVpb3lIbkZCQUpIbXEwcm1"
         },
         {
-          "headline": "Old video misrepresented as premature vote count in Bangladesh's 2026 elections - Yahoo News Malaysia",
-          "url": "https://malaysia.news.yahoo.com/old-video-misrepresented-premature-vote-065913192.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 06:59:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWszNWlSR2ljTzltSFR5WjZWRWpCT1Nzc3dPTHduVllveWlHOEhOWmxnM3ZmUUVOU1NoNXBDaFZFelVIZDkyNFF1Q1NaUUtkbGlISGJWd3ltWGdvS3BmNWI2RTlVUGVLX3Z4X2Q"
-        },
-        {
           "headline": "Free internet service hoax spreads in Indonesia during Ramadan - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b27da6ba-ad5c-42cd-8a0d-1e8b37fc8217",
+          "url": "https://uk.news.yahoo.com/free-internet-hoax-spreads-indonesia-043933115.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
           "date": "Thu, 26 Feb 2026 04:39:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnhQSXJZQkJHVm1oeXV3bFZhM3Q5OHBTa0pJR2lQWG1xTnBBVURiUC1CZFE3TmlYSDBQMDZrdkhFWXRhU3RuRDY2ZDFINEZoRWtIVnlZb1ByZ3hTSVpjUnpnZHRGSWt1cnNvV3h"
+        },
+        {
+          "headline": "African migrants won legal protections - then Trump deported them - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/african-migrants-won-legal-protections-012039329.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 26 Feb 2026 01:20:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDhRWGk4eGFMZExfc3J0NDRhZDNOdTdld195TEdTMHkwVFQ3ZDU1X2lXa0pqQWlKbTA3dThGZlFrRnczOWRyYlc0dUp6aWs4UnpFRFFXeUs1elZzZzZrNm9kSFdJNnBxcDJDSmY"
+        },
+        {
+          "headline": "Booming markets propel Hong Kong exchange's profits to record high - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/booming-markets-propel-hong-kong-114511802.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 26 Feb 2026 11:45:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE01N0VBR3RlWFJINjF0alk2VXNuX2JvcVhxZEJRRFlHaV92b3hIbGVzOXNha2tpYTJxbXh3ZEI4OEY5T1h4TGlXRl9yN0ZYNFJXdmVfckRnbWdGTU5XSGQzY1Q4bDJBUXFPSHNhMjc"
         },
         {
           "headline": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
@@ -3020,7 +3020,7 @@
           "description": "If you're planning a trip to Japan, here's what you'll need to know and expect if you want to visit during the global coronavirus pandemic."
         },
         {
-          "headline": "Wall Street Says Japan Yield Curve Flattening Has Gone Too Far - Bloomberg.com",
+          "headline": "Wall Street Says Japan Yield Curve Flattening Has Gone Too Far - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/wall-street-says-japan-yield-curve-flattening-has-gone-too-far",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -3030,7 +3030,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUJNUUFJQ2xrVHF3Wi05UURpSS1PV2x4UHlPT2x5bDFZZllabEQ4ZXJtaW05ZXNMMkJhSUhiQ1FwYmczQ2YyNG9pT2hNTUtqSGI1UWl6eVFOT3h0UU5qbllRdmtyYmZTN2hnZVh"
         },
         {
-          "headline": "Does India’s Economy Really Rival Japan’s? - Bloomberg.com",
+          "headline": "Does India’s Economy Really Rival Japan’s? - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/does-india-s-economy-really-rival-japan-s",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -3040,7 +3040,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0UzOHJRaGRYVUlhTmpGTEFmYVBLY2xWM3A1NW9EVENod2kyaWFrd0IzSHF2N09KdWtkWkZzRWxuLWs2VFQzUnUtajZPckRGQmMxejRBS0lLVFdzelZJN0RrSnlramY2YVdjLVd"
         },
         {
-          "headline": "Japan Sees Interest Payments Doubling by 2029 as BOJ Hikes Rate - Bloomberg.com",
+          "headline": "Japan Sees Interest Payments Doubling by 2029 as BOJ Hikes Rate - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/japan-sees-interest-payments-doubling-by-2029-as-boj-hikes-rate",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -3050,7 +3050,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUzZxcW1pV20tcWpFTEtwakxDOXZ5WHpfeDVMcGRaMnY0ZWswd0tSSTE4WVB4ZXhOelNpSUk2X1JScUhiWVUyYVY2Y0FmQXJtSTBHNVE3Umx4WmxaLUF3R1AwaEVKSUcycXYwb0d"
         },
         {
-          "headline": "Japan’s Births Fall for 10th Year Adding to Demographic Strain - Bloomberg.com",
+          "headline": "Japan’s Births Fall for 10th Year Adding to Demographic Strain - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/japan-s-births-fall-for-10th-year-adding-to-demographic-strain",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -3060,7 +3060,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWVpSlVZYnZWUHZKaEdpZnFKcEN0TEt3MnNLRXNSZUg1SGF6NjhORDRpZ0dxN3VCc05tTXRvazJ3cXZXQUNqb3ppZGRIUzRrVWlzSXBMa05pR2t6T1o1UUkzVzRRMmFYRU9meXd"
         },
         {
-          "headline": "Japan Leans More on China for Rare Earths Despite Lower Imports - Bloomberg.com",
+          "headline": "Japan Leans More on China for Rare Earths Despite Lower Imports - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/japan-leans-more-on-china-for-rare-earths-despite-lower-imports",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -3070,7 +3070,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEZhMzBxc3E5S1FfeDV0ZWtPeUp1UDB4TmViRFR6TmNmZHdLQkZJaXE5dzd1dUZtODZJZ3lyWHVZc3plSzBKbzRIazRDZ3Njb3FBYm1jcVB5X0c3c0tHekNIcTlaZHlkSjQ4UWp"
         },
         {
-          "headline": "BlackRock Says Japanese Bonds Offer 6% Yield With Currency Boost - Bloomberg.com",
+          "headline": "BlackRock Says Japanese Bonds Offer 6% Yield With Currency Boost - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/blackrock-says-japanese-bonds-offer-6-yield-with-currency-boost",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -3080,7 +3080,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGVlQjNVMnhiQVR2UjJYWlRBY2dYc1NNRENWVkVONFFxcklhTGN3eExZelRSN2hsVFhxMURjbWhodnJfS1c1RDNWa3hmQklidi1vQks5UkVmZ1cxc3ZGQktwVndKUVdhRGdnZWZ"
         },
         {
-          "headline": "Yen Outperforms G-10 Peers on BOJ Member Takata’s Hawkish Speech - Bloomberg.com",
+          "headline": "Yen Outperforms G-10 Peers on BOJ Member Takata’s Hawkish Speech - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/yen-outperforms-g-10-peers-on-boj-member-takata-s-hawkish-speech",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -3090,7 +3090,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHczSVFuTElSeWlxN3BDMjMySXlaSU1TMlNlQm1BNlVUWE1wS0R5SmoyYjljSnNKUnBRWlJjOFNNb2h2NDJpTGVsUDBlUDgzMjRkRDF5cmVpVkxBak1XNjlKUmx3RUJraXhZdDE"
         },
         {
-          "headline": "BOJ Hawk Pushes for More Hikes in Response to Heating Up Prices - Bloomberg.com",
+          "headline": "BOJ Hawk Pushes for More Hikes in Response to Heating Up Prices - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/boj-hawk-calls-for-more-hikes-after-takaichi-nominates-doves",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
@@ -3110,7 +3110,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWE2Yk1qWFB1LUpEX2RJSElVTnp6cGZOVWh3NzJwNzJFdDdTSHRJWUVkTkNSRUZHbURsc19aZmJIMGd2TVdlaVBoeUdXYm12REZkQkZNQ2xIRjNCRTUxMjJPRHhuMmRnUm1CRFV"
         },
         {
-          "headline": "Toyota Plans $19 Billion Share Sale, Reuters Reports - Bloomberg.com",
+          "headline": "Toyota Plans $19 Billion Share Sale, Reuters Reports - Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-02-26/toyota-plans-19-billion-share-sale-reuters-reports",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",

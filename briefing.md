@@ -1,38 +1,41 @@
-Japan's [birth rate](https://english.kyodonews.net/articles/-/71247) hit another record low in 2025, falling to just 706,000 births for the tenth consecutive year of decline. The demographic crisis is accelerating at precisely the moment the Bank of Japan is signaling [more rate](https://www.reuters.com/world/asia-pacific/boj-chief-says-bank-will-scrutinise-data-march-april-meetings-yomiuri-reports-2026-02-25) hikes ahead, creating a pincer movement on government finances. Bloomberg reports Japan's [debt servicing](https://www.bloomberg.com/news/articles/2026-02-26/japan-sees-interest-payments-doubling-by-2029-as-boj-hikes-rate) costs could double by 2029 as borrowing costs rise on the world's largest debt pile.
+**Top News**
 
-The political response is taking shape as Prime Minister Takaichi's [consumption tax](https://www.japantimes.co.jp/news/2026/02/26/japan/politics/consumption-tax-panel/) panel kicked off its first meeting yesterday, though two opposition parties boycotted the proceedings. Meanwhile, the trilateral security partnership with Manila and Washington is deepening, with [joint drills](https://english.kyodonews.net/articles/-/71277) held in waters near Taiwan as regional tensions simmer.
+Japan is grappling with mounting debt service costs as the Bank of Japan signals more rate hikes ahead. [Interest payments](https://www.bloomberg.com/news/articles/2026-02-26/japan-sees-interest-payments-doubling-by-2029-as-boj-hikes-rate) could double to 40 trillion yen by 2029, according to government projections, as BOJ Governor Ueda keeps the door open for [March or April](https://www.reuters.com/world/asia-pacific/boj-chief-says-bank-will-scrutinise-data-march-april-meetings-yomiuri-reports-2026-02-25/) rate increases. Prime Minister Takaichi is trying to stack the BOJ board with [dovish appointees](https://www.reuters.com/sustainability/boards-policy-regulation/japans-takaichi-gets-her-doves-row-with-boj-board-appointees-2026-02-26/) to counter hawkish pressure, but inflation overshoot risks are mounting, Reuters reports.
+
+The demographic crisis deepened as births fell to [706,000 last year](https://english.kyodonews.net/articles/-/71247), a record low for the tenth straight year. This comes as the government launched its [National Conference](http://www3.nhk.or.jp/news/html/20260227/k10015061641000.html) on consumption tax reduction today, with budget deliberations beginning in earnest. The panel kicked off [without two opposition parties](https://www.japantimes.co.jp/news/2026/02/26/japan/politics/consumption-tax-panel/), according to the Japan Times.
 
 **Business & Markets**
 
-• The yen gained ground after BOJ Governor Ueda left the door open for [March or April](https://www.reuters.com/world/asia-pacific/boj-chief-says-bank-will-scrutinise-data-march-april-meetings-yomiuri-reports-2026-02-25) rate increases, per Reuters. Wall Street analysts now think Japan's [yield curve](https://www.bloomberg.com/news/articles/2026-02-26/wall-street-says-japan-yield-curve-flattening-has-gone-too-far) flattening has gone too far.
+• Wall Street banks warn Japan's [yield curve flattening](https://www.bloomberg.com/news/articles/2026-02-26/wall-street-says-japan-yield-curve-flattening-has-gone-too-far) has gone too far, with the spread between 10-year and 2-year bonds hitting historic lows
 
-• Mizuho Bank may have [lost data](https://japannews.yomiuri.co.jp/business/companies/20260226-313687/) on thousands of clients, according to the Yomiuri. The bank is investigating the scope of the potential breach.
+• Japan is [becoming more dependent](https://www.bloomberg.com/news/articles/2026-02-26/japan-leans-more-on-china-for-rare-earths-despite-lower-imports) on China for rare earths despite efforts to diversify supply chains, Bloomberg reports
 
-• Japan's dependence on China for [rare earths](https://www.bloomberg.com/news/articles/2026-02-26/japan-leans-more-on-china-for-rare-earths-despite-lower-imports) is actually increasing despite lower overall import volumes, Bloomberg reports, highlighting strategic vulnerabilities.
+• NISA investment accounts topped [2.8 million](http://www3.nhk.or.jp/news/html/20260227/k10015061621000.html) nationwide, growing 10% in 2025 as retail investors pile into tax-advantaged savings
 
-• Domestic [NISA accounts](http://www3.nhk.or.jp/news/html/20260227/k10015061621000.html) surged past 28 million, up more than 10% last year as retail investment appetite remains strong, NHK reports.
+• Mizuho Bank may have [lost client data](https://japannews.yomiuri.co.jp/business/companies/20260226-313687/) on thousands of customers, the Yomiuri reports
 
 **Government & Policy**
 
-• A US foundation claims [Chinese influence](https://www.japantimes.co.jp/news/2026/02/26/world/chinese-influence-operation-target/) operations are targeting Japanese elections and Trump, according to the Japan Times. The scale and methods of the alleged campaign remain unclear.
+• Philippines, Japan and the US conducted [joint naval drills](https://english.kyodonews.net/articles/-/71277) near Taiwan waters, per Kyodo, as regional security cooperation intensifies
 
-• Child victims of [social media](https://www.japantimes.co.jp/news/2026/02/26/japan/crime-legal/child-victims-social-media-high/) crimes hit a 10-year high, police data shows, adding pressure for stronger platform regulation.
+• A US foundation reports Chinese [influence operations](https://www.japantimes.co.jp/news/2026/02/26/world/chinese-influence-operation-target/) targeted Japanese elections alongside Trump and other countries, the Japan Times notes
 
 **What to Watch**
 
-Budget deliberations begin in earnest today with [consumption tax](http://www3.nhk.or.jp/news/html/20260227/k10015061651000.html) cuts likely to dominate debate, per NHK. The opposition boycott of Takaichi's tax panel suggests rocky negotiations ahead.
+Today's Diet budget deliberations will focus on the consumption tax reduction timeline and funding mechanisms, with opposition parties pressing for details on Takaichi's fiscal expansion plans.
 
 **Coverage Flags**
 
-The Chinese influence operations story appears stronger in international outlets than Japanese press coverage suggests. Worth digging deeper into the sourcing and Japanese government response.
+The Chinese influence operations story appears primarily in international outlets (Reuters, Japan Times) with limited pickup in domestic Japanese media — worth monitoring for government response. The BOJ rate hike timeline story has stronger coverage in financial press than mainstream Japanese outlets.
 
 **Sources**
 
-• [NHK World](http://www3.nhk.or.jp)
-• [Kyodo News](https://english.kyodonews.net)
-• [Japan Times](https://www.japantimes.co.jp)
-• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp)
-• [Reuters](https://www.reuters.com)
-• [Bloomberg](https://www.bloomberg.com)
+• [NHK World](http://www3.nhk.or.jp/)
+• [Kyodo News](https://english.kyodonews.net/)
+• [Japan Times](https://www.japantimes.co.jp/)
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp/)
+• [Reuters Japan](https://www.reuters.com/)
+• [Bloomberg Japan](https://www.bloomberg.com/)
+• [AFP Japan](https://uk.news.yahoo.com/)
 
-*Screenshots captured from Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from PM Takaichi and NHK Ohayou for reference.*
+*Visual references captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages; @takaichi_sanae, @nhk_ohayou Twitter feeds; FT Asia, WSJ Asia, Economist Asia pages*

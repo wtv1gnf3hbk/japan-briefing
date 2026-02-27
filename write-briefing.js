@@ -238,7 +238,7 @@ function generateHTML(briefingText, config) {
     .feedback-btn:hover { background: #f0f0f0; }
     .feedback-btn.selected { background: #e8e8e8; border-color: #999; }
     .feedback-textarea {
-      display: none;
+      display: block;
       width: 100%;
       max-width: 480px;
       margin: 12px auto;
@@ -250,7 +250,7 @@ function generateHTML(briefingText, config) {
       resize: vertical;
     }
     .feedback-submit {
-      display: none;
+      display: block;
       margin: 8px auto;
       padding: 6px 20px;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -400,18 +400,15 @@ ${briefingText
     })();
 
     function selectReaction(btn) {
-      // Deselect all, select this one
       document.querySelectorAll('.feedback-btn').forEach(function(b) { b.classList.remove('selected'); });
       btn.classList.add('selected');
       selectedReaction = btn.dataset.reaction;
-      // Show textarea and send button
-      document.getElementById('feedback-comment').style.display = 'block';
-      document.getElementById('feedback-submit').style.display = 'block';
     }
 
     async function submitFeedback() {
-      if (!selectedReaction) return;
+      // Need either a reaction or a comment (or both)
       var comment = document.getElementById('feedback-comment').value.trim();
+      if (!selectedReaction && !comment) return;
       var dateKey = document.getElementById('feedback-section').dataset.date;
       var submitBtn = document.getElementById('feedback-submit');
       submitBtn.textContent = 'Sending...';
@@ -422,7 +419,7 @@ ${briefingText
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
-            reaction: selectedReaction,
+            reaction: selectedReaction || 'comment',
             comment: comment || '',
             briefingDate: dateKey
           })

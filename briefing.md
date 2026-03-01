@@ -1,35 +1,38 @@
-The Middle East is erupting into its most serious crisis in decades, with profound implications for Japan's energy security and global supply chains. President Trump announced early Saturday that Iranian Supreme Leader Ali Khamenei was killed in coordinated U.S.-Israeli strikes on Iran, marking a dramatic escalation that has already [closed the](https://www3.nhk.or.jp/news/html/20260301/k10015063261000.html) Strait of Hormuz and sent oil markets into chaos. Japanese government officials are scrambling to assess risks to the nation's energy imports, with Reuters reporting that [oil markets face](https://www.reuters.com/markets/commodities/iran-war-throws-oil-market-into-biggest-crisis-decades-2026-02-28/) their biggest crisis in decades.
+Good morning, Javier. The Middle East crisis is dominating headlines this morning, with direct implications for Japan's energy security and economic interests. [Japan has refrained](https://english.kyodonews.net/articles/-/71395) from outright support of the U.S. and Israeli attacks on Iran, according to Kyodo News, maintaining its characteristic diplomatic caution as the conflict escalates. The government is [closely monitoring](http://www3.nhk.or.jp/news/html/20260302/k10015063691000.html) potential disruptions to the Strait of Hormuz, a critical chokepoint for Japan's energy imports, NHK reports.
 
-The strikes, which Israeli military sources say [killed seven](https://www3.nhk.or.jp/news/html/20260301/k10015063301000.html) Revolutionary Guard commanders including top leadership, have triggered immediate retaliation from Iran across the Gulf region. Airlines are [canceling flights](https://www.reuters.com/world/europe/airlines-suspend-middle-east-flights-after-us-israel-strikes-iran-2026-02-28/) throughout the Middle East as smoke has been reported over Bahrain, Qatar and Kuwait. The UN Security Council convened an emergency session as the conflict threatens to reshape global energy markets that Japan heavily depends on for its post-Fukushima energy mix.
+Japanese companies are already feeling the pinch. Major shipping firms have [suspended operations](https://www.bloomberg.com/news/articles/2026-03-01/japan-s-shipping-companies-suspend-operations-in-persian-gulf) in the Persian Gulf, Bloomberg reports, while energy giant Jera has [pulled staff](https://www.bloomberg.com/news/articles/2026-03-01/top-lng-buyer-jera-pulls-staff-from-middle-east-as-tensions-rise) from Middle East operations as tensions rise. The conflict threatens the [worst disruption](https://www.bloomberg.com/news/articles/2026-03-01/iran-crisis-threatens-worst-disruption-in-gas-markets-since-2022) in gas markets since 2022, according to Bloomberg, potentially hitting Japan particularly hard given its heavy reliance on LNG imports.
 
-## Business & Markets
+President Trump indicated the [military operations could](http://www3.nhk.or.jp/news/html/20260302/k10015063841000.html) continue for four weeks, NHK reports, while Iran has established a [temporary council](http://www3.nhk.or.jp/news/html/20260302/k10015063851000.html) to govern until a new supreme leader is selected. The Japanese government is working to [ensure the safety](http://www3.nhk.or.jp/news/html/20260302/k10015063801000.html) of Japanese nationals in Iran and surrounding countries, per NHK.
 
-• Japan is preparing contingency measures for potential energy supply disruptions, according to the [Japan Times](https://www.japantimes.co.jp/news/2026/02/28/japan/japan-iran-risks-prepare/), as the Hormuz Strait closure could severely impact the country's oil and gas imports from the Gulf region.
+**Business & Markets**
 
-• Bloomberg reports that Trump has [delayed Taiwan](https://www.bloomberg.com/news/articles/2026-02-28/trump-delays-taiwan-arm-sales-as-beijing-visit-nears-nyt-says) arms sales as his administration prepares for a potential Beijing visit, creating uncertainty for regional defense contractors and semiconductor supply chains.
+• The yen strengthened as [safe-haven flows](https://www.reuters.com/world/asia-pacific/safe-haven-japanese-yen-swiss-franc-gain-after-weekend-iran-strikes-2026-03-01/) boosted demand following the Iran strikes, Reuters reports, with the Swiss franc also gaining as markets turned risk-averse.
 
-• China's solar power generation has [overtaken wind](https://www.bloomberg.com/news/articles/2026-02-28/china-s-solar-power-generation-overtakes-wind-for-first-time) for the first time, per Bloomberg.
+• Asian oil buyers are [assessing stockpiles](https://www.reuters.com/business/energy/asian-oil-buyers-assess-stockpiles-middle-east-alternatives-iran-conflict-2026-03-01/) and Middle East alternatives as the Iran conflict escalates, Reuters reports.
 
-• Rapidus Corporation, Japan's ambitious semiconductor venture, has secured total investments of 267.6 billion yen from government and private sources, [Takaichi Sanae noted](screenshots/twitter_takaichi.png), as the country pushes to regain competitiveness in advanced chip manufacturing.
+• Tokyo Electric Power's renewable energy unit [temporarily cut](https://www.bloomberg.com/news/articles/2026-03-01/tokyo-electric-power-unit-temporarily-cuts-renewable-energy) operations, Bloomberg reports, though details on the reasons remain limited.
 
-## Government & Policy
+• The conflict has disrupted [thousands of flights](https://www.reuters.com/world/middle-east/us-iran-conflict-disrupts-thousands-flights-travel-chaos-deepens-2026-03-01/) globally as airlines avoid Middle Eastern airspace, Reuters reports, affecting Asian carriers' European routes.
 
-• China has [denied U.S. claims](https://www.bloomberg.com/news/articles/2026-02-28/china-denies-us-claims-that-it-conducted-nuclear-explosion-tests) that it conducted nuclear explosion tests, according to Bloomberg, as tensions over atomic capabilities intensify during the Middle East crisis.
+**Government & Policy**
 
-• Kyodo News reports that the number of foreigners [detained in Japan](https://english.kyodonews.net/articles/-/71369) has fallen 40% compared to 20 years ago.
+• LDP policy chief Takaichi Sanae disclosed on Twitter that government and private investment in semiconductor manufacturer Rapidus has reached 267.6 billion yen, with 100 billion from the government through IPA and 167.6 billion from 32 private companies.
 
-## Coverage Flags
+• A [magnitude 5.8 earthquake](https://www.reuters.com/business/environment/magnitude-58-earthquake-strikes-japan-gfz-says-2026-03-01/) struck Japan, Reuters reports, though no immediate damage reports have emerged.
 
-International wire services are moving quickly on the Iran crisis developments, while Japanese outlets are focusing heavily on energy security implications — a story angle that could warrant deeper NYT coverage given Japan's unique post-Fukushima energy vulnerabilities. The Rapidus semiconductor investment announcement from Takaichi Sanae suggests significant government backing that merits follow-up reporting.
+**What to Watch**
 
-## Sources
+• Asian Champions League playoffs have been [postponed following](https://english.kyodonews.net/articles/-/71403) the attacks on Iran, Kyodo reports.
 
-• [NHK World](http://www3.nhk.or.jp/) - Breaking news on Iran crisis and Strait of Hormuz closure
-• [Kyodo News](https://english.kyodonews.net/) - Iran developments and Japan detention statistics  
-• [Japan Times](https://www.japantimes.co.jp/) - Japan's Iran risk preparations
-• [Reuters](https://www.reuters.com/) - Oil market crisis and airline disruptions
-• [Bloomberg](https://www.bloomberg.com/) - Taiwan arms sales, China nuclear claims, solar power data
-• [AP News](https://apnews.com/) - Iran retaliation reports
-• [BBC](https://www.bbc.com/) - Regional context and analysis
+**Coverage Flags**
 
-*Screenshots captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages; Twitter feeds from Takaichi Sanae and NHK Ohayou; FT Asia, WSJ Asia, Economist Asia pages*
+International outlets appear ahead on corporate responses to the Middle East crisis, with Bloomberg and Reuters providing detailed coverage of Japanese energy and shipping companies' operational changes. Japanese outlets are focusing more on government responses and diplomatic positioning.
+
+**Sources**
+• [NHK World](http://www3.nhk.or.jp)
+• [Kyodo News](https://english.kyodonews.net)
+• [Bloomberg](https://www.bloomberg.com)
+• [Reuters](https://www.reuters.com)
+• [Japan Times](https://www.japantimes.co.jp)
+
+*Screenshots captured for reference: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages, plus Takaichi Sanae and NHK Ohayou Twitter feeds.*

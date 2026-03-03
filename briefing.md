@@ -1,38 +1,42 @@
-Good morning, Javier. The Middle East crisis is dominating headlines this morning, with direct implications for Japan's energy security and economic interests. [Japan has refrained](https://english.kyodonews.net/articles/-/71395) from outright support of the U.S. and Israeli attacks on Iran, according to Kyodo News, maintaining its characteristic diplomatic caution as the conflict escalates. The government is [closely monitoring](http://www3.nhk.or.jp/news/html/20260302/k10015063691000.html) potential disruptions to the Strait of Hormuz, a critical chokepoint for Japan's energy imports, NHK reports.
+Good morning from Tokyo. Japan is bracing for potential economic turbulence as the Middle East crisis deepens. The [Bank of Japan](https://www.reuters.com/world/asia-pacific/iran-conflict-raises-odds-boj-will-forgo-rate-hike-march-sources-say-2026-03-03/) is now likely to postpone its planned March interest rate hike following the U.S.-Israel military operations against Iran, Reuters reports, as policymakers worry about market volatility and energy supply disruptions. Finance Minister Katsuya Katayama warned that the yen's weakness against the dollar is being closely monitored, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-03/japan-s-katayama-warns-on-fx-as-middle-east-weighs-on-yen), while [Japan's power futures](https://www.bloomberg.com/news/articles/2026-03-03/japan-power-futures-jump-as-iran-conflict-threatens-gas-supplies) have spiked on concerns about liquefied natural gas supplies.
 
-Japanese companies are already feeling the pinch. Major shipping firms have [suspended operations](https://www.bloomberg.com/news/articles/2026-03-01/japan-s-shipping-companies-suspend-operations-in-persian-gulf) in the Persian Gulf, Bloomberg reports, while energy giant Jera has [pulled staff](https://www.bloomberg.com/news/articles/2026-03-01/top-lng-buyer-jera-pulls-staff-from-middle-east-as-tensions-rise) from Middle East operations as tensions rise. The conflict threatens the [worst disruption](https://www.bloomberg.com/news/articles/2026-03-01/iran-crisis-threatens-worst-disruption-in-gas-markets-since-2022) in gas markets since 2022, according to Bloomberg, potentially hitting Japan particularly hard given its heavy reliance on LNG imports.
+Prime Minister Sanae Takaichi signaled Japan's diplomatic urgency, telling [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-03/japan-s-takaichi-aims-to-have-frank-talks-with-trump-on-iran) she aims to have "frank talks" with President Trump about the Iran situation. The Foreign Ministry confirmed that [two Japanese nationals](http://www3.nhk.or.jp/news/html/20260304/k10015065861000.html) in Iran have evacuated to Azerbaijan, NHK reports. Despite the turmoil, Japan's energy minister assured that Qatar's LNG production halt [would not immediately](https://www.reuters.com/sustainability/boards-policy-regulation/qatar-lng-halt-wont-immediately-affect-japans-energy-supply-minister-says-2026-03-03/) affect the country's energy supplies, Reuters reports.
 
-President Trump indicated the [military operations could](http://www3.nhk.or.jp/news/html/20260302/k10015063841000.html) continue for four weeks, NHK reports, while Iran has established a [temporary council](http://www3.nhk.or.jp/news/html/20260302/k10015063851000.html) to govern until a new supreme leader is selected. The Japanese government is working to [ensure the safety](http://www3.nhk.or.jp/news/html/20260302/k10015063801000.html) of Japanese nationals in Iran and surrounding countries, per NHK.
+## Business & Markets
 
-**Business & Markets**
+• Japanese corporate capital expenditure [rose 6.5%](https://www.reuters.com/world/asia-pacific/japan-quarterly-capex-rises-65-government-seeks-spur-investment-2026-03-03/) in the latest quarter as the Takaichi administration pushes for increased business investment, Reuters reports. [Bloomberg notes](https://www.bloomberg.com/news/articles/2026-03-02/japanese-firms-boost-spending-as-takaichi-makes-investment-push) the spending increase aligns with government efforts to revitalize the economy.
 
-• The yen strengthened as [safe-haven flows](https://www.reuters.com/world/asia-pacific/safe-haven-japanese-yen-swiss-franc-gain-after-weekend-iran-strikes-2026-03-01/) boosted demand following the Iran strikes, Reuters reports, with the Swiss franc also gaining as markets turned risk-averse.
+• A former Nomura employee received an [18-year prison sentence](https://www.bloomberg.com/news/articles/2026-03-03/ex-nomura-employee-sentenced-to-18-years-in-home-robbery-case) for his role in a home robbery case, Bloomberg reports.
 
-• Asian oil buyers are [assessing stockpiles](https://www.reuters.com/business/energy/asian-oil-buyers-assess-stockpiles-middle-east-alternatives-iran-conflict-2026-03-01/) and Middle East alternatives as the Iran conflict escalates, Reuters reports.
+• Japan is exploring [rare earth partnerships](https://www.reuters.com/world/china/japan-talks-with-india-explore-rare-earths-sources-say-2026-03-03/) with India to reduce dependence on Chinese supplies, according to Reuters sources.
 
-• Tokyo Electric Power's renewable energy unit [temporarily cut](https://www.bloomberg.com/news/articles/2026-03-01/tokyo-electric-power-unit-temporarily-cuts-renewable-energy) operations, Bloomberg reports, though details on the reasons remain limited.
+• Global markets tumbled with the [Dow dropping 500 points](https://apnews.com/article/stock-markets-iran-energy-oil-trump-75edbda5b8fa3038b47f143cc16855f0) as oil prices surged on war concerns, AP reports.
 
-• The conflict has disrupted [thousands of flights](https://www.reuters.com/world/middle-east/us-iran-conflict-disrupts-thousands-flights-travel-chaos-deepens-2026-03-01/) globally as airlines avoid Middle Eastern airspace, Reuters reports, affecting Asian carriers' European routes.
+## Government & Policy
 
-**Government & Policy**
+• The Tokyo High Court is [expected to decide](http://www3.nhk.or.jp/news/html/20260304/k10015065451000.html) today whether to order the dissolution of the Unification Church, NHK reports, in a closely watched case that could set precedent for religious organization oversight.
 
-• LDP policy chief Takaichi Sanae disclosed on Twitter that government and private investment in semiconductor manufacturer Rapidus has reached 267.6 billion yen, with 100 billion from the government through IPA and 167.6 billion from 32 private companies.
+• Prime Minister Takaichi will [visit Fukushima Prefecture](https://japannews.yomiuri.co.jp/politics/politics-government/20260304-314324/) on the 15th anniversary of the Great East Japan Earthquake, the Yomiuri reports.
 
-• A [magnitude 5.8 earthquake](https://www.reuters.com/business/environment/magnitude-58-earthquake-strikes-japan-gfz-says-2026-03-01/) struck Japan, Reuters reports, though no immediate damage reports have emerged.
+• Tech entrepreneur Joichi Ito will [resign as government adviser](https://japantoday.com/category/politics/joichi-ito-named-in-epstein-files-to-quit-as-government-project-adviser) after being named in Jeffrey Epstein court documents, Japan Today reports.
 
-**What to Watch**
+## What to Watch
 
-• Asian Champions League playoffs have been [postponed following](https://english.kyodonews.net/articles/-/71403) the attacks on Iran, Kyodo reports.
+• Transportation disruptions continue as the [Tohoku Shinkansen](http://www3.nhk.or.jp/news/html/20260304/k10015065871000.html) remains suspended between Omiya and Sendai due to power outages, NHK reports, affecting morning commuters.
 
-**Coverage Flags**
+## Coverage Flags
 
-International outlets appear ahead on corporate responses to the Middle East crisis, with Bloomberg and Reuters providing detailed coverage of Japanese energy and shipping companies' operational changes. Japanese outlets are focusing more on government responses and diplomatic positioning.
+Two unpublished novellas by Nobel laureate Kenzaburo Oe have been discovered, with both the [Japan Times](https://www.japantimes.co.jp/news/2026/03/03/japan/kenzaburo-oe-unpublished-works/) and [Yomiuri](https://japannews.yomiuri.co.jp/culture/books-literature/20260303-314354/) covering the literary find. This cultural story might warrant deeper exploration given Oe's international significance.
 
-**Sources**
+## Sources
+
 • [NHK World](http://www3.nhk.or.jp)
-• [Kyodo News](https://english.kyodonews.net)
-• [Bloomberg](https://www.bloomberg.com)
 • [Reuters](https://www.reuters.com)
+• [Bloomberg](https://www.bloomberg.com)
+• [Kyodo News](https://english.kyodonews.net)
 • [Japan Times](https://www.japantimes.co.jp)
+• [Yomiuri Shimbun](https://japannews.yomiuri.co.jp)
+• [Japan Today](https://japantoday.com)
+• [Associated Press](https://apnews.com)
 
-*Screenshots captured for reference: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages, plus Takaichi Sanae and NHK Ohayou Twitter feeds.*
+*Screenshots captured for reference: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages; Twitter feeds from @takaichi_sanae and @nhk_ohayou; Financial Times Asia, Wall Street Journal Asia, and Economist Asia pages.*

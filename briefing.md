@@ -1,42 +1,40 @@
-Good morning from Tokyo. Japan is bracing for potential economic turbulence as the Middle East crisis deepens. The [Bank of Japan](https://www.reuters.com/world/asia-pacific/iran-conflict-raises-odds-boj-will-forgo-rate-hike-march-sources-say-2026-03-03/) is now likely to postpone its planned March interest rate hike following the U.S.-Israel military operations against Iran, Reuters reports, as policymakers worry about market volatility and energy supply disruptions. Finance Minister Katsuya Katayama warned that the yen's weakness against the dollar is being closely monitored, according to [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-03/japan-s-katayama-warns-on-fx-as-middle-east-weighs-on-yen), while [Japan's power futures](https://www.bloomberg.com/news/articles/2026-03-03/japan-power-futures-jump-as-iran-conflict-threatens-gas-supplies) have spiked on concerns about liquefied natural gas supplies.
+A [Japanese court](https://www.bbc.com/news/articles/crrxx5x7wyko) has upheld the dissolution order against the Unification Church, ending the religious organization's legal challenge to the government's decision. The court rejected the group's appeal, clearing the way for authorities to proceed with dismantling the controversial organization that has faced mounting scrutiny over its fundraising practices and alleged exploitation of followers.
 
-Prime Minister Sanae Takaichi signaled Japan's diplomatic urgency, telling [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-03/japan-s-takaichi-aims-to-have-frank-talks-with-trump-on-iran) she aims to have "frank talks" with President Trump about the Iran situation. The Foreign Ministry confirmed that [two Japanese nationals](http://www3.nhk.or.jp/news/html/20260304/k10015065861000.html) in Iran have evacuated to Azerbaijan, NHK reports. Despite the turmoil, Japan's energy minister assured that Qatar's LNG production halt [would not immediately](https://www.reuters.com/sustainability/boards-policy-regulation/qatar-lng-halt-wont-immediately-affect-japans-energy-supply-minister-says-2026-03-03/) affect the country's energy supplies, Reuters reports.
+The ruling comes as Japan's government is also working to strengthen its intelligence capabilities. [According to Japan Times](https://www.japantimes.co.jp/news/2026/03/04/japan/new-national-intelligence-committee/), officials have outlined plans for a new national intelligence committee, part of broader efforts to enhance Japan's security apparatus. Meanwhile, Japanese markets are feeling pressure from Middle East tensions, with the [Nikkei falling](https://english.kyodonews.net/articles/-/71603) 3.61% to near one-month lows as investors worry about potential energy supply disruptions.
 
-## Business & Markets
+**Business & Markets**
 
-• Japanese corporate capital expenditure [rose 6.5%](https://www.reuters.com/world/asia-pacific/japan-quarterly-capex-rises-65-government-seeks-spur-investment-2026-03-03/) in the latest quarter as the Takaichi administration pushes for increased business investment, Reuters reports. [Bloomberg notes](https://www.bloomberg.com/news/articles/2026-03-02/japanese-firms-boost-spending-as-takaichi-makes-investment-push) the spending increase aligns with government efforts to revitalize the economy.
+• Bank of Japan Governor Ueda says [Iran conflict could](https://www.bloomberg.com/news/articles/2026-03-04/ueda-says-iran-conflict-could-hit-japan-s-economy-significantly) hit Japan's economy significantly, while vowing to continue raising interest rates despite Middle East tensions. Reuters reports he is [keeping close watch](https://www.reuters.com/world/asia-pacific/bank-japan-chief-vows-keep-raising-rates-with-eye-middle-east-conflict-2026-03-04/) on the conflict's potential economic impact.
 
-• A former Nomura employee received an [18-year prison sentence](https://www.bloomberg.com/news/articles/2026-03-03/ex-nomura-employee-sentenced-to-18-years-in-home-robbery-case) for his role in a home robbery case, Bloomberg reports.
+• Japan's second-largest lender SMFC saw [shares tumble](https://www.bloomberg.com/news/articles/2026-03-04/japan-no-2-lender-s-shares-tumble-after-reported-mfs-exposure) following reports of exposure to troubled financial services firm MFS, according to Bloomberg.
 
-• Japan is exploring [rare earth partnerships](https://www.reuters.com/world/china/japan-talks-with-india-explore-rare-earths-sources-say-2026-03-03/) with India to reduce dependence on Chinese supplies, according to Reuters sources.
+• Japanese utilities are [boosting LNG reserves](https://www.reuters.com/business/energy/japanese-utilities-boost-lng-reserves-meti-sees-no-calls-emergency-supply-yet-2026-03-04/) as a precaution, though the Ministry of Economy, Trade and Industry reports no emergency supply calls yet, Reuters says.
 
-• Global markets tumbled with the [Dow dropping 500 points](https://apnews.com/article/stock-markets-iran-energy-oil-trump-75edbda5b8fa3038b47f143cc16855f0) as oil prices surged on war concerns, AP reports.
+• [Japan and the US](https://www.reuters.com/sustainability/boards-policy-regulation/japan-us-aim-add-nuclear-power-project-550-billion-investment-package-sources-2026-03-04/) are aiming to add a nuclear power project to their $550 billion investment package, sources tell Reuters exclusively. The Japan Times also [reports sources saying](https://www.japantimes.co.jp/business/2026/03/04/japan-us-nuclear-power-project/) the nuclear component could be added.
 
-## Government & Policy
+**Government & Policy**
 
-• The Tokyo High Court is [expected to decide](http://www3.nhk.or.jp/news/html/20260304/k10015065451000.html) today whether to order the dissolution of the Unification Church, NHK reports, in a closely watched case that could set precedent for religious organization oversight.
+• The Yomiuri reports Japan is [considering the remote](https://japannews.yomiuri.co.jp/politics/politics-government/20260304-314536/) Pacific island of Minami-Torishima as a potential site for nuclear waste storage, marking a significant development in the country's long-running search for a disposal location.
 
-• Prime Minister Takaichi will [visit Fukushima Prefecture](https://japannews.yomiuri.co.jp/politics/politics-government/20260304-314324/) on the 15th anniversary of the Great East Japan Earthquake, the Yomiuri reports.
+• Three people were [arrested for illegally](https://www.japantimes.co.jp/news/2026/03/04/japan/crime-legal/arrest-illegal-workers-vietnamese/) hiring Vietnamese workers in Japan, the Japan Times reports.
 
-• Tech entrepreneur Joichi Ito will [resign as government adviser](https://japantoday.com/category/politics/joichi-ito-named-in-epstein-files-to-quit-as-government-project-adviser) after being named in Jeffrey Epstein court documents, Japan Today reports.
+**What to Watch**
 
-## What to Watch
+China's National People's Congress opens today, with [economic growth targets](http://www3.nhk.or.jp/news/html/20260305/k10015066611000.html) and policy announcements expected to affect regional markets. Indonesian President Prabowo is [looking to visit](https://english.kyodonews.net/articles/-/71620) Japan at the end of March, Kyodo reports.
 
-• Transportation disruptions continue as the [Tohoku Shinkansen](http://www3.nhk.or.jp/news/html/20260304/k10015065871000.html) remains suspended between Omiya and Sendai due to power outages, NHK reports, affecting morning commuters.
+**Coverage Flags**
 
-## Coverage Flags
+International outlets appear ahead on the Japan-US nuclear investment story, with Reuters breaking exclusive details. The Unification Church ruling received strong coverage from BBC and other international outlets alongside Japanese sources.
 
-Two unpublished novellas by Nobel laureate Kenzaburo Oe have been discovered, with both the [Japan Times](https://www.japantimes.co.jp/news/2026/03/03/japan/kenzaburo-oe-unpublished-works/) and [Yomiuri](https://japannews.yomiuri.co.jp/culture/books-literature/20260303-314354/) covering the literary find. This cultural story might warrant deeper exploration given Oe's international significance.
+**Sources**
 
-## Sources
-
-• [NHK World](http://www3.nhk.or.jp)
-• [Reuters](https://www.reuters.com)
-• [Bloomberg](https://www.bloomberg.com)
-• [Kyodo News](https://english.kyodonews.net)
+• [BBC Asia](https://www.bbc.com/news)
+• [Reuters Japan](https://www.reuters.com)
+• [Bloomberg Japan](https://www.bloomberg.com)
 • [Japan Times](https://www.japantimes.co.jp)
-• [Yomiuri Shimbun](https://japannews.yomiuri.co.jp)
-• [Japan Today](https://japantoday.com)
-• [Associated Press](https://apnews.com)
+• [Kyodo News English](https://english.kyodonews.net)
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp)
+• [NHK World](http://www3.nhk.or.jp/news)
+• [AP News](https://apnews.com)
 
-*Screenshots captured for reference: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages; Twitter feeds from @takaichi_sanae and @nhk_ohayou; Financial Times Asia, Wall Street Journal Asia, and Economist Asia pages.*
+*Reference materials include homepage screenshots from Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan, Financial Times Asia, Wall Street Journal Asia, and Economist Asia, plus Twitter feeds from Takaichi Sanae and NHK Ohayou.*

@@ -1,40 +1,35 @@
-A [Japanese court](https://www.bbc.com/news/articles/crrxx5x7wyko) has upheld the dissolution order against the Unification Church, ending the religious organization's legal challenge to the government's decision. The court rejected the group's appeal, clearing the way for authorities to proceed with dismantling the controversial organization that has faced mounting scrutiny over its fundraising practices and alleged exploitation of followers.
+Japan's markets rallied sharply today as news of potential U.S.-Iran cease-fire efforts offered relief from this week's escalating Middle East conflict. The Nikkei [surged 4%](https://english.kyodonews.net/articles/-/71643) following reports of diplomatic interventions, while Japanese oil refiners had [asked the government](https://www.bloomberg.com/news/articles/2026-03-05/japanese-oil-refiners-ask-government-to-tap-strategic-reserves) to tap strategic reserves as crude prices spiked. Prime Minister Takaichi raised travel warnings to Level 3 for six countries around Iran, [telling Japanese citizens](https://www.japantimes.co.jp/news/2026/03/05/japan/japan-raises-alert-travel-mideast/) to avoid travel to Kuwait, Saudi Arabia's eastern region, Bahrain, Qatar, the UAE, and Oman.
 
-The ruling comes as Japan's government is also working to strengthen its intelligence capabilities. [According to Japan Times](https://www.japantimes.co.jp/news/2026/03/04/japan/new-national-intelligence-committee/), officials have outlined plans for a new national intelligence committee, part of broader efforts to enhance Japan's security apparatus. Meanwhile, Japanese markets are feeling pressure from Middle East tensions, with the [Nikkei falling](https://english.kyodonews.net/articles/-/71603) 3.61% to near one-month lows as investors worry about potential energy supply disruptions.
+The conflict's ripple effects hit Japanese industry directly. Toyota announced it would [cut production](http://www3.nhk.or.jp/news/html/20260306/k10015067731000.html) by roughly 20,000 vehicles for Middle East exports as flights from Dubai to Haneda [resumed operations](http://www3.nhk.or.jp/news/html/20260306/k10015067721000.html) after days of cancellations. Passengers arriving from Dubai described hearing explosions and missile-like sounds throughout the night, according to NHK interviews.
 
 **Business & Markets**
 
-• Bank of Japan Governor Ueda says [Iran conflict could](https://www.bloomberg.com/news/articles/2026-03-04/ueda-says-iran-conflict-could-hit-japan-s-economy-significantly) hit Japan's economy significantly, while vowing to continue raising interest rates despite Middle East tensions. Reuters reports he is [keeping close watch](https://www.reuters.com/world/asia-pacific/bank-japan-chief-vows-keep-raising-rates-with-eye-middle-east-conflict-2026-03-04/) on the conflict's potential economic impact.
+• Japanese stocks [rebounded strongly](https://www.bloomberg.com/news/articles/2026-03-05/japan-korea-stocks-rebound-from-market-rout-after-iran-attack) from this week's rout, with Bloomberg reporting the Nikkei's 4% gain helped offset broader market volatility across Asia.
 
-• Japan's second-largest lender SMFC saw [shares tumble](https://www.bloomberg.com/news/articles/2026-03-04/japan-no-2-lender-s-shares-tumble-after-reported-mfs-exposure) following reports of exposure to troubled financial services firm MFS, according to Bloomberg.
+• The Bank of Japan is [keeping an April](https://www.bloomberg.com/news/articles/2026-03-05/boj-is-said-to-keep-april-hike-on-table-with-eyes-on-iran-crisis) rate hike on the table while monitoring the Iran crisis, sources told Bloomberg, as policymakers weigh geopolitical risks against domestic economic momentum.
 
-• Japanese utilities are [boosting LNG reserves](https://www.reuters.com/business/energy/japanese-utilities-boost-lng-reserves-meti-sees-no-calls-emergency-supply-yet-2026-03-04/) as a precaution, though the Ministry of Economy, Trade and Industry reports no emergency supply calls yet, Reuters says.
+• A major Japanese labor union [set more ambitious](https://www.bloomberg.com/news/articles/2026-03-05/japanese-labor-union-sets-more-ambitious-pay-goal-as-boj-watches) pay increase goals for spring wage negotiations, with the BOJ closely watching these talks as a key inflation indicator.
 
-• [Japan and the US](https://www.reuters.com/sustainability/boards-policy-regulation/japan-us-aim-add-nuclear-power-project-550-billion-investment-package-sources-2026-03-04/) are aiming to add a nuclear power project to their $550 billion investment package, sources tell Reuters exclusively. The Japan Times also [reports sources saying](https://www.japantimes.co.jp/business/2026/03/04/japan-us-nuclear-power-project/) the nuclear component could be added.
+• Space One's third consecutive rocket [launch failed](https://www.reuters.com/science/japans-private-rocket-maker-space-one-fails-third-kairos-launch-2026-03-05/), according to Reuters, leaving Japan without a commercial launch capability as the startup's Kairos rocket flight was aborted.
 
 **Government & Policy**
 
-• The Yomiuri reports Japan is [considering the remote](https://japannews.yomiuri.co.jp/politics/politics-government/20260304-314536/) Pacific island of Minami-Torishima as a potential site for nuclear waste storage, marking a significant development in the country's long-running search for a disposal location.
+• Prime Minister Takaichi [met with](https://www.japantimes.co.jp/news/2026/03/05/japan/al-jaber-takaichi-meet/) ADNOC CEO and UAE minister Sultan Al Jaber, according to the Japan Times, though details of their discussions were not disclosed.
 
-• Three people were [arrested for illegally](https://www.japantimes.co.jp/news/2026/03/04/japan/crime-legal/arrest-illegal-workers-vietnamese/) hiring Vietnamese workers in Japan, the Japan Times reports.
-
-**What to Watch**
-
-China's National People's Congress opens today, with [economic growth targets](http://www3.nhk.or.jp/news/html/20260305/k10015066611000.html) and policy announcements expected to affect regional markets. Indonesian President Prabowo is [looking to visit](https://english.kyodonews.net/articles/-/71620) Japan at the end of March, Kyodo reports.
+• G7 nations are [in talks](https://english.kyodonews.net/articles/-/71692) on a critical minerals trade pact to counter China's dominance in the sector, Kyodo News reports, with Australia joining the alliance alongside Canada.
 
 **Coverage Flags**
 
-International outlets appear ahead on the Japan-US nuclear investment story, with Reuters breaking exclusive details. The Unification Church ruling received strong coverage from BBC and other international outlets alongside Japanese sources.
+International outlets are providing more detailed coverage of the BOJ's rate hike deliberations and Space One's repeated failures than Japanese press. The diplomatic context of Takaichi's meeting with Al Jaber during the Iran crisis merits deeper reporting given timing and energy implications.
 
 **Sources**
 
-• [BBC Asia](https://www.bbc.com/news)
-• [Reuters Japan](https://www.reuters.com)
-• [Bloomberg Japan](https://www.bloomberg.com)
-• [Japan Times](https://www.japantimes.co.jp)
-• [Kyodo News English](https://english.kyodonews.net)
-• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp)
-• [NHK World](http://www3.nhk.or.jp/news)
-• [AP News](https://apnews.com)
+• [NHK World](http://www3.nhk.or.jp/)
+• [Kyodo News](https://english.kyodonews.net/)
+• [Japan Times](https://www.japantimes.co.jp/)
+• [Reuters](https://www.reuters.com/)
+• [Bloomberg](https://www.bloomberg.com/)
+• [BBC](https://www.bbc.com/)
+• [AP News](https://apnews.com/)
 
-*Reference materials include homepage screenshots from Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan, Financial Times Asia, Wall Street Journal Asia, and Economist Asia, plus Twitter feeds from Takaichi Sanae and NHK Ohayou.*
+*Note: Screenshots captured of Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from PM Takaichi and NHK Ohayou, and Financial Times, Wall Street Journal, and Economist Asia pages for reference.*

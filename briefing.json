@@ -4,18 +4,28 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-03-12T13:14:17.684Z",
-    "generatedTimestamp": 1773321257684
+    "generated": "2026-03-12T14:09:47.858Z",
+    "generatedTimestamp": 1773324587858
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
     "totalStories": 107,
     "totalScreenshots": 11,
-    "elapsed": "103.1s"
+    "elapsed": "97.6s"
   },
   "stories": {
     "all": [
+      {
+        "headline": "イラン モジタバ師が初声明 「ホルムズ海峡封鎖 確実に継続」",
+        "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074041000.html",
+        "source": "NHK World",
+        "sourceId": "nhk_world",
+        "category": "national",
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 22:30:45 +0900",
+        "description": "イランの国営テレビは12日、殺害されたハメネイ師の後継者でイランの新しい最高指導者に選出されたモジタバ師の初めての声明を公開しました。この中でモジタバ師は国民の結束を呼びかけ、「この地域のアメリカ軍基地は即時に閉鎖されるべきであり、攻撃されるだろう」としてアメリカへの徹底抗戦の構えを強調しました。"
+      },
       {
         "headline": "アルペン 村岡桃佳が銀 冬季パラ 日本選手最多11個目のメダル",
         "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074021000.html",
@@ -23,7 +33,7 @@
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Thu, 12 Mar 2026 22:04:03 +0900",
+        "date": "Thu, 12 Mar 2026 22:53:51 +0900",
         "description": "ミラノ・コルティナパラリンピックのアルペンスキー女子大回転の座って滑るクラスで、日本のエース、村岡桃佳選手が銀メダルを獲得しました。村岡選手はこれでパラリンピック通算11個目のメダルとなり、冬の大会のメダル獲得数で日本選手では単独最多となりました。"
       },
       {
@@ -47,26 +57,6 @@
         "description": "「ホンダ」は北米のEV事業などを抜本的に見直した結果、巨額の損失が発生するとして、今年度1年間の業績がこれまでの黒字予想から一転して最大で6900億円の赤字に転落するという見通しを明らかにしました。最終赤字は、上場以来、初めてです。"
       },
       {
-        "headline": "白血病の患者死亡 使うはずのない薬液が注射に混入の可能性も",
-        "url": "http://www3.nhk.or.jp/news/html/20260312/k10015073931000.html",
-        "source": "NHK World",
-        "sourceId": "nhk_world",
-        "category": "national",
-        "priority": "primary",
-        "date": "Thu, 12 Mar 2026 18:26:46 +0900",
-        "description": "さいたま市の埼玉県立小児医療センターで、白血病の治療中だった10代の患者が死亡し、2人が意識不明の重体となっている問題で、3人が抗がん剤の「髄くう内注射」の後に体調を崩し、使われるはずのない薬液が髄液から検出されたことなどから、病院はこの薬液が何らかの原因で注射に混入した可能性も否定できないとして詳しく調べています。"
-      },
-      {
-        "headline": "新年度予算案 あす予算委の採決 職権で決定 野党側は反発",
-        "url": "http://www3.nhk.or.jp/news/html/20260312/k10015073551000.html",
-        "source": "NHK World",
-        "sourceId": "nhk_world",
-        "category": "national",
-        "priority": "primary",
-        "date": "Thu, 12 Mar 2026 19:14:09 +0900",
-        "description": "新年度予算案の審議をめぐり、衆議院予算委員会は12日昼過ぎに理事会を再開し、与党側は、13日に締めくくりの質疑と採決を行いたいと提案しました。野党側は「審議を打ち切るのは問題だ」と反発して退席し、自民党の坂本委員長が、13日に締めくくりの質疑を行うことを職権で決めました。"
-      },
-      {
         "headline": "自民 坂本予算委員長の解任決議案を野党4党が共同で提出",
         "url": "http://www3.nhk.or.jp/news/html/20260312/k10015073941000.html",
         "source": "NHK World",
@@ -77,6 +67,16 @@
         "description": "新年度予算案をめぐり、中道改革連合、参政党、チームみらい、共産党の野党4党は、衆議院予算委員会の強引な運営は容認できないなどとして、12日夜、自民党の坂本予算委員長の解任決議案を共同で提出しました。"
       },
       {
+        "headline": "細胞を生きたまま透明にして観察できる試薬開発 九州大学など",
+        "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074051000.html",
+        "source": "NHK World",
+        "sourceId": "nhk_world",
+        "category": "national",
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 22:05:34 +0900",
+        "description": "哺乳類の脳などの組織を生きたまま透明にして、観察できる試薬を開発したと九州大学などの研究グループが発表しました。組織や細胞が正常に働いている状態で観察できるようになることで脳の機能の解明などが進むと期待されています。"
+      },
+      {
         "headline": "富山湾海底「乱泥流」の明確な痕跡確認 カニ漁獲量減の原因か",
         "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074011000.html",
         "source": "NHK World",
@@ -85,6 +85,26 @@
         "priority": "primary",
         "date": "Thu, 12 Mar 2026 20:37:44 +0900",
         "description": "能登半島地震の影響を調べている富山大学の研究チームが、富山湾の海底で起きた「乱泥流」と呼ばれる激しい泥の流れの明確な痕跡を初めて映像で確認しました。地震のあと富山湾ではカニの漁獲量が減少しましたが、県の水産研究所はこの泥の流れが原因だと指摘しています。"
+      },
+      {
+        "headline": "U.S. opens trade probes against Japan, over a dozen other countries",
+        "url": "https://english.kyodonews.net/articles/-/72105",
+        "source": "Kyodo News",
+        "sourceId": "kyodo_english",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 22:16:00 +0900",
+        "description": "U.S. President Donald Trump&#39;s administration on Wednesday launched trade investigations into what it sees as unfair practices Read full story here"
+      },
+      {
+        "headline": "Japan, U.S. to expand classified info sharing in defense cooperation",
+        "url": "https://english.kyodonews.net/articles/-/72175",
+        "source": "Kyodo News",
+        "sourceId": "kyodo_english",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 21:48:00 +0900",
+        "description": "Japan and the United States plan to expand the sharing of classified information through close cooperation between their defense fRead full story here"
       },
       {
         "headline": "BREAKING NEWS: Japan, U.S. to expand classified info sharing in defense cooperation",
@@ -137,16 +157,6 @@
         "description": "People facing the sea in the Fukushima Prefecture town of Namie, northeastern Japan, pray at 2:46 p.m. on March 11, 2026, exactly Read full story here"
       },
       {
-        "headline": "Honda braces for up to 690 bil. yen net loss amid EV rethink",
-        "url": "https://english.kyodonews.net/articles/-/72156",
-        "source": "Kyodo News",
-        "sourceId": "kyodo_english",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 12 Mar 2026 19:00:00 +0900",
-        "description": "Honda Motor Co. said Thursday it expects to plunge into a net loss of between 420 billion yen and 690 billion yen ($4.34 billion) Read full story here"
-      },
-      {
         "headline": "A Beautiful Conclusion: BEASTARS Final Season Part 2 Drops Gorgeous New OP/ED Visuals",
         "url": "https://english.kyodonews.net/articles/-/72141",
         "source": "Kyodo News",
@@ -175,16 +185,6 @@
         "priority": "primary",
         "date": "Thu, 12 Mar 2026 17:07:00 +0900",
         "description": "BREAKING NEWS: Honda CEO says hard to make all new models EVs or fuel-cell cars by 2040Read full story here"
-      },
-      {
-        "headline": "BREAKING NEWS: Honda sees up to 2.5 tril. yen loss linked to EV business in FY 2025, 2026",
-        "url": "https://english.kyodonews.net/articles/-/72158",
-        "source": "Kyodo News",
-        "sourceId": "kyodo_english",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 12 Mar 2026 16:51:00 +0900",
-        "description": "BREAKING NEWS: Honda sees up to 2.5 tril. yen loss linked to EV business in FY 2025, 2026Read full story here"
       },
       {
         "headline": "Approval rate for Takaichi's Cabinet drops to 59%: poll",
@@ -287,104 +287,104 @@
         "description": "The U.S. technology giant is making a push for more Africans to adopt its artificial-intelligence tools in the world’s youngest and fastest-growing population."
       },
       {
-        "headline": "Tokyo stocks drop on lingering oil supply concerns amid Middle East war",
-        "url": "https://japantoday.com/category/business/tokyo-stocks-drop-on-lingering-oil-supply-concerns-amid-middle-east-war",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "‘King Kazu’ Discusses His Connection to Fukushima",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316052/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 07:34:19 +0000",
-        "description": "Tokyo stocks fell Thursday, hurt by surging oil futures as the International Energy Agency's decision to conduct its largest stockpile release failed to ease market jitters over supply…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 12:00:12 +0000",
+        "description": ""
       },
       {
-        "headline": "Uber plans Tokyo robotaxi trial with Nissan and Britain's Wayve",
-        "url": "https://japantoday.com/category/tech/uber-plans-tokyo-robotaxi-trial-with-nissan-and-britain%27s-wayve",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Japan’s Gunma Official Suspended For Unauthorized Absence From Work During Overseas Trip",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316160/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 07:34:09 +0000",
-        "description": "Uber announced Thursday its first robotaxi partnership in Japan, teaming up with Nissan and British artificial intelligence autonomous driving startup Wayve for a trial this year in Tokyo.…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 11:50:02 +0000",
+        "description": "A Gunma prefectural official has been given a three-month disciplinary suspension for being absent from work without permission during an overseas trip, it was announced on Wednesday."
       },
       {
-        "headline": "Italy, USA and Canada advance at World Baseball Classic",
-        "url": "https://japantoday.com/category/sports/italy-usa-and-canada-advance-at-world-baseball-classic",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "15 Measles Patients Confirmed in Tokyo in Past 6 Days; 1 May Have Come into Contact with Many in Shibuya",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316103/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 03:29:08 +0000",
-        "description": "Unbeaten Italy advanced to the World Baseball Classic quarterfinals by routing Mexico 9-1 on Wednesday, allowing the fancied collection of United States stars into the last eight as…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 08:55:02 +0000",
+        "description": ""
       },
       {
-        "headline": "Oil tankers burn near Iraq as Iranian strikes defy Trump's claim to have 'won' the war",
-        "url": "https://japantoday.com/category/world/oil-tankers-burn-near-iraq-as-iranian-strikes-defy-trump%27s-claim-to-have-%27won%27-the-war",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Japan Closely Monitoring Situation around Hormuz Strait, Collecting Information on Damaged Ship",
+        "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260312-316085/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 07:21:46 +0000",
-        "description": "Iran appeared to have set ablaze two tankers in Iraqi waters as it stepped up attacks on oil and transport facilities across the Middle East, warning the world…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 08:42:13 +0000",
+        "description": "The government is urgently gathering information on the circumstances surrounding a container ship belonging to Mitsui O.S.K. Lines, Ltd. which suffered damage while anchored in the Persian Gulf."
       },
       {
-        "headline": "U.S. opens unfair trade probes against Japan, EU, over a dozen other countries",
-        "url": "https://japantoday.com/category/politics/update2-u.s.-opens-trade-probes-against-japan-over-a-dozen-other-countries",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "White House Takes First Step toward Permanent Fix for Illegal Tariffs",
+        "url": "https://japannews.yomiuri.co.jp/news-services/washingtonpost/20260312-316080/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 07:33:55 +0000",
-        "description": "U.S. President Donald Trump's administration on Wednesday launched trade investigations into what it sees as unfair practices by China, Japan and over a dozen other countries, in a…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 08:07:11 +0000",
+        "description": "The Trump administration took a major step toward replacing the global tariffs that the Supreme Court recently invalidated, announcing new investigations of unfair trading practices that will almost c"
       },
       {
-        "headline": "North Korea unveils image of Kim's daughter firing pistol",
-        "url": "https://japantoday.com/category/world/north-korea-unveils-image-of-leader%27s-daughter-firing-pistol",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Honda Expects Up to 690 B. Yen in Net Loss for FY 2025",
+        "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260312-316081/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 03:37:06 +0000",
-        "description": "North Korea released an image on Thursday of leader Kim Jong Un's teenage daughter firing a pistol, weeks after photos showed her shooting a rifle — once again…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 08:06:32 +0000",
+        "description": ""
       },
       {
-        "headline": "Brilliant Alcaraz still perfect heading into Indian Wells quarterfinals",
-        "url": "https://japantoday.com/category/sports/brilliant-alcaraz-still-perfect-heading-into-indian-wells-quarter-finals",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "South Korea, Japan Finance Ministers to Hold Bilateral Meeting on Saturday, Seoul Says",
+        "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260312-316066/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 04:26:59 +0000",
-        "description": "Carlos Alcaraz reached the Indian Wells quarterfinals for a fifth straight year with a sparkling 6-1, 7-6 (7/2) victory over Casper Ruud on Wednesday, extending his perfect start…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 07:31:28 +0000",
+        "description": ""
       },
       {
-        "headline": "Man and woman, both with stab wounds, die after being found in apartment after fire",
-        "url": "https://japantoday.com/category/crime/man-and-woman-both-with-stab-wounds-die-after-being-found-in-apartment-after-fire",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "The Japan News / Weekly Edition (3/13-3/19)",
+        "url": "https://japannews.yomiuri.co.jp/original/weekly/20260312-316061/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 07:39:17 +0000",
-        "description": "A man and a woman died after a fire partially destroyed their apartment in Tokyo on Wednesday night. Both had stab wounds, the woman in the neck and…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 07:27:24 +0000",
+        "description": "Our weekly ePaper presents the most noteworthy recent topics in an exciting, readable format. View the PDF now by clicking on the following link."
       },
       {
-        "headline": "Lawmakers vent frustration over DHS shutdown as lines grow at U.S. airports",
-        "url": "https://japantoday.com/category/world/lawmakers-vent-frustration-over-dhs-shutdown-as-lines-grow-at-nation%27s-airports",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Japan Big Firms’ Biz Sentiment Remains Positive in Jan.-March",
+        "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260312-316042/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 00:59:09 +0000",
-        "description": "Republican and Democratic senators vented their frustrations Wednesday with the lack of progress in funding the Department of Homeland Security, which is resulting in more Americans enduring long…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 06:29:20 +0000",
+        "description": ""
       },
       {
-        "headline": "Canada advances past World Baseball Classic first round for first time, beating Cuba 7-2",
-        "url": "https://japantoday.com/category/sports/canada-advances-past-world-baseball-classic-first-round-for-first-time-beats-cuba-7-2",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Japan to Extend Drone No-fly Zones Near Key Facilities to 1 km",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316037/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Wed, 11 Mar 2026 22:42:55 +0000",
-        "description": "Canada advanced past the first round of the World Baseball Classic for the first time, beating Cuba 7-2 Wednesday in a winner-take-all game at San Juan, Puerto Rico,…"
+        "priority": "primary",
+        "date": "Thu, 12 Mar 2026 06:16:07 +0000",
+        "description": ""
       },
       {
         "headline": "Honda flags first annual loss, hit by $15.7 billion EV charge - Reuters",
@@ -397,13 +397,23 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJRajVYRzlCb3cwZ0R5Z3ZtZjB5cDAxdm9pUWhzUEVqRlJYVUptTEZUZTNPVjZtRk9RMGllTFJObEk4bk5lVXhNWGtsTm1CVW1nRW5aMXJ0Z2FLaGh6STVyZ083WnV0YkRueTN"
       },
       {
+        "headline": "Iran war may embolden BOJ's hawkish push, despite growth risks - Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/iran-war-may-embolden-bojs-hawkish-push-despite-growth-risks-2026-03-12/",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 12 Mar 2026 07:21:27 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObmFqM3djLUkyalctSXBveDJfaExaaUs3Rl9WR2xVejM2eUxpaVpPbncxaU9nYlFGd0FxMm9vU0FKRTIxODZDZkFLQzIzaXBoeF91ODFmdWtraUstaFNmc0NQczlOU2FHWG1KODh"
+      },
+      {
         "headline": "Indonesia and Australia to expand security cooperation to include Japan, Papua New Guinea - Reuters",
         "url": "https://www.reuters.com/world/asia-pacific/indonesia-australia-expand-security-cooperation-include-japan-papua-new-guinea-2026-03-12/",
         "source": "Reuters Japan",
         "sourceId": "reuters_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 04:39:00 GMT",
+        "date": "Thu, 12 Mar 2026 04:39:31 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVBSaE4yMkpxMVN5M1hnZUMwUnZ6NlBNcjVzUzNYajE4RTUtd25Zd3Z5UUNOX2NCaUh6YVJFR0Fuckx3dGNiallmX2loMnp2MFg1ZF8zN0tfZGZ0b2s4UTgwQVU4VGpZSUlwcXJ"
       },
       {
@@ -415,6 +425,16 @@
         "priority": "secondary",
         "date": "Wed, 11 Mar 2026 23:14:32 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmRXcU9vVEl6dUtmWHZTa3pHNjdCRTVhVlZPQ0VnRmwwOTBSYkRLM2hkWXJ6QVpXd1hVM0lyRnJKWXBUcXNObk1jR1k4aTZsbGUzSnBYSDhUVFZDYmQ0TW5QZlpvZk9NWW9JN1B"
+      },
+      {
+        "headline": "Exclusive: SoftBank's PayPay prices IPO below range at $16 a share - Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/softbanks-paypay-prices-ipo-below-range-16-share-sources-say-2026-03-11/",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Wed, 11 Mar 2026 21:42:21 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzF5by1QcHR2QVBQcXUzTkZDdW1iZkloTGFKVXgtczZkM0ZUM2ZwdFdSUTZWTGFfMDdXZ0dlX2ZkaU9SVFRVaGtsb1BnVmx5VjRvZ3dtRVdFdENyUWRxbDRhTE4wandPRl9vdmt"
       },
       {
         "headline": "The 16 US trading partners hit by Trump's '301' probes - Reuters",
@@ -447,16 +467,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmtkS194T2FrT29oRXdWa1VqOEl3V2dlQ0V1Q3NUNU5TUHlCMmZUalJ4ZVNhLUNveUVPTzBudHpteEFQVW5wa3BqYTRTTjhpMlBxVnhjd3FKd1RmLXZ5a211ZFJxZnlkbkhFVmJ"
       },
       {
-        "headline": "Exclusive: SoftBank's PayPay prices IPO below range at $16 a share - Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/softbanks-paypay-prices-ipo-below-range-16-share-sources-say-2026-03-11/",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 11 Mar 2026 21:42:21 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzF5by1QcHR2QVBQcXUzTkZDdW1iZkloTGFKVXgtczZkM0ZUM2ZwdFdSUTZWTGFfMDdXZ0dlX2ZkaU9SVFRVaGtsb1BnVmx5VjRvZ3dtRVdFdENyUWRxbDRhTE4wandPRl9vdmt"
-      },
-      {
         "headline": "Breakingviews - SoftBank's wartime bet on PayPay IPO is shrewd - Reuters",
         "url": "https://www.reuters.com/commentary/breakingviews/softbanks-wartime-bet-paypay-ipo-is-shrewd-2026-03-12/",
         "source": "Reuters Japan",
@@ -477,16 +487,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxORUE4amVlSWZrMjBnTVZzZUZmMzZ4eVZLbVlybnI4Q0xQYUxnVEZCRDJwRjlnZFVkcEdsTmw3dUZMYTRYTVhKbmdNZzRTdU14VTRqMjNxaS05OFJsQWI5V2lhRVllcFBJbTRJQUd"
       },
       {
-        "headline": "Trading Day: Oil and yields up, up, and away - Reuters",
-        "url": "https://www.reuters.com/business/energy/global-markets-trading-day-graphic-2026-03-11/",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 11 Mar 2026 21:02:14 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEN6WnFlNXZFLUlKaGxCUXRFcjdyYjdjQ3h2SGFnaVB3Y2pPUDZrUk5xRm0yVVBmWWZyaFRZTXFJRFIxWXZUTmtIOXk3c2FuQjJLbzUycHdWZW5CTU84akwyNjJDdGc0ZEp4bWV"
-      },
-      {
         "headline": "Wealthy nations pledge record release of emergency oil reserves in a bid to calm surging prices - AP News",
         "url": "https://apnews.com/article/iran-us-oil-europe-reserve-release-eaf0cf9988cd7e06f0dc2a8ee800762e",
         "source": "AP Japan",
@@ -497,13 +497,23 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWFHZDZSZncwb0NyT2tlTS1QZnNQVmZtd0ZxdGhtMGFrZXpDcTZ6TTlWNnk0bm5EanBwWng5dGxta2o4cWVBczR6cDdDMnR0SDcxU0lJWmc4VzMxeGo0RHhvUmNOQ2hpampBWnc"
       },
       {
+        "headline": "Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court - AP News",
+        "url": "https://apnews.com/article/trump-tariffs-manufacturing-china-eu-6f4243502a1d8ce6c301f39c083a93e9",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Wed, 11 Mar 2026 23:16:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORlNIWTQwdDZxWDNfci1Db2N4TXUyajgwVW5kU2hCSVVCcGVwX1FuRVFFYXdzZEg2dGRyVTRqS3ladEVZbnZiTGFidzNhVUpWQzdzUmR4WE1TSHNtcFRiQTROa3VDa1d3c1R5aWl"
+      },
+      {
         "headline": "Artificial intelligence - AP News",
         "url": "https://apnews.com/hub/artificial-intelligence",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 07:39:49 GMT",
+        "date": "Thu, 12 Mar 2026 08:33:41 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5\" target=\"_blank\"&gt"
       },
       {
@@ -515,16 +525,6 @@
         "priority": "secondary",
         "date": "Thu, 12 Mar 2026 08:35:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnFlbERpcHJlaGFFRFkyNkI3b3ZkS3d6NUlvZjdOZlBiSjlZLVR1RUxaQkJLaUxlUjNxYVFNd1FKMU5QbkptUmdwQnp3dWNpeXpCMlZrX1lOLXlRTXRzTXZRYUt4bG9XT2VnQ0V"
-      },
-      {
-        "headline": "Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court - AP News",
-        "url": "https://apnews.com/article/trump-tariffs-manufacturing-china-eu-6f4243502a1d8ce6c301f39c083a93e9",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 11 Mar 2026 23:43:25 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORlNIWTQwdDZxWDNfci1Db2N4TXUyajgwVW5kU2hCSVVCcGVwX1FuRVFFYXdzZEg2dGRyVTRqS3ladEVZbnZiTGFidzNhVUpWQzdzUmR4WE1TSHNtcFRiQTROa3VDa1d3c1R5aWl"
       },
       {
         "headline": "China positions itself as force for global stability at its annual Congress - AP News",
@@ -543,8 +543,18 @@
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 06:53:00 GMT",
+        "date": "Thu, 12 Mar 2026 08:15:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDdNTnUweVFkT0M0MVA5NTZ6VjhhckpoLW5ZZC1SMWo1a3gySWNSUFlSa0RIZU1Nd3lQVVRZMVhSbUo4T01XcTdhX3lEVkFpQ3B6OGhfeW9keFpPWVJkUGZWOXBycU14YXRkcC1"
+      },
+      {
+        "headline": "Iran’s supreme leader says closure of Strait of Hormuz should be used as leverage - AP News",
+        "url": "https://apnews.com/article/iran-israel-us-march-12-2026-oil-prices-90e17dbf7354d1e9428994ab2a036506",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 12 Mar 2026 13:48:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3UyV1FyQ2VRM3VLV2JXaUhzNWpzYUUyYnotbnkybzc2X1Jaakh4ZlRwcE1QaFkwUU94YTN0RVBnVEV1amRPYzd4WFdiczNwTWhtTVZHYXU3NlY3YllCMG9hRkdDUFp0bEdJNnZ"
       },
       {
         "headline": "Cambodia aims to shut down all online scam centers within weeks - AP News",
@@ -563,7 +573,7 @@
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 04:18:00 GMT",
+        "date": "Wed, 11 Mar 2026 17:55:07 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWI0VVFtMGRvLXFLaHBDMGdaMG92VXVYRk9DV2N1VHBkMENCbWUyb0tCVmZvLVluQjc2bG44MHJVaHliQktVNm85TmlhZVBDdnZxYjMxVnozQlloUGl0aDJJYm95WFpFYTFkMC1"
       },
       {
@@ -577,18 +587,8 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUtKTFhnN0lka1hsbXpJWVBVZEZJRm5mSlZiQTBvRm14SlpuT2FhWGxqYkFnSGFQcEZMUEdURG1hdkNWbG9DdG9acEQzNHRMelJaZjE1a3dpYmo2ZkNiREpyajBialVDTE94QTI"
       },
       {
-        "headline": "That purple Hawaii vacation lei likely came from Thailand, and some lawmakers want to change that - AP News",
-        "url": "https://apnews.com/article/hawaii-lei-flowers-tourism-lawmakers-cc0dd4ef9f9cbaf2787f0ea1baf6d5b3",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 11 Mar 2026 17:41:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFZIMXZQSjBlWnQ0X2p4X0pxMzFNMXBzdm9hcDJ5eTBaZDR4d1ctdUNfMkRWOFJzT1UxOFl1WTlmcXZYbkFuN2YxUWZINVFNSjJNd0w1RWFvNFQyenRaR19BeEhrSmxYOWNRNVR"
-      },
-      {
         "headline": "Iran tells world to get ready for oil at $200 a barrel as it fires on merchant ships - Yahoo News UK",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_f77c6ccd-dd1a-479f-9f32-5c05106dc569",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_72e13423-af04-4e6f-acd0-f089d72e599f",
         "source": "AFP Japan",
         "sourceId": "afp_japan",
         "category": "wire",
@@ -897,6 +897,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDZ0T2VkWjIwN3FMVzg4ZUJmSXpJaXVrc2lMSXJEanhrVXRwcDBGdmxsYkZET0dqNnpDd01WMk00UXRMSjVpTXdQNVJzUEkyLUNfNUlyT1hIUGg5ZHJHSmU4bFp0SVlsVDFreTQ"
       },
       {
+        "headline": "Foreigners Sell Most Net Japan Stocks, Futures Since November - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-12/foreigners-sell-most-net-japan-stocks-futures-since-november",
+        "source": "Bloomberg Japan",
+        "sourceId": "bloomberg_japan",
+        "category": "competitors",
+        "priority": "secondary",
+        "date": "Thu, 12 Mar 2026 08:19:11 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0h3WXZwR3RXc0o5bTRxNzRuQ2JmMmR5MlhrdEtYQ2ZVQWVoUEE4WktDVm9DczQxMlRYaVNpUU5NR3RvZkstaDNyRV8wRkVGa2gwYVJscm54aVhMeFhON2lIQUR4cjkwUURZVjF"
+      },
+      {
         "headline": "Japan Isn’t Sending Minesweepers to Middle East, Takaichi Says - Bloomberg.com",
         "url": "https://www.bloomberg.com/news/articles/2026-03-12/japan-isn-t-sending-minesweepers-to-middle-east-takaichi-says",
         "source": "Bloomberg Japan",
@@ -977,16 +987,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVdhYW5FV2VtMDh0QW9yMUVJTHBJc1BsQ1Njc3A1WExyZUNZUmw1RXozNnljMlNTZEZNRzRqOWswT3d2cjdmUmgzM29nMDNHS21PaTBYakNCemtfNW9sM3FNUmJFRG4yZW9Lbkd"
       },
       {
-        "headline": "SoftBank-Backed PayPay Is Said to Plan US IPO at $16 Per Share - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-11/softbank-backed-paypay-is-said-to-plan-us-ipo-at-16-per-share",
-        "source": "Bloomberg Japan",
-        "sourceId": "bloomberg_japan",
-        "category": "competitors",
-        "priority": "secondary",
-        "date": "Wed, 11 Mar 2026 17:11:14 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTJuSC1xOUtxalYyYXN5ZDBkY1dvOGZpVTV1c25xS210Tm5LV2hLcXV2Y282Z3QxWUF6ckd2c0s3TEhvNHlVU0VrX0EtYS1hQmpicWRXeFVlcVgxR3lTQnBqMlU2Y1VJVEhfaFB"
-      },
-      {
         "headline": "The tiny forests that could save endangered trees - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
@@ -1027,13 +1027,23 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONHFwNkpnNEVYRVlQSHBpWHVnek9lVEluNEJ1My1odWIwMFB4NWZrSGdoM09QNEotWG1JNFAzQ0JhWU5mZ3ByM0drc1ZpTTEtZU9NTm14VWZtcXo5dDFha0JMeDYyR0FLM3E1eWN"
       },
       {
+        "headline": "Pasquantino has WBC's first 3-homer game to lead Italy over Mexico, advancing US to quarterfinals - The Washington Post",
+        "url": "chrome-error://chromewebdata/",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Thu, 12 Mar 2026 06:34:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYlkxNDQ3bk9BVm4zb1gtalplT3RPRFM4SVhRV3BkSS1RaGVRbjdpV05xeUxnOC1RNnlYajFQNmhFb3hJS2F2bkpVbGFobUppM1dvWVdRS0xYV01BNHpCM3VmdWMzV0RIcHlmUjY"
+      },
+      {
         "headline": "War against Iran expands into Lebanon as Israel battles Hezbollah - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Thu, 12 Mar 2026 13:03:10 GMT",
+        "date": "Thu, 12 Mar 2026 13:32:20 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZXVDM3hyUEo2U0tNVWhmVVRSRHNaNlFOLWx1QjFlYlUwTWRONkgwMXBPcTgxLVAwVlAwVVhDamRUU1dVQ0lKaWVLekoyTFUwdUZtaUlSU3dTci1hOGdFcklaQkx5MEhIU2hkQTB"
       },
       {
@@ -1043,7 +1053,7 @@
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Thu, 12 Mar 2026 13:01:59 GMT",
+        "date": "Thu, 12 Mar 2026 13:32:37 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2JpRFIxR3hSanNULWNpV3RxU1BOZjdYZDNNc1ZKZkJoNVZoTF9MNHZNNk9hSnFuWXdwQm9RVm83bmhrUUdsemw1Vmt6TWFoMFRoU2M2b3dESXRJQl9ZYnNQbHZnWkhLeVNLS1l"
       },
       {
@@ -1057,6 +1067,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPdGJFbV91MVJBV0w4cVBCbV9BZElnSEdTNlVCclZMS09lZDlHcWxUWVRPcVJjSFN3N2FpdEVxX2FPcGZleUhNQXA3NHdsNmt5VE1FY055OWVmUVFtU1pLVzdMbjBaVXhWZ3g0anp"
       },
       {
+        "headline": "CWG Live: Much colder tomorrow after today’s record warmth, storms - The Washington Post",
+        "url": "chrome-error://chromewebdata/",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Thu, 12 Mar 2026 03:11:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVVRWUZ2VFdLX2dtZDI4ejVVbF9teGtDNGR5YWdtVzBHNHpQWlF3Q01DcVhJNXlHZDc5M1VUOUJaMTFUTERqN1EtdUZTQnl0ZlQ0d1VuZHJJZFp4bDVLcjNkRVhmZjg4NVRKU3J"
+      },
+      {
         "headline": "Vissel Kobe beats FC Seoul, becomes 2nd Japanese team in AFC Champions League quarterfinals - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
@@ -1065,30 +1085,20 @@
         "priority": "tertiary",
         "date": "Wed, 11 Mar 2026 14:23:46 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcE5kWXVvMnJyelhucWlYYjBKNjc2aFN3NC1aX1BmOHVIYzFvMTduUmN4d0lISnJZaGV6V0ZFTGlYWi1DX3hOOGtocXNrV3FleVNXNXUwZUpvZDBvbF9NN3A5Rm9vZ3VOUmxTcV9"
-      },
-      {
-        "headline": "Japan marks 15 years since tsunami disaster as Takaichi pushes more nuclear energy use - The Washington Post",
-        "url": "chrome-error://chromewebdata/",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Wed, 11 Mar 2026 17:56:31 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFdacUt5bXppb0xLQV9nUWcwdlhvR1REZ3NQMDd3ZlV2ZjI0M01tdFVQWG9ZbFlIZkRuRmV0Rl9JdE44Q0k4TlZ3RGQ0N3BXSllTSVRLSTZZQi1zcnVqQWFoNlIwUWdrQ1ZoY2N"
-      },
-      {
-        "headline": "Sweden extends coach Graham Potter's contract ahead of World Cup qualifying playoffs - The Washington Post",
-        "url": "chrome-error://chromewebdata/",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Thu, 12 Mar 2026 12:14:53 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0RnX2FqaVlRS0RoMHFvVXRyenJ3dVNzVTI4Y3RYWHluQkRtM2JabG5mb2RIaU5GamU0Vm0xY0lPVGJ6S1F4THBXSV94emNmQmRwaklQVmR2c1hVN1VPMF9XYlktTEpXRGxQZk4"
       }
     ],
     "byCategory": {
       "national": [
+        {
+          "headline": "イラン モジタバ師が初声明 「ホルムズ海峡封鎖 確実に継続」",
+          "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074041000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 22:30:45 +0900",
+          "description": "イランの国営テレビは12日、殺害されたハメネイ師の後継者でイランの新しい最高指導者に選出されたモジタバ師の初めての声明を公開しました。この中でモジタバ師は国民の結束を呼びかけ、「この地域のアメリカ軍基地は即時に閉鎖されるべきであり、攻撃されるだろう」としてアメリカへの徹底抗戦の構えを強調しました。"
+        },
         {
           "headline": "アルペン 村岡桃佳が銀 冬季パラ 日本選手最多11個目のメダル",
           "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074021000.html",
@@ -1096,7 +1106,7 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Thu, 12 Mar 2026 22:04:03 +0900",
+          "date": "Thu, 12 Mar 2026 22:53:51 +0900",
           "description": "ミラノ・コルティナパラリンピックのアルペンスキー女子大回転の座って滑るクラスで、日本のエース、村岡桃佳選手が銀メダルを獲得しました。村岡選手はこれでパラリンピック通算11個目のメダルとなり、冬の大会のメダル獲得数で日本選手では単独最多となりました。"
         },
         {
@@ -1120,26 +1130,6 @@
           "description": "「ホンダ」は北米のEV事業などを抜本的に見直した結果、巨額の損失が発生するとして、今年度1年間の業績がこれまでの黒字予想から一転して最大で6900億円の赤字に転落するという見通しを明らかにしました。最終赤字は、上場以来、初めてです。"
         },
         {
-          "headline": "白血病の患者死亡 使うはずのない薬液が注射に混入の可能性も",
-          "url": "http://www3.nhk.or.jp/news/html/20260312/k10015073931000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 18:26:46 +0900",
-          "description": "さいたま市の埼玉県立小児医療センターで、白血病の治療中だった10代の患者が死亡し、2人が意識不明の重体となっている問題で、3人が抗がん剤の「髄くう内注射」の後に体調を崩し、使われるはずのない薬液が髄液から検出されたことなどから、病院はこの薬液が何らかの原因で注射に混入した可能性も否定できないとして詳しく調べています。"
-        },
-        {
-          "headline": "新年度予算案 あす予算委の採決 職権で決定 野党側は反発",
-          "url": "http://www3.nhk.or.jp/news/html/20260312/k10015073551000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 19:14:09 +0900",
-          "description": "新年度予算案の審議をめぐり、衆議院予算委員会は12日昼過ぎに理事会を再開し、与党側は、13日に締めくくりの質疑と採決を行いたいと提案しました。野党側は「審議を打ち切るのは問題だ」と反発して退席し、自民党の坂本委員長が、13日に締めくくりの質疑を行うことを職権で決めました。"
-        },
-        {
           "headline": "自民 坂本予算委員長の解任決議案を野党4党が共同で提出",
           "url": "http://www3.nhk.or.jp/news/html/20260312/k10015073941000.html",
           "source": "NHK World",
@@ -1148,6 +1138,16 @@
           "priority": "primary",
           "date": "Thu, 12 Mar 2026 19:56:28 +0900",
           "description": "新年度予算案をめぐり、中道改革連合、参政党、チームみらい、共産党の野党4党は、衆議院予算委員会の強引な運営は容認できないなどとして、12日夜、自民党の坂本予算委員長の解任決議案を共同で提出しました。"
+        },
+        {
+          "headline": "細胞を生きたまま透明にして観察できる試薬開発 九州大学など",
+          "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074051000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 22:05:34 +0900",
+          "description": "哺乳類の脳などの組織を生きたまま透明にして、観察できる試薬を開発したと九州大学などの研究グループが発表しました。組織や細胞が正常に働いている状態で観察できるようになることで脳の機能の解明などが進むと期待されています。"
         },
         {
           "headline": "富山湾海底「乱泥流」の明確な痕跡確認 カニ漁獲量減の原因か",
@@ -1260,107 +1260,127 @@
           "description": "The U.S. technology giant is making a push for more Africans to adopt its artificial-intelligence tools in the world’s youngest and fastest-growing population."
         },
         {
-          "headline": "Tokyo stocks drop on lingering oil supply concerns amid Middle East war",
-          "url": "https://japantoday.com/category/business/tokyo-stocks-drop-on-lingering-oil-supply-concerns-amid-middle-east-war",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "‘King Kazu’ Discusses His Connection to Fukushima",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316052/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:34:19 +0000",
-          "description": "Tokyo stocks fell Thursday, hurt by surging oil futures as the International Energy Agency's decision to conduct its largest stockpile release failed to ease market jitters over supply…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 12:00:12 +0000",
+          "description": ""
         },
         {
-          "headline": "Uber plans Tokyo robotaxi trial with Nissan and Britain's Wayve",
-          "url": "https://japantoday.com/category/tech/uber-plans-tokyo-robotaxi-trial-with-nissan-and-britain%27s-wayve",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Japan’s Gunma Official Suspended For Unauthorized Absence From Work During Overseas Trip",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316160/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:34:09 +0000",
-          "description": "Uber announced Thursday its first robotaxi partnership in Japan, teaming up with Nissan and British artificial intelligence autonomous driving startup Wayve for a trial this year in Tokyo.…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 11:50:02 +0000",
+          "description": "A Gunma prefectural official has been given a three-month disciplinary suspension for being absent from work without permission during an overseas trip, it was announced on Wednesday."
         },
         {
-          "headline": "Italy, USA and Canada advance at World Baseball Classic",
-          "url": "https://japantoday.com/category/sports/italy-usa-and-canada-advance-at-world-baseball-classic",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "15 Measles Patients Confirmed in Tokyo in Past 6 Days; 1 May Have Come into Contact with Many in Shibuya",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316103/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 03:29:08 +0000",
-          "description": "Unbeaten Italy advanced to the World Baseball Classic quarterfinals by routing Mexico 9-1 on Wednesday, allowing the fancied collection of United States stars into the last eight as…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 08:55:02 +0000",
+          "description": ""
         },
         {
-          "headline": "Oil tankers burn near Iraq as Iranian strikes defy Trump's claim to have 'won' the war",
-          "url": "https://japantoday.com/category/world/oil-tankers-burn-near-iraq-as-iranian-strikes-defy-trump%27s-claim-to-have-%27won%27-the-war",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Japan Closely Monitoring Situation around Hormuz Strait, Collecting Information on Damaged Ship",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260312-316085/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:21:46 +0000",
-          "description": "Iran appeared to have set ablaze two tankers in Iraqi waters as it stepped up attacks on oil and transport facilities across the Middle East, warning the world…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 08:42:13 +0000",
+          "description": "The government is urgently gathering information on the circumstances surrounding a container ship belonging to Mitsui O.S.K. Lines, Ltd. which suffered damage while anchored in the Persian Gulf."
         },
         {
-          "headline": "U.S. opens unfair trade probes against Japan, EU, over a dozen other countries",
-          "url": "https://japantoday.com/category/politics/update2-u.s.-opens-trade-probes-against-japan-over-a-dozen-other-countries",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "White House Takes First Step toward Permanent Fix for Illegal Tariffs",
+          "url": "https://japannews.yomiuri.co.jp/news-services/washingtonpost/20260312-316080/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:33:55 +0000",
-          "description": "U.S. President Donald Trump's administration on Wednesday launched trade investigations into what it sees as unfair practices by China, Japan and over a dozen other countries, in a…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 08:07:11 +0000",
+          "description": "The Trump administration took a major step toward replacing the global tariffs that the Supreme Court recently invalidated, announcing new investigations of unfair trading practices that will almost c"
         },
         {
-          "headline": "North Korea unveils image of Kim's daughter firing pistol",
-          "url": "https://japantoday.com/category/world/north-korea-unveils-image-of-leader%27s-daughter-firing-pistol",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Honda Expects Up to 690 B. Yen in Net Loss for FY 2025",
+          "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260312-316081/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 03:37:06 +0000",
-          "description": "North Korea released an image on Thursday of leader Kim Jong Un's teenage daughter firing a pistol, weeks after photos showed her shooting a rifle — once again…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 08:06:32 +0000",
+          "description": ""
         },
         {
-          "headline": "Brilliant Alcaraz still perfect heading into Indian Wells quarterfinals",
-          "url": "https://japantoday.com/category/sports/brilliant-alcaraz-still-perfect-heading-into-indian-wells-quarter-finals",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "South Korea, Japan Finance Ministers to Hold Bilateral Meeting on Saturday, Seoul Says",
+          "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260312-316066/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 04:26:59 +0000",
-          "description": "Carlos Alcaraz reached the Indian Wells quarterfinals for a fifth straight year with a sparkling 6-1, 7-6 (7/2) victory over Casper Ruud on Wednesday, extending his perfect start…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 07:31:28 +0000",
+          "description": ""
         },
         {
-          "headline": "Man and woman, both with stab wounds, die after being found in apartment after fire",
-          "url": "https://japantoday.com/category/crime/man-and-woman-both-with-stab-wounds-die-after-being-found-in-apartment-after-fire",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "The Japan News / Weekly Edition (3/13-3/19)",
+          "url": "https://japannews.yomiuri.co.jp/original/weekly/20260312-316061/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:39:17 +0000",
-          "description": "A man and a woman died after a fire partially destroyed their apartment in Tokyo on Wednesday night. Both had stab wounds, the woman in the neck and…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 07:27:24 +0000",
+          "description": "Our weekly ePaper presents the most noteworthy recent topics in an exciting, readable format. View the PDF now by clicking on the following link."
         },
         {
-          "headline": "Lawmakers vent frustration over DHS shutdown as lines grow at U.S. airports",
-          "url": "https://japantoday.com/category/world/lawmakers-vent-frustration-over-dhs-shutdown-as-lines-grow-at-nation%27s-airports",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Japan Big Firms’ Biz Sentiment Remains Positive in Jan.-March",
+          "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260312-316042/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 00:59:09 +0000",
-          "description": "Republican and Democratic senators vented their frustrations Wednesday with the lack of progress in funding the Department of Homeland Security, which is resulting in more Americans enduring long…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 06:29:20 +0000",
+          "description": ""
         },
         {
-          "headline": "Canada advances past World Baseball Classic first round for first time, beating Cuba 7-2",
-          "url": "https://japantoday.com/category/sports/canada-advances-past-world-baseball-classic-first-round-for-first-time-beats-cuba-7-2",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Japan to Extend Drone No-fly Zones Near Key Facilities to 1 km",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316037/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 22:42:55 +0000",
-          "description": "Canada advanced past the first round of the World Baseball Classic for the first time, beating Cuba 7-2 Wednesday in a winner-take-all game at San Juan, Puerto Rico,…"
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 06:16:07 +0000",
+          "description": ""
         }
       ],
       "wire": [
+        {
+          "headline": "U.S. opens trade probes against Japan, over a dozen other countries",
+          "url": "https://english.kyodonews.net/articles/-/72105",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 22:16:00 +0900",
+          "description": "U.S. President Donald Trump&#39;s administration on Wednesday launched trade investigations into what it sees as unfair practices Read full story here"
+        },
+        {
+          "headline": "Japan, U.S. to expand classified info sharing in defense cooperation",
+          "url": "https://english.kyodonews.net/articles/-/72175",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 21:48:00 +0900",
+          "description": "Japan and the United States plan to expand the sharing of classified information through close cooperation between their defense fRead full story here"
+        },
         {
           "headline": "BREAKING NEWS: Japan, U.S. to expand classified info sharing in defense cooperation",
           "url": "https://english.kyodonews.net/articles/-/72173",
@@ -1412,16 +1432,6 @@
           "description": "People facing the sea in the Fukushima Prefecture town of Namie, northeastern Japan, pray at 2:46 p.m. on March 11, 2026, exactly Read full story here"
         },
         {
-          "headline": "Honda braces for up to 690 bil. yen net loss amid EV rethink",
-          "url": "https://english.kyodonews.net/articles/-/72156",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 19:00:00 +0900",
-          "description": "Honda Motor Co. said Thursday it expects to plunge into a net loss of between 420 billion yen and 690 billion yen ($4.34 billion) Read full story here"
-        },
-        {
           "headline": "A Beautiful Conclusion: BEASTARS Final Season Part 2 Drops Gorgeous New OP/ED Visuals",
           "url": "https://english.kyodonews.net/articles/-/72141",
           "source": "Kyodo News",
@@ -1452,16 +1462,6 @@
           "description": "BREAKING NEWS: Honda CEO says hard to make all new models EVs or fuel-cell cars by 2040Read full story here"
         },
         {
-          "headline": "BREAKING NEWS: Honda sees up to 2.5 tril. yen loss linked to EV business in FY 2025, 2026",
-          "url": "https://english.kyodonews.net/articles/-/72158",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 16:51:00 +0900",
-          "description": "BREAKING NEWS: Honda sees up to 2.5 tril. yen loss linked to EV business in FY 2025, 2026Read full story here"
-        },
-        {
           "headline": "Honda flags first annual loss, hit by $15.7 billion EV charge - Reuters",
           "url": "https://www.reuters.com/world/asia-pacific/honda-expects-fy202526-loss-up-43-bln-review-ev-strategy-2026-03-12/",
           "source": "Reuters Japan",
@@ -1472,13 +1472,23 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJRajVYRzlCb3cwZ0R5Z3ZtZjB5cDAxdm9pUWhzUEVqRlJYVUptTEZUZTNPVjZtRk9RMGllTFJObEk4bk5lVXhNWGtsTm1CVW1nRW5aMXJ0Z2FLaGh6STVyZ083WnV0YkRueTN"
         },
         {
+          "headline": "Iran war may embolden BOJ's hawkish push, despite growth risks - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/iran-war-may-embolden-bojs-hawkish-push-despite-growth-risks-2026-03-12/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 12 Mar 2026 07:21:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObmFqM3djLUkyalctSXBveDJfaExaaUs3Rl9WR2xVejM2eUxpaVpPbncxaU9nYlFGd0FxMm9vU0FKRTIxODZDZkFLQzIzaXBoeF91ODFmdWtraUstaFNmc0NQczlOU2FHWG1KODh"
+        },
+        {
           "headline": "Indonesia and Australia to expand security cooperation to include Japan, Papua New Guinea - Reuters",
           "url": "https://www.reuters.com/world/asia-pacific/indonesia-australia-expand-security-cooperation-include-japan-papua-new-guinea-2026-03-12/",
           "source": "Reuters Japan",
           "sourceId": "reuters_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 04:39:00 GMT",
+          "date": "Thu, 12 Mar 2026 04:39:31 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVBSaE4yMkpxMVN5M1hnZUMwUnZ6NlBNcjVzUzNYajE4RTUtd25Zd3Z5UUNOX2NCaUh6YVJFR0Fuckx3dGNiallmX2loMnp2MFg1ZF8zN0tfZGZ0b2s4UTgwQVU4VGpZSUlwcXJ"
         },
         {
@@ -1490,6 +1500,16 @@
           "priority": "secondary",
           "date": "Wed, 11 Mar 2026 23:14:32 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmRXcU9vVEl6dUtmWHZTa3pHNjdCRTVhVlZPQ0VnRmwwOTBSYkRLM2hkWXJ6QVpXd1hVM0lyRnJKWXBUcXNObk1jR1k4aTZsbGUzSnBYSDhUVFZDYmQ0TW5QZlpvZk9NWW9JN1B"
+        },
+        {
+          "headline": "Exclusive: SoftBank's PayPay prices IPO below range at $16 a share - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/softbanks-paypay-prices-ipo-below-range-16-share-sources-say-2026-03-11/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 11 Mar 2026 21:42:21 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzF5by1QcHR2QVBQcXUzTkZDdW1iZkloTGFKVXgtczZkM0ZUM2ZwdFdSUTZWTGFfMDdXZ0dlX2ZkaU9SVFRVaGtsb1BnVmx5VjRvZ3dtRVdFdENyUWRxbDRhTE4wandPRl9vdmt"
         },
         {
           "headline": "The 16 US trading partners hit by Trump's '301' probes - Reuters",
@@ -1522,16 +1542,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmtkS194T2FrT29oRXdWa1VqOEl3V2dlQ0V1Q3NUNU5TUHlCMmZUalJ4ZVNhLUNveUVPTzBudHpteEFQVW5wa3BqYTRTTjhpMlBxVnhjd3FKd1RmLXZ5a211ZFJxZnlkbkhFVmJ"
         },
         {
-          "headline": "Exclusive: SoftBank's PayPay prices IPO below range at $16 a share - Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/softbanks-paypay-prices-ipo-below-range-16-share-sources-say-2026-03-11/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 21:42:21 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzF5by1QcHR2QVBQcXUzTkZDdW1iZkloTGFKVXgtczZkM0ZUM2ZwdFdSUTZWTGFfMDdXZ0dlX2ZkaU9SVFRVaGtsb1BnVmx5VjRvZ3dtRVdFdENyUWRxbDRhTE4wandPRl9vdmt"
-        },
-        {
           "headline": "Breakingviews - SoftBank's wartime bet on PayPay IPO is shrewd - Reuters",
           "url": "https://www.reuters.com/commentary/breakingviews/softbanks-wartime-bet-paypay-ipo-is-shrewd-2026-03-12/",
           "source": "Reuters Japan",
@@ -1552,16 +1562,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxORUE4amVlSWZrMjBnTVZzZUZmMzZ4eVZLbVlybnI4Q0xQYUxnVEZCRDJwRjlnZFVkcEdsTmw3dUZMYTRYTVhKbmdNZzRTdU14VTRqMjNxaS05OFJsQWI5V2lhRVllcFBJbTRJQUd"
         },
         {
-          "headline": "Trading Day: Oil and yields up, up, and away - Reuters",
-          "url": "https://www.reuters.com/business/energy/global-markets-trading-day-graphic-2026-03-11/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 21:02:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEN6WnFlNXZFLUlKaGxCUXRFcjdyYjdjQ3h2SGFnaVB3Y2pPUDZrUk5xRm0yVVBmWWZyaFRZTXFJRFIxWXZUTmtIOXk3c2FuQjJLbzUycHdWZW5CTU84akwyNjJDdGc0ZEp4bWV"
-        },
-        {
           "headline": "Wealthy nations pledge record release of emergency oil reserves in a bid to calm surging prices - AP News",
           "url": "https://apnews.com/article/iran-us-oil-europe-reserve-release-eaf0cf9988cd7e06f0dc2a8ee800762e",
           "source": "AP Japan",
@@ -1572,13 +1572,23 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWFHZDZSZncwb0NyT2tlTS1QZnNQVmZtd0ZxdGhtMGFrZXpDcTZ6TTlWNnk0bm5EanBwWng5dGxta2o4cWVBczR6cDdDMnR0SDcxU0lJWmc4VzMxeGo0RHhvUmNOQ2hpampBWnc"
         },
         {
+          "headline": "Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court - AP News",
+          "url": "https://apnews.com/article/trump-tariffs-manufacturing-china-eu-6f4243502a1d8ce6c301f39c083a93e9",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 11 Mar 2026 23:16:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORlNIWTQwdDZxWDNfci1Db2N4TXUyajgwVW5kU2hCSVVCcGVwX1FuRVFFYXdzZEg2dGRyVTRqS3ladEVZbnZiTGFidzNhVUpWQzdzUmR4WE1TSHNtcFRiQTROa3VDa1d3c1R5aWl"
+        },
+        {
           "headline": "Artificial intelligence - AP News",
           "url": "https://apnews.com/hub/artificial-intelligence",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:39:49 GMT",
+          "date": "Thu, 12 Mar 2026 08:33:41 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5\" target=\"_blank\"&gt"
         },
         {
@@ -1590,16 +1600,6 @@
           "priority": "secondary",
           "date": "Thu, 12 Mar 2026 08:35:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnFlbERpcHJlaGFFRFkyNkI3b3ZkS3d6NUlvZjdOZlBiSjlZLVR1RUxaQkJLaUxlUjNxYVFNd1FKMU5QbkptUmdwQnp3dWNpeXpCMlZrX1lOLXlRTXRzTXZRYUt4bG9XT2VnQ0V"
-        },
-        {
-          "headline": "Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court - AP News",
-          "url": "https://apnews.com/article/trump-tariffs-manufacturing-china-eu-6f4243502a1d8ce6c301f39c083a93e9",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 23:43:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORlNIWTQwdDZxWDNfci1Db2N4TXUyajgwVW5kU2hCSVVCcGVwX1FuRVFFYXdzZEg2dGRyVTRqS3ladEVZbnZiTGFidzNhVUpWQzdzUmR4WE1TSHNtcFRiQTROa3VDa1d3c1R5aWl"
         },
         {
           "headline": "China positions itself as force for global stability at its annual Congress - AP News",
@@ -1618,8 +1618,18 @@
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 06:53:00 GMT",
+          "date": "Thu, 12 Mar 2026 08:15:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDdNTnUweVFkT0M0MVA5NTZ6VjhhckpoLW5ZZC1SMWo1a3gySWNSUFlSa0RIZU1Nd3lQVVRZMVhSbUo4T01XcTdhX3lEVkFpQ3B6OGhfeW9keFpPWVJkUGZWOXBycU14YXRkcC1"
+        },
+        {
+          "headline": "Iran’s supreme leader says closure of Strait of Hormuz should be used as leverage - AP News",
+          "url": "https://apnews.com/article/iran-israel-us-march-12-2026-oil-prices-90e17dbf7354d1e9428994ab2a036506",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 12 Mar 2026 13:48:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3UyV1FyQ2VRM3VLV2JXaUhzNWpzYUUyYnotbnkybzc2X1Jaakh4ZlRwcE1QaFkwUU94YTN0RVBnVEV1amRPYzd4WFdiczNwTWhtTVZHYXU3NlY3YllCMG9hRkdDUFp0bEdJNnZ"
         },
         {
           "headline": "Cambodia aims to shut down all online scam centers within weeks - AP News",
@@ -1638,7 +1648,7 @@
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 04:18:00 GMT",
+          "date": "Wed, 11 Mar 2026 17:55:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWI0VVFtMGRvLXFLaHBDMGdaMG92VXVYRk9DV2N1VHBkMENCbWUyb0tCVmZvLVluQjc2bG44MHJVaHliQktVNm85TmlhZVBDdnZxYjMxVnozQlloUGl0aDJJYm95WFpFYTFkMC1"
         },
         {
@@ -1652,18 +1662,8 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUtKTFhnN0lka1hsbXpJWVBVZEZJRm5mSlZiQTBvRm14SlpuT2FhWGxqYkFnSGFQcEZMUEdURG1hdkNWbG9DdG9acEQzNHRMelJaZjE1a3dpYmo2ZkNiREpyajBialVDTE94QTI"
         },
         {
-          "headline": "That purple Hawaii vacation lei likely came from Thailand, and some lawmakers want to change that - AP News",
-          "url": "https://apnews.com/article/hawaii-lei-flowers-tourism-lawmakers-cc0dd4ef9f9cbaf2787f0ea1baf6d5b3",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 17:41:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFZIMXZQSjBlWnQ0X2p4X0pxMzFNMXBzdm9hcDJ5eTBaZDR4d1ctdUNfMkRWOFJzT1UxOFl1WTlmcXZYbkFuN2YxUWZINVFNSjJNd0w1RWFvNFQyenRaR19BeEhrSmxYOWNRNVR"
-        },
-        {
           "headline": "Iran tells world to get ready for oil at $200 a barrel as it fires on merchant ships - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_f77c6ccd-dd1a-479f-9f32-5c05106dc569",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_72e13423-af04-4e6f-acd0-f089d72e599f",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
@@ -1974,6 +1974,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDZ0T2VkWjIwN3FMVzg4ZUJmSXpJaXVrc2lMSXJEanhrVXRwcDBGdmxsYkZET0dqNnpDd01WMk00UXRMSjVpTXdQNVJzUEkyLUNfNUlyT1hIUGg5ZHJHSmU4bFp0SVlsVDFreTQ"
         },
         {
+          "headline": "Foreigners Sell Most Net Japan Stocks, Futures Since November - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-12/foreigners-sell-most-net-japan-stocks-futures-since-november",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Thu, 12 Mar 2026 08:19:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0h3WXZwR3RXc0o5bTRxNzRuQ2JmMmR5MlhrdEtYQ2ZVQWVoUEE4WktDVm9DczQxMlRYaVNpUU5NR3RvZkstaDNyRV8wRkVGa2gwYVJscm54aVhMeFhON2lIQUR4cjkwUURZVjF"
+        },
+        {
           "headline": "Japan Isn’t Sending Minesweepers to Middle East, Takaichi Says - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-12/japan-isn-t-sending-minesweepers-to-middle-east-takaichi-says",
           "source": "Bloomberg Japan",
@@ -2054,16 +2064,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVdhYW5FV2VtMDh0QW9yMUVJTHBJc1BsQ1Njc3A1WExyZUNZUmw1RXozNnljMlNTZEZNRzRqOWswT3d2cjdmUmgzM29nMDNHS21PaTBYakNCemtfNW9sM3FNUmJFRG4yZW9Lbkd"
         },
         {
-          "headline": "SoftBank-Backed PayPay Is Said to Plan US IPO at $16 Per Share - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-11/softbank-backed-paypay-is-said-to-plan-us-ipo-at-16-per-share",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 17:11:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTJuSC1xOUtxalYyYXN5ZDBkY1dvOGZpVTV1c25xS210Tm5LV2hLcXV2Y282Z3QxWUF6ckd2c0s3TEhvNHlVU0VrX0EtYS1hQmpicWRXeFVlcVgxR3lTQnBqMlU2Y1VJVEhfaFB"
-        },
-        {
           "headline": "The tiny forests that could save endangered trees - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
@@ -2104,13 +2104,23 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONHFwNkpnNEVYRVlQSHBpWHVnek9lVEluNEJ1My1odWIwMFB4NWZrSGdoM09QNEotWG1JNFAzQ0JhWU5mZ3ByM0drc1ZpTTEtZU9NTm14VWZtcXo5dDFha0JMeDYyR0FLM3E1eWN"
         },
         {
+          "headline": "Pasquantino has WBC's first 3-homer game to lead Italy over Mexico, advancing US to quarterfinals - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Thu, 12 Mar 2026 06:34:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYlkxNDQ3bk9BVm4zb1gtalplT3RPRFM4SVhRV3BkSS1RaGVRbjdpV05xeUxnOC1RNnlYajFQNmhFb3hJS2F2bkpVbGFobUppM1dvWVdRS0xYV01BNHpCM3VmdWMzV0RIcHlmUjY"
+        },
+        {
           "headline": "War against Iran expands into Lebanon as Israel battles Hezbollah - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Thu, 12 Mar 2026 13:03:10 GMT",
+          "date": "Thu, 12 Mar 2026 13:32:20 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZXVDM3hyUEo2U0tNVWhmVVRSRHNaNlFOLWx1QjFlYlUwTWRONkgwMXBPcTgxLVAwVlAwVVhDamRUU1dVQ0lKaWVLekoyTFUwdUZtaUlSU3dTci1hOGdFcklaQkx5MEhIU2hkQTB"
         },
         {
@@ -2120,7 +2130,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Thu, 12 Mar 2026 13:01:59 GMT",
+          "date": "Thu, 12 Mar 2026 13:32:37 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2JpRFIxR3hSanNULWNpV3RxU1BOZjdYZDNNc1ZKZkJoNVZoTF9MNHZNNk9hSnFuWXdwQm9RVm83bmhrUUdsemw1Vmt6TWFoMFRoU2M2b3dESXRJQl9ZYnNQbHZnWkhLeVNLS1l"
         },
         {
@@ -2134,6 +2144,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPdGJFbV91MVJBV0w4cVBCbV9BZElnSEdTNlVCclZMS09lZDlHcWxUWVRPcVJjSFN3N2FpdEVxX2FPcGZleUhNQXA3NHdsNmt5VE1FY055OWVmUVFtU1pLVzdMbjBaVXhWZ3g0anp"
         },
         {
+          "headline": "CWG Live: Much colder tomorrow after today’s record warmth, storms - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Thu, 12 Mar 2026 03:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVVRWUZ2VFdLX2dtZDI4ejVVbF9teGtDNGR5YWdtVzBHNHpQWlF3Q01DcVhJNXlHZDc5M1VUOUJaMTFUTERqN1EtdUZTQnl0ZlQ0d1VuZHJJZFp4bDVLcjNkRVhmZjg4NVRKU3J"
+        },
+        {
           "headline": "Vissel Kobe beats FC Seoul, becomes 2nd Japanese team in AFC Champions League quarterfinals - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
@@ -2142,31 +2162,21 @@
           "priority": "tertiary",
           "date": "Wed, 11 Mar 2026 14:23:46 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcE5kWXVvMnJyelhucWlYYjBKNjc2aFN3NC1aX1BmOHVIYzFvMTduUmN4d0lISnJZaGV6V0ZFTGlYWi1DX3hOOGtocXNrV3FleVNXNXUwZUpvZDBvbF9NN3A5Rm9vZ3VOUmxTcV9"
-        },
-        {
-          "headline": "Japan marks 15 years since tsunami disaster as Takaichi pushes more nuclear energy use - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Wed, 11 Mar 2026 17:56:31 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFdacUt5bXppb0xLQV9nUWcwdlhvR1REZ3NQMDd3ZlV2ZjI0M01tdFVQWG9ZbFlIZkRuRmV0Rl9JdE44Q0k4TlZ3RGQ0N3BXSllTSVRLSTZZQi1zcnVqQWFoNlIwUWdrQ1ZoY2N"
-        },
-        {
-          "headline": "Sweden extends coach Graham Potter's contract ahead of World Cup qualifying playoffs - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Thu, 12 Mar 2026 12:14:53 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0RnX2FqaVlRS0RoMHFvVXRyenJ3dVNzVTI4Y3RYWHluQkRtM2JabG5mb2RIaU5GamU0Vm0xY0lPVGJ6S1F4THBXSV94emNmQmRwaklQVmR2c1hVN1VPMF9XYlktTEpXRGxQZk4"
         }
       ]
     },
     "byPriority": {
       "primary": [
+        {
+          "headline": "イラン モジタバ師が初声明 「ホルムズ海峡封鎖 確実に継続」",
+          "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074041000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 22:30:45 +0900",
+          "description": "イランの国営テレビは12日、殺害されたハメネイ師の後継者でイランの新しい最高指導者に選出されたモジタバ師の初めての声明を公開しました。この中でモジタバ師は国民の結束を呼びかけ、「この地域のアメリカ軍基地は即時に閉鎖されるべきであり、攻撃されるだろう」としてアメリカへの徹底抗戦の構えを強調しました。"
+        },
         {
           "headline": "アルペン 村岡桃佳が銀 冬季パラ 日本選手最多11個目のメダル",
           "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074021000.html",
@@ -2174,7 +2184,7 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Thu, 12 Mar 2026 22:04:03 +0900",
+          "date": "Thu, 12 Mar 2026 22:53:51 +0900",
           "description": "ミラノ・コルティナパラリンピックのアルペンスキー女子大回転の座って滑るクラスで、日本のエース、村岡桃佳選手が銀メダルを獲得しました。村岡選手はこれでパラリンピック通算11個目のメダルとなり、冬の大会のメダル獲得数で日本選手では単独最多となりました。"
         },
         {
@@ -2198,26 +2208,6 @@
           "description": "「ホンダ」は北米のEV事業などを抜本的に見直した結果、巨額の損失が発生するとして、今年度1年間の業績がこれまでの黒字予想から一転して最大で6900億円の赤字に転落するという見通しを明らかにしました。最終赤字は、上場以来、初めてです。"
         },
         {
-          "headline": "白血病の患者死亡 使うはずのない薬液が注射に混入の可能性も",
-          "url": "http://www3.nhk.or.jp/news/html/20260312/k10015073931000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 18:26:46 +0900",
-          "description": "さいたま市の埼玉県立小児医療センターで、白血病の治療中だった10代の患者が死亡し、2人が意識不明の重体となっている問題で、3人が抗がん剤の「髄くう内注射」の後に体調を崩し、使われるはずのない薬液が髄液から検出されたことなどから、病院はこの薬液が何らかの原因で注射に混入した可能性も否定できないとして詳しく調べています。"
-        },
-        {
-          "headline": "新年度予算案 あす予算委の採決 職権で決定 野党側は反発",
-          "url": "http://www3.nhk.or.jp/news/html/20260312/k10015073551000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 19:14:09 +0900",
-          "description": "新年度予算案の審議をめぐり、衆議院予算委員会は12日昼過ぎに理事会を再開し、与党側は、13日に締めくくりの質疑と採決を行いたいと提案しました。野党側は「審議を打ち切るのは問題だ」と反発して退席し、自民党の坂本委員長が、13日に締めくくりの質疑を行うことを職権で決めました。"
-        },
-        {
           "headline": "自民 坂本予算委員長の解任決議案を野党4党が共同で提出",
           "url": "http://www3.nhk.or.jp/news/html/20260312/k10015073941000.html",
           "source": "NHK World",
@@ -2228,6 +2218,16 @@
           "description": "新年度予算案をめぐり、中道改革連合、参政党、チームみらい、共産党の野党4党は、衆議院予算委員会の強引な運営は容認できないなどとして、12日夜、自民党の坂本予算委員長の解任決議案を共同で提出しました。"
         },
         {
+          "headline": "細胞を生きたまま透明にして観察できる試薬開発 九州大学など",
+          "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074051000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 22:05:34 +0900",
+          "description": "哺乳類の脳などの組織を生きたまま透明にして、観察できる試薬を開発したと九州大学などの研究グループが発表しました。組織や細胞が正常に働いている状態で観察できるようになることで脳の機能の解明などが進むと期待されています。"
+        },
+        {
           "headline": "富山湾海底「乱泥流」の明確な痕跡確認 カニ漁獲量減の原因か",
           "url": "http://www3.nhk.or.jp/news/html/20260312/k10015074011000.html",
           "source": "NHK World",
@@ -2236,6 +2236,26 @@
           "priority": "primary",
           "date": "Thu, 12 Mar 2026 20:37:44 +0900",
           "description": "能登半島地震の影響を調べている富山大学の研究チームが、富山湾の海底で起きた「乱泥流」と呼ばれる激しい泥の流れの明確な痕跡を初めて映像で確認しました。地震のあと富山湾ではカニの漁獲量が減少しましたが、県の水産研究所はこの泥の流れが原因だと指摘しています。"
+        },
+        {
+          "headline": "U.S. opens trade probes against Japan, over a dozen other countries",
+          "url": "https://english.kyodonews.net/articles/-/72105",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 22:16:00 +0900",
+          "description": "U.S. President Donald Trump&#39;s administration on Wednesday launched trade investigations into what it sees as unfair practices Read full story here"
+        },
+        {
+          "headline": "Japan, U.S. to expand classified info sharing in defense cooperation",
+          "url": "https://english.kyodonews.net/articles/-/72175",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 21:48:00 +0900",
+          "description": "Japan and the United States plan to expand the sharing of classified information through close cooperation between their defense fRead full story here"
         },
         {
           "headline": "BREAKING NEWS: Japan, U.S. to expand classified info sharing in defense cooperation",
@@ -2288,16 +2308,6 @@
           "description": "People facing the sea in the Fukushima Prefecture town of Namie, northeastern Japan, pray at 2:46 p.m. on March 11, 2026, exactly Read full story here"
         },
         {
-          "headline": "Honda braces for up to 690 bil. yen net loss amid EV rethink",
-          "url": "https://english.kyodonews.net/articles/-/72156",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 19:00:00 +0900",
-          "description": "Honda Motor Co. said Thursday it expects to plunge into a net loss of between 420 billion yen and 690 billion yen ($4.34 billion) Read full story here"
-        },
-        {
           "headline": "A Beautiful Conclusion: BEASTARS Final Season Part 2 Drops Gorgeous New OP/ED Visuals",
           "url": "https://english.kyodonews.net/articles/-/72141",
           "source": "Kyodo News",
@@ -2326,16 +2336,6 @@
           "priority": "primary",
           "date": "Thu, 12 Mar 2026 17:07:00 +0900",
           "description": "BREAKING NEWS: Honda CEO says hard to make all new models EVs or fuel-cell cars by 2040Read full story here"
-        },
-        {
-          "headline": "BREAKING NEWS: Honda sees up to 2.5 tril. yen loss linked to EV business in FY 2025, 2026",
-          "url": "https://english.kyodonews.net/articles/-/72158",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 16:51:00 +0900",
-          "description": "BREAKING NEWS: Honda sees up to 2.5 tril. yen loss linked to EV business in FY 2025, 2026Read full story here"
         },
         {
           "headline": "Approval rate for Takaichi's Cabinet drops to 59%: poll",
@@ -2436,109 +2436,109 @@
           "priority": "primary",
           "date": "Thu, 12 Mar 2026 17:14:00 +0900",
           "description": "The U.S. technology giant is making a push for more Africans to adopt its artificial-intelligence tools in the world’s youngest and fastest-growing population."
+        },
+        {
+          "headline": "‘King Kazu’ Discusses His Connection to Fukushima",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316052/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 12:00:12 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Japan’s Gunma Official Suspended For Unauthorized Absence From Work During Overseas Trip",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316160/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 11:50:02 +0000",
+          "description": "A Gunma prefectural official has been given a three-month disciplinary suspension for being absent from work without permission during an overseas trip, it was announced on Wednesday."
+        },
+        {
+          "headline": "15 Measles Patients Confirmed in Tokyo in Past 6 Days; 1 May Have Come into Contact with Many in Shibuya",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316103/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 08:55:02 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Japan Closely Monitoring Situation around Hormuz Strait, Collecting Information on Damaged Ship",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260312-316085/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 08:42:13 +0000",
+          "description": "The government is urgently gathering information on the circumstances surrounding a container ship belonging to Mitsui O.S.K. Lines, Ltd. which suffered damage while anchored in the Persian Gulf."
+        },
+        {
+          "headline": "White House Takes First Step toward Permanent Fix for Illegal Tariffs",
+          "url": "https://japannews.yomiuri.co.jp/news-services/washingtonpost/20260312-316080/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 08:07:11 +0000",
+          "description": "The Trump administration took a major step toward replacing the global tariffs that the Supreme Court recently invalidated, announcing new investigations of unfair trading practices that will almost c"
+        },
+        {
+          "headline": "Honda Expects Up to 690 B. Yen in Net Loss for FY 2025",
+          "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260312-316081/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 08:06:32 +0000",
+          "description": ""
+        },
+        {
+          "headline": "South Korea, Japan Finance Ministers to Hold Bilateral Meeting on Saturday, Seoul Says",
+          "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260312-316066/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 07:31:28 +0000",
+          "description": ""
+        },
+        {
+          "headline": "The Japan News / Weekly Edition (3/13-3/19)",
+          "url": "https://japannews.yomiuri.co.jp/original/weekly/20260312-316061/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 07:27:24 +0000",
+          "description": "Our weekly ePaper presents the most noteworthy recent topics in an exciting, readable format. View the PDF now by clicking on the following link."
+        },
+        {
+          "headline": "Japan Big Firms’ Biz Sentiment Remains Positive in Jan.-March",
+          "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260312-316042/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 06:29:20 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Japan to Extend Drone No-fly Zones Near Key Facilities to 1 km",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260312-316037/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Thu, 12 Mar 2026 06:16:07 +0000",
+          "description": ""
         }
       ],
       "secondary": [
-        {
-          "headline": "Tokyo stocks drop on lingering oil supply concerns amid Middle East war",
-          "url": "https://japantoday.com/category/business/tokyo-stocks-drop-on-lingering-oil-supply-concerns-amid-middle-east-war",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:34:19 +0000",
-          "description": "Tokyo stocks fell Thursday, hurt by surging oil futures as the International Energy Agency's decision to conduct its largest stockpile release failed to ease market jitters over supply…"
-        },
-        {
-          "headline": "Uber plans Tokyo robotaxi trial with Nissan and Britain's Wayve",
-          "url": "https://japantoday.com/category/tech/uber-plans-tokyo-robotaxi-trial-with-nissan-and-britain%27s-wayve",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:34:09 +0000",
-          "description": "Uber announced Thursday its first robotaxi partnership in Japan, teaming up with Nissan and British artificial intelligence autonomous driving startup Wayve for a trial this year in Tokyo.…"
-        },
-        {
-          "headline": "Italy, USA and Canada advance at World Baseball Classic",
-          "url": "https://japantoday.com/category/sports/italy-usa-and-canada-advance-at-world-baseball-classic",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 03:29:08 +0000",
-          "description": "Unbeaten Italy advanced to the World Baseball Classic quarterfinals by routing Mexico 9-1 on Wednesday, allowing the fancied collection of United States stars into the last eight as…"
-        },
-        {
-          "headline": "Oil tankers burn near Iraq as Iranian strikes defy Trump's claim to have 'won' the war",
-          "url": "https://japantoday.com/category/world/oil-tankers-burn-near-iraq-as-iranian-strikes-defy-trump%27s-claim-to-have-%27won%27-the-war",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:21:46 +0000",
-          "description": "Iran appeared to have set ablaze two tankers in Iraqi waters as it stepped up attacks on oil and transport facilities across the Middle East, warning the world…"
-        },
-        {
-          "headline": "U.S. opens unfair trade probes against Japan, EU, over a dozen other countries",
-          "url": "https://japantoday.com/category/politics/update2-u.s.-opens-trade-probes-against-japan-over-a-dozen-other-countries",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:33:55 +0000",
-          "description": "U.S. President Donald Trump's administration on Wednesday launched trade investigations into what it sees as unfair practices by China, Japan and over a dozen other countries, in a…"
-        },
-        {
-          "headline": "North Korea unveils image of Kim's daughter firing pistol",
-          "url": "https://japantoday.com/category/world/north-korea-unveils-image-of-leader%27s-daughter-firing-pistol",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 03:37:06 +0000",
-          "description": "North Korea released an image on Thursday of leader Kim Jong Un's teenage daughter firing a pistol, weeks after photos showed her shooting a rifle — once again…"
-        },
-        {
-          "headline": "Brilliant Alcaraz still perfect heading into Indian Wells quarterfinals",
-          "url": "https://japantoday.com/category/sports/brilliant-alcaraz-still-perfect-heading-into-indian-wells-quarter-finals",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 04:26:59 +0000",
-          "description": "Carlos Alcaraz reached the Indian Wells quarterfinals for a fifth straight year with a sparkling 6-1, 7-6 (7/2) victory over Casper Ruud on Wednesday, extending his perfect start…"
-        },
-        {
-          "headline": "Man and woman, both with stab wounds, die after being found in apartment after fire",
-          "url": "https://japantoday.com/category/crime/man-and-woman-both-with-stab-wounds-die-after-being-found-in-apartment-after-fire",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:39:17 +0000",
-          "description": "A man and a woman died after a fire partially destroyed their apartment in Tokyo on Wednesday night. Both had stab wounds, the woman in the neck and…"
-        },
-        {
-          "headline": "Lawmakers vent frustration over DHS shutdown as lines grow at U.S. airports",
-          "url": "https://japantoday.com/category/world/lawmakers-vent-frustration-over-dhs-shutdown-as-lines-grow-at-nation%27s-airports",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 00:59:09 +0000",
-          "description": "Republican and Democratic senators vented their frustrations Wednesday with the lack of progress in funding the Department of Homeland Security, which is resulting in more Americans enduring long…"
-        },
-        {
-          "headline": "Canada advances past World Baseball Classic first round for first time, beating Cuba 7-2",
-          "url": "https://japantoday.com/category/sports/canada-advances-past-world-baseball-classic-first-round-for-first-time-beats-cuba-7-2",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 22:42:55 +0000",
-          "description": "Canada advanced past the first round of the World Baseball Classic for the first time, beating Cuba 7-2 Wednesday in a winner-take-all game at San Juan, Puerto Rico,…"
-        },
         {
           "headline": "Honda flags first annual loss, hit by $15.7 billion EV charge - Reuters",
           "url": "https://www.reuters.com/world/asia-pacific/honda-expects-fy202526-loss-up-43-bln-review-ev-strategy-2026-03-12/",
@@ -2550,13 +2550,23 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJRajVYRzlCb3cwZ0R5Z3ZtZjB5cDAxdm9pUWhzUEVqRlJYVUptTEZUZTNPVjZtRk9RMGllTFJObEk4bk5lVXhNWGtsTm1CVW1nRW5aMXJ0Z2FLaGh6STVyZ083WnV0YkRueTN"
         },
         {
+          "headline": "Iran war may embolden BOJ's hawkish push, despite growth risks - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/iran-war-may-embolden-bojs-hawkish-push-despite-growth-risks-2026-03-12/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 12 Mar 2026 07:21:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObmFqM3djLUkyalctSXBveDJfaExaaUs3Rl9WR2xVejM2eUxpaVpPbncxaU9nYlFGd0FxMm9vU0FKRTIxODZDZkFLQzIzaXBoeF91ODFmdWtraUstaFNmc0NQczlOU2FHWG1KODh"
+        },
+        {
           "headline": "Indonesia and Australia to expand security cooperation to include Japan, Papua New Guinea - Reuters",
           "url": "https://www.reuters.com/world/asia-pacific/indonesia-australia-expand-security-cooperation-include-japan-papua-new-guinea-2026-03-12/",
           "source": "Reuters Japan",
           "sourceId": "reuters_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 04:39:00 GMT",
+          "date": "Thu, 12 Mar 2026 04:39:31 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVBSaE4yMkpxMVN5M1hnZUMwUnZ6NlBNcjVzUzNYajE4RTUtd25Zd3Z5UUNOX2NCaUh6YVJFR0Fuckx3dGNiallmX2loMnp2MFg1ZF8zN0tfZGZ0b2s4UTgwQVU4VGpZSUlwcXJ"
         },
         {
@@ -2568,6 +2578,16 @@
           "priority": "secondary",
           "date": "Wed, 11 Mar 2026 23:14:32 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmRXcU9vVEl6dUtmWHZTa3pHNjdCRTVhVlZPQ0VnRmwwOTBSYkRLM2hkWXJ6QVpXd1hVM0lyRnJKWXBUcXNObk1jR1k4aTZsbGUzSnBYSDhUVFZDYmQ0TW5QZlpvZk9NWW9JN1B"
+        },
+        {
+          "headline": "Exclusive: SoftBank's PayPay prices IPO below range at $16 a share - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/softbanks-paypay-prices-ipo-below-range-16-share-sources-say-2026-03-11/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 11 Mar 2026 21:42:21 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzF5by1QcHR2QVBQcXUzTkZDdW1iZkloTGFKVXgtczZkM0ZUM2ZwdFdSUTZWTGFfMDdXZ0dlX2ZkaU9SVFRVaGtsb1BnVmx5VjRvZ3dtRVdFdENyUWRxbDRhTE4wandPRl9vdmt"
         },
         {
           "headline": "The 16 US trading partners hit by Trump's '301' probes - Reuters",
@@ -2600,16 +2620,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRmtkS194T2FrT29oRXdWa1VqOEl3V2dlQ0V1Q3NUNU5TUHlCMmZUalJ4ZVNhLUNveUVPTzBudHpteEFQVW5wa3BqYTRTTjhpMlBxVnhjd3FKd1RmLXZ5a211ZFJxZnlkbkhFVmJ"
         },
         {
-          "headline": "Exclusive: SoftBank's PayPay prices IPO below range at $16 a share - Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/softbanks-paypay-prices-ipo-below-range-16-share-sources-say-2026-03-11/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 21:42:21 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzF5by1QcHR2QVBQcXUzTkZDdW1iZkloTGFKVXgtczZkM0ZUM2ZwdFdSUTZWTGFfMDdXZ0dlX2ZkaU9SVFRVaGtsb1BnVmx5VjRvZ3dtRVdFdENyUWRxbDRhTE4wandPRl9vdmt"
-        },
-        {
           "headline": "Breakingviews - SoftBank's wartime bet on PayPay IPO is shrewd - Reuters",
           "url": "https://www.reuters.com/commentary/breakingviews/softbanks-wartime-bet-paypay-ipo-is-shrewd-2026-03-12/",
           "source": "Reuters Japan",
@@ -2630,16 +2640,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxORUE4amVlSWZrMjBnTVZzZUZmMzZ4eVZLbVlybnI4Q0xQYUxnVEZCRDJwRjlnZFVkcEdsTmw3dUZMYTRYTVhKbmdNZzRTdU14VTRqMjNxaS05OFJsQWI5V2lhRVllcFBJbTRJQUd"
         },
         {
-          "headline": "Trading Day: Oil and yields up, up, and away - Reuters",
-          "url": "https://www.reuters.com/business/energy/global-markets-trading-day-graphic-2026-03-11/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 21:02:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEN6WnFlNXZFLUlKaGxCUXRFcjdyYjdjQ3h2SGFnaVB3Y2pPUDZrUk5xRm0yVVBmWWZyaFRZTXFJRFIxWXZUTmtIOXk3c2FuQjJLbzUycHdWZW5CTU84akwyNjJDdGc0ZEp4bWV"
-        },
-        {
           "headline": "Wealthy nations pledge record release of emergency oil reserves in a bid to calm surging prices - AP News",
           "url": "https://apnews.com/article/iran-us-oil-europe-reserve-release-eaf0cf9988cd7e06f0dc2a8ee800762e",
           "source": "AP Japan",
@@ -2650,13 +2650,23 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWFHZDZSZncwb0NyT2tlTS1QZnNQVmZtd0ZxdGhtMGFrZXpDcTZ6TTlWNnk0bm5EanBwWng5dGxta2o4cWVBczR6cDdDMnR0SDcxU0lJWmc4VzMxeGo0RHhvUmNOQ2hpampBWnc"
         },
         {
+          "headline": "Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court - AP News",
+          "url": "https://apnews.com/article/trump-tariffs-manufacturing-china-eu-6f4243502a1d8ce6c301f39c083a93e9",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 11 Mar 2026 23:16:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORlNIWTQwdDZxWDNfci1Db2N4TXUyajgwVW5kU2hCSVVCcGVwX1FuRVFFYXdzZEg2dGRyVTRqS3ladEVZbnZiTGFidzNhVUpWQzdzUmR4WE1TSHNtcFRiQTROa3VDa1d3c1R5aWl"
+        },
+        {
           "headline": "Artificial intelligence - AP News",
           "url": "https://apnews.com/hub/artificial-intelligence",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 07:39:49 GMT",
+          "date": "Thu, 12 Mar 2026 08:33:41 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5\" target=\"_blank\"&gt"
         },
         {
@@ -2668,16 +2678,6 @@
           "priority": "secondary",
           "date": "Thu, 12 Mar 2026 08:35:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnFlbERpcHJlaGFFRFkyNkI3b3ZkS3d6NUlvZjdOZlBiSjlZLVR1RUxaQkJLaUxlUjNxYVFNd1FKMU5QbkptUmdwQnp3dWNpeXpCMlZrX1lOLXlRTXRzTXZRYUt4bG9XT2VnQ0V"
-        },
-        {
-          "headline": "Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court - AP News",
-          "url": "https://apnews.com/article/trump-tariffs-manufacturing-china-eu-6f4243502a1d8ce6c301f39c083a93e9",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 23:43:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORlNIWTQwdDZxWDNfci1Db2N4TXUyajgwVW5kU2hCSVVCcGVwX1FuRVFFYXdzZEg2dGRyVTRqS3ladEVZbnZiTGFidzNhVUpWQzdzUmR4WE1TSHNtcFRiQTROa3VDa1d3c1R5aWl"
         },
         {
           "headline": "China positions itself as force for global stability at its annual Congress - AP News",
@@ -2696,8 +2696,18 @@
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 06:53:00 GMT",
+          "date": "Thu, 12 Mar 2026 08:15:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDdNTnUweVFkT0M0MVA5NTZ6VjhhckpoLW5ZZC1SMWo1a3gySWNSUFlSa0RIZU1Nd3lQVVRZMVhSbUo4T01XcTdhX3lEVkFpQ3B6OGhfeW9keFpPWVJkUGZWOXBycU14YXRkcC1"
+        },
+        {
+          "headline": "Iran’s supreme leader says closure of Strait of Hormuz should be used as leverage - AP News",
+          "url": "https://apnews.com/article/iran-israel-us-march-12-2026-oil-prices-90e17dbf7354d1e9428994ab2a036506",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 12 Mar 2026 13:48:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3UyV1FyQ2VRM3VLV2JXaUhzNWpzYUUyYnotbnkybzc2X1Jaakh4ZlRwcE1QaFkwUU94YTN0RVBnVEV1amRPYzd4WFdiczNwTWhtTVZHYXU3NlY3YllCMG9hRkdDUFp0bEdJNnZ"
         },
         {
           "headline": "Cambodia aims to shut down all online scam centers within weeks - AP News",
@@ -2716,7 +2726,7 @@
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 04:18:00 GMT",
+          "date": "Wed, 11 Mar 2026 17:55:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWI0VVFtMGRvLXFLaHBDMGdaMG92VXVYRk9DV2N1VHBkMENCbWUyb0tCVmZvLVluQjc2bG44MHJVaHliQktVNm85TmlhZVBDdnZxYjMxVnozQlloUGl0aDJJYm95WFpFYTFkMC1"
         },
         {
@@ -2730,18 +2740,8 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUtKTFhnN0lka1hsbXpJWVBVZEZJRm5mSlZiQTBvRm14SlpuT2FhWGxqYkFnSGFQcEZMUEdURG1hdkNWbG9DdG9acEQzNHRMelJaZjE1a3dpYmo2ZkNiREpyajBialVDTE94QTI"
         },
         {
-          "headline": "That purple Hawaii vacation lei likely came from Thailand, and some lawmakers want to change that - AP News",
-          "url": "https://apnews.com/article/hawaii-lei-flowers-tourism-lawmakers-cc0dd4ef9f9cbaf2787f0ea1baf6d5b3",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 17:41:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFZIMXZQSjBlWnQ0X2p4X0pxMzFNMXBzdm9hcDJ5eTBaZDR4d1ctdUNfMkRWOFJzT1UxOFl1WTlmcXZYbkFuN2YxUWZINVFNSjJNd0w1RWFvNFQyenRaR19BeEhrSmxYOWNRNVR"
-        },
-        {
           "headline": "Iran tells world to get ready for oil at $200 a barrel as it fires on merchant ships - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_f77c6ccd-dd1a-479f-9f32-5c05106dc569",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_72e13423-af04-4e6f-acd0-f089d72e599f",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
@@ -3050,6 +3050,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDZ0T2VkWjIwN3FMVzg4ZUJmSXpJaXVrc2lMSXJEanhrVXRwcDBGdmxsYkZET0dqNnpDd01WMk00UXRMSjVpTXdQNVJzUEkyLUNfNUlyT1hIUGg5ZHJHSmU4bFp0SVlsVDFreTQ"
         },
         {
+          "headline": "Foreigners Sell Most Net Japan Stocks, Futures Since November - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-12/foreigners-sell-most-net-japan-stocks-futures-since-november",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Thu, 12 Mar 2026 08:19:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0h3WXZwR3RXc0o5bTRxNzRuQ2JmMmR5MlhrdEtYQ2ZVQWVoUEE4WktDVm9DczQxMlRYaVNpUU5NR3RvZkstaDNyRV8wRkVGa2gwYVJscm54aVhMeFhON2lIQUR4cjkwUURZVjF"
+        },
+        {
           "headline": "Japan Isn’t Sending Minesweepers to Middle East, Takaichi Says - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-12/japan-isn-t-sending-minesweepers-to-middle-east-takaichi-says",
           "source": "Bloomberg Japan",
@@ -3128,16 +3138,6 @@
           "priority": "secondary",
           "date": "Thu, 12 Mar 2026 07:50:08 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVdhYW5FV2VtMDh0QW9yMUVJTHBJc1BsQ1Njc3A1WExyZUNZUmw1RXozNnljMlNTZEZNRzRqOWswT3d2cjdmUmgzM29nMDNHS21PaTBYakNCemtfNW9sM3FNUmJFRG4yZW9Lbkd"
-        },
-        {
-          "headline": "SoftBank-Backed PayPay Is Said to Plan US IPO at $16 Per Share - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-11/softbank-backed-paypay-is-said-to-plan-us-ipo-at-16-per-share",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Wed, 11 Mar 2026 17:11:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTJuSC1xOUtxalYyYXN5ZDBkY1dvOGZpVTV1c25xS210Tm5LV2hLcXV2Y282Z3QxWUF6ckd2c0s3TEhvNHlVU0VrX0EtYS1hQmpicWRXeFVlcVgxR3lTQnBqMlU2Y1VJVEhfaFB"
         }
       ],
       "tertiary": [
@@ -3182,13 +3182,23 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONHFwNkpnNEVYRVlQSHBpWHVnek9lVEluNEJ1My1odWIwMFB4NWZrSGdoM09QNEotWG1JNFAzQ0JhWU5mZ3ByM0drc1ZpTTEtZU9NTm14VWZtcXo5dDFha0JMeDYyR0FLM3E1eWN"
         },
         {
+          "headline": "Pasquantino has WBC's first 3-homer game to lead Italy over Mexico, advancing US to quarterfinals - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Thu, 12 Mar 2026 06:34:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYlkxNDQ3bk9BVm4zb1gtalplT3RPRFM4SVhRV3BkSS1RaGVRbjdpV05xeUxnOC1RNnlYajFQNmhFb3hJS2F2bkpVbGFobUppM1dvWVdRS0xYV01BNHpCM3VmdWMzV0RIcHlmUjY"
+        },
+        {
           "headline": "War against Iran expands into Lebanon as Israel battles Hezbollah - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Thu, 12 Mar 2026 13:03:10 GMT",
+          "date": "Thu, 12 Mar 2026 13:32:20 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZXVDM3hyUEo2U0tNVWhmVVRSRHNaNlFOLWx1QjFlYlUwTWRONkgwMXBPcTgxLVAwVlAwVVhDamRUU1dVQ0lKaWVLekoyTFUwdUZtaUlSU3dTci1hOGdFcklaQkx5MEhIU2hkQTB"
         },
         {
@@ -3198,7 +3208,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Thu, 12 Mar 2026 13:01:59 GMT",
+          "date": "Thu, 12 Mar 2026 13:32:37 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2JpRFIxR3hSanNULWNpV3RxU1BOZjdYZDNNc1ZKZkJoNVZoTF9MNHZNNk9hSnFuWXdwQm9RVm83bmhrUUdsemw1Vmt6TWFoMFRoU2M2b3dESXRJQl9ZYnNQbHZnWkhLeVNLS1l"
         },
         {
@@ -3212,6 +3222,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPdGJFbV91MVJBV0w4cVBCbV9BZElnSEdTNlVCclZMS09lZDlHcWxUWVRPcVJjSFN3N2FpdEVxX2FPcGZleUhNQXA3NHdsNmt5VE1FY055OWVmUVFtU1pLVzdMbjBaVXhWZ3g0anp"
         },
         {
+          "headline": "CWG Live: Much colder tomorrow after today’s record warmth, storms - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Thu, 12 Mar 2026 03:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVVRWUZ2VFdLX2dtZDI4ejVVbF9teGtDNGR5YWdtVzBHNHpQWlF3Q01DcVhJNXlHZDc5M1VUOUJaMTFUTERqN1EtdUZTQnl0ZlQ0d1VuZHJJZFp4bDVLcjNkRVhmZjg4NVRKU3J"
+        },
+        {
           "headline": "Vissel Kobe beats FC Seoul, becomes 2nd Japanese team in AFC Champions League quarterfinals - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
@@ -3220,26 +3240,6 @@
           "priority": "tertiary",
           "date": "Wed, 11 Mar 2026 14:23:46 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcE5kWXVvMnJyelhucWlYYjBKNjc2aFN3NC1aX1BmOHVIYzFvMTduUmN4d0lISnJZaGV6V0ZFTGlYWi1DX3hOOGtocXNrV3FleVNXNXUwZUpvZDBvbF9NN3A5Rm9vZ3VOUmxTcV9"
-        },
-        {
-          "headline": "Japan marks 15 years since tsunami disaster as Takaichi pushes more nuclear energy use - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Wed, 11 Mar 2026 17:56:31 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFdacUt5bXppb0xLQV9nUWcwdlhvR1REZ3NQMDd3ZlV2ZjI0M01tdFVQWG9ZbFlIZkRuRmV0Rl9JdE44Q0k4TlZ3RGQ0N3BXSllTSVRLSTZZQi1zcnVqQWFoNlIwUWdrQ1ZoY2N"
-        },
-        {
-          "headline": "Sweden extends coach Graham Potter's contract ahead of World Cup qualifying playoffs - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Thu, 12 Mar 2026 12:14:53 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0RnX2FqaVlRS0RoMHFvVXRyenJ3dVNzVTI4Y3RYWHluQkRtM2JabG5mb2RIaU5GamU0Vm0xY0lPVGJ6S1F4THBXSV94emNmQmRwaklQVmR2c1hVN1VPMF9XYlktTEpXRGxQZk4"
         }
       ],
       "reference": []

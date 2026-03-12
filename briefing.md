@@ -1,40 +1,36 @@
-Good morning, Javier. The Middle East crisis is hitting Japan's economy hard as oil prices surge past $100 a barrel following Iranian attacks on shipping in the Strait of Hormuz. Prime Minister Takaichi has [announced Japan](https://www.bloomberg.com/news/articles/2026-03-11/japan-to-release-oil-from-reserves-unilaterally-takaichi-says) will release oil from strategic reserves unilaterally, part of a coordinated G7 response she discussed in overnight emergency talks. The prime minister is firmly ruling out military involvement, stating Japan [will not send](https://www.japantimes.co.jp/news/2026/03/12/japan/politics/takaichi-no-sdf-minesweepers-in-middle-east/) minesweepers to the region despite the shipping crisis.
+Here's your briefing from Tokyo. Here's what's happening:
 
-The energy shock is already rippling through Japanese markets, with [Tokyo stocks dropping](https://japantoday.com/category/business/tokyo-stocks-drop-on-lingering-oil-supply-concerns-during-middle-east-war) on supply concerns while the yen approaches its yearly low. . Meanwhile, the Trump administration has launched new [unfair trade probes](https://japantoday.com/category/politics/update2-u.s.-opens-trade-probes-against-japan-over-a-dozen-other-countries) targeting Japan and more than a dozen other countries as it rebuilds tariff pressure.
+The U.S. has launched new [trade investigations](https://english.kyodonews.net/articles/-/72105) against Japan and more than a dozen other countries, according to Kyodo News, marking the Trump administration's latest effort to rebuild tariff pressure after the Supreme Court struck down earlier measures. The move comes as Japan and the U.S. are simultaneously [expanding classified](https://english.kyodonews.net/articles/-/72175) intelligence sharing in defense cooperation.
 
-## Business & Markets
+Prime Minister Takaichi's approval rating has [dropped to](https://www.japantimes.co.jp/news/2026/03/12/japan/takaichi-cabinet-approval-poll/) 59% in a new Japan Times poll, as her government faces multiple challenges including the escalating Middle East crisis. Takaichi confirmed Japan will [not send](https://www.japantimes.co.jp/news/2026/03/12/japan/politics/takaichi-no-sdf-minesweepers-in-middle-east/) minesweepers to the Middle East despite the Hormuz Strait blockade, but Bloomberg reports Japan will [release oil](https://www.bloomberg.com/news/articles/2026-03-11/japan-to-release-oil-from-reserves-unilaterally-takaichi-says) from its strategic reserves unilaterally to help stabilize global energy markets.
 
-• Honda faces its biggest crisis since World War II, with Reuters reporting the automaker expects a [¥900 billion loss](https://www.reuters.com/world/asia-pacific/honda-expects-fy202526-loss-up-43-bln-review-ev-strategy-2026-03-12/) this fiscal year following a $15.7 billion write-down from abandoning its aggressive EV strategy.
+**Business & Markets**
 
-• Uber, Nissan and Britain's Wayve have [announced plans](https://japantoday.com/category/tech/uber-plans-tokyo-robotaxi-trial-with-nissan-and-britain%27s-wayve) for a robotaxi trial in Tokyo, according to Japan Today, as the ride-hailing giant expands its autonomous vehicle partnerships.
+• Honda flagged its [first annual](https://www.reuters.com/world/asia-pacific/honda-expects-fy202526-loss-up-43-bln-review-ev-strategy-2026-03-12/) loss since going public, Reuters reports, projecting up to 690 billion yen ($4.6 billion) in red ink following a massive $15.7 billion charge related to its electric vehicle strategy review.
 
-• The yen is [approaching yearly lows](https://www.bloomberg.com/news/articles/2026-03-12/yen-nears-year-s-low-as-strategists-see-higher-intervention-bar) against the dollar as Bloomberg reports currency strategists believe the intervention threshold has risen substantially.
+• SoftBank's PayPay [priced its](https://www.reuters.com/world/asia-pacific/softbanks-paypay-prices-ipo-below-range-16-share-sources-say-2026-03-11/) IPO at $16 per share, below the expected range, according to Reuters sources, in what could signal broader challenges for Japanese tech offerings in current market conditions.
 
-• Oil market volatility is testing Japan's decades of energy crisis preparation, with Bloomberg examining whether the country's [strategic stockpiles](https://www.bloomberg.com/news/articles/2026-03-12/can-japan-s-oil-and-gas-stockpiles-weather-a-middle-east-crisis) can weather the current Middle East turmoil.
+• Foreign investors sold the [most net](https://www.bloomberg.com/news/articles/2026-03-12/foreigners-sell-most-net-japan-stocks-futures-since-november) Japanese stocks and futures since November, Bloomberg reports, as Middle East tensions and trade uncertainty weigh on sentiment.
 
-## Government & Policy
+• The Iran crisis may [embolden the](https://www.reuters.com/world/asia-pacific/iran-war-may-embolden-bojs-hawkish-push-despite-growth-risks-2026-03-12/) Bank of Japan's hawkish stance despite growth risks, Reuters notes, as inflationary pressures from oil price spikes could justify further rate hikes.
 
-• Prime Minister Takaichi's approval rating has [dropped to 59%](https://www.japantimes.co.jp/news/2026/03/12/japan/takaichi-cabinet-approval-poll/) in the latest Japan Times poll as her administration grapples with multiple crises.
+**Government & Policy**
 
-• The Diet is set for a heated showdown tomorrow as the ruling party plans to [force a budget vote](http://www3.nhk.or.jp/news/html/20260312/k10015073551000.html) over opposition protests, NHK reports, while Takaichi has [backed her education minister](https://www.japantimes.co.jp/news/2026/03/12/japan/politics/takaichi-scandal-education-minister/) following affair allegations.
+• Opposition parties [submitted a](http://www3.nhk.or.jp/news/html/20260312/k10015073941000.html) motion to dismiss Budget Committee Chairman Sakamoto, NHK reports, as political tensions escalate over budget passage procedures.
 
-• Defense cooperation with Washington is deepening as Kyodo reports Japan and the US will [expand classified information](https://english.kyodonews.net/articles/-/72173) sharing arrangements.
+• Takaichi [backed her](https://www.japantimes.co.jp/news/2026/03/12/japan/politics/takaichi-scandal-education-minister/) education minister following reports of an extramarital affair, the Japan Times reports, despite calls for his resignation from opposition lawmakers.
 
-## What to Watch
+**Coverage Flags**
 
-• NHK's flagship morning show tomorrow will feature extensive coverage of the Iranian crisis impact on Japanese markets, plus Honda's business restructuring challenges.
+International outlets are providing more detailed coverage of Japan's energy security preparations than domestic press, particularly Bloomberg's analysis of Japan's decades-long crisis planning. The U.S. trade investigation story is being covered more aggressively by Reuters and Kyodo than by major Japanese newspapers.
 
-## Coverage Flags
-
-International outlets appear ahead on the Honda story's global implications, while Japanese media is focusing heavily on domestic political fallout from the energy crisis. The robotaxi announcement is getting limited Japanese coverage despite significant tech sector implications.
-
-## Sources
-
+**Sources**
 • [NHK World](http://www3.nhk.or.jp/)
 • [Kyodo News](https://english.kyodonews.net/)
 • [Japan Times](https://www.japantimes.co.jp/)
-• [Japan Today](https://japantoday.com/)
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp/)
 • [Reuters](https://www.reuters.com/)
 • [Bloomberg](https://www.bloomberg.com/)
+• [AP News](https://apnews.com/)
 
-*Reference materials: Captured homepage screenshots from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan, plus Twitter feeds from PM Takaichi and NHK Ohayou, alongside FT, WSJ and Economist Asia pages.*
+*Reference materials: Screenshots captured from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from @takaichi_sanae and @nhk_ohayou*

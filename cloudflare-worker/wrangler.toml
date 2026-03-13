@@ -2,5 +2,7 @@ name = "japan-briefing-refresh"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
-# After deploying, your worker URL will be:
-# https://japan-briefing-refresh.<your-subdomain>.workers.dev
+# Cron trigger: 22:00 UTC = 7am JST
+# Fires the workflow even if GitHub skips the cron due to repo inactivity
+[triggers]
+crons = ["0 22 * * *"]

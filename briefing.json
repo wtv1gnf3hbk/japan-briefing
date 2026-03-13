@@ -4,15 +4,15 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-03-13T22:02:57.761Z",
-    "generatedTimestamp": 1773439377761
+    "generated": "2026-03-13T22:36:05.678Z",
+    "generatedTimestamp": 1773441365678
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
     "totalStories": 107,
     "totalScreenshots": 11,
-    "elapsed": "103.4s"
+    "elapsed": "105.8s"
   },
   "stories": {
     "all": [
@@ -23,7 +23,7 @@
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Sat, 14 Mar 2026 05:30:47 +0900",
+        "date": "Sat, 14 Mar 2026 07:02:39 +0900",
         "description": "1日あたりの利用者が1600万人に上る日本最大の鉄道会社、JR東日本は、14日、運賃を平均7.1％、値上げしました。値上げは消費税への対応を除いて1987年の会社発足以来、初めてです。"
       },
       {
@@ -33,7 +33,7 @@
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Sat, 14 Mar 2026 06:30:30 +0900",
+        "date": "Sat, 14 Mar 2026 07:10:05 +0900",
         "description": "アメリカとイスラエルによるイランへの軍事作戦が始まって14日で2週間となります。トランプ大統領は、「終わるまでに長くはかからない」という考えを示す一方、イラン側は徹底抗戦の構えで、原油価格が上昇する中、双方の攻撃が収束する見通しは立っていません。"
       },
       {
@@ -287,104 +287,104 @@
         "description": "Long viewed as just a sweet sip, \"umeshu\" is now getting the spotlight, thanks to a growing breed of producers who are showcasing the exciting possibilities of the beverage."
       },
       {
-        "headline": "Moai Statue Shows Lasting Bond Between Miyagi Pref. Town, Easter Island; Stands as Sign of Recovery from Devastation",
-        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260314-316259/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "Judge quashes subpoenas in Justice Department's investigation of Fed chair Jerome Powell",
+        "url": "https://japantoday.com/category/world/judge-quashes-justice-department-subpoena-of-federal-reserve-in-blow-to-investigation",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 22:00:18 +0000",
-        "description": "EASTER ISLAND, Chile — The late Chilean sculptor Benedicto Tuki created a moai statue Chile gifted to the town of Minami-Sanriku, Miyagi Prefecture, as a symbol of recovery from the Great East Japan E"
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 20:55:06 +0000",
+        "description": "A federal judge on Friday quashed Justice Department subpoenas issued to the Federal Reserve in January, a severe blow to an investigation that has already attracted strong criticism…"
       },
       {
-        "headline": "Japan Defense Agency to Develop AI Intelligence Analysis System for Ground Self-Defense Force by 2027",
-        "url": "https://japannews.yomiuri.co.jp/politics/defense-security/20260314-316288/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "Drone strikes and clashes in eastern Congo threaten region's peace efforts",
+        "url": "https://japantoday.com/category/world/drone-strikes-and-clashes-in-eastern-congo-threaten-region%27s-peace-efforts",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 17:00:55 +0000",
-        "description": "The Acquisition, Technology and Logistics Agency is moving to develop an AI-powered intelligence analysis system for the Self-Defense Forces."
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 20:55:57 +0000",
+        "description": "Congo’s government and Rwanda-backed M23 rebels on Friday accused each other of violating terms of a ceasefire deal aimed at ending decadeslong fighting and bringing a permanent peace…"
       },
       {
-        "headline": "Government to Establish ‘Command Center’ for Developing Nuclear Power Personnel; Hopes to Replenish Ranks of Aging Industry, Reverse Post-Fukushima Decline",
-        "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260313-316297/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "Pakistani airstrikes cause civilian casualties in Kabul, Taliban and U.N. say",
+        "url": "https://japantoday.com/category/world/pakistani-airstrikes-cause-civilian-casualties-in-kabul-taliban-and-un-say1",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 12:00:31 +0000",
-        "description": "The government intends to establish a new organization in fiscal 2026 that will serve as a “command center” for industry-academia-government collaboration, with the aim of strengthening the developmen"
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 20:55:19 +0000",
+        "description": "Pakistan bombed the fuel depot of private airline Kam Air near Afghanistan's Kandahar airport, the ruling Taliban said on Friday, stepping up the neighbours' worst conflict in years,…"
       },
       {
-        "headline": "CARTOON OF THE DAY (March 13)",
-        "url": "https://japannews.yomiuri.co.jp/features/cartoon/20260313-316363/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "Israel destroys bridge in Lebanon, threatens Gaza-scale destruction",
+        "url": "https://japantoday.com/category/world/israel-destroys-bridge-in-lebanon-threatens-gaza-scale-destruction2",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 09:59:29 +0000",
-        "description": "."
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 20:54:25 +0000",
+        "description": "Israel destroyed a bridge in southern Lebanon on Friday and dropped leaflets in Beirut threatening Gaza-scale devastation as it deployed more troops to fight Iran-backed Hezbollah and warned…"
       },
       {
-        "headline": "Masako Ikeda, Voice of Maetel in ‘Galaxy Express 999,&#8217; Dies at 87",
-        "url": "https://japannews.yomiuri.co.jp/society/obituaries/20260313-316352/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "Iran plane leaves India with sailors, bodies as Indian ships win Hormuz reprieve",
+        "url": "https://japantoday.com/category/world/iran-plane-leaves-india-with-sailors-bodies-as-indian-ships-win-hormuz-reprieve",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 09:39:55 +0000",
-        "description": "Masako Ikeda, Voice of Maetel in ‘Galaxy Express 999,’ Dies at 87"
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 20:54:50 +0000",
+        "description": "A chartered plane arranged by Iran departed southern India late on Friday carrying some sailors from a naval vessel that had docked in ‌the country, as well as…"
       },
       {
-        "headline": "Paw Patrol: Larry Marks 15 Years at 10 Downing Street",
-        "url": "https://japannews.yomiuri.co.jp/news-services/afp-jiji/20260313-316151/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "Zelenskyy says Russia oil waiver won't help end war",
+        "url": "https://japantoday.com/category/world/zelenskiy-says-russia-oil-waiver-won%27t-help-end-war",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 09:24:27 +0000",
-        "description": "LONDON (AFP-Jiji) — Larry the cat, the U.K.’s most famous feline, marked 15 years on Feb. 15 as the country’s chief mouser patrolling the corridors of power around number 10 Downing Street."
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 20:55:33 +0000",
+        "description": "Ukrainian President Volodymyr Zelenskyy said on Friday that a U.S. decision to ease ‌sanctions on Russian oil was not helping to end the conflict in Ukraine as he…"
       },
       {
-        "headline": "Astronomers Puzzle over ‘inside out’ Planetary System",
-        "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260313-316134/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "Trump administration lashes out at CNN over Iran war",
+        "url": "https://japantoday.com/category/world/trump-administration-lashes-out-at-cnn-over-iran-war",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 09:18:22 +0000",
-        "description": "WASHINGTON (Reuters) — Astronomers have observed a planetary system that challenges current planet formation theories, with a rocky planet that formed beyond the orbits of its gaseous neighbors, possi"
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 20:54:56 +0000",
+        "description": "The Pentagon and White House slammed CNN over its Iran war coverage Friday -- with Defense Secretary Pete Hegseth saying he looked forward to an ally of President…"
       },
       {
-        "headline": "Fossils of New Species of Huge Spinosaurus Unearthed in Niger",
-        "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260313-316142/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "Trump says U.S. will hit Iran 'very hard' after easing sanctions on Russian oil",
+        "url": "https://japantoday.com/category/world/trump-says-us-will-hit-iran-%27very-hard%27-after-easing-sanctions-on-russian-oil2",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 09:11:22 +0000",
-        "description": "At a remote and barren Sahara desert site in Niger, scientists have unearthed fossils of a new species of Spinosaurus, among the biggest of the meat-eating dinosaurs, notable for its large blade-shape"
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 20:54:41 +0000",
+        "description": "President Donald Trump said the U.S. was going to be hitting Iran &quot;very hard over the next week&quot;, shortly after issuing a partial 30-day waiver for purchases of…"
       },
       {
-        "headline": "Milano Cortina 2026: Japan&#8217;s Momoka Muraoka Takes Silver in Women&#8217;s Giant Slalom Sitting at Paralympics, Becomes Most Decorated Japanese Winter Para Athlete",
-        "url": "https://japannews.yomiuri.co.jp/sports/olympics-paralympics/20260313-316317/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "U.S. job openings rise to a better-than-expected 7 million despite sluggish labor market",
+        "url": "https://japantoday.com/category/business/us-job-openings-rise-to-a-better-than-expected-7-million-despite-sluggish-labor-market",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 08:53:37 +0000",
-        "description": "CORTINA D’AMPEZZO, Italy — Alpine skier Momoka Muraoka, 29, took silver in the women’s giant slalom sitting race at the Milano Cortina Winter Paralympics on Thursday."
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 20:59:23 +0000",
+        "description": ""
       },
       {
-        "headline": "Sex Lives of Neanderthal Men — and Human Women",
-        "url": "https://japannews.yomiuri.co.jp/news-services/afp-jiji/20260313-316140/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
+        "headline": "Two long-lost episodes of 'Doctor Who' found",
+        "url": "https://japantoday.com/category/entertainment/two-long-lost-episodes-of-%27doctor-who%27-have-been-found.-fans-will-soon-be-able-to-watch-them",
+        "source": "Japan Today",
+        "sourceId": "japan_today",
         "category": "national",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 08:45:54 +0000",
-        "description": "NEW YORK (AFP-Jiji) — Dating out of your league? New research says it’s a tale as old as time. A study out Feb. 26 in Science argues that Neanderthal men and human women were particularly inclined to "
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 21:04:59 +0000",
+        "description": "Over six decades of “Doctor Who,” the intergalactic adventurer’s adversaries have included evil robots, rampaging Yeti — and the BBC, which erased many early episodes of the now-iconic…"
       },
       {
         "headline": "Japan to consider whether to buy Russian crude following US sanctions waiver - Reuters",
@@ -427,6 +427,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkFVNjZDNUpTbEhQdGR3aDFDSlp3SFMtRXlWT1N0Z2pDX3ZUU1NqR3VwMGlMQzRLdjlCOVJJTFZIV2FSMTJHejBzOXYwZmFLZlhPOXpmYVlVeklwM0UwTmhHc29TeG50V0FjUFR"
       },
       {
+        "headline": "Honda shares slide nearly 6% as automaker faces first annual loss - Reuters",
+        "url": "https://www.reuters.com/business/autos-transportation/honda-shares-slide-more-than-5-automaker-faces-first-annual-loss-2026-03-13/",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 00:26:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTFrZkZYZEdHczNaNnh5emRUYm85eU9pcmlSdjdOcVgyRjJVUHFWVzFSMjhqeGl1SmlmMXBLZU1ycU55UGsyM2l4bmwyUmJ5QkU4aGNVTmZJZnhvTUNQbTJZdGVhckxZNUFiZ01"
+      },
+      {
         "headline": "Stocks dip, dollar strong as Iran conflict keeps oil prices high - Reuters",
         "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-03-13/",
         "source": "Reuters Japan",
@@ -435,16 +445,6 @@
         "priority": "secondary",
         "date": "Fri, 13 Mar 2026 02:02:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zN2lIVmZmR0pnVG5kTVpkVUVaRjVYUVI0eEZsd0c3V3I2eUdzbk9iT3diaWpuMkppMUxDSE5EOW5BWS1sZWo4bDRYZXpUT3EtQWVEQmE0dmk0NVBqbjVQRTl3WGM4ajU4QzNvQmN"
-      },
-      {
-        "headline": "Honda shares slide nearly 6% as automaker faces first annual loss - Reuters",
-        "url": "https://www.reuters.com/business/autos-transportation/honda-shares-slide-more-than-5-automaker-faces-first-annual-loss-2026-03-13/",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 13 Mar 2026 00:26:40 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTFrZkZYZEdHczNaNnh5emRUYm85eU9pcmlSdjdOcVgyRjJVUHFWVzFSMjhqeGl1SmlmMXBLZU1ycU55UGsyM2l4bmwyUmJ5QkU4aGNVTmZJZnhvTUNQbTJZdGVhckxZNUFiZ01"
       },
       {
         "headline": "Deja vu? - Reuters",
@@ -503,18 +503,8 @@
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Fri, 13 Mar 2026 08:01:32 GMT",
+        "date": "Fri, 13 Mar 2026 09:59:30 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5\" target=\"_blank\"&gt"
-      },
-      {
-        "headline": "ROTC students at Old Dominion University subdued and killed shooter who left 1 dead, 2 hurt - AP News",
-        "url": "https://apnews.com/article/old-dominion-university-virginia-gunman-dead-e49b6d42f2b76d2ad92a2ee72833e9ad",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 13 Mar 2026 03:06:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjluQ2pTdm1XSW5heVdKZ1VhMHIxNnphY2UxWHJRbkhiRkQwNDVodWJ2R2xnNVBvSkhpSU1NZEp2ckdCYUc4OTk3V2FsU1hXSEZ1VnFGNzVDeXNDRE9VZ09PTUZ4bnQ5cmNrTEU"
       },
       {
         "headline": "All 6 crew members on a US refueling plane that crashed in Iraq are dead, US military says - AP News",
@@ -577,14 +567,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmxNTHlEdERCRXNDMVJFQVJDWWN0MGY2LVNfV05tOVZXZlRmd2tqUDJLMklROHpIMkNsdGlERm1INkZWZ3NoYWlXbEJfUXpoT0RxbGdpdF9BUDlfcU9fU1Ixa3BvUU1waUV3enN"
       },
       {
-        "headline": "Live Nation employee mocks customers as 'so stupid' in internal messages released in court case - AP News",
-        "url": "https://apnews.com/article/livenation-antitrust-ticketmaster-states-6248ab6f799468eda2447ed16d73515a",
+        "headline": "Trump bragged about low gas prices. The Iran conflict has him doing an about-face - AP News",
+        "url": "https://apnews.com/article/trump-iran-oil-hormuz-7abbe9d8140de1e61355fb3ddb94639d",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 22:04:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUW5xQS04MFR5QW1FdldTLThNQTgtWVpOU01sV3kwQTMxMm84TUdmV0dKZU9neVg4X0RIaFUtSGFPUXRHOVZ5cnNScDV4TDJNdWxiLU11NWVxMGV6c0k4U19TN3VWWTVKM3pKWXJ"
+        "date": "Fri, 13 Mar 2026 01:16:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakY4Tm80Ry1wdTczQlBkUmtPYkR3cUQ3UVVDZWdadVJMVU1tZDZRMlVEYlFEY3pEdWNQajRYM3N0N0dWc2xObHNQaTVVUWVhcTA2VmJFNVk1YzlEeXR4ZTA1MXY1dnNkOTVtc1Z"
+      },
+      {
+        "headline": "US military refueling plane crashes in Iraq and rescue is underway - AP News",
+        "url": "https://apnews.com/article/us-military-aircraft-down-loss-iraq-6d182239315cf9d2a20c669c5ac8418d",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 08:08:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0tSS0stN1BwdHpCOTZ0ZzFBaHlPTkVtTTFEOWgzRzFhSVpFRVk0WnRrdm91RG1Ra09TUS1taDJpaW5jZmczUUYxVFBrWFh3bFU4UWxDc25sQkdnT282Wm80UVhkd05DMXU0Nkl"
       },
       {
         "headline": "Thousands of Chinese boats mass at sea, raising questions - Yahoo News Singapore",
@@ -607,24 +607,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDNGVmJaTVMzdHFReGFoZFVMN1RtYS1laURfWlFhRG9INHNWOXplYjM3MWlNaWtfNzNOR1doUmZnM2hBc1V5U002VE56SHB1ZlFZTzktZ2RnMFFLQmxtWWtkR2hKSDJ1SzU4aU9"
       },
       {
-        "headline": "MAGA Loses It Over Latest Republican Embarrassment - Yahoo News Canada",
-        "url": "https://ca.news.yahoo.com/maga-loses-over-latest-republican-220734599.html",
-        "source": "AFP Japan",
-        "sourceId": "afp_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 22:07:34 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB0WWwxb01BVEFyLXRCVmhUUjl0RHkyZE5XRkJZdk9kZHdPUnpIaFhvT1UxM1RFQWZCSEJDdmtPSk5UU1pVTTN3QVN1MU5Pb1JJUEkxaFJ3eFRFLWhJX3k4dWhldnVHeXQ1V0NmaFM"
-      },
-      {
         "headline": "'We're not wombs': Japan women seek rights to sterilisation - Yahoo News UK",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_422e2ac5-b73e-4513-8aa5-6ffeee37f196",
+        "url": "https://uk.news.yahoo.com/were-not-wombs-japan-women-043517834.html",
         "source": "AFP Japan",
         "sourceId": "afp_japan",
         "category": "wire",
         "priority": "secondary",
         "date": "Fri, 13 Mar 2026 04:35:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1ocjY0Vjl4ck9QbVZhaF9vZnZxRmlFRnpHQ2x3RXltT25uSTBwWTNHZ241NVMtTTFLX3NmanhCUmdhSHVNdEpfSTFzbHdTeXNWZ05UbXptU3hKZS1EWUhrT2diRnJXRjl2RnlFdlN"
+      },
+      {
+        "headline": "Japan's Prime Minister Sparks Health Concerns After She's Seen Struggling to Stand on Video Ahead of Trump Summit - Yahoo News UK",
+        "url": "https://uk.news.yahoo.com/japans-prime-minister-sparks-health-223033799.html",
+        "source": "AFP Japan",
+        "sourceId": "afp_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 22:30:33 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUEzY1Vnb05RSFFxaUdlSFRBVWU5RGNWZ3dIUjlSRnRfVTVUM2theFVSYU5lUTg3Ry1zbmE0eXNkbjFvaHVRWDVtMVJQWWhtWDl3M29zSVl5MTdLRWZhelBMRUhpOXRpSXRlOW1"
       },
       {
         "headline": "Presidential office says purported letter by Brazilian leader praising South Korea is fabricated - Yahoo News Malaysia",
@@ -667,6 +667,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRENJYy1HWENrN2NDazIxSlY5QXZWdVZhVURFN0lEX3BNSi1xdUI5b0JyNTlkSTRhTFh4S3oyRHk3Tl91T0tKYXdLczZUTEZXZzFsQXF2b1AtSDNDVGp1VkhDZXFreW1mc2JyQkl"
       },
       {
+        "headline": "How Iranians are communicating through internet blackout - Yahoo News Singapore",
+        "url": "https://sg.news.yahoo.com/iranians-communicating-internet-blackout-163109273.html",
+        "source": "AFP Japan",
+        "sourceId": "afp_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 21:51:57 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaFFDdkkxMmtSSE5QbzJDa1hsQ1hMSDdZajZ5THNsT0tIUFRlcEZZMkNMVVU5d0dTSG1qZFdIeHRsZnFYbFlwVmdlVHBTaTRjWi1MM1dKX3pqY241X2hoclRBVVFFT3VzWjhfRlp"
+      },
+      {
         "headline": "Venezuela leader's first foreign trip abruptly canceled - Yahoo News Singapore",
         "url": "https://sg.news.yahoo.com/venezuela-leaders-first-foreign-trip-231429776.html",
         "source": "AFP Japan",
@@ -675,16 +685,6 @@
         "priority": "secondary",
         "date": "Fri, 13 Mar 2026 02:02:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHlpMnVkanR4WXBBUC1GcDhyUkZPb2tqeFZOT05TbElCY1RXNVVTYnBHNGFaMXBObGFpeExOYWwwYTFmTXUwb3pLZ2g3SERMOXhSQ2IzdGNJOTlqQ0xGYVNKejNCcFNUdUhkbkc"
-      },
-      {
-        "headline": "Cuba releases prisoners, confirms talks with US - Yahoo News Singapore",
-        "url": "https://sg.news.yahoo.com/oil-starved-cuba-confirms-talks-150044222.html",
-        "source": "AFP Japan",
-        "sourceId": "afp_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 13 Mar 2026 20:56:21 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQjd4SmxYSm12MlowaTZObk02UFBZeEwtRmdFdTNsQk1rUUptcXNfbzB5cFhUUFhEZ2FkSm1XZS1UaWdkZWMtNU04d1c2dTJxWDRfRzl2V2Nlb2NnXzYyLURnS2RBWVNsX2FPekp"
       },
       {
         "headline": "The US may move some of its anti-missile system - and it's sparking unease in South Korea",
@@ -937,16 +937,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0Y3Skk0T1l1UVBCQUp3VXloT3RQR19sOHBQNjh0STl3WkdVS3VzZXcwOXN4QkxlSHBhbGlpUHlfdS02ODR4ZmNwSnhTMHBibWpIOWFuRGxKbzZVYThiRkFmWE0tMEZFY2xHYmN"
       },
       {
-        "headline": "SoftBank’s PayPay Keeps Dual Listing on Table After Solid US IPO - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
-        "source": "Bloomberg Japan",
-        "sourceId": "bloomberg_japan",
-        "category": "competitors",
-        "priority": "secondary",
-        "date": "Fri, 13 Mar 2026 04:29:43 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlRVNk4yOG9wZ3pJNlhIcjJzTk1mTG84bENQLVdZOUxYalBORFMtelY3eDVmMkIzcV9qQzVaa2JUeDYtbDl1Y2pLc3JlbFlhLTdIM2U4YjllQXVNOFFacmJzaF8yTXJ3RXl1RVV"
-      },
-      {
         "headline": "Rush Into Leveraged Bets Sparks Fears of Fresh Asian Stock Rout - Bloomberg.com",
         "url": "https://www.bloomberg.com/news/articles/2026-03-13/rush-into-leveraged-bets-sparks-fears-of-fresh-asian-stock-rout",
         "source": "Bloomberg Japan",
@@ -955,6 +945,16 @@
         "priority": "secondary",
         "date": "Fri, 13 Mar 2026 00:32:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbHN4cWNPSlVZRGVYY2xSZlVFWlROZVVKQVZaUWVVNjZDSWlRcmlNYXZuN3lqNF9CZzcwcVhKTnRCMS1DcWZWLV9FOGtZZnpOa0lFdHZIemRxV2lsemdCYWxyVVVRV1Qya0hJQTV"
+      },
+      {
+        "headline": "SoftBank’s PayPay Keeps Dual Listing on Table After Solid US IPO - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
+        "source": "Bloomberg Japan",
+        "sourceId": "bloomberg_japan",
+        "category": "competitors",
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 04:13:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlRVNk4yOG9wZ3pJNlhIcjJzTk1mTG84bENQLVdZOUxYalBORFMtelY3eDVmMkIzcV9qQzVaa2JUeDYtbDl1Y2pLc3JlbFlhLTdIM2U4YjllQXVNOFFacmJzaF8yTXJ3RXl1RVV"
       },
       {
         "headline": "What a War-Rattled Dubai Can Learn from Hong Kong’s Expat Exodus - Bloomberg.com",
@@ -977,14 +977,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnlXNmkwYVp0b3ZLQmFvV3FWSjBMaUVTM1hGdFZhWUQ3d2dpcUswNnB5NlVtbjZiWTdlU2FTSlkzVnRCdkNDSkxVMFFjZUZzZ25MY1RvbU9scHlFbEFRdlhVSWgxOUdVY2w4Y0R"
       },
       {
-        "headline": "US Allies Near China on Edge as Weapons Shift From Asia to Iran - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-12/us-allies-near-china-on-edge-as-weapons-shift-from-asia-to-iran",
+        "headline": "Killing of Modi’s Invited Iranian Guests Strains US-India Ties - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/features/2026-03-13/deadly-us-strike-on-iranian-warship-puts-india-s-modi-under-pressure",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
         "category": "competitors",
         "priority": "secondary",
-        "date": "Thu, 12 Mar 2026 22:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQjVzR2JLMEhLWlBxX2xmSFpuYS1HSnMwY0dHd0dkc1dXcmR1a28waXdqU1lXeGx1OGtWUUtHYS1NN3RITGJRckFhcWlaZmE4X01qM1RiRHhQbWJOTzVvN1pTczdSMm1ucVZiTjF"
+        "date": "Fri, 13 Mar 2026 04:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUxFWmxBc3k4Q01Zd044MmxMS3ExNFItdjVDM080Z2xOOElRVmIxVUZUZGRzZWVOR0o0cERxU3kxcWt0QlBvV09rUlpNcmN2U3dFNTZiWElzS015NndyWlctOHA1QUxQMTZqdnR"
       },
       {
         "headline": "Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post",
@@ -993,7 +993,7 @@
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Fri, 13 Mar 2026 20:59:10 GMT",
+        "date": "Fri, 13 Mar 2026 22:04:09 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVEaEZjNzB3dmVzRjJSR2hXQXh2cUtIbEJ4RkUwaHJ5el9LMjVvVUxZYlZiWVpXM0FfZGlaZS14VVRobFp0WVg3ZEhpV2ZjdWJ5UDZwRGt3NkFQT2ZUR1g0OHZlMXRYZUp2QWR"
       },
       {
@@ -1013,7 +1013,7 @@
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Fri, 13 Mar 2026 21:33:40 GMT",
+        "date": "Fri, 13 Mar 2026 21:50:38 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWdjaVNkd1NmUDlzalBFanpIRHM5NWFjazFjTW5HVW4xQ0preDNNRFJSbzJ4NV9DZmxHRFZ0RGNtcDN2d2VFQktBb0M0TTN2LUxta1UxZUZrRWpjeVJUdFEwWXFuSWU5U0p3Zm9"
       },
       {
@@ -1025,6 +1025,16 @@
         "priority": "tertiary",
         "date": "Fri, 13 Mar 2026 16:00:36 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPejFpSGxTVnBWNml1OFdMdmNzU093ZHdja0RkSGZLUlBMSlJhSEFjRFlRb3RFcnMwRTRoMVIzOGZTTkJyQlhrNlFMdmR2SGhqdzZBUTdtaUN0UldmQnJpYmtNejhGM0xoaWVBZ0l"
+      },
+      {
+        "headline": "A voter’s guide to the redistricting referendum in Virginia - The Washington Post",
+        "url": "chrome-error://chromewebdata/",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Fri, 13 Mar 2026 17:00:30 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPck4yRlVHRTdZR1l0SndoR2pGLTdpY2JRQ2RQdGVmS3Y1dFVLU3dER01PYWxsMEcyd1NYUHRYdUI3MXB4bG80RVNtWjRuNmRlMjF6enlzT3FQQXZKTU4zOVdwOTVlcTFBUmN5Y1l"
       },
       {
         "headline": "Lebanon appeals to Israel’s allies to intervene and says hundreds are killed - The Washington Post",
@@ -1075,16 +1085,6 @@
         "priority": "tertiary",
         "date": "Fri, 13 Mar 2026 18:18:51 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEZiSkFSemNYd28yeWNOTnFCdVBqMjhrdk9zdVMxc1ZUQld1N21LVTB6RUt6dGlIdkdKY3VsWlc1WlJBTjY3bVBZVkkwMEwwdE9hRVlwYzVBaFZEMjhia01xSnV3ZVpRRlhxaDJ"
-      },
-      {
-        "headline": "US military refueling plane goes down in Iraq and rescue is underway - The Washington Post",
-        "url": "chrome-error://chromewebdata/",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Fri, 13 Mar 2026 00:30:13 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFVoVTlrU1VoLUloQ3pfaXZHNkN5MEZSSHJMbHV2NnBHZ0laNG42NUhJTTc2cE1VWUNOMXA3RENhWi1SOU51cVpzX0p4cjJLaDhEbnF5R3BZb3Q3cWNla3V5cnJabV9qbWQ5YTg"
       }
     ],
     "byCategory": {
@@ -1096,7 +1096,7 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sat, 14 Mar 2026 05:30:47 +0900",
+          "date": "Sat, 14 Mar 2026 07:02:39 +0900",
           "description": "1日あたりの利用者が1600万人に上る日本最大の鉄道会社、JR東日本は、14日、運賃を平均7.1％、値上げしました。値上げは消費税への対応を除いて1987年の会社発足以来、初めてです。"
         },
         {
@@ -1106,7 +1106,7 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sat, 14 Mar 2026 06:30:30 +0900",
+          "date": "Sat, 14 Mar 2026 07:10:05 +0900",
           "description": "アメリカとイスラエルによるイランへの軍事作戦が始まって14日で2週間となります。トランプ大統領は、「終わるまでに長くはかからない」という考えを示す一方、イラン側は徹底抗戦の構えで、原油価格が上昇する中、双方の攻撃が収束する見通しは立っていません。"
         },
         {
@@ -1260,104 +1260,104 @@
           "description": "Long viewed as just a sweet sip, \"umeshu\" is now getting the spotlight, thanks to a growing breed of producers who are showcasing the exciting possibilities of the beverage."
         },
         {
-          "headline": "Moai Statue Shows Lasting Bond Between Miyagi Pref. Town, Easter Island; Stands as Sign of Recovery from Devastation",
-          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260314-316259/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "Judge quashes subpoenas in Justice Department's investigation of Fed chair Jerome Powell",
+          "url": "https://japantoday.com/category/world/judge-quashes-justice-department-subpoena-of-federal-reserve-in-blow-to-investigation",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 22:00:18 +0000",
-          "description": "EASTER ISLAND, Chile — The late Chilean sculptor Benedicto Tuki created a moai statue Chile gifted to the town of Minami-Sanriku, Miyagi Prefecture, as a symbol of recovery from the Great East Japan E"
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:55:06 +0000",
+          "description": "A federal judge on Friday quashed Justice Department subpoenas issued to the Federal Reserve in January, a severe blow to an investigation that has already attracted strong criticism…"
         },
         {
-          "headline": "Japan Defense Agency to Develop AI Intelligence Analysis System for Ground Self-Defense Force by 2027",
-          "url": "https://japannews.yomiuri.co.jp/politics/defense-security/20260314-316288/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "Drone strikes and clashes in eastern Congo threaten region's peace efforts",
+          "url": "https://japantoday.com/category/world/drone-strikes-and-clashes-in-eastern-congo-threaten-region%27s-peace-efforts",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 17:00:55 +0000",
-          "description": "The Acquisition, Technology and Logistics Agency is moving to develop an AI-powered intelligence analysis system for the Self-Defense Forces."
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:55:57 +0000",
+          "description": "Congo’s government and Rwanda-backed M23 rebels on Friday accused each other of violating terms of a ceasefire deal aimed at ending decadeslong fighting and bringing a permanent peace…"
         },
         {
-          "headline": "Government to Establish ‘Command Center’ for Developing Nuclear Power Personnel; Hopes to Replenish Ranks of Aging Industry, Reverse Post-Fukushima Decline",
-          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260313-316297/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "Pakistani airstrikes cause civilian casualties in Kabul, Taliban and U.N. say",
+          "url": "https://japantoday.com/category/world/pakistani-airstrikes-cause-civilian-casualties-in-kabul-taliban-and-un-say1",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 12:00:31 +0000",
-          "description": "The government intends to establish a new organization in fiscal 2026 that will serve as a “command center” for industry-academia-government collaboration, with the aim of strengthening the developmen"
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:55:19 +0000",
+          "description": "Pakistan bombed the fuel depot of private airline Kam Air near Afghanistan's Kandahar airport, the ruling Taliban said on Friday, stepping up the neighbours' worst conflict in years,…"
         },
         {
-          "headline": "CARTOON OF THE DAY (March 13)",
-          "url": "https://japannews.yomiuri.co.jp/features/cartoon/20260313-316363/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "Israel destroys bridge in Lebanon, threatens Gaza-scale destruction",
+          "url": "https://japantoday.com/category/world/israel-destroys-bridge-in-lebanon-threatens-gaza-scale-destruction2",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:59:29 +0000",
-          "description": "."
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:54:25 +0000",
+          "description": "Israel destroyed a bridge in southern Lebanon on Friday and dropped leaflets in Beirut threatening Gaza-scale devastation as it deployed more troops to fight Iran-backed Hezbollah and warned…"
         },
         {
-          "headline": "Masako Ikeda, Voice of Maetel in ‘Galaxy Express 999,&#8217; Dies at 87",
-          "url": "https://japannews.yomiuri.co.jp/society/obituaries/20260313-316352/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "Iran plane leaves India with sailors, bodies as Indian ships win Hormuz reprieve",
+          "url": "https://japantoday.com/category/world/iran-plane-leaves-india-with-sailors-bodies-as-indian-ships-win-hormuz-reprieve",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:39:55 +0000",
-          "description": "Masako Ikeda, Voice of Maetel in ‘Galaxy Express 999,’ Dies at 87"
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:54:50 +0000",
+          "description": "A chartered plane arranged by Iran departed southern India late on Friday carrying some sailors from a naval vessel that had docked in ‌the country, as well as…"
         },
         {
-          "headline": "Paw Patrol: Larry Marks 15 Years at 10 Downing Street",
-          "url": "https://japannews.yomiuri.co.jp/news-services/afp-jiji/20260313-316151/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "Zelenskyy says Russia oil waiver won't help end war",
+          "url": "https://japantoday.com/category/world/zelenskiy-says-russia-oil-waiver-won%27t-help-end-war",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:24:27 +0000",
-          "description": "LONDON (AFP-Jiji) — Larry the cat, the U.K.’s most famous feline, marked 15 years on Feb. 15 as the country’s chief mouser patrolling the corridors of power around number 10 Downing Street."
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:55:33 +0000",
+          "description": "Ukrainian President Volodymyr Zelenskyy said on Friday that a U.S. decision to ease ‌sanctions on Russian oil was not helping to end the conflict in Ukraine as he…"
         },
         {
-          "headline": "Astronomers Puzzle over ‘inside out’ Planetary System",
-          "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260313-316134/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "Trump administration lashes out at CNN over Iran war",
+          "url": "https://japantoday.com/category/world/trump-administration-lashes-out-at-cnn-over-iran-war",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:18:22 +0000",
-          "description": "WASHINGTON (Reuters) — Astronomers have observed a planetary system that challenges current planet formation theories, with a rocky planet that formed beyond the orbits of its gaseous neighbors, possi"
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:54:56 +0000",
+          "description": "The Pentagon and White House slammed CNN over its Iran war coverage Friday -- with Defense Secretary Pete Hegseth saying he looked forward to an ally of President…"
         },
         {
-          "headline": "Fossils of New Species of Huge Spinosaurus Unearthed in Niger",
-          "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260313-316142/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "Trump says U.S. will hit Iran 'very hard' after easing sanctions on Russian oil",
+          "url": "https://japantoday.com/category/world/trump-says-us-will-hit-iran-%27very-hard%27-after-easing-sanctions-on-russian-oil2",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:11:22 +0000",
-          "description": "At a remote and barren Sahara desert site in Niger, scientists have unearthed fossils of a new species of Spinosaurus, among the biggest of the meat-eating dinosaurs, notable for its large blade-shape"
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:54:41 +0000",
+          "description": "President Donald Trump said the U.S. was going to be hitting Iran &quot;very hard over the next week&quot;, shortly after issuing a partial 30-day waiver for purchases of…"
         },
         {
-          "headline": "Milano Cortina 2026: Japan&#8217;s Momoka Muraoka Takes Silver in Women&#8217;s Giant Slalom Sitting at Paralympics, Becomes Most Decorated Japanese Winter Para Athlete",
-          "url": "https://japannews.yomiuri.co.jp/sports/olympics-paralympics/20260313-316317/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "U.S. job openings rise to a better-than-expected 7 million despite sluggish labor market",
+          "url": "https://japantoday.com/category/business/us-job-openings-rise-to-a-better-than-expected-7-million-despite-sluggish-labor-market",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 08:53:37 +0000",
-          "description": "CORTINA D’AMPEZZO, Italy — Alpine skier Momoka Muraoka, 29, took silver in the women’s giant slalom sitting race at the Milano Cortina Winter Paralympics on Thursday."
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:59:23 +0000",
+          "description": ""
         },
         {
-          "headline": "Sex Lives of Neanderthal Men — and Human Women",
-          "url": "https://japannews.yomiuri.co.jp/news-services/afp-jiji/20260313-316140/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
+          "headline": "Two long-lost episodes of 'Doctor Who' found",
+          "url": "https://japantoday.com/category/entertainment/two-long-lost-episodes-of-%27doctor-who%27-have-been-found.-fans-will-soon-be-able-to-watch-them",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
           "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 08:45:54 +0000",
-          "description": "NEW YORK (AFP-Jiji) — Dating out of your league? New research says it’s a tale as old as time. A study out Feb. 26 in Science argues that Neanderthal men and human women were particularly inclined to "
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 21:04:59 +0000",
+          "description": "Over six decades of “Doctor Who,” the intergalactic adventurer’s adversaries have included evil robots, rampaging Yeti — and the BBC, which erased many early episodes of the now-iconic…"
         }
       ],
       "wire": [
@@ -1502,6 +1502,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkFVNjZDNUpTbEhQdGR3aDFDSlp3SFMtRXlWT1N0Z2pDX3ZUU1NqR3VwMGlMQzRLdjlCOVJJTFZIV2FSMTJHejBzOXYwZmFLZlhPOXpmYVlVeklwM0UwTmhHc29TeG50V0FjUFR"
         },
         {
+          "headline": "Honda shares slide nearly 6% as automaker faces first annual loss - Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/honda-shares-slide-more-than-5-automaker-faces-first-annual-loss-2026-03-13/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 00:26:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTFrZkZYZEdHczNaNnh5emRUYm85eU9pcmlSdjdOcVgyRjJVUHFWVzFSMjhqeGl1SmlmMXBLZU1ycU55UGsyM2l4bmwyUmJ5QkU4aGNVTmZJZnhvTUNQbTJZdGVhckxZNUFiZ01"
+        },
+        {
           "headline": "Stocks dip, dollar strong as Iran conflict keeps oil prices high - Reuters",
           "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-03-13/",
           "source": "Reuters Japan",
@@ -1510,16 +1520,6 @@
           "priority": "secondary",
           "date": "Fri, 13 Mar 2026 02:02:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zN2lIVmZmR0pnVG5kTVpkVUVaRjVYUVI0eEZsd0c3V3I2eUdzbk9iT3diaWpuMkppMUxDSE5EOW5BWS1sZWo4bDRYZXpUT3EtQWVEQmE0dmk0NVBqbjVQRTl3WGM4ajU4QzNvQmN"
-        },
-        {
-          "headline": "Honda shares slide nearly 6% as automaker faces first annual loss - Reuters",
-          "url": "https://www.reuters.com/business/autos-transportation/honda-shares-slide-more-than-5-automaker-faces-first-annual-loss-2026-03-13/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 00:26:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTFrZkZYZEdHczNaNnh5emRUYm85eU9pcmlSdjdOcVgyRjJVUHFWVzFSMjhqeGl1SmlmMXBLZU1ycU55UGsyM2l4bmwyUmJ5QkU4aGNVTmZJZnhvTUNQbTJZdGVhckxZNUFiZ01"
         },
         {
           "headline": "Deja vu? - Reuters",
@@ -1578,18 +1578,8 @@
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 08:01:32 GMT",
+          "date": "Fri, 13 Mar 2026 09:59:30 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5\" target=\"_blank\"&gt"
-        },
-        {
-          "headline": "ROTC students at Old Dominion University subdued and killed shooter who left 1 dead, 2 hurt - AP News",
-          "url": "https://apnews.com/article/old-dominion-university-virginia-gunman-dead-e49b6d42f2b76d2ad92a2ee72833e9ad",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 03:06:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjluQ2pTdm1XSW5heVdKZ1VhMHIxNnphY2UxWHJRbkhiRkQwNDVodWJ2R2xnNVBvSkhpSU1NZEp2ckdCYUc4OTk3V2FsU1hXSEZ1VnFGNzVDeXNDRE9VZ09PTUZ4bnQ5cmNrTEU"
         },
         {
           "headline": "All 6 crew members on a US refueling plane that crashed in Iraq are dead, US military says - AP News",
@@ -1652,14 +1642,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmxNTHlEdERCRXNDMVJFQVJDWWN0MGY2LVNfV05tOVZXZlRmd2tqUDJLMklROHpIMkNsdGlERm1INkZWZ3NoYWlXbEJfUXpoT0RxbGdpdF9BUDlfcU9fU1Ixa3BvUU1waUV3enN"
         },
         {
-          "headline": "Live Nation employee mocks customers as 'so stupid' in internal messages released in court case - AP News",
-          "url": "https://apnews.com/article/livenation-antitrust-ticketmaster-states-6248ab6f799468eda2447ed16d73515a",
+          "headline": "Trump bragged about low gas prices. The Iran conflict has him doing an about-face - AP News",
+          "url": "https://apnews.com/article/trump-iran-oil-hormuz-7abbe9d8140de1e61355fb3ddb94639d",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 22:04:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUW5xQS04MFR5QW1FdldTLThNQTgtWVpOU01sV3kwQTMxMm84TUdmV0dKZU9neVg4X0RIaFUtSGFPUXRHOVZ5cnNScDV4TDJNdWxiLU11NWVxMGV6c0k4U19TN3VWWTVKM3pKWXJ"
+          "date": "Fri, 13 Mar 2026 01:16:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakY4Tm80Ry1wdTczQlBkUmtPYkR3cUQ3UVVDZWdadVJMVU1tZDZRMlVEYlFEY3pEdWNQajRYM3N0N0dWc2xObHNQaTVVUWVhcTA2VmJFNVk1YzlEeXR4ZTA1MXY1dnNkOTVtc1Z"
+        },
+        {
+          "headline": "US military refueling plane crashes in Iraq and rescue is underway - AP News",
+          "url": "https://apnews.com/article/us-military-aircraft-down-loss-iraq-6d182239315cf9d2a20c669c5ac8418d",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 08:08:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0tSS0stN1BwdHpCOTZ0ZzFBaHlPTkVtTTFEOWgzRzFhSVpFRVk0WnRrdm91RG1Ra09TUS1taDJpaW5jZmczUUYxVFBrWFh3bFU4UWxDc25sQkdnT282Wm80UVhkd05DMXU0Nkl"
         },
         {
           "headline": "Thousands of Chinese boats mass at sea, raising questions - Yahoo News Singapore",
@@ -1682,24 +1682,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDNGVmJaTVMzdHFReGFoZFVMN1RtYS1laURfWlFhRG9INHNWOXplYjM3MWlNaWtfNzNOR1doUmZnM2hBc1V5U002VE56SHB1ZlFZTzktZ2RnMFFLQmxtWWtkR2hKSDJ1SzU4aU9"
         },
         {
-          "headline": "MAGA Loses It Over Latest Republican Embarrassment - Yahoo News Canada",
-          "url": "https://ca.news.yahoo.com/maga-loses-over-latest-republican-220734599.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 22:07:34 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB0WWwxb01BVEFyLXRCVmhUUjl0RHkyZE5XRkJZdk9kZHdPUnpIaFhvT1UxM1RFQWZCSEJDdmtPSk5UU1pVTTN3QVN1MU5Pb1JJUEkxaFJ3eFRFLWhJX3k4dWhldnVHeXQ1V0NmaFM"
-        },
-        {
           "headline": "'We're not wombs': Japan women seek rights to sterilisation - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_422e2ac5-b73e-4513-8aa5-6ffeee37f196",
+          "url": "https://uk.news.yahoo.com/were-not-wombs-japan-women-043517834.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
           "date": "Fri, 13 Mar 2026 04:35:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1ocjY0Vjl4ck9QbVZhaF9vZnZxRmlFRnpHQ2x3RXltT25uSTBwWTNHZ241NVMtTTFLX3NmanhCUmdhSHVNdEpfSTFzbHdTeXNWZ05UbXptU3hKZS1EWUhrT2diRnJXRjl2RnlFdlN"
+        },
+        {
+          "headline": "Japan's Prime Minister Sparks Health Concerns After She's Seen Struggling to Stand on Video Ahead of Trump Summit - Yahoo News UK",
+          "url": "https://uk.news.yahoo.com/japans-prime-minister-sparks-health-223033799.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 22:30:33 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUEzY1Vnb05RSFFxaUdlSFRBVWU5RGNWZ3dIUjlSRnRfVTVUM2theFVSYU5lUTg3Ry1zbmE0eXNkbjFvaHVRWDVtMVJQWWhtWDl3M29zSVl5MTdLRWZhelBMRUhpOXRpSXRlOW1"
         },
         {
           "headline": "Presidential office says purported letter by Brazilian leader praising South Korea is fabricated - Yahoo News Malaysia",
@@ -1742,6 +1742,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRENJYy1HWENrN2NDazIxSlY5QXZWdVZhVURFN0lEX3BNSi1xdUI5b0JyNTlkSTRhTFh4S3oyRHk3Tl91T0tKYXdLczZUTEZXZzFsQXF2b1AtSDNDVGp1VkhDZXFreW1mc2JyQkl"
         },
         {
+          "headline": "How Iranians are communicating through internet blackout - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/iranians-communicating-internet-blackout-163109273.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 21:51:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaFFDdkkxMmtSSE5QbzJDa1hsQ1hMSDdZajZ5THNsT0tIUFRlcEZZMkNMVVU5d0dTSG1qZFdIeHRsZnFYbFlwVmdlVHBTaTRjWi1MM1dKX3pqY241X2hoclRBVVFFT3VzWjhfRlp"
+        },
+        {
           "headline": "Venezuela leader's first foreign trip abruptly canceled - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/venezuela-leaders-first-foreign-trip-231429776.html",
           "source": "AFP Japan",
@@ -1750,16 +1760,6 @@
           "priority": "secondary",
           "date": "Fri, 13 Mar 2026 02:02:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHlpMnVkanR4WXBBUC1GcDhyUkZPb2tqeFZOT05TbElCY1RXNVVTYnBHNGFaMXBObGFpeExOYWwwYTFmTXUwb3pLZ2g3SERMOXhSQ2IzdGNJOTlqQ0xGYVNKejNCcFNUdUhkbkc"
-        },
-        {
-          "headline": "Cuba releases prisoners, confirms talks with US - Yahoo News Singapore",
-          "url": "https://sg.news.yahoo.com/oil-starved-cuba-confirms-talks-150044222.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 20:56:21 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQjd4SmxYSm12MlowaTZObk02UFBZeEwtRmdFdTNsQk1rUUptcXNfbzB5cFhUUFhEZ2FkSm1XZS1UaWdkZWMtNU04d1c2dTJxWDRfRzl2V2Nlb2NnXzYyLURnS2RBWVNsX2FPekp"
         }
       ],
       "competitors": [
@@ -2014,16 +2014,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0Y3Skk0T1l1UVBCQUp3VXloT3RQR19sOHBQNjh0STl3WkdVS3VzZXcwOXN4QkxlSHBhbGlpUHlfdS02ODR4ZmNwSnhTMHBibWpIOWFuRGxKbzZVYThiRkFmWE0tMEZFY2xHYmN"
         },
         {
-          "headline": "SoftBank’s PayPay Keeps Dual Listing on Table After Solid US IPO - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 04:29:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlRVNk4yOG9wZ3pJNlhIcjJzTk1mTG84bENQLVdZOUxYalBORFMtelY3eDVmMkIzcV9qQzVaa2JUeDYtbDl1Y2pLc3JlbFlhLTdIM2U4YjllQXVNOFFacmJzaF8yTXJ3RXl1RVV"
-        },
-        {
           "headline": "Rush Into Leveraged Bets Sparks Fears of Fresh Asian Stock Rout - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-13/rush-into-leveraged-bets-sparks-fears-of-fresh-asian-stock-rout",
           "source": "Bloomberg Japan",
@@ -2032,6 +2022,16 @@
           "priority": "secondary",
           "date": "Fri, 13 Mar 2026 00:32:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbHN4cWNPSlVZRGVYY2xSZlVFWlROZVVKQVZaUWVVNjZDSWlRcmlNYXZuN3lqNF9CZzcwcVhKTnRCMS1DcWZWLV9FOGtZZnpOa0lFdHZIemRxV2lsemdCYWxyVVVRV1Qya0hJQTV"
+        },
+        {
+          "headline": "SoftBank’s PayPay Keeps Dual Listing on Table After Solid US IPO - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 04:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlRVNk4yOG9wZ3pJNlhIcjJzTk1mTG84bENQLVdZOUxYalBORFMtelY3eDVmMkIzcV9qQzVaa2JUeDYtbDl1Y2pLc3JlbFlhLTdIM2U4YjllQXVNOFFacmJzaF8yTXJ3RXl1RVV"
         },
         {
           "headline": "What a War-Rattled Dubai Can Learn from Hong Kong’s Expat Exodus - Bloomberg.com",
@@ -2054,14 +2054,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnlXNmkwYVp0b3ZLQmFvV3FWSjBMaUVTM1hGdFZhWUQ3d2dpcUswNnB5NlVtbjZiWTdlU2FTSlkzVnRCdkNDSkxVMFFjZUZzZ25MY1RvbU9scHlFbEFRdlhVSWgxOUdVY2w4Y0R"
         },
         {
-          "headline": "US Allies Near China on Edge as Weapons Shift From Asia to Iran - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-12/us-allies-near-china-on-edge-as-weapons-shift-from-asia-to-iran",
+          "headline": "Killing of Modi’s Invited Iranian Guests Strains US-India Ties - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/features/2026-03-13/deadly-us-strike-on-iranian-warship-puts-india-s-modi-under-pressure",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 22:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQjVzR2JLMEhLWlBxX2xmSFpuYS1HSnMwY0dHd0dkc1dXcmR1a28waXdqU1lXeGx1OGtWUUtHYS1NN3RITGJRckFhcWlaZmE4X01qM1RiRHhQbWJOTzVvN1pTczdSMm1ucVZiTjF"
+          "date": "Fri, 13 Mar 2026 04:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUxFWmxBc3k4Q01Zd044MmxMS3ExNFItdjVDM080Z2xOOElRVmIxVUZUZGRzZWVOR0o0cERxU3kxcWt0QlBvV09rUlpNcmN2U3dFNTZiWElzS015NndyWlctOHA1QUxQMTZqdnR"
         },
         {
           "headline": "Hegseth vows thorough probe of school strike that Trump blamed on Iran - The Washington Post",
@@ -2070,7 +2070,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Fri, 13 Mar 2026 20:59:10 GMT",
+          "date": "Fri, 13 Mar 2026 22:04:09 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVEaEZjNzB3dmVzRjJSR2hXQXh2cUtIbEJ4RkUwaHJ5el9LMjVvVUxZYlZiWVpXM0FfZGlaZS14VVRobFp0WVg3ZEhpV2ZjdWJ5UDZwRGt3NkFQT2ZUR1g0OHZlMXRYZUp2QWR"
         },
         {
@@ -2090,7 +2090,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Fri, 13 Mar 2026 21:33:40 GMT",
+          "date": "Fri, 13 Mar 2026 21:50:38 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWdjaVNkd1NmUDlzalBFanpIRHM5NWFjazFjTW5HVW4xQ0preDNNRFJSbzJ4NV9DZmxHRFZ0RGNtcDN2d2VFQktBb0M0TTN2LUxta1UxZUZrRWpjeVJUdFEwWXFuSWU5U0p3Zm9"
         },
         {
@@ -2102,6 +2102,16 @@
           "priority": "tertiary",
           "date": "Fri, 13 Mar 2026 16:00:36 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPejFpSGxTVnBWNml1OFdMdmNzU093ZHdja0RkSGZLUlBMSlJhSEFjRFlRb3RFcnMwRTRoMVIzOGZTTkJyQlhrNlFMdmR2SGhqdzZBUTdtaUN0UldmQnJpYmtNejhGM0xoaWVBZ0l"
+        },
+        {
+          "headline": "A voter’s guide to the redistricting referendum in Virginia - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Fri, 13 Mar 2026 17:00:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPck4yRlVHRTdZR1l0SndoR2pGLTdpY2JRQ2RQdGVmS3Y1dFVLU3dER01PYWxsMEcyd1NYUHRYdUI3MXB4bG80RVNtWjRuNmRlMjF6enlzT3FQQXZKTU4zOVdwOTVlcTFBUmN5Y1l"
         },
         {
           "headline": "Lebanon appeals to Israel’s allies to intervene and says hundreds are killed - The Washington Post",
@@ -2152,16 +2162,6 @@
           "priority": "tertiary",
           "date": "Fri, 13 Mar 2026 18:18:51 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEZiSkFSemNYd28yeWNOTnFCdVBqMjhrdk9zdVMxc1ZUQld1N21LVTB6RUt6dGlIdkdKY3VsWlc1WlJBTjY3bVBZVkkwMEwwdE9hRVlwYzVBaFZEMjhia01xSnV3ZVpRRlhxaDJ"
-        },
-        {
-          "headline": "US military refueling plane goes down in Iraq and rescue is underway - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Fri, 13 Mar 2026 00:30:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFVoVTlrU1VoLUloQ3pfaXZHNkN5MEZSSHJMbHV2NnBHZ0laNG42NUhJTTc2cE1VWUNOMXA3RENhWi1SOU51cVpzX0p4cjJLaDhEbnF5R3BZb3Q3cWNla3V5cnJabV9qbWQ5YTg"
         }
       ]
     },
@@ -2174,7 +2174,7 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sat, 14 Mar 2026 05:30:47 +0900",
+          "date": "Sat, 14 Mar 2026 07:02:39 +0900",
           "description": "1日あたりの利用者が1600万人に上る日本最大の鉄道会社、JR東日本は、14日、運賃を平均7.1％、値上げしました。値上げは消費税への対応を除いて1987年の会社発足以来、初めてです。"
         },
         {
@@ -2184,7 +2184,7 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sat, 14 Mar 2026 06:30:30 +0900",
+          "date": "Sat, 14 Mar 2026 07:10:05 +0900",
           "description": "アメリカとイスラエルによるイランへの軍事作戦が始まって14日で2週間となります。トランプ大統領は、「終わるまでに長くはかからない」という考えを示す一方、イラン側は徹底抗戦の構えで、原油価格が上昇する中、双方の攻撃が収束する見通しは立っていません。"
         },
         {
@@ -2436,109 +2436,109 @@
           "priority": "primary",
           "date": "Fri, 13 Mar 2026 18:40:00 +0900",
           "description": "Long viewed as just a sweet sip, \"umeshu\" is now getting the spotlight, thanks to a growing breed of producers who are showcasing the exciting possibilities of the beverage."
-        },
-        {
-          "headline": "Moai Statue Shows Lasting Bond Between Miyagi Pref. Town, Easter Island; Stands as Sign of Recovery from Devastation",
-          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260314-316259/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 22:00:18 +0000",
-          "description": "EASTER ISLAND, Chile — The late Chilean sculptor Benedicto Tuki created a moai statue Chile gifted to the town of Minami-Sanriku, Miyagi Prefecture, as a symbol of recovery from the Great East Japan E"
-        },
-        {
-          "headline": "Japan Defense Agency to Develop AI Intelligence Analysis System for Ground Self-Defense Force by 2027",
-          "url": "https://japannews.yomiuri.co.jp/politics/defense-security/20260314-316288/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 17:00:55 +0000",
-          "description": "The Acquisition, Technology and Logistics Agency is moving to develop an AI-powered intelligence analysis system for the Self-Defense Forces."
-        },
-        {
-          "headline": "Government to Establish ‘Command Center’ for Developing Nuclear Power Personnel; Hopes to Replenish Ranks of Aging Industry, Reverse Post-Fukushima Decline",
-          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260313-316297/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 12:00:31 +0000",
-          "description": "The government intends to establish a new organization in fiscal 2026 that will serve as a “command center” for industry-academia-government collaboration, with the aim of strengthening the developmen"
-        },
-        {
-          "headline": "CARTOON OF THE DAY (March 13)",
-          "url": "https://japannews.yomiuri.co.jp/features/cartoon/20260313-316363/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:59:29 +0000",
-          "description": "."
-        },
-        {
-          "headline": "Masako Ikeda, Voice of Maetel in ‘Galaxy Express 999,&#8217; Dies at 87",
-          "url": "https://japannews.yomiuri.co.jp/society/obituaries/20260313-316352/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:39:55 +0000",
-          "description": "Masako Ikeda, Voice of Maetel in ‘Galaxy Express 999,’ Dies at 87"
-        },
-        {
-          "headline": "Paw Patrol: Larry Marks 15 Years at 10 Downing Street",
-          "url": "https://japannews.yomiuri.co.jp/news-services/afp-jiji/20260313-316151/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:24:27 +0000",
-          "description": "LONDON (AFP-Jiji) — Larry the cat, the U.K.’s most famous feline, marked 15 years on Feb. 15 as the country’s chief mouser patrolling the corridors of power around number 10 Downing Street."
-        },
-        {
-          "headline": "Astronomers Puzzle over ‘inside out’ Planetary System",
-          "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260313-316134/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:18:22 +0000",
-          "description": "WASHINGTON (Reuters) — Astronomers have observed a planetary system that challenges current planet formation theories, with a rocky planet that formed beyond the orbits of its gaseous neighbors, possi"
-        },
-        {
-          "headline": "Fossils of New Species of Huge Spinosaurus Unearthed in Niger",
-          "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260313-316142/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 09:11:22 +0000",
-          "description": "At a remote and barren Sahara desert site in Niger, scientists have unearthed fossils of a new species of Spinosaurus, among the biggest of the meat-eating dinosaurs, notable for its large blade-shape"
-        },
-        {
-          "headline": "Milano Cortina 2026: Japan&#8217;s Momoka Muraoka Takes Silver in Women&#8217;s Giant Slalom Sitting at Paralympics, Becomes Most Decorated Japanese Winter Para Athlete",
-          "url": "https://japannews.yomiuri.co.jp/sports/olympics-paralympics/20260313-316317/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 08:53:37 +0000",
-          "description": "CORTINA D’AMPEZZO, Italy — Alpine skier Momoka Muraoka, 29, took silver in the women’s giant slalom sitting race at the Milano Cortina Winter Paralympics on Thursday."
-        },
-        {
-          "headline": "Sex Lives of Neanderthal Men — and Human Women",
-          "url": "https://japannews.yomiuri.co.jp/news-services/afp-jiji/20260313-316140/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 08:45:54 +0000",
-          "description": "NEW YORK (AFP-Jiji) — Dating out of your league? New research says it’s a tale as old as time. A study out Feb. 26 in Science argues that Neanderthal men and human women were particularly inclined to "
         }
       ],
       "secondary": [
+        {
+          "headline": "Judge quashes subpoenas in Justice Department's investigation of Fed chair Jerome Powell",
+          "url": "https://japantoday.com/category/world/judge-quashes-justice-department-subpoena-of-federal-reserve-in-blow-to-investigation",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:55:06 +0000",
+          "description": "A federal judge on Friday quashed Justice Department subpoenas issued to the Federal Reserve in January, a severe blow to an investigation that has already attracted strong criticism…"
+        },
+        {
+          "headline": "Drone strikes and clashes in eastern Congo threaten region's peace efforts",
+          "url": "https://japantoday.com/category/world/drone-strikes-and-clashes-in-eastern-congo-threaten-region%27s-peace-efforts",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:55:57 +0000",
+          "description": "Congo’s government and Rwanda-backed M23 rebels on Friday accused each other of violating terms of a ceasefire deal aimed at ending decadeslong fighting and bringing a permanent peace…"
+        },
+        {
+          "headline": "Pakistani airstrikes cause civilian casualties in Kabul, Taliban and U.N. say",
+          "url": "https://japantoday.com/category/world/pakistani-airstrikes-cause-civilian-casualties-in-kabul-taliban-and-un-say1",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:55:19 +0000",
+          "description": "Pakistan bombed the fuel depot of private airline Kam Air near Afghanistan's Kandahar airport, the ruling Taliban said on Friday, stepping up the neighbours' worst conflict in years,…"
+        },
+        {
+          "headline": "Israel destroys bridge in Lebanon, threatens Gaza-scale destruction",
+          "url": "https://japantoday.com/category/world/israel-destroys-bridge-in-lebanon-threatens-gaza-scale-destruction2",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:54:25 +0000",
+          "description": "Israel destroyed a bridge in southern Lebanon on Friday and dropped leaflets in Beirut threatening Gaza-scale devastation as it deployed more troops to fight Iran-backed Hezbollah and warned…"
+        },
+        {
+          "headline": "Iran plane leaves India with sailors, bodies as Indian ships win Hormuz reprieve",
+          "url": "https://japantoday.com/category/world/iran-plane-leaves-india-with-sailors-bodies-as-indian-ships-win-hormuz-reprieve",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:54:50 +0000",
+          "description": "A chartered plane arranged by Iran departed southern India late on Friday carrying some sailors from a naval vessel that had docked in ‌the country, as well as…"
+        },
+        {
+          "headline": "Zelenskyy says Russia oil waiver won't help end war",
+          "url": "https://japantoday.com/category/world/zelenskiy-says-russia-oil-waiver-won%27t-help-end-war",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:55:33 +0000",
+          "description": "Ukrainian President Volodymyr Zelenskyy said on Friday that a U.S. decision to ease ‌sanctions on Russian oil was not helping to end the conflict in Ukraine as he…"
+        },
+        {
+          "headline": "Trump administration lashes out at CNN over Iran war",
+          "url": "https://japantoday.com/category/world/trump-administration-lashes-out-at-cnn-over-iran-war",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:54:56 +0000",
+          "description": "The Pentagon and White House slammed CNN over its Iran war coverage Friday -- with Defense Secretary Pete Hegseth saying he looked forward to an ally of President…"
+        },
+        {
+          "headline": "Trump says U.S. will hit Iran 'very hard' after easing sanctions on Russian oil",
+          "url": "https://japantoday.com/category/world/trump-says-us-will-hit-iran-%27very-hard%27-after-easing-sanctions-on-russian-oil2",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:54:41 +0000",
+          "description": "President Donald Trump said the U.S. was going to be hitting Iran &quot;very hard over the next week&quot;, shortly after issuing a partial 30-day waiver for purchases of…"
+        },
+        {
+          "headline": "U.S. job openings rise to a better-than-expected 7 million despite sluggish labor market",
+          "url": "https://japantoday.com/category/business/us-job-openings-rise-to-a-better-than-expected-7-million-despite-sluggish-labor-market",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 20:59:23 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Two long-lost episodes of 'Doctor Who' found",
+          "url": "https://japantoday.com/category/entertainment/two-long-lost-episodes-of-%27doctor-who%27-have-been-found.-fans-will-soon-be-able-to-watch-them",
+          "source": "Japan Today",
+          "sourceId": "japan_today",
+          "category": "national",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 21:04:59 +0000",
+          "description": "Over six decades of “Doctor Who,” the intergalactic adventurer’s adversaries have included evil robots, rampaging Yeti — and the BBC, which erased many early episodes of the now-iconic…"
+        },
         {
           "headline": "Japan to consider whether to buy Russian crude following US sanctions waiver - Reuters",
           "url": "https://www.reuters.com/sustainability/boards-policy-regulation/japan-consider-whether-buy-russian-crude-following-us-sanctions-waiver-2026-03-13/",
@@ -2580,6 +2580,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkFVNjZDNUpTbEhQdGR3aDFDSlp3SFMtRXlWT1N0Z2pDX3ZUU1NqR3VwMGlMQzRLdjlCOVJJTFZIV2FSMTJHejBzOXYwZmFLZlhPOXpmYVlVeklwM0UwTmhHc29TeG50V0FjUFR"
         },
         {
+          "headline": "Honda shares slide nearly 6% as automaker faces first annual loss - Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/honda-shares-slide-more-than-5-automaker-faces-first-annual-loss-2026-03-13/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 00:26:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTFrZkZYZEdHczNaNnh5emRUYm85eU9pcmlSdjdOcVgyRjJVUHFWVzFSMjhqeGl1SmlmMXBLZU1ycU55UGsyM2l4bmwyUmJ5QkU4aGNVTmZJZnhvTUNQbTJZdGVhckxZNUFiZ01"
+        },
+        {
           "headline": "Stocks dip, dollar strong as Iran conflict keeps oil prices high - Reuters",
           "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-03-13/",
           "source": "Reuters Japan",
@@ -2588,16 +2598,6 @@
           "priority": "secondary",
           "date": "Fri, 13 Mar 2026 02:02:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zN2lIVmZmR0pnVG5kTVpkVUVaRjVYUVI0eEZsd0c3V3I2eUdzbk9iT3diaWpuMkppMUxDSE5EOW5BWS1sZWo4bDRYZXpUT3EtQWVEQmE0dmk0NVBqbjVQRTl3WGM4ajU4QzNvQmN"
-        },
-        {
-          "headline": "Honda shares slide nearly 6% as automaker faces first annual loss - Reuters",
-          "url": "https://www.reuters.com/business/autos-transportation/honda-shares-slide-more-than-5-automaker-faces-first-annual-loss-2026-03-13/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 00:26:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTFrZkZYZEdHczNaNnh5emRUYm85eU9pcmlSdjdOcVgyRjJVUHFWVzFSMjhqeGl1SmlmMXBLZU1ycU55UGsyM2l4bmwyUmJ5QkU4aGNVTmZJZnhvTUNQbTJZdGVhckxZNUFiZ01"
         },
         {
           "headline": "Deja vu? - Reuters",
@@ -2656,18 +2656,8 @@
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 08:01:32 GMT",
+          "date": "Fri, 13 Mar 2026 09:59:30 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5\" target=\"_blank\"&gt"
-        },
-        {
-          "headline": "ROTC students at Old Dominion University subdued and killed shooter who left 1 dead, 2 hurt - AP News",
-          "url": "https://apnews.com/article/old-dominion-university-virginia-gunman-dead-e49b6d42f2b76d2ad92a2ee72833e9ad",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 03:06:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjluQ2pTdm1XSW5heVdKZ1VhMHIxNnphY2UxWHJRbkhiRkQwNDVodWJ2R2xnNVBvSkhpSU1NZEp2ckdCYUc4OTk3V2FsU1hXSEZ1VnFGNzVDeXNDRE9VZ09PTUZ4bnQ5cmNrTEU"
         },
         {
           "headline": "All 6 crew members on a US refueling plane that crashed in Iraq are dead, US military says - AP News",
@@ -2730,14 +2720,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWmxNTHlEdERCRXNDMVJFQVJDWWN0MGY2LVNfV05tOVZXZlRmd2tqUDJLMklROHpIMkNsdGlERm1INkZWZ3NoYWlXbEJfUXpoT0RxbGdpdF9BUDlfcU9fU1Ixa3BvUU1waUV3enN"
         },
         {
-          "headline": "Live Nation employee mocks customers as 'so stupid' in internal messages released in court case - AP News",
-          "url": "https://apnews.com/article/livenation-antitrust-ticketmaster-states-6248ab6f799468eda2447ed16d73515a",
+          "headline": "Trump bragged about low gas prices. The Iran conflict has him doing an about-face - AP News",
+          "url": "https://apnews.com/article/trump-iran-oil-hormuz-7abbe9d8140de1e61355fb3ddb94639d",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 22:04:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUW5xQS04MFR5QW1FdldTLThNQTgtWVpOU01sV3kwQTMxMm84TUdmV0dKZU9neVg4X0RIaFUtSGFPUXRHOVZ5cnNScDV4TDJNdWxiLU11NWVxMGV6c0k4U19TN3VWWTVKM3pKWXJ"
+          "date": "Fri, 13 Mar 2026 01:16:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakY4Tm80Ry1wdTczQlBkUmtPYkR3cUQ3UVVDZWdadVJMVU1tZDZRMlVEYlFEY3pEdWNQajRYM3N0N0dWc2xObHNQaTVVUWVhcTA2VmJFNVk1YzlEeXR4ZTA1MXY1dnNkOTVtc1Z"
+        },
+        {
+          "headline": "US military refueling plane crashes in Iraq and rescue is underway - AP News",
+          "url": "https://apnews.com/article/us-military-aircraft-down-loss-iraq-6d182239315cf9d2a20c669c5ac8418d",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 08:08:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0tSS0stN1BwdHpCOTZ0ZzFBaHlPTkVtTTFEOWgzRzFhSVpFRVk0WnRrdm91RG1Ra09TUS1taDJpaW5jZmczUUYxVFBrWFh3bFU4UWxDc25sQkdnT282Wm80UVhkd05DMXU0Nkl"
         },
         {
           "headline": "Thousands of Chinese boats mass at sea, raising questions - Yahoo News Singapore",
@@ -2760,24 +2760,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDNGVmJaTVMzdHFReGFoZFVMN1RtYS1laURfWlFhRG9INHNWOXplYjM3MWlNaWtfNzNOR1doUmZnM2hBc1V5U002VE56SHB1ZlFZTzktZ2RnMFFLQmxtWWtkR2hKSDJ1SzU4aU9"
         },
         {
-          "headline": "MAGA Loses It Over Latest Republican Embarrassment - Yahoo News Canada",
-          "url": "https://ca.news.yahoo.com/maga-loses-over-latest-republican-220734599.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 22:07:34 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB0WWwxb01BVEFyLXRCVmhUUjl0RHkyZE5XRkJZdk9kZHdPUnpIaFhvT1UxM1RFQWZCSEJDdmtPSk5UU1pVTTN3QVN1MU5Pb1JJUEkxaFJ3eFRFLWhJX3k4dWhldnVHeXQ1V0NmaFM"
-        },
-        {
           "headline": "'We're not wombs': Japan women seek rights to sterilisation - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_422e2ac5-b73e-4513-8aa5-6ffeee37f196",
+          "url": "https://uk.news.yahoo.com/were-not-wombs-japan-women-043517834.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
           "date": "Fri, 13 Mar 2026 04:35:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1ocjY0Vjl4ck9QbVZhaF9vZnZxRmlFRnpHQ2x3RXltT25uSTBwWTNHZ241NVMtTTFLX3NmanhCUmdhSHVNdEpfSTFzbHdTeXNWZ05UbXptU3hKZS1EWUhrT2diRnJXRjl2RnlFdlN"
+        },
+        {
+          "headline": "Japan's Prime Minister Sparks Health Concerns After She's Seen Struggling to Stand on Video Ahead of Trump Summit - Yahoo News UK",
+          "url": "https://uk.news.yahoo.com/japans-prime-minister-sparks-health-223033799.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 22:30:33 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUEzY1Vnb05RSFFxaUdlSFRBVWU5RGNWZ3dIUjlSRnRfVTVUM2theFVSYU5lUTg3Ry1zbmE0eXNkbjFvaHVRWDVtMVJQWWhtWDl3M29zSVl5MTdLRWZhelBMRUhpOXRpSXRlOW1"
         },
         {
           "headline": "Presidential office says purported letter by Brazilian leader praising South Korea is fabricated - Yahoo News Malaysia",
@@ -2820,6 +2820,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRENJYy1HWENrN2NDazIxSlY5QXZWdVZhVURFN0lEX3BNSi1xdUI5b0JyNTlkSTRhTFh4S3oyRHk3Tl91T0tKYXdLczZUTEZXZzFsQXF2b1AtSDNDVGp1VkhDZXFreW1mc2JyQkl"
         },
         {
+          "headline": "How Iranians are communicating through internet blackout - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/iranians-communicating-internet-blackout-163109273.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 21:51:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaFFDdkkxMmtSSE5QbzJDa1hsQ1hMSDdZajZ5THNsT0tIUFRlcEZZMkNMVVU5d0dTSG1qZFdIeHRsZnFYbFlwVmdlVHBTaTRjWi1MM1dKX3pqY241X2hoclRBVVFFT3VzWjhfRlp"
+        },
+        {
           "headline": "Venezuela leader's first foreign trip abruptly canceled - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/venezuela-leaders-first-foreign-trip-231429776.html",
           "source": "AFP Japan",
@@ -2828,16 +2838,6 @@
           "priority": "secondary",
           "date": "Fri, 13 Mar 2026 02:02:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHlpMnVkanR4WXBBUC1GcDhyUkZPb2tqeFZOT05TbElCY1RXNVVTYnBHNGFaMXBObGFpeExOYWwwYTFmTXUwb3pLZ2g3SERMOXhSQ2IzdGNJOTlqQ0xGYVNKejNCcFNUdUhkbkc"
-        },
-        {
-          "headline": "Cuba releases prisoners, confirms talks with US - Yahoo News Singapore",
-          "url": "https://sg.news.yahoo.com/oil-starved-cuba-confirms-talks-150044222.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 20:56:21 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQjd4SmxYSm12MlowaTZObk02UFBZeEwtRmdFdTNsQk1rUUptcXNfbzB5cFhUUFhEZ2FkSm1XZS1UaWdkZWMtNU04d1c2dTJxWDRfRzl2V2Nlb2NnXzYyLURnS2RBWVNsX2FPekp"
         },
         {
           "headline": "The US may move some of its anti-missile system - and it's sparking unease in South Korea",
@@ -3090,16 +3090,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0Y3Skk0T1l1UVBCQUp3VXloT3RQR19sOHBQNjh0STl3WkdVS3VzZXcwOXN4QkxlSHBhbGlpUHlfdS02ODR4ZmNwSnhTMHBibWpIOWFuRGxKbzZVYThiRkFmWE0tMEZFY2xHYmN"
         },
         {
-          "headline": "SoftBank’s PayPay Keeps Dual Listing on Table After Solid US IPO - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 04:29:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlRVNk4yOG9wZ3pJNlhIcjJzTk1mTG84bENQLVdZOUxYalBORFMtelY3eDVmMkIzcV9qQzVaa2JUeDYtbDl1Y2pLc3JlbFlhLTdIM2U4YjllQXVNOFFacmJzaF8yTXJ3RXl1RVV"
-        },
-        {
           "headline": "Rush Into Leveraged Bets Sparks Fears of Fresh Asian Stock Rout - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-13/rush-into-leveraged-bets-sparks-fears-of-fresh-asian-stock-rout",
           "source": "Bloomberg Japan",
@@ -3108,6 +3098,16 @@
           "priority": "secondary",
           "date": "Fri, 13 Mar 2026 00:32:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbHN4cWNPSlVZRGVYY2xSZlVFWlROZVVKQVZaUWVVNjZDSWlRcmlNYXZuN3lqNF9CZzcwcVhKTnRCMS1DcWZWLV9FOGtZZnpOa0lFdHZIemRxV2lsemdCYWxyVVVRV1Qya0hJQTV"
+        },
+        {
+          "headline": "SoftBank’s PayPay Keeps Dual Listing on Table After Solid US IPO - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-13/softbank-s-paypay-keeps-dual-listing-on-table-after-solid-us-ipo",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 04:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlRVNk4yOG9wZ3pJNlhIcjJzTk1mTG84bENQLVdZOUxYalBORFMtelY3eDVmMkIzcV9qQzVaa2JUeDYtbDl1Y2pLc3JlbFlhLTdIM2U4YjllQXVNOFFacmJzaF8yTXJ3RXl1RVV"
         },
         {
           "headline": "What a War-Rattled Dubai Can Learn from Hong Kong’s Expat Exodus - Bloomberg.com",
@@ -3130,14 +3130,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnlXNmkwYVp0b3ZLQmFvV3FWSjBMaUVTM1hGdFZhWUQ3d2dpcUswNnB5NlVtbjZiWTdlU2FTSlkzVnRCdkNDSkxVMFFjZUZzZ25MY1RvbU9scHlFbEFRdlhVSWgxOUdVY2w4Y0R"
         },
         {
-          "headline": "US Allies Near China on Edge as Weapons Shift From Asia to Iran - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-12/us-allies-near-china-on-edge-as-weapons-shift-from-asia-to-iran",
+          "headline": "Killing of Modi’s Invited Iranian Guests Strains US-India Ties - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/features/2026-03-13/deadly-us-strike-on-iranian-warship-puts-india-s-modi-under-pressure",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Thu, 12 Mar 2026 22:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQjVzR2JLMEhLWlBxX2xmSFpuYS1HSnMwY0dHd0dkc1dXcmR1a28waXdqU1lXeGx1OGtWUUtHYS1NN3RITGJRckFhcWlaZmE4X01qM1RiRHhQbWJOTzVvN1pTczdSMm1ucVZiTjF"
+          "date": "Fri, 13 Mar 2026 04:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUxFWmxBc3k4Q01Zd044MmxMS3ExNFItdjVDM080Z2xOOElRVmIxVUZUZGRzZWVOR0o0cERxU3kxcWt0QlBvV09rUlpNcmN2U3dFNTZiWElzS015NndyWlctOHA1QUxQMTZqdnR"
         }
       ],
       "tertiary": [
@@ -3148,7 +3148,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Fri, 13 Mar 2026 20:59:10 GMT",
+          "date": "Fri, 13 Mar 2026 22:04:09 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVEaEZjNzB3dmVzRjJSR2hXQXh2cUtIbEJ4RkUwaHJ5el9LMjVvVUxZYlZiWVpXM0FfZGlaZS14VVRobFp0WVg3ZEhpV2ZjdWJ5UDZwRGt3NkFQT2ZUR1g0OHZlMXRYZUp2QWR"
         },
         {
@@ -3168,7 +3168,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Fri, 13 Mar 2026 21:33:40 GMT",
+          "date": "Fri, 13 Mar 2026 21:50:38 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWdjaVNkd1NmUDlzalBFanpIRHM5NWFjazFjTW5HVW4xQ0preDNNRFJSbzJ4NV9DZmxHRFZ0RGNtcDN2d2VFQktBb0M0TTN2LUxta1UxZUZrRWpjeVJUdFEwWXFuSWU5U0p3Zm9"
         },
         {
@@ -3180,6 +3180,16 @@
           "priority": "tertiary",
           "date": "Fri, 13 Mar 2026 16:00:36 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPejFpSGxTVnBWNml1OFdMdmNzU093ZHdja0RkSGZLUlBMSlJhSEFjRFlRb3RFcnMwRTRoMVIzOGZTTkJyQlhrNlFMdmR2SGhqdzZBUTdtaUN0UldmQnJpYmtNejhGM0xoaWVBZ0l"
+        },
+        {
+          "headline": "A voter’s guide to the redistricting referendum in Virginia - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Fri, 13 Mar 2026 17:00:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPck4yRlVHRTdZR1l0SndoR2pGLTdpY2JRQ2RQdGVmS3Y1dFVLU3dER01PYWxsMEcyd1NYUHRYdUI3MXB4bG80RVNtWjRuNmRlMjF6enlzT3FQQXZKTU4zOVdwOTVlcTFBUmN5Y1l"
         },
         {
           "headline": "Lebanon appeals to Israel’s allies to intervene and says hundreds are killed - The Washington Post",
@@ -3230,16 +3240,6 @@
           "priority": "tertiary",
           "date": "Fri, 13 Mar 2026 18:18:51 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEZiSkFSemNYd28yeWNOTnFCdVBqMjhrdk9zdVMxc1ZUQld1N21LVTB6RUt6dGlIdkdKY3VsWlc1WlJBTjY3bVBZVkkwMEwwdE9hRVlwYzVBaFZEMjhia01xSnV3ZVpRRlhxaDJ"
-        },
-        {
-          "headline": "US military refueling plane goes down in Iraq and rescue is underway - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Fri, 13 Mar 2026 00:30:13 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFVoVTlrU1VoLUloQ3pfaXZHNkN5MEZSSHJMbHV2NnBHZ0laNG42NUhJTTc2cE1VWUNOMXA3RENhWi1SOU51cVpzX0p4cjJLaDhEbnF5R3BZb3Q3cWNla3V5cnJabV9qbWQ5YTg"
         }
       ],
       "reference": []
@@ -3317,7 +3317,7 @@
       "tweets": [
         "Momoka Muraoka won her second silver medal in the alpine ski women's giant slalom (seated position) at the Milan-Cortina Paralympics! Congratulations!\n\nIn both the first and second runs, he showed great concentration and bravely attacked.",
         "Today, Bhutanese Prime Minister Tshering Tobgay\n@tsheringtobgay\nWe welcomed them to Tokyo and held a summit meeting. I sincerely welcome Prime Minister Tobgay to Japan for the first time in eight years.",
-        "It was late at night in Japan time, but I recently attended an online meeting of the G7 leaders.\n\nThe G7 leaders held frank discussions about the impact of the current increasingly tense situation in the Middle East on the global economy, financial and energy markets, ensuring the safety of maritime transport routes including the Strait of Hormuz, and cooperation in protecting their own people in the region.",
+        "It was late at night in Japan time, but I recently attended an online meeting of the G7 leaders.\n\nThe G7 leaders held frank discussions about the impact of the current increasingly tense situation in the Middle East on the global economy, financial and energy markets, ensuring the safety of maritime shipping routes including the Strait of Hormuz, and cooperation in protecting their own people in the region.",
         "At last year's extraordinary Diet session, we prioritized ``responding to the high prices'' that the people are facing, and achieved ``reducing the prices of gasoline and diesel oil'' based on the abolition of the provisional tax rate and the supplementary budget that was passed.",
         "Today, I attended the Great East Japan Earthquake Memorial and Reconstruction Prayer Ceremony held in Fukushima City, Fukushima Prefecture, offered a moment of silence, delivered an address of condolence, and then laid flowers.\n\n\nhttps://\nkantei.go.jp/jp/105/actions\n/202603/11kinenshiki.html\n…\n\nFifteen years have passed since the Great East Japan Earthquake.\nMany irreplaceable lives were lost, and there are still people missing."
       ]

@@ -4,15 +4,15 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-03-14T22:02:49.923Z",
-    "generatedTimestamp": 1773525769923
+    "generated": "2026-03-14T22:35:14.511Z",
+    "generatedTimestamp": 1773527714511
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
-    "totalStories": 107,
+    "totalStories": 97,
     "totalScreenshots": 11,
-    "elapsed": "100.8s"
+    "elapsed": "100.3s"
   },
   "stories": {
     "all": [
@@ -23,18 +23,18 @@
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Sun, 15 Mar 2026 05:57:07 +0900",
+        "date": "Sun, 15 Mar 2026 07:07:34 +0900",
         "description": "ホルムズ海峡が事実上封鎖され、原油価格の高騰への懸念が高まる中、アメリカのトランプ大統領は、海峡の安全を確保するため日本を含む各国がこの海域に艦船を派遣することに期待を示しました。"
       },
       {
-        "headline": "旧優生保護法の被害補償 東京 広島など1都3県が個別通知",
-        "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075911000.html",
+        "headline": "WBCきょう準々決勝 ベネズエラ戦 山本由伸など投手陣がかぎか",
+        "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075901000.html",
         "source": "NHK World",
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Sun, 15 Mar 2026 05:08:16 +0900",
-        "description": "旧優生保護法のもとで不妊手術などを強制された被害者への補償が進まない中、ことしから東京都や広島県など1都3県が、被害者に補償の対象となることを直接伝える、個別通知を始めたことが分かりました。"
+        "date": "Sun, 15 Mar 2026 00:11:57 +0900",
+        "description": "WBC＝ワールド・ベースボール・クラシック、日本代表は日本時間の15日、ベネズエラ代表との準々決勝を迎えます。先発の山本由伸投手をはじめとする日本の投手陣がベネズエラの強力打線を抑えられるかが勝負のかぎを握ります。"
       },
       {
         "headline": "4億円強奪事件 容疑者関係先で現金約1000万円見つかる 報酬か",
@@ -47,14 +47,14 @@
         "description": "ことし1月、東京 台東区の路上で、中国籍や日本人のグループが4億円余りを奪われた事件で、逮捕された7人のうち、実行役とみられる暴力団員の関係先から、現金およそ1000万円が見つかったことが捜査関係者への取材でわかりました。指示役からの報酬とみられ、警視庁は、多額の現金が狙われたいきさつなど、事件の全容解明を進めることにしています。"
       },
       {
-        "headline": "WBCきょう準々決勝 ベネズエラ戦 山本由伸など投手陣がかぎか",
-        "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075901000.html",
+        "headline": "旧優生保護法の被害補償 東京 広島など1都3県が個別通知",
+        "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075911000.html",
         "source": "NHK World",
         "sourceId": "nhk_world",
         "category": "national",
         "priority": "primary",
-        "date": "Sun, 15 Mar 2026 00:11:57 +0900",
-        "description": "WBC＝ワールド・ベースボール・クラシック、日本代表は日本時間の15日、ベネズエラ代表との準々決勝を迎えます。先発の山本由伸投手をはじめとする日本の投手陣がベネズエラの強力打線を抑えられるかが勝負のかぎを握ります。"
+        "date": "Sun, 15 Mar 2026 05:08:16 +0900",
+        "description": "旧優生保護法のもとで不妊手術などを強制された被害者への補償が進まない中、ことしから東京都や広島県など1都3県が、被害者に補償の対象となることを直接伝える、個別通知を始めたことが分かりました。"
       },
       {
         "headline": "新宿 携帯電話買い取り店で強盗 現金約170万円など奪い逃げる",
@@ -287,106 +287,6 @@
         "description": "The evacuees are Japanese nationals from Iraq, Kuwait, Bahrain, Qatar and Saudi Arabia, and non-Japanese family members, the Foreign Ministry said."
       },
       {
-        "headline": "German Journalist Traces Footsteps of Great-Grandfather Who Was POW in Japan During World War I",
-        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260315-316520/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 22:00:07 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Ransomware Attacks Hitting Japan&#8217;s Small, Midsize Firms",
-        "url": "https://japannews.yomiuri.co.jp/business/companies/20260315-316491/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 17:00:39 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Japan&#8217;s Budget on Track for Quick Passage, but Ruling Parties to Face Stronger Opposition in Upper House",
-        "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260314-316500/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 12:00:50 +0000",
-        "description": ""
-      },
-      {
-        "headline": "7 Men Arrested Over Robbery of ¥423 Mil. on Tokyo Street; Members of Gang Groups Among Those Arrested",
-        "url": "https://japannews.yomiuri.co.jp/society/crime-courts/20260314-316539/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 09:10:19 +0000",
-        "description": "Seven men were arrested on Saturday on suspicion of robbing a Chinese man and six others of about ¥423 million in cash on a street in Tokyo in January, according to police."
-      },
-      {
-        "headline": "Japan-Based USS Tripoli, Marine Unit to Be Sent to Middle East, U.S. Media Report",
-        "url": "https://japannews.yomiuri.co.jp/world/us-canada/20260314-316532/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 08:31:26 +0000",
-        "description": ""
-      },
-      {
-        "headline": "CARTOON OF THE DAY (March 14)",
-        "url": "https://japannews.yomiuri.co.jp/features/cartoon/20260314-316513/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 07:37:56 +0000",
-        "description": "."
-      },
-      {
-        "headline": "Hiroshima: Yamato Museum to Reopen on April 23 after Major Renovation",
-        "url": "https://japannews.yomiuri.co.jp/features/travel-spots/20260314-316129/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 07:25:16 +0000",
-        "description": "KURE, Hiroshima — The Yamato Museum in Kure, Hiroshima Prefecture, known for its display of a one-tenth scale model of the former Imperial Japanese Navy battleship Yamato, will reopen on April 23 afte"
-      },
-      {
-        "headline": "North Korea Fires about 10 Missiles toward Sea in Show of Force, Seoul Says",
-        "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260314-316497/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 07:00:57 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Milano Cortina 2026: Japan&#8217;s Daichi Oguri Wins Silver in Para Snowboard Banked Slalom",
-        "url": "https://japannews.yomiuri.co.jp/sports/olympics-paralympics/20260314-316484/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 06:30:02 +0000",
-        "description": ""
-      },
-      {
-        "headline": "Hyogo: Family in Japan Produces Traditional Charcoal to Help Preserve Tea Ceremony Culture",
-        "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20260314-316126/",
-        "source": "Japan News (Yomiuri)",
-        "sourceId": "japan_news_yomiuri",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 06:22:51 +0000",
-        "description": ""
-      },
-      {
         "headline": "US, Japan agree on their roles in potential nuclear power project, Westinghouse says - Reuters",
         "url": "https://www.reuters.com/business/energy/us-japan-agree-their-roles-potential-nuclear-power-project-westinghouse-says-2026-03-14/",
         "source": "Reuters Japan",
@@ -507,36 +407,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1ZyWWNyMkRuOVFadUc2N25nTjdhS1h2SVNLSGhIUDJXeUFkcG1wMVFsOTBzM0VudHRvbFlVb1FCNzFuTUI1aEV3UEpJM3QxYzNJNk9sdEdZdzR3X0JEY19IYnJhaURHZWlYd0F"
       },
       {
-        "headline": "Cincinnati firing men’s basketball coach Wes Miller, AP sources say - AP News",
-        "url": "https://apnews.com/article/cincinnati-miller-fe2c1ec47e9b1ec56554051f25f2d945",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 13 Mar 2026 22:53:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTdaRXZXRmhlOXRSUDczSHhscFVhYTUwbkIydFBZcEZoVGMwYy0xY083RlF4cm1rR2cyYzFQRHNSY1pweXpTaFJxa0YtYWtscWZFZWJOT19YSU5TUElUZWptTWdxa1pJQWFwTkN"
-      },
-      {
-        "headline": "WNBA's Engelbert: Progress in negotiations and a deal needed by Monday to avoid season disruption - AP News",
-        "url": "https://apnews.com/article/wnba-cba-9726eb03d4b8b8a0bae810b2b496a6a6",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sat, 14 Mar 2026 04:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5EZlNmXzhRQzJZeXFid3kxWmNnQk4zWnN1dVhIeU9PTGYzR211bHpHNHg2UzdnVTlwV0xYajZpR0FUaVhaSGhvZHFDRmkxMHIzWTg1QWMxY1NBU2FjRlRqTXM2VWdBaGlxazBfYnY"
-      },
-      {
-        "headline": "Jaden Bradley’s last-second jumper lifts No. 2 Arizona past No. 7 Iowa St 82-80 in Big 12 thriller - AP News",
-        "url": "https://apnews.com/article/arizona-wildcats-iowa-state-cyclones-big-12-tournament-b9add963c7b4a31c67d396a1515f42dd",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sat, 14 Mar 2026 04:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1RjNFg1Qy1IaHdDYVRVT0ZkckJCWUxuM19UYzRjTFVGTEx4WXRlV2RFX0RkOE5VRW84WTNDbVZpbjVqbUp4WldIVFozWnpnYUhjemk2MVIwRFA4ZzQ0OUJuYkY0aEpTeWVvMWt"
-      },
-      {
         "headline": "Radko Gudas suspended 5 games for his knee-on-knee hit that injured Auston Matthews - AP News",
         "url": "https://apnews.com/article/radko-gudas-suspension-matthews-919ef1b88367fe8b1f4a0a6c293886b8",
         "source": "AP Japan",
@@ -567,24 +437,54 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFVONTFaTk5GbTlSeWw2cHh0dFlzUVQ1LUN5dUlibVJUNFlpdkpxSE9KQkFVZlFuLTdyZWFnV2hVXzVsTnNJcm1CSTM3X3JicnZ0R2hHTjAzSmo5N05PUHduSGFieEdtYjk5bFl"
       },
       {
-        "headline": "Refocused US rebounds from Italy shocker, beats Canada to reach WBC semifinals - AP News",
-        "url": "https://apnews.com/article/wbc-united-states-derosa-judge-f4a2b848b74b648f551516f6fedc6d0b",
+        "headline": "Thailand’s ‘Death Fest’ invites visitors to embrace mortality - AP News",
+        "url": "https://apnews.com/article/thailand-death-fest-buddhism-1a51aef97921fdff4dee811b60f344bf",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sat, 14 Mar 2026 05:35:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3ItWnR1dUk0Tzd2ZDBFWHZ3TWxyMlRWQkhWU2ZPV1l6bHZ6TTdJN0F0YUJvTGJHZXRBaUU3MXl3NGU0NDFtcFUyVGQ2ZWZFUWJYYXRRTVJ0VFBVQjctVFdoc21QUC16b1p0dVB"
+        "date": "Sat, 14 Mar 2026 00:53:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEVHM3lHRHlTM3FtX1pic0tmMk1HeTZ6akIzckN0LTFXQmU3Wm1BMVdfd0JYc3lKWE5BSExBMUI0X1RqNy02enZER3djUjVCTmJMbm1aVFBlNHZZOXE5eWtCN3RMLXliLURvX2w"
       },
       {
-        "headline": "Dutch authorities seek 2 suspects in an explosion outside an Amsterdam Jewish school - AP News",
-        "url": "https://apnews.com/article/netherlands-dutch-jewish-explosion-arson-belgium-police-3a646562262ce0c7c2bec1c8209945d9",
+        "headline": "A seat at the table, but no vote yet for a Democratic lawmaker in the Kennedy Center board showdown - AP News",
+        "url": "https://apnews.com/article/trump-kennedy-center-lawsuit-beatty-renovations-53d19b342753174b9a90b9c21aa9fa0c",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sat, 14 Mar 2026 16:55:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHdSbmNCM2lMeHN6UGtndDFUdDI5aDZ5WnlFUVY4cEJzaDdNN1JPNmJUcmVFSjdOZ1NFaDlwLTQ2OHJabjJIeDVISmZ3MC05cU91am9ZRjkxdm9zajF4cXFUX0l0Y0JFNi1rMjJ"
+        "date": "Sat, 14 Mar 2026 16:03:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjJVS0g5QkNqMUFqRG83d3R4Q0ZFb0pGZkNsbzQxeGtPUXFSSmZsazY3d1FuMXlxUldfcmZneUh4TldqWnRTQ2VwWEt4QkRwZVRVMy1JcnZoX0pDQ0tpeUFKaXNhRi1aTnNuVnB"
+      },
+      {
+        "headline": "Opposition leader Bobi Wine says he left Uganda after going into hiding after disputed election - AP News",
+        "url": "https://apnews.com/article/uganda-opposition-figure-wine-35fa5b4f8e3d6c7466092282b62f7204",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 14 Mar 2026 12:23:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3RSSWNGaGx2XzNOdld2czJzcWVWWWRXTUJwS3VjVXE1bVlHM3RMeFBUUzYySzZqelFieWlBc0ZKMXVLamhnNjVISjltOUttUnhfMHBpbVh2TklVNzY1X01ua1dKd0dJYTd4OFl"
+      },
+      {
+        "headline": "Oregon Army National Guard hoists injured logger to safety in Mount Hood National Forest - AP News",
+        "url": "https://apnews.com/article/oregon-injured-logger-helicopter-rescue-3cd53bdff57f96ccc9a342286a45da2e",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Fri, 13 Mar 2026 22:41:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1Mtbl9JY0N5QnRoeUxRNmN3dWFZUnBwVlZOVGFXXzE5SUlMSlJ3ekNRbDVUQU1VNXg2UGlwTmg2X1BzVldFT3hCRGNIY29XS2dOZjgwemRTbVRaOE80dU1nTlNkX09HaUdXUGZ"
+      },
+      {
+        "headline": "Women’s Day marches in Brazil decry gender-based violence, fueled by alleged gang rape in Copacabana - AP News",
+        "url": "https://apnews.com/article/brazil-international-women-day-march-protests-violence-8c33627c7244a3c26130baa0606de5fd",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 14 Mar 2026 16:33:59 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUdJaUliTU9meXZpUGdEcTk5akxXRHp0S25LN0xEMk44aHVqdUthT2FiQXNFdmtUNVJ2YzVNZzl1QjNYMEVHOFlZZVp3b3RGaUh4X3VtSXlRR2hHNXk2TVhpVEs0LVhkRWhMc2V"
       },
       {
         "headline": "Trump, Xi prepare to meet amid Iran war, uncertain goals - Yahoo News Singapore",
@@ -667,16 +567,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcW9PREtURTlGWWtTbGFNNWQ1bl9iQ0VSaVNfSjdydEg3eG5GdTlZMThZZXRiLUJqd2xKMnl3Tm9wWkZReVhINGNVcUxqd29yQTJqdU1ZSjJWcUZYYVd6V3FDNDJ1R0lKaVB2b3R"
       },
       {
-        "headline": "Japan's Prime Minister Sparks Health Concerns After She's Seen Struggling to Stand on Video Ahead of Trump Summit - Yahoo News UK",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_1df9dd8c-69ba-46d7-9da8-3cd721a58b78",
-        "source": "AFP Japan",
-        "sourceId": "afp_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 13 Mar 2026 22:30:33 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUEzY1Vnb05RSFFxaUdlSFRBVWU5RGNWZ3dIUjlSRnRfVTVUM2theFVSYU5lUTg3Ry1zbmE0eXNkbjFvaHVRWDVtMVJQWWhtWDl3M29zSVl5MTdLRWZhelBMRUhpOXRpSXRlOW1"
-      },
-      {
         "headline": "UN chief says 'diplomatic avenues' available to stop war in Lebanon - Yahoo News UK",
         "url": "https://uk.news.yahoo.com/israel-presses-strikes-lebanon-says-140321951.html",
         "source": "AFP Japan",
@@ -685,6 +575,16 @@
         "priority": "secondary",
         "date": "Sat, 14 Mar 2026 20:58:20 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEhJTUxBRHdMNDJXU19BRDZUeDRZaW5fOHFXTmZoMXBDOGFiWDV1Skk2YkVNcDRfR2FhcF9UTjF6MnJnSGlZWTBCdVUtTzFnX0FvbTJVYTBobVM4TFRsN3QyM2ZvcFpUZkQ0S0V"
+      },
+      {
+        "headline": "Russian sports minister defends return of flag, anthem to Paralympics - Yahoo News Singapore",
+        "url": "https://sg.news.yahoo.com/russian-sports-minister-defends-return-170734993.html",
+        "source": "AFP Japan",
+        "sourceId": "afp_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 14 Mar 2026 17:07:34 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXFia3oxTlo0c09wVk9ZbWtKTXR0VVZfMlg3YU1xdUxOdHZkUEs1UllwYmJDcm9scWpkc09IdTB5VEdSNUN0dWxqWmtIX2VWaG9JS2hKaDJDQVUydkowRUs4Snh6Tm9NTldhVDF"
       },
       {
         "headline": "'Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?",
@@ -997,6 +897,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVEaEZjNzB3dmVzRjJSR2hXQXh2cUtIbEJ4RkUwaHJ5el9LMjVvVUxZYlZiWVpXM0FfZGlaZS14VVRobFp0WVg3ZEhpV2ZjdWJ5UDZwRGt3NkFQT2ZUR1g0OHZlMXRYZUp2QWR"
       },
       {
+        "headline": "Trump urges world to help open Strait of Hormuz; U.S. Embassy in Baghdad hit - The Washington Post",
+        "url": "chrome-error://chromewebdata/",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Sat, 14 Mar 2026 21:08:54 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVA5eFpYMThSQmVXYk1rMUxZWVU2REVGclphQXJqUzlyaDVrRTdaZ3BMQUYtOHZCOGFwTE9VZDVMWjQxdUlkbGNjS2YyTHhjT0hKOTcwT1psa0V2OWtoN1JOU1U1bVBGT1MyUWl"
+      },
+      {
         "headline": "Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
@@ -1057,16 +967,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWNqTDczd3pNemx4T25jVmh6Q1FvUGtTcmtZZXNkS282UE5CeVI0QTlTeEJqbHg0ZjRiVFQzZHdfN000dzVmQnZSd19GV0N4RXU3MzdCTmpubmh0bHV6cjR5aXZFWGNROUZyTGY"
       },
       {
-        "headline": "Trump urges world to help open Strait of Hormuz; U.S. Embassy in Baghdad hit - The Washington Post",
-        "url": "chrome-error://chromewebdata/",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Sat, 14 Mar 2026 21:08:54 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVA5eFpYMThSQmVXYk1rMUxZWVU2REVGclphQXJqUzlyaDVrRTdaZ3BMQUYtOHZCOGFwTE9VZDVMWjQxdUlkbGNjS2YyTHhjT0hKOTcwT1psa0V2OWtoN1JOU1U1bVBGT1MyUWl"
-      },
-      {
         "headline": "Wells' walk-off homer gives Dominicans 10-0 rout-rule win over South Korea, WBC semifinal berth - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
@@ -1077,14 +977,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNSml1S29waEFMQjhwUjFmWms5OTl4cWc3N2tkWjNna1FualBrWE5icnZESDUxNVJsYzZuQTN4MTZiRzFpVEFHYTZKQUVJZlNLN0NZeDktR3FtQkV3am02VU1Ya1VXYTNKRVR4R1N"
       },
       {
-        "headline": "'I came to try and save the club:' Veteran coach Halilhodzic on returning to struggling Nantes at 73 - The Washington Post",
+        "headline": "Formula 1 calls off April races in Bahrain and Saudi Arabia due to Iran war - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Fri, 13 Mar 2026 23:19:17 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYUI3MTN0QlBQTGt3VzBNZEtxOVRISjV2VE9iM1dfR3FGNVVleVIxQTIwN1RvakFSaFAzVkRaOVdxT3VUNGQ1eUFVQThrZGwycFdqSWd1N1paZ2k1bUpHRTNjQzVERkl5a1dFNlV"
+        "date": "Sat, 14 Mar 2026 22:28:34 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXdJMVJYZEtwOWdydkM5OUtSWFY2dTRLNHVpUVhQYmw3czgzUDJHSndNdmNqRkdVR2p0aXBySmpsOEhqSEU1RkVnYUJzWldTQWFYdTNtQ2puZEJBaTRwbWNKRlk0Tk9iaVBGRDl"
       }
     ],
     "byCategory": {
@@ -1096,18 +996,18 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 05:57:07 +0900",
+          "date": "Sun, 15 Mar 2026 07:07:34 +0900",
           "description": "ホルムズ海峡が事実上封鎖され、原油価格の高騰への懸念が高まる中、アメリカのトランプ大統領は、海峡の安全を確保するため日本を含む各国がこの海域に艦船を派遣することに期待を示しました。"
         },
         {
-          "headline": "旧優生保護法の被害補償 東京 広島など1都3県が個別通知",
-          "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075911000.html",
+          "headline": "WBCきょう準々決勝 ベネズエラ戦 山本由伸など投手陣がかぎか",
+          "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075901000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 05:08:16 +0900",
-          "description": "旧優生保護法のもとで不妊手術などを強制された被害者への補償が進まない中、ことしから東京都や広島県など1都3県が、被害者に補償の対象となることを直接伝える、個別通知を始めたことが分かりました。"
+          "date": "Sun, 15 Mar 2026 00:11:57 +0900",
+          "description": "WBC＝ワールド・ベースボール・クラシック、日本代表は日本時間の15日、ベネズエラ代表との準々決勝を迎えます。先発の山本由伸投手をはじめとする日本の投手陣がベネズエラの強力打線を抑えられるかが勝負のかぎを握ります。"
         },
         {
           "headline": "4億円強奪事件 容疑者関係先で現金約1000万円見つかる 報酬か",
@@ -1120,14 +1020,14 @@
           "description": "ことし1月、東京 台東区の路上で、中国籍や日本人のグループが4億円余りを奪われた事件で、逮捕された7人のうち、実行役とみられる暴力団員の関係先から、現金およそ1000万円が見つかったことが捜査関係者への取材でわかりました。指示役からの報酬とみられ、警視庁は、多額の現金が狙われたいきさつなど、事件の全容解明を進めることにしています。"
         },
         {
-          "headline": "WBCきょう準々決勝 ベネズエラ戦 山本由伸など投手陣がかぎか",
-          "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075901000.html",
+          "headline": "旧優生保護法の被害補償 東京 広島など1都3県が個別通知",
+          "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075911000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 00:11:57 +0900",
-          "description": "WBC＝ワールド・ベースボール・クラシック、日本代表は日本時間の15日、ベネズエラ代表との準々決勝を迎えます。先発の山本由伸投手をはじめとする日本の投手陣がベネズエラの強力打線を抑えられるかが勝負のかぎを握ります。"
+          "date": "Sun, 15 Mar 2026 05:08:16 +0900",
+          "description": "旧優生保護法のもとで不妊手術などを強制された被害者への補償が進まない中、ことしから東京都や広島県など1都3県が、被害者に補償の対象となることを直接伝える、個別通知を始めたことが分かりました。"
         },
         {
           "headline": "新宿 携帯電話買い取り店で強盗 現金約170万円など奪い逃げる",
@@ -1258,106 +1158,6 @@
           "priority": "primary",
           "date": "Sat, 14 Mar 2026 14:56:00 +0900",
           "description": "The evacuees are Japanese nationals from Iraq, Kuwait, Bahrain, Qatar and Saudi Arabia, and non-Japanese family members, the Foreign Ministry said."
-        },
-        {
-          "headline": "German Journalist Traces Footsteps of Great-Grandfather Who Was POW in Japan During World War I",
-          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260315-316520/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 22:00:07 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Ransomware Attacks Hitting Japan&#8217;s Small, Midsize Firms",
-          "url": "https://japannews.yomiuri.co.jp/business/companies/20260315-316491/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 17:00:39 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Japan&#8217;s Budget on Track for Quick Passage, but Ruling Parties to Face Stronger Opposition in Upper House",
-          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260314-316500/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 12:00:50 +0000",
-          "description": ""
-        },
-        {
-          "headline": "7 Men Arrested Over Robbery of ¥423 Mil. on Tokyo Street; Members of Gang Groups Among Those Arrested",
-          "url": "https://japannews.yomiuri.co.jp/society/crime-courts/20260314-316539/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 09:10:19 +0000",
-          "description": "Seven men were arrested on Saturday on suspicion of robbing a Chinese man and six others of about ¥423 million in cash on a street in Tokyo in January, according to police."
-        },
-        {
-          "headline": "Japan-Based USS Tripoli, Marine Unit to Be Sent to Middle East, U.S. Media Report",
-          "url": "https://japannews.yomiuri.co.jp/world/us-canada/20260314-316532/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 08:31:26 +0000",
-          "description": ""
-        },
-        {
-          "headline": "CARTOON OF THE DAY (March 14)",
-          "url": "https://japannews.yomiuri.co.jp/features/cartoon/20260314-316513/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 07:37:56 +0000",
-          "description": "."
-        },
-        {
-          "headline": "Hiroshima: Yamato Museum to Reopen on April 23 after Major Renovation",
-          "url": "https://japannews.yomiuri.co.jp/features/travel-spots/20260314-316129/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 07:25:16 +0000",
-          "description": "KURE, Hiroshima — The Yamato Museum in Kure, Hiroshima Prefecture, known for its display of a one-tenth scale model of the former Imperial Japanese Navy battleship Yamato, will reopen on April 23 afte"
-        },
-        {
-          "headline": "North Korea Fires about 10 Missiles toward Sea in Show of Force, Seoul Says",
-          "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260314-316497/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 07:00:57 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Milano Cortina 2026: Japan&#8217;s Daichi Oguri Wins Silver in Para Snowboard Banked Slalom",
-          "url": "https://japannews.yomiuri.co.jp/sports/olympics-paralympics/20260314-316484/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 06:30:02 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Hyogo: Family in Japan Produces Traditional Charcoal to Help Preserve Tea Ceremony Culture",
-          "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20260314-316126/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 06:22:51 +0000",
-          "description": ""
         }
       ],
       "wire": [
@@ -1582,36 +1382,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1ZyWWNyMkRuOVFadUc2N25nTjdhS1h2SVNLSGhIUDJXeUFkcG1wMVFsOTBzM0VudHRvbFlVb1FCNzFuTUI1aEV3UEpJM3QxYzNJNk9sdEdZdzR3X0JEY19IYnJhaURHZWlYd0F"
         },
         {
-          "headline": "Cincinnati firing men’s basketball coach Wes Miller, AP sources say - AP News",
-          "url": "https://apnews.com/article/cincinnati-miller-fe2c1ec47e9b1ec56554051f25f2d945",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 22:53:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTdaRXZXRmhlOXRSUDczSHhscFVhYTUwbkIydFBZcEZoVGMwYy0xY083RlF4cm1rR2cyYzFQRHNSY1pweXpTaFJxa0YtYWtscWZFZWJOT19YSU5TUElUZWptTWdxa1pJQWFwTkN"
-        },
-        {
-          "headline": "WNBA's Engelbert: Progress in negotiations and a deal needed by Monday to avoid season disruption - AP News",
-          "url": "https://apnews.com/article/wnba-cba-9726eb03d4b8b8a0bae810b2b496a6a6",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 04:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5EZlNmXzhRQzJZeXFid3kxWmNnQk4zWnN1dVhIeU9PTGYzR211bHpHNHg2UzdnVTlwV0xYajZpR0FUaVhaSGhvZHFDRmkxMHIzWTg1QWMxY1NBU2FjRlRqTXM2VWdBaGlxazBfYnY"
-        },
-        {
-          "headline": "Jaden Bradley’s last-second jumper lifts No. 2 Arizona past No. 7 Iowa St 82-80 in Big 12 thriller - AP News",
-          "url": "https://apnews.com/article/arizona-wildcats-iowa-state-cyclones-big-12-tournament-b9add963c7b4a31c67d396a1515f42dd",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 04:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1RjNFg1Qy1IaHdDYVRVT0ZkckJCWUxuM19UYzRjTFVGTEx4WXRlV2RFX0RkOE5VRW84WTNDbVZpbjVqbUp4WldIVFozWnpnYUhjemk2MVIwRFA4ZzQ0OUJuYkY0aEpTeWVvMWt"
-        },
-        {
           "headline": "Radko Gudas suspended 5 games for his knee-on-knee hit that injured Auston Matthews - AP News",
           "url": "https://apnews.com/article/radko-gudas-suspension-matthews-919ef1b88367fe8b1f4a0a6c293886b8",
           "source": "AP Japan",
@@ -1642,24 +1412,54 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFVONTFaTk5GbTlSeWw2cHh0dFlzUVQ1LUN5dUlibVJUNFlpdkpxSE9KQkFVZlFuLTdyZWFnV2hVXzVsTnNJcm1CSTM3X3JicnZ0R2hHTjAzSmo5N05PUHduSGFieEdtYjk5bFl"
         },
         {
-          "headline": "Refocused US rebounds from Italy shocker, beats Canada to reach WBC semifinals - AP News",
-          "url": "https://apnews.com/article/wbc-united-states-derosa-judge-f4a2b848b74b648f551516f6fedc6d0b",
+          "headline": "Thailand’s ‘Death Fest’ invites visitors to embrace mortality - AP News",
+          "url": "https://apnews.com/article/thailand-death-fest-buddhism-1a51aef97921fdff4dee811b60f344bf",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 05:35:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3ItWnR1dUk0Tzd2ZDBFWHZ3TWxyMlRWQkhWU2ZPV1l6bHZ6TTdJN0F0YUJvTGJHZXRBaUU3MXl3NGU0NDFtcFUyVGQ2ZWZFUWJYYXRRTVJ0VFBVQjctVFdoc21QUC16b1p0dVB"
+          "date": "Sat, 14 Mar 2026 00:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEVHM3lHRHlTM3FtX1pic0tmMk1HeTZ6akIzckN0LTFXQmU3Wm1BMVdfd0JYc3lKWE5BSExBMUI0X1RqNy02enZER3djUjVCTmJMbm1aVFBlNHZZOXE5eWtCN3RMLXliLURvX2w"
         },
         {
-          "headline": "Dutch authorities seek 2 suspects in an explosion outside an Amsterdam Jewish school - AP News",
-          "url": "https://apnews.com/article/netherlands-dutch-jewish-explosion-arson-belgium-police-3a646562262ce0c7c2bec1c8209945d9",
+          "headline": "A seat at the table, but no vote yet for a Democratic lawmaker in the Kennedy Center board showdown - AP News",
+          "url": "https://apnews.com/article/trump-kennedy-center-lawsuit-beatty-renovations-53d19b342753174b9a90b9c21aa9fa0c",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 16:55:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHdSbmNCM2lMeHN6UGtndDFUdDI5aDZ5WnlFUVY4cEJzaDdNN1JPNmJUcmVFSjdOZ1NFaDlwLTQ2OHJabjJIeDVISmZ3MC05cU91am9ZRjkxdm9zajF4cXFUX0l0Y0JFNi1rMjJ"
+          "date": "Sat, 14 Mar 2026 16:03:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjJVS0g5QkNqMUFqRG83d3R4Q0ZFb0pGZkNsbzQxeGtPUXFSSmZsazY3d1FuMXlxUldfcmZneUh4TldqWnRTQ2VwWEt4QkRwZVRVMy1JcnZoX0pDQ0tpeUFKaXNhRi1aTnNuVnB"
+        },
+        {
+          "headline": "Opposition leader Bobi Wine says he left Uganda after going into hiding after disputed election - AP News",
+          "url": "https://apnews.com/article/uganda-opposition-figure-wine-35fa5b4f8e3d6c7466092282b62f7204",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 14 Mar 2026 12:23:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3RSSWNGaGx2XzNOdld2czJzcWVWWWRXTUJwS3VjVXE1bVlHM3RMeFBUUzYySzZqelFieWlBc0ZKMXVLamhnNjVISjltOUttUnhfMHBpbVh2TklVNzY1X01ua1dKd0dJYTd4OFl"
+        },
+        {
+          "headline": "Oregon Army National Guard hoists injured logger to safety in Mount Hood National Forest - AP News",
+          "url": "https://apnews.com/article/oregon-injured-logger-helicopter-rescue-3cd53bdff57f96ccc9a342286a45da2e",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 22:41:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1Mtbl9JY0N5QnRoeUxRNmN3dWFZUnBwVlZOVGFXXzE5SUlMSlJ3ekNRbDVUQU1VNXg2UGlwTmg2X1BzVldFT3hCRGNIY29XS2dOZjgwemRTbVRaOE80dU1nTlNkX09HaUdXUGZ"
+        },
+        {
+          "headline": "Women’s Day marches in Brazil decry gender-based violence, fueled by alleged gang rape in Copacabana - AP News",
+          "url": "https://apnews.com/article/brazil-international-women-day-march-protests-violence-8c33627c7244a3c26130baa0606de5fd",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 14 Mar 2026 16:33:59 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUdJaUliTU9meXZpUGdEcTk5akxXRHp0S25LN0xEMk44aHVqdUthT2FiQXNFdmtUNVJ2YzVNZzl1QjNYMEVHOFlZZVp3b3RGaUh4X3VtSXlRR2hHNXk2TVhpVEs0LVhkRWhMc2V"
         },
         {
           "headline": "Trump, Xi prepare to meet amid Iran war, uncertain goals - Yahoo News Singapore",
@@ -1742,16 +1542,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcW9PREtURTlGWWtTbGFNNWQ1bl9iQ0VSaVNfSjdydEg3eG5GdTlZMThZZXRiLUJqd2xKMnl3Tm9wWkZReVhINGNVcUxqd29yQTJqdU1ZSjJWcUZYYVd6V3FDNDJ1R0lKaVB2b3R"
         },
         {
-          "headline": "Japan's Prime Minister Sparks Health Concerns After She's Seen Struggling to Stand on Video Ahead of Trump Summit - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_1df9dd8c-69ba-46d7-9da8-3cd721a58b78",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 22:30:33 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUEzY1Vnb05RSFFxaUdlSFRBVWU5RGNWZ3dIUjlSRnRfVTVUM2theFVSYU5lUTg3Ry1zbmE0eXNkbjFvaHVRWDVtMVJQWWhtWDl3M29zSVl5MTdLRWZhelBMRUhpOXRpSXRlOW1"
-        },
-        {
           "headline": "UN chief says 'diplomatic avenues' available to stop war in Lebanon - Yahoo News UK",
           "url": "https://uk.news.yahoo.com/israel-presses-strikes-lebanon-says-140321951.html",
           "source": "AFP Japan",
@@ -1760,6 +1550,16 @@
           "priority": "secondary",
           "date": "Sat, 14 Mar 2026 20:58:20 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEhJTUxBRHdMNDJXU19BRDZUeDRZaW5fOHFXTmZoMXBDOGFiWDV1Skk2YkVNcDRfR2FhcF9UTjF6MnJnSGlZWTBCdVUtTzFnX0FvbTJVYTBobVM4TFRsN3QyM2ZvcFpUZkQ0S0V"
+        },
+        {
+          "headline": "Russian sports minister defends return of flag, anthem to Paralympics - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/russian-sports-minister-defends-return-170734993.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 14 Mar 2026 17:07:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXFia3oxTlo0c09wVk9ZbWtKTXR0VVZfMlg3YU1xdUxOdHZkUEs1UllwYmJDcm9scWpkc09IdTB5VEdSNUN0dWxqWmtIX2VWaG9JS2hKaDJDQVUydkowRUs4Snh6Tm9NTldhVDF"
         }
       ],
       "competitors": [
@@ -2074,6 +1874,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVEaEZjNzB3dmVzRjJSR2hXQXh2cUtIbEJ4RkUwaHJ5el9LMjVvVUxZYlZiWVpXM0FfZGlaZS14VVRobFp0WVg3ZEhpV2ZjdWJ5UDZwRGt3NkFQT2ZUR1g0OHZlMXRYZUp2QWR"
         },
         {
+          "headline": "Trump urges world to help open Strait of Hormuz; U.S. Embassy in Baghdad hit - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Sat, 14 Mar 2026 21:08:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVA5eFpYMThSQmVXYk1rMUxZWVU2REVGclphQXJqUzlyaDVrRTdaZ3BMQUYtOHZCOGFwTE9VZDVMWjQxdUlkbGNjS2YyTHhjT0hKOTcwT1psa0V2OWtoN1JOU1U1bVBGT1MyUWl"
+        },
+        {
           "headline": "Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
@@ -2134,16 +1944,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWNqTDczd3pNemx4T25jVmh6Q1FvUGtTcmtZZXNkS282UE5CeVI0QTlTeEJqbHg0ZjRiVFQzZHdfN000dzVmQnZSd19GV0N4RXU3MzdCTmpubmh0bHV6cjR5aXZFWGNROUZyTGY"
         },
         {
-          "headline": "Trump urges world to help open Strait of Hormuz; U.S. Embassy in Baghdad hit - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sat, 14 Mar 2026 21:08:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVA5eFpYMThSQmVXYk1rMUxZWVU2REVGclphQXJqUzlyaDVrRTdaZ3BMQUYtOHZCOGFwTE9VZDVMWjQxdUlkbGNjS2YyTHhjT0hKOTcwT1psa0V2OWtoN1JOU1U1bVBGT1MyUWl"
-        },
-        {
           "headline": "Wells' walk-off homer gives Dominicans 10-0 rout-rule win over South Korea, WBC semifinal berth - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
@@ -2154,14 +1954,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNSml1S29waEFMQjhwUjFmWms5OTl4cWc3N2tkWjNna1FualBrWE5icnZESDUxNVJsYzZuQTN4MTZiRzFpVEFHYTZKQUVJZlNLN0NZeDktR3FtQkV3am02VU1Ya1VXYTNKRVR4R1N"
         },
         {
-          "headline": "'I came to try and save the club:' Veteran coach Halilhodzic on returning to struggling Nantes at 73 - The Washington Post",
+          "headline": "Formula 1 calls off April races in Bahrain and Saudi Arabia due to Iran war - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Fri, 13 Mar 2026 23:19:17 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYUI3MTN0QlBQTGt3VzBNZEtxOVRISjV2VE9iM1dfR3FGNVVleVIxQTIwN1RvakFSaFAzVkRaOVdxT3VUNGQ1eUFVQThrZGwycFdqSWd1N1paZ2k1bUpHRTNjQzVERkl5a1dFNlV"
+          "date": "Sat, 14 Mar 2026 22:28:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXdJMVJYZEtwOWdydkM5OUtSWFY2dTRLNHVpUVhQYmw3czgzUDJHSndNdmNqRkdVR2p0aXBySmpsOEhqSEU1RkVnYUJzWldTQWFYdTNtQ2puZEJBaTRwbWNKRlk0Tk9iaVBGRDl"
         }
       ]
     },
@@ -2174,18 +1974,18 @@
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 05:57:07 +0900",
+          "date": "Sun, 15 Mar 2026 07:07:34 +0900",
           "description": "ホルムズ海峡が事実上封鎖され、原油価格の高騰への懸念が高まる中、アメリカのトランプ大統領は、海峡の安全を確保するため日本を含む各国がこの海域に艦船を派遣することに期待を示しました。"
         },
         {
-          "headline": "旧優生保護法の被害補償 東京 広島など1都3県が個別通知",
-          "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075911000.html",
+          "headline": "WBCきょう準々決勝 ベネズエラ戦 山本由伸など投手陣がかぎか",
+          "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075901000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 05:08:16 +0900",
-          "description": "旧優生保護法のもとで不妊手術などを強制された被害者への補償が進まない中、ことしから東京都や広島県など1都3県が、被害者に補償の対象となることを直接伝える、個別通知を始めたことが分かりました。"
+          "date": "Sun, 15 Mar 2026 00:11:57 +0900",
+          "description": "WBC＝ワールド・ベースボール・クラシック、日本代表は日本時間の15日、ベネズエラ代表との準々決勝を迎えます。先発の山本由伸投手をはじめとする日本の投手陣がベネズエラの強力打線を抑えられるかが勝負のかぎを握ります。"
         },
         {
           "headline": "4億円強奪事件 容疑者関係先で現金約1000万円見つかる 報酬か",
@@ -2198,14 +1998,14 @@
           "description": "ことし1月、東京 台東区の路上で、中国籍や日本人のグループが4億円余りを奪われた事件で、逮捕された7人のうち、実行役とみられる暴力団員の関係先から、現金およそ1000万円が見つかったことが捜査関係者への取材でわかりました。指示役からの報酬とみられ、警視庁は、多額の現金が狙われたいきさつなど、事件の全容解明を進めることにしています。"
         },
         {
-          "headline": "WBCきょう準々決勝 ベネズエラ戦 山本由伸など投手陣がかぎか",
-          "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075901000.html",
+          "headline": "旧優生保護法の被害補償 東京 広島など1都3県が個別通知",
+          "url": "http://www3.nhk.or.jp/news/html/20260315/k10015075911000.html",
           "source": "NHK World",
           "sourceId": "nhk_world",
           "category": "national",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 00:11:57 +0900",
-          "description": "WBC＝ワールド・ベースボール・クラシック、日本代表は日本時間の15日、ベネズエラ代表との準々決勝を迎えます。先発の山本由伸投手をはじめとする日本の投手陣がベネズエラの強力打線を抑えられるかが勝負のかぎを握ります。"
+          "date": "Sun, 15 Mar 2026 05:08:16 +0900",
+          "description": "旧優生保護法のもとで不妊手術などを強制された被害者への補償が進まない中、ことしから東京都や広島県など1都3県が、被害者に補償の対象となることを直接伝える、個別通知を始めたことが分かりました。"
         },
         {
           "headline": "新宿 携帯電話買い取り店で強盗 現金約170万円など奪い逃げる",
@@ -2436,106 +2236,6 @@
           "priority": "primary",
           "date": "Sat, 14 Mar 2026 14:56:00 +0900",
           "description": "The evacuees are Japanese nationals from Iraq, Kuwait, Bahrain, Qatar and Saudi Arabia, and non-Japanese family members, the Foreign Ministry said."
-        },
-        {
-          "headline": "German Journalist Traces Footsteps of Great-Grandfather Who Was POW in Japan During World War I",
-          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260315-316520/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 22:00:07 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Ransomware Attacks Hitting Japan&#8217;s Small, Midsize Firms",
-          "url": "https://japannews.yomiuri.co.jp/business/companies/20260315-316491/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 17:00:39 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Japan&#8217;s Budget on Track for Quick Passage, but Ruling Parties to Face Stronger Opposition in Upper House",
-          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260314-316500/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 12:00:50 +0000",
-          "description": ""
-        },
-        {
-          "headline": "7 Men Arrested Over Robbery of ¥423 Mil. on Tokyo Street; Members of Gang Groups Among Those Arrested",
-          "url": "https://japannews.yomiuri.co.jp/society/crime-courts/20260314-316539/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 09:10:19 +0000",
-          "description": "Seven men were arrested on Saturday on suspicion of robbing a Chinese man and six others of about ¥423 million in cash on a street in Tokyo in January, according to police."
-        },
-        {
-          "headline": "Japan-Based USS Tripoli, Marine Unit to Be Sent to Middle East, U.S. Media Report",
-          "url": "https://japannews.yomiuri.co.jp/world/us-canada/20260314-316532/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 08:31:26 +0000",
-          "description": ""
-        },
-        {
-          "headline": "CARTOON OF THE DAY (March 14)",
-          "url": "https://japannews.yomiuri.co.jp/features/cartoon/20260314-316513/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 07:37:56 +0000",
-          "description": "."
-        },
-        {
-          "headline": "Hiroshima: Yamato Museum to Reopen on April 23 after Major Renovation",
-          "url": "https://japannews.yomiuri.co.jp/features/travel-spots/20260314-316129/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 07:25:16 +0000",
-          "description": "KURE, Hiroshima — The Yamato Museum in Kure, Hiroshima Prefecture, known for its display of a one-tenth scale model of the former Imperial Japanese Navy battleship Yamato, will reopen on April 23 afte"
-        },
-        {
-          "headline": "North Korea Fires about 10 Missiles toward Sea in Show of Force, Seoul Says",
-          "url": "https://japannews.yomiuri.co.jp/news-services/ap/20260314-316497/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 07:00:57 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Milano Cortina 2026: Japan&#8217;s Daichi Oguri Wins Silver in Para Snowboard Banked Slalom",
-          "url": "https://japannews.yomiuri.co.jp/sports/olympics-paralympics/20260314-316484/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 06:30:02 +0000",
-          "description": ""
-        },
-        {
-          "headline": "Hyogo: Family in Japan Produces Traditional Charcoal to Help Preserve Tea Ceremony Culture",
-          "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20260314-316126/",
-          "source": "Japan News (Yomiuri)",
-          "sourceId": "japan_news_yomiuri",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 06:22:51 +0000",
-          "description": ""
         }
       ],
       "secondary": [
@@ -2660,36 +2360,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1ZyWWNyMkRuOVFadUc2N25nTjdhS1h2SVNLSGhIUDJXeUFkcG1wMVFsOTBzM0VudHRvbFlVb1FCNzFuTUI1aEV3UEpJM3QxYzNJNk9sdEdZdzR3X0JEY19IYnJhaURHZWlYd0F"
         },
         {
-          "headline": "Cincinnati firing men’s basketball coach Wes Miller, AP sources say - AP News",
-          "url": "https://apnews.com/article/cincinnati-miller-fe2c1ec47e9b1ec56554051f25f2d945",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 22:53:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTdaRXZXRmhlOXRSUDczSHhscFVhYTUwbkIydFBZcEZoVGMwYy0xY083RlF4cm1rR2cyYzFQRHNSY1pweXpTaFJxa0YtYWtscWZFZWJOT19YSU5TUElUZWptTWdxa1pJQWFwTkN"
-        },
-        {
-          "headline": "WNBA's Engelbert: Progress in negotiations and a deal needed by Monday to avoid season disruption - AP News",
-          "url": "https://apnews.com/article/wnba-cba-9726eb03d4b8b8a0bae810b2b496a6a6",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 04:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5EZlNmXzhRQzJZeXFid3kxWmNnQk4zWnN1dVhIeU9PTGYzR211bHpHNHg2UzdnVTlwV0xYajZpR0FUaVhaSGhvZHFDRmkxMHIzWTg1QWMxY1NBU2FjRlRqTXM2VWdBaGlxazBfYnY"
-        },
-        {
-          "headline": "Jaden Bradley’s last-second jumper lifts No. 2 Arizona past No. 7 Iowa St 82-80 in Big 12 thriller - AP News",
-          "url": "https://apnews.com/article/arizona-wildcats-iowa-state-cyclones-big-12-tournament-b9add963c7b4a31c67d396a1515f42dd",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 04:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1RjNFg1Qy1IaHdDYVRVT0ZkckJCWUxuM19UYzRjTFVGTEx4WXRlV2RFX0RkOE5VRW84WTNDbVZpbjVqbUp4WldIVFozWnpnYUhjemk2MVIwRFA4ZzQ0OUJuYkY0aEpTeWVvMWt"
-        },
-        {
           "headline": "Radko Gudas suspended 5 games for his knee-on-knee hit that injured Auston Matthews - AP News",
           "url": "https://apnews.com/article/radko-gudas-suspension-matthews-919ef1b88367fe8b1f4a0a6c293886b8",
           "source": "AP Japan",
@@ -2720,24 +2390,54 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFVONTFaTk5GbTlSeWw2cHh0dFlzUVQ1LUN5dUlibVJUNFlpdkpxSE9KQkFVZlFuLTdyZWFnV2hVXzVsTnNJcm1CSTM3X3JicnZ0R2hHTjAzSmo5N05PUHduSGFieEdtYjk5bFl"
         },
         {
-          "headline": "Refocused US rebounds from Italy shocker, beats Canada to reach WBC semifinals - AP News",
-          "url": "https://apnews.com/article/wbc-united-states-derosa-judge-f4a2b848b74b648f551516f6fedc6d0b",
+          "headline": "Thailand’s ‘Death Fest’ invites visitors to embrace mortality - AP News",
+          "url": "https://apnews.com/article/thailand-death-fest-buddhism-1a51aef97921fdff4dee811b60f344bf",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 05:35:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3ItWnR1dUk0Tzd2ZDBFWHZ3TWxyMlRWQkhWU2ZPV1l6bHZ6TTdJN0F0YUJvTGJHZXRBaUU3MXl3NGU0NDFtcFUyVGQ2ZWZFUWJYYXRRTVJ0VFBVQjctVFdoc21QUC16b1p0dVB"
+          "date": "Sat, 14 Mar 2026 00:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEVHM3lHRHlTM3FtX1pic0tmMk1HeTZ6akIzckN0LTFXQmU3Wm1BMVdfd0JYc3lKWE5BSExBMUI0X1RqNy02enZER3djUjVCTmJMbm1aVFBlNHZZOXE5eWtCN3RMLXliLURvX2w"
         },
         {
-          "headline": "Dutch authorities seek 2 suspects in an explosion outside an Amsterdam Jewish school - AP News",
-          "url": "https://apnews.com/article/netherlands-dutch-jewish-explosion-arson-belgium-police-3a646562262ce0c7c2bec1c8209945d9",
+          "headline": "A seat at the table, but no vote yet for a Democratic lawmaker in the Kennedy Center board showdown - AP News",
+          "url": "https://apnews.com/article/trump-kennedy-center-lawsuit-beatty-renovations-53d19b342753174b9a90b9c21aa9fa0c",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 16:55:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHdSbmNCM2lMeHN6UGtndDFUdDI5aDZ5WnlFUVY4cEJzaDdNN1JPNmJUcmVFSjdOZ1NFaDlwLTQ2OHJabjJIeDVISmZ3MC05cU91am9ZRjkxdm9zajF4cXFUX0l0Y0JFNi1rMjJ"
+          "date": "Sat, 14 Mar 2026 16:03:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjJVS0g5QkNqMUFqRG83d3R4Q0ZFb0pGZkNsbzQxeGtPUXFSSmZsazY3d1FuMXlxUldfcmZneUh4TldqWnRTQ2VwWEt4QkRwZVRVMy1JcnZoX0pDQ0tpeUFKaXNhRi1aTnNuVnB"
+        },
+        {
+          "headline": "Opposition leader Bobi Wine says he left Uganda after going into hiding after disputed election - AP News",
+          "url": "https://apnews.com/article/uganda-opposition-figure-wine-35fa5b4f8e3d6c7466092282b62f7204",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 14 Mar 2026 12:23:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3RSSWNGaGx2XzNOdld2czJzcWVWWWRXTUJwS3VjVXE1bVlHM3RMeFBUUzYySzZqelFieWlBc0ZKMXVLamhnNjVISjltOUttUnhfMHBpbVh2TklVNzY1X01ua1dKd0dJYTd4OFl"
+        },
+        {
+          "headline": "Oregon Army National Guard hoists injured logger to safety in Mount Hood National Forest - AP News",
+          "url": "https://apnews.com/article/oregon-injured-logger-helicopter-rescue-3cd53bdff57f96ccc9a342286a45da2e",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 13 Mar 2026 22:41:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ1Mtbl9JY0N5QnRoeUxRNmN3dWFZUnBwVlZOVGFXXzE5SUlMSlJ3ekNRbDVUQU1VNXg2UGlwTmg2X1BzVldFT3hCRGNIY29XS2dOZjgwemRTbVRaOE80dU1nTlNkX09HaUdXUGZ"
+        },
+        {
+          "headline": "Women’s Day marches in Brazil decry gender-based violence, fueled by alleged gang rape in Copacabana - AP News",
+          "url": "https://apnews.com/article/brazil-international-women-day-march-protests-violence-8c33627c7244a3c26130baa0606de5fd",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 14 Mar 2026 16:33:59 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUdJaUliTU9meXZpUGdEcTk5akxXRHp0S25LN0xEMk44aHVqdUthT2FiQXNFdmtUNVJ2YzVNZzl1QjNYMEVHOFlZZVp3b3RGaUh4X3VtSXlRR2hHNXk2TVhpVEs0LVhkRWhMc2V"
         },
         {
           "headline": "Trump, Xi prepare to meet amid Iran war, uncertain goals - Yahoo News Singapore",
@@ -2820,16 +2520,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcW9PREtURTlGWWtTbGFNNWQ1bl9iQ0VSaVNfSjdydEg3eG5GdTlZMThZZXRiLUJqd2xKMnl3Tm9wWkZReVhINGNVcUxqd29yQTJqdU1ZSjJWcUZYYVd6V3FDNDJ1R0lKaVB2b3R"
         },
         {
-          "headline": "Japan's Prime Minister Sparks Health Concerns After She's Seen Struggling to Stand on Video Ahead of Trump Summit - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_1df9dd8c-69ba-46d7-9da8-3cd721a58b78",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 13 Mar 2026 22:30:33 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUEzY1Vnb05RSFFxaUdlSFRBVWU5RGNWZ3dIUjlSRnRfVTVUM2theFVSYU5lUTg3Ry1zbmE0eXNkbjFvaHVRWDVtMVJQWWhtWDl3M29zSVl5MTdLRWZhelBMRUhpOXRpSXRlOW1"
-        },
-        {
           "headline": "UN chief says 'diplomatic avenues' available to stop war in Lebanon - Yahoo News UK",
           "url": "https://uk.news.yahoo.com/israel-presses-strikes-lebanon-says-140321951.html",
           "source": "AFP Japan",
@@ -2838,6 +2528,16 @@
           "priority": "secondary",
           "date": "Sat, 14 Mar 2026 20:58:20 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEhJTUxBRHdMNDJXU19BRDZUeDRZaW5fOHFXTmZoMXBDOGFiWDV1Skk2YkVNcDRfR2FhcF9UTjF6MnJnSGlZWTBCdVUtTzFnX0FvbTJVYTBobVM4TFRsN3QyM2ZvcFpUZkQ0S0V"
+        },
+        {
+          "headline": "Russian sports minister defends return of flag, anthem to Paralympics - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/russian-sports-minister-defends-return-170734993.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 14 Mar 2026 17:07:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXFia3oxTlo0c09wVk9ZbWtKTXR0VVZfMlg3YU1xdUxOdHZkUEs1UllwYmJDcm9scWpkc09IdTB5VEdSNUN0dWxqWmtIX2VWaG9JS2hKaDJDQVUydkowRUs4Snh6Tm9NTldhVDF"
         },
         {
           "headline": "'Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?",
@@ -3152,6 +2852,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXVEaEZjNzB3dmVzRjJSR2hXQXh2cUtIbEJ4RkUwaHJ5el9LMjVvVUxZYlZiWVpXM0FfZGlaZS14VVRobFp0WVg3ZEhpV2ZjdWJ5UDZwRGt3NkFQT2ZUR1g0OHZlMXRYZUp2QWR"
         },
         {
+          "headline": "Trump urges world to help open Strait of Hormuz; U.S. Embassy in Baghdad hit - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Sat, 14 Mar 2026 21:08:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVA5eFpYMThSQmVXYk1rMUxZWVU2REVGclphQXJqUzlyaDVrRTdaZ3BMQUYtOHZCOGFwTE9VZDVMWjQxdUlkbGNjS2YyTHhjT0hKOTcwT1psa0V2OWtoN1JOU1U1bVBGT1MyUWl"
+        },
+        {
           "headline": "Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
@@ -3212,16 +2922,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxONWNqTDczd3pNemx4T25jVmh6Q1FvUGtTcmtZZXNkS282UE5CeVI0QTlTeEJqbHg0ZjRiVFQzZHdfN000dzVmQnZSd19GV0N4RXU3MzdCTmpubmh0bHV6cjR5aXZFWGNROUZyTGY"
         },
         {
-          "headline": "Trump urges world to help open Strait of Hormuz; U.S. Embassy in Baghdad hit - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Sat, 14 Mar 2026 21:08:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVA5eFpYMThSQmVXYk1rMUxZWVU2REVGclphQXJqUzlyaDVrRTdaZ3BMQUYtOHZCOGFwTE9VZDVMWjQxdUlkbGNjS2YyTHhjT0hKOTcwT1psa0V2OWtoN1JOU1U1bVBGT1MyUWl"
-        },
-        {
           "headline": "Wells' walk-off homer gives Dominicans 10-0 rout-rule win over South Korea, WBC semifinal berth - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
@@ -3232,14 +2932,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNSml1S29waEFMQjhwUjFmWms5OTl4cWc3N2tkWjNna1FualBrWE5icnZESDUxNVJsYzZuQTN4MTZiRzFpVEFHYTZKQUVJZlNLN0NZeDktR3FtQkV3am02VU1Ya1VXYTNKRVR4R1N"
         },
         {
-          "headline": "'I came to try and save the club:' Veteran coach Halilhodzic on returning to struggling Nantes at 73 - The Washington Post",
+          "headline": "Formula 1 calls off April races in Bahrain and Saudi Arabia due to Iran war - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Fri, 13 Mar 2026 23:19:17 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYUI3MTN0QlBQTGt3VzBNZEtxOVRISjV2VE9iM1dfR3FGNVVleVIxQTIwN1RvakFSaFAzVkRaOVdxT3VUNGQ1eUFVQThrZGwycFdqSWd1N1paZ2k1bUpHRTNjQzVERkl5a1dFNlV"
+          "date": "Sat, 14 Mar 2026 22:28:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXdJMVJYZEtwOWdydkM5OUtSWFY2dTRLNHVpUVhQYmw3czgzUDJHSndNdmNqRkdVR2p0aXBySmpsOEhqSEU1RkVnYUJzWldTQWFYdTNtQ2puZEJBaTRwbWNKRlk0Tk9iaVBGRDl"
         }
       ],
       "reference": []
@@ -3331,11 +3031,11 @@
       "priority": "primary",
       "language": "en",
       "tweets": [
+        "Check this morning's news on your smartphone!\n◆WBC quarterfinals coming soon What was the situation before the match?\n◆400 million yen robbery case: Approximately 10 million yen reward for those involved\n\n▼Click here for the latest information▼\n\nhttps://\nnews.web.nhk/newsweb\nIf you want to watch it on your smartphone, go to NHK ONE\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…",
         "This is Maifu Otani\n#Hikari Ijuin's 100 Years Radio\n\nThis time, it was broadcast in 1975.\nWe are pleased to present an interview with [folk song researcher Yoshiaki Machida].\nHow did folk song broadcasting on the radio begin?\nThis is a story from 101 years ago!\nLet's immerse yourself in the world of folk songs together!\n\nBroadcast on FM15th (Sunday) 11am\n\nhttp://\nnhk.jp/p/ijuin100r/rs\n/KZ1MQWYKVV/episode/re/476Y79JNWM/\n…",
-        "\"To be frank, it's not interesting at all.\"\n\nRakugo performer Sanpei Hayashiya started performing Rakugo after Konomakura.\n\nThere was an unwavering feeling that I inherited from my mother, Kayoko Ebina.",
+        "\"To be frank, it's not interesting at all.\"\n\nRakugo storyteller Sanpei Hayashiya started performing Rakugo after Konomakura.\n\nThere was an unwavering feeling that I inherited from my mother, Kayoko Ebina.",
         "[Missed broadcast now]\n\"Professional Work Style\" #Yumi Kawai becomes the new narrator!\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3/ep/XMJVQ1L78N?startOffset=1774\n…\nCurrently being distributed until the 20th (Friday)\n\nWhat is Professional, his first work in office?\n\nhttps://\nweb.nhk/tv/an/professi\nonal/pl/series-tep-8X88ZVMGV5/ep/ZG1M6G2V3M\n…\n16th (Monday) 7:57am ~ “Tsugaru Strait, the man loved by tuna”",
-        "[Yumi Kawai appears on today's #Good Morning Japan! ]\nYou can watch an interview with #Yumi Kawai, who has been appointed as the new narrator.\n\n“Tuna fisherman Takeichi Kikuchi, the man loved by tuna in the Tsugaru Strait”\n[General] 16th (Monday) 7:57 p.m.\n#Oma Town\n#Professional work style x.com/124399149/stat…",
-        "Check this morning's news on your smartphone!\n◆JR East price hike user reaction\n◆U.S. Forces in Japan amphibious assault ship and U.S. Marines to be dispatched to the Middle East\n◆The impact of soaring crude oil prices on daily life\n\n▼Click here for the latest information▼\n\nhttps://\nnews.web.nhk/newsweb\nIf you want to watch it on your smartphone, go to NHK ONE\n \nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…"
+        "[Yumi Kawai appears on today's #Good Morning Japan! ]\nYou can watch an interview with #Yumi Kawai, who has been appointed as the new narrator.\n\n“Tuna fisherman Takeichi Kikuchi, the man loved by tuna in the Tsugaru Strait”\n[General] 16th (Monday) 7:57 p.m.\n#Oma Town\n#Professional work style x.com/124399149/stat…"
       ]
     },
     {

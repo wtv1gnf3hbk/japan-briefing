@@ -1,29 +1,39 @@
-Prime Minister Takaichi is recasting Japan's postwar defense doctrine as tensions rise across East Asia, with [Bloomberg reporting](https://www.bloomberg.com/news/features/2026-03-13/japan-s-sanae-takaichi-pushes-to-revise-pacifist-constitution) on her push to revise the pacifist constitution. The timing is significant as Japan prepares to [join Trump's](https://www.reuters.com/business/aerospace-defense/japan-join-trumps-golden-dome-project-expects-missile-requests-2026-03-13/) 'Golden Dome' missile defense project, according to Reuters, while also considering whether to [buy Russian crude](https://www.reuters.com/sustainability/boards-policy-regulation/japan-consider-whether-buy-russian-crude-following-us-sanctions-waiver-2026-03-13/) following the US sanctions waiver.
+Good morning from Tokyo. Trump's escalating conflict with Iran is reshaping Japan's security calculations, with the president now calling for allied naval support in the Strait of Hormuz. [NHK reports](http://www3.nhk.or.jp/news/html/20260315/k10015076011000.html) Trump expects Japan and other nations to deploy ships to secure the critical waterway, as Japan scrambles to diversify its energy supplies following U.S. strikes on Iran's oil infrastructure. The request comes as Japan's industry ministry has [asked Australia](https://www.japantimes.co.jp/business/2026/03/14/australia-lng-boost/) to boost LNG production to offset potential supply disruptions from the Middle East crisis.
 
-The Prime Minister's health has drawn concern ahead of her meeting with Trump, with [Bloomberg noting](https://www.bloomberg.com/news/articles/2026-03-13/japan-pm-takaichi-s-health-draws-concerns-ahead-of-trump-meeting) she missed events due to cold symptoms. However, she maintained her diplomatic schedule, hosting Bhutanese PM Tshering Tobgay for their first summit in eight years and participating in an online G7 leaders meeting focused on Middle East tensions and energy markets, according to her Twitter feed. The Diet is moving forward with the FY 2026 budget, which [Kyodo reports](https://english.kyodonews.net/articles/-/72259) the ruling bloc rammed through the lower house.
+The security implications are also driving Japan's defense planning, with [Kyodo reporting](https://english.kyodonews.net/articles/-/72301) that Japan is eyeing the introduction of Ukraine-made drones for its Self-Defense Forces. This marks a significant shift in Japan's defense procurement strategy as it seeks to strengthen capabilities following North Korea's latest provocation, which saw Pyongyang [fire about 10](https://apnews.com/article/south-north-korea-projectile-military-exercises-44a03aff91a068f76b6dfd89023dd378) ballistic missiles toward the Sea of Japan in a show of force, according to AP.
 
 **Business & Markets**
 
-• Honda shares [slid nearly 6%](https://www.reuters.com/business/autos-transportation/honda-shares-slide-more-than-5-automaker-faces-first-annual-loss-2026-03-13/) as the automaker faces its first annual loss, Reuters reports.
+• Japan and South Korea are coordinating responses to currency volatility, with finance ministers from both nations saying they are [ready to act](https://www.reuters.com/world/asia-pacific/japan-south-korea-ready-act-against-fx-volatility-ministers-say-2026-03-14/) against excessive forex moves, Reuters reports. The move signals growing concern over market instability following the Middle East escalation.
 
-• Japan is prepared to [take all necessary steps](https://www.bloomberg.com/news/articles/2026-03-13/japan-s-katayama-says-prepared-to-take-all-necessary-steps-on-fx) on foreign exchange, Finance Minister Katayama said, as Bloomberg notes the [bar for yen intervention](https://www.reuters.com/sustainability/boards-policy-regulation/why-japans-bar-yen-intervention-is-now-higher-2026-03-13/) is now higher.
+• Japan's largest power utility JERA is hedging against Middle East risks by [seeking more](https://www.reuters.com/business/energy/japans-jera-hedges-growing-middle-east-risks-by-seeking-more-lng-supply-2026-03-14/) LNG supply from alternative sources, Reuters reports, as the Iran crisis threatens energy security.
 
-• Japan will [sell oil](https://www.bloomberg.com/news/articles/2026-03-13/japan-to-sell-oil-from-national-reserves-at-pre-iran-war-prices) from national reserves at pre-Iran war prices to help stabilize markets, per Bloomberg.
+• Ransomware attacks are increasingly [hitting Japan's](https://japannews.yomiuri.co.jp/society/general-news/20260315-316520/) small and midsize firms, the Yomiuri reports.
 
-• JR East implemented its [first fare increase](http://www3.nhk.or.jp/news/html/20260314/k10015075381000.html) since the company's founding (excluding consumption tax adjustments), NHK reports.
+• The U.S. and Japan have [agreed on roles](https://www.reuters.com/business/energy/us-japan-agree-their-roles-potential-nuclear-power-project-westinghouse-says-2026-03-14/) in a potential nuclear power project, according to Westinghouse, as both nations seek to strengthen energy cooperation.
 
 **Government & Policy**
 
-• The government approved a [gender equality plan](https://www.japantimes.co.jp/news/2026/03/13/japan/politics/maiden-names-gender-equality-plan/) featuring the use of maiden names, the Japan Times reports.
+• Japan's budget is on track for quick passage through the Diet, but the ruling parties face stronger opposition in the Upper House, [the Yomiuri notes](https://japannews.yomiuri.co.jp/politics/politics-government/20260314-316500/).
 
-• China ranks as [ASEAN's most important partner](https://english.kyodonews.net/articles/-/72256) with Japan second, according to a survey reported by Kyodo.
+• Four prefectures including Tokyo and Hiroshima will send individual notifications to victims of forced sterilizations under the former Eugenic Protection Law, [NHK reports](http://www3.nhk.or.jp/news/html/20260315/k10015075911000.html), as the government continues addressing historical injustices.
+
+**What to Watch**
+
+• U.S. media report that the Japan-based USS Tripoli and Marine units will be [sent to](https://japannews.yomiuri.co.jp/society/crime-courts/20260314-316539/) the Middle East, according to the Yomiuri, which could significantly impact U.S. military operations from Japanese bases.
+
+**Coverage Flags**
+
+International outlets appear ahead on the Ukraine drone story, with Kyodo breaking details that may warrant deeper investigation into Japan's evolving defense procurement strategy. The Iranian crisis coverage also suggests opportunities for enterprise reporting on Japan's energy security vulnerabilities.
 
 **Sources**
+
 • [NHK World](http://www3.nhk.or.jp/)
 • [Kyodo News](https://english.kyodonews.net/)
 • [Japan Times](https://www.japantimes.co.jp/)
-• [Reuters](https://www.reuters.com/)
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp/)
+• [Reuters Japan](https://www.reuters.com/)
+• [AP News](https://apnews.com/)
 • [Bloomberg](https://www.bloomberg.com/)
-• Twitter/X feeds: [@takaichi_sanae](https://twitter.com/takaichi_sanae), [@nhk_ohayou](https://twitter.com/nhk_ohayou)
 
-*Referenced homepage screenshots: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan, Financial Times Asia, WSJ Asia, Economist Asia*
+*Reference materials include homepage screenshots from Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan, and Twitter feeds from Takaichi Sanae and NHK Ohayou.*

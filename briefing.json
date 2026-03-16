@@ -4,15 +4,15 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-03-16T22:03:13.477Z",
-    "generatedTimestamp": 1773698593477
+    "generated": "2026-03-16T22:42:20.082Z",
+    "generatedTimestamp": 1773700940082
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
     "totalStories": 107,
     "totalScreenshots": 11,
-    "elapsed": "103.5s"
+    "elapsed": "98.4s"
   },
   "stories": {
     "all": [
@@ -87,14 +87,14 @@
         "description": "アメリカ軍普天間基地の移設工事が行われている沖縄県名護市辺野古沖の海上で、研修旅行で訪れていた京都府の高校の生徒たちを乗せた船が転覆して生徒など2人が死亡した事故で、現場は海底の地形から波が高くなりやすい場所だったことが海上保安本部への取材で分かりました。海上保安本部は高波を受けて転覆したとみて事故の詳しい状況を調べています。"
       },
       {
-        "headline": "Trump says his China trip to be postponed by at least 1 month",
+        "headline": "Trump says his China trip needs to be postponed by at least 1 month",
         "url": "https://english.kyodonews.net/articles/-/72416",
         "source": "Kyodo News",
         "sourceId": "kyodo_english",
         "category": "wire",
         "priority": "primary",
-        "date": "Tue, 17 Mar 2026 06:19:00 +0900",
-        "description": "U.S. President Donald Trump said Monday he will delay his trip to China, due to the ongoing war with Iran.&quot;I have to be here,Read full story here"
+        "date": "Tue, 17 Mar 2026 07:11:00 +0900",
+        "description": "U.S. President Donald Trump said Monday he wants to delay his highly anticipated visit to Beijing for a meeting with Chinese PresiRead full story here"
       },
       {
         "headline": "BREAKING NEWS: Trump says he asked China to postpone his visit by a \"month or so\"",
@@ -287,114 +287,104 @@
         "description": "The disunity persists despite Africa’s enormous advantages, including a rapidly growing consumer market and dominant control of critical minerals essential to the global economy."
       },
       {
-        "headline": "Nvidia rides 'claw' craze with AI agent platform",
-        "url": "https://japantoday.com/category/tech/nvidia-rides-%27claw%27-craze-with-ai-agent-platform",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Under-16s Banned from Social Media in Australia, Experts Say Japan Should Follow",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316895/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:37:49 +0000",
-        "description": "Nvidia announced Monday that it was joining the OpenClaw craze, unveiling tools to bring AI agents -- which can manage your email, files and calendar while you sleep…"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 22:00:04 +0000",
+        "description": "In December, Australia banned children under 16 from using social media, becoming the first country to do so. The move was made in response to reports of online sexual abuse and bullying, in addition "
       },
       {
-        "headline": "Multiple blasts hit Nigeria's Maiduguri city after years of calm",
-        "url": "https://japantoday.com/category/world/multiple-blasts-hit-nigeria%27s-maiduguri-city-after-years-of-calm",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "TOMODACHI Initiative Celebrates 15-Year Milestone; Over 10,000 Participants Foster Stronger Japan-U.S. Ties",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316816/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:29:12 +0000",
-        "description": "Multiple explosions rocked the northeastern Nigerian city of Maiduguri Monday evening, government and healthcare sources told AFP, on the back of an overnight attack on a military post.…"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 17:00:26 +0000",
+        "description": "With this year marking the 15th anniversary of the Great East Japan Earthquake, the TOMODACHI Initiative also marks an important milestone."
       },
       {
-        "headline": "Ecuador deploys 75,000 soldiers to crime-ridden provinces under nightly curfew",
-        "url": "https://japantoday.com/category/world/ecuador-deploys-75-000-soldiers-to-crime-ridden-provinces-under-nightly-curfew",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "From Despair to Dynamism: One Woman&#8217;s Path to Helping Fukushima Rebuild",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316859/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:28:58 +0000",
-        "description": "Ecuadorian officials said Monday that they have deployed 75,000 soldiers and police officers to four crime-ridden provinces where the government is implementing a nightly curfew banning people from…"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 17:00:23 +0000",
+        "description": "Haruka Noguchi, 30, is helping tackle the daunting challenge of decommissioning the Fukushima No. 1 nuclear power plant."
       },
       {
-        "headline": "Trump's Iran war duties, not China disputes, could delay Beijing summit, Bessent says",
-        "url": "https://japantoday.com/category/world/trump%27s-iran-war-duties-not-china-disputes-could-delay-beijing-summit-bessent-says",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "TOMODACHI Japan-U.S. Exchange Program Paves Way for Intl Researcher to Assist Tohoku Fisheries",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316826/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:28:40 +0000",
-        "description": "U.S. Treasury Secretary Scott Bessent on Monday said there was a  possibility that President Donald Trump's planned visit to China at the end of March may be delayed,…"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 17:00:00 +0000",
+        "description": "Bryson Torgovitsky, 26, is an American PhD candidate in marine biology at Tohoku University. The TOMODACHI program, which he participated in twice during high school — in 2017 and 2018 — paved the way"
       },
       {
-        "headline": "4 missing, 9 rescued after collision at sea off northeastern Japan",
-        "url": "https://japantoday.com/category/national/4-missing-9-rescued-after-collision-at-sea-off-northeastern-japan",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Japan Debating How to Regulate Children&#8217;s Use of Social Media",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260316-316902/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:47:08 +0000",
-        "description": "Four people went missing and nine others were rescued after a fishing boat capsized following a collision with a cargo ship off northeastern Japan, the coast guard said…"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 12:00:54 +0000",
+        "description": "As an increasing number of countries move to regulate children’s use of social media, Japan has convened an expert panel at the Children and Families Agency and started discussing the issue. While the"
       },
       {
-        "headline": "World Series MVP Yoshinobu Yamamoto will start season opener for Dodgers at home",
-        "url": "https://japantoday.com/category/sports/world-series-mvp-yoshinobu-yamamoto-will-start-the-season-opener-for-the-dodgers-at-home",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Samurai Japan&#8217;s Quest for Back-to-Back WBC Titles Ends at Quarterfinal Stage in 5-8 Loss to Venezuela",
+        "url": "https://japannews.yomiuri.co.jp/sports/baseball/20260316-316991/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:30:29 +0000",
-        "description": "World Series MVP Yoshinobu Yamamoto will start another season opener for the Los Angeles Dodgers, just like he did last year when they went on to win their…"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 09:10:46 +0000",
+        "description": "MIAMI — Samurai Japan’s quest for a back-to-back World Baseball Classic title ended Saturday, after Venezuela came from behind to win their quarterfinal match-up 8-5."
       },
       {
-        "headline": "'Buffy' reboot cancelled: Sarah Michelle Gellar",
-        "url": "https://japantoday.com/category/entertainment/%27buffy%27-reboot-cancelled-sarah-michelle-gellar",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Advantages, Hazards of Underground Malls in Disasters; Important to Judge When to Stay, Leave",
+        "url": "https://japannews.yomiuri.co.jp/original/perspectives/20260316-316896/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:31:30 +0000",
-        "description": "A planned reboot &quot;Buffy the Vampire Slayer,&quot; that was set to be directed by Oscar-winning director Chloe Zhao, has been canceled, star and producer Sarah Michelle Gellar said.…"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 08:50:25 +0000",
+        "description": "While underground malls provide a comfortable environment even in winter, they come with distinct risks during disasters like earthquakes. It is important to properly understanding the characteristics"
       },
       {
-        "headline": "Island-wide blackout hits Cuba as island struggles with deepening energy crisis",
-        "url": "https://japantoday.com/category/world/cuban-officials-report-an-island-wide-blackout-as-country-struggles-with-energy-crisis",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Numazu Imperial Villa in Japan’s Shizuoka Prefecture Reflects Life of Emperor Showa",
+        "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20260316-316911/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:29:04 +0000",
-        "description": "Officials in Cuba reported an island-wide blackout Monday in the country of some 11 million people as its energy and economic crises deepen and its power grid continues…"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 08:42:28 +0000",
+        "description": "NUMAZU, Shizuoka — Sunlight and the sea breeze enhance the atmosphere of a pine grove surrounding a beautiful garden and elegantly constructed buildings including a tea ceremony house. Between the tre"
       },
       {
-        "headline": "4 teens are suspected of terror offenses in Rotterdam synagogue explosion, Dutch prosecutors say",
-        "url": "https://japantoday.com/category/world/4-teens-are-suspected-of-terror-offenses-in-the-rotterdam-synagogue-explosion-dutch-prosecutors-say",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Budget Proposal Passed by Lower House: Policy Debate Overshadowed by Schedule Struggle",
+        "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260316-316890/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:29:25 +0000",
-        "description": "Four teens arrested on suspicion of setting off an explosive outside a Dutch synagogue are suspected of terror offenses, prosecutors said Monday, after they appeared before an investigating…"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 07:51:22 +0000",
+        "description": "It is undeniable that effort was spent on political maneuvering over how much time to secure for deliberations on a budget proposal, leaving discussions on crucial measures behind. The government as w"
       },
       {
-        "headline": "White House chief of staff Susie Wiles has breast cancer but will keep working through treatment",
-        "url": "https://japantoday.com/category/world/trump-says-chief-of-staff-susie-wiles-has-breast-cancer-but-will-keep-working-through-treatment",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
+        "headline": "Dual Pricing in Tourism: Thoroughly Explain System’s Necessity and Rationale",
+        "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260316-316887/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
         "category": "national",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:29:18 +0000",
-        "description": "White House chief of staff Susie Wiles has been diagnosed with early stage breast cancer but plans to continue working through her treatment, retaining her place as one…"
-      },
-      {
-        "headline": "Japan not planning Hormuz escort mission, PM Takaichi says - Reuters",
-        "url": "https://www.reuters.com/world/china/japan-not-yet-planning-hormuz-escort-mission-pm-takaichi-says-2026-03-16/",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 02:04:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JZUnoxUF9ZMU40Wk9GTlVESWZOZ3Q4WHhWU1NuQ3QyOE1DTldad3YwcTJkOWx2ZXdvUkZjS3hmR2ZlOXZhOVl3bTVHOXJlelRmSGNIeWUyQnhYVGRHaHRmWWZkVVJvT2Q3OHl"
+        "priority": "primary",
+        "date": "Mon, 16 Mar 2026 07:39:03 +0000",
+        "description": "A dual pricing system, in which foreign tourists and visitors from outside the local area are charged higher fees, has been increasingly introduced at tourist facilities nationwide."
       },
       {
         "headline": "Vietnam asks Japan, South Korea for help in crude oil access - Reuters",
@@ -407,6 +397,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPejNiVFpfRTZLYzFYQmN0bUtzSUtfdEREVVRYWlhDMFBJTjZqMjlzeFVRbG01M0pDdV9YU3NpMHZfRU1HT0JCNVg0dWQ1a3dJZXRwZ3NseTJtalo4S0EwTWlxdHp4M00xNnM4RmR"
       },
       {
+        "headline": "Japan not planning Hormuz escort mission, PM Takaichi says - Reuters",
+        "url": "https://www.reuters.com/world/china/japan-not-yet-planning-hormuz-escort-mission-pm-takaichi-says-2026-03-16/",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Mon, 16 Mar 2026 02:04:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JZUnoxUF9ZMU40Wk9GTlVESWZOZ3Q4WHhWU1NuQ3QyOE1DTldad3YwcTJkOWx2ZXdvUkZjS3hmR2ZlOXZhOVl3bTVHOXJlelRmSGNIeWUyQnhYVGRHaHRmWWZkVVJvT2Q3OHl"
+      },
+      {
         "headline": "Trump upset as key U.S. partners shun call for Hormuz warship escorts - Reuters",
         "url": "https://www.reuters.com/business/energy/trump-demands-others-help-secure-strait-hormuz-japan-australia-say-no-plans-send-2026-03-16/",
         "source": "Reuters Japan",
@@ -415,6 +415,16 @@
         "priority": "secondary",
         "date": "Mon, 16 Mar 2026 19:21:54 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG4tY3VGcDQtTDJuVDBWSzFrNzFBZUEwQ0tfOXFOczdRVHA0M0VETVRaN2pEa0lMRXhNTm5Cd3RkdUlrUGRnSEYwQ2RVZWRmTlBoY1NwMDV6OEg4T0tjN09rcUFkVlZQWVdwOTh"
+      },
+      {
+        "headline": "Japan finance minister flags readiness to take decisive steps on forex - Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/japan-finance-minister-flags-readiness-take-decisive-steps-forex-2026-03-16/",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Mon, 16 Mar 2026 00:40:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0hnbXBSY0xNZXBBaDNzU1pQLUhCaVRMLVBkVEk5M0dtNWM1aV9CYmN3UGpwb3N3MS1rei1NWlY0YW5KMXpOOUJhd1lqemZMZmJfLTNVVFRQSkZ6M29GQ3VKWXozX0VfaHE5OVJ"
       },
       {
         "headline": "BOJ to stand pat as Iran war muddles outlook, sustain rate-hike bias - Reuters",
@@ -477,16 +487,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFFVcE9UOE1TNlFPWG9aQkZORFdjN01VX0Y4X0ZwTkFRdEl6dFZQQ1VSdm13UWt2S2xjb2xvTFY1cHFBRjVQR1ZTaTlFbkVLbm81WmlJZjN3a1ZpUXhVY2JZVWQtSzcyX2pKemV"
       },
       {
-        "headline": "Trump warns NATO, presses China to help reopen Strait of Hormuz, FT reports - Reuters",
-        "url": "https://www.reuters.com/world/china/trump-warns-nato-faces-very-bad-future-if-allies-fail-help-us-iran-ft-reports-2026-03-16/",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 00:10:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaDQ1Rkg0MFdXMm9aNnY3VFlLQ2hDU1E0cmxzVEQzZ0l2VkhURWIwTkk4a2syUGtEa0RzOHpmX0FzZVhEbHk5RW5qQ3ZhZTM3UVAweHNHNHRMQTZQUTlXb3lLOTZLY2dYMF9nb1N"
-      },
-      {
         "headline": "2 dead after 2 boats carrying students capsize off US base construction site in southern Japan - AP News",
         "url": "https://apnews.com/article/japan-okinawa-henoko-accident-us-f353010b49d2073843f7e2d93ec164ef",
         "source": "AP Japan",
@@ -527,13 +527,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHZaVUFreTQ0cVg0WFNYUDZNRkZ5Ym9QSU92bWxCTk45QVhSZEZvNERaNEF5LVFSUmM4VnBQRWhqZ2xlRHVuaTNZVndsQ1lGUkRBUWhHVk9jOHpxdkhhZExVNnNvOG81U1dWeDZ"
       },
       {
-        "headline": "Israel steps up campaign in Lebanon, as Iran keeps stranglehold on shipping - AP News",
+        "headline": "War rages on multiple fronts as Israeli attacks in Lebanon grow, Iran shipping stranglehold persists - AP News",
         "url": "https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 19:23:00 GMT",
+        "date": "Mon, 16 Mar 2026 21:12:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnFkQ1lMcXNwMjZtWkluTVNScXFuZl9vakpnUFdHR2ZONGNlRlpDUlN0OWo3U0NEUHJTWXVWN3NWTzBycU5LU2laRkE0bkI3ZzlrQ0dhT2dPVk9WV0lWM3hoTW9MSHd4R1JCdHh"
       },
       {
@@ -577,14 +577,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3EycTdmalQ5UWZVOFdERTFfYjZqOF8wWkFCXzAyU1BQVGRoekdndmpNTDlIRkhINzZ1OHhwbTdfMU16YV9XbFZ3MFNJak1sLUZ5djh4Nnk3MEhhaWx1eGFidTVBUzV6c0syR0s"
       },
       {
-        "headline": "Poland is now among the world’s 20 largest economies. How it happened - AP News",
-        "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+        "headline": "Is spring really — finally — here? - AP News",
+        "url": "https://apnews.com/article/spring-vernal-equinox-solstice-sun-daylight-e70d97f42571da5d863ba0887399909c",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 18:01:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2hrRXZobGp3eGdKVGdNcnd0Q1BNRENNWlNlMFR4anFxdmlWU0tJOEhXU2U2R1ptQ1BIbnpBYkNWRl95elNxWXR2SF9GVEg1LW5jbk1jMkYzWExvNTY5RnJvSVFjMzRxYTl2eTB"
+        "date": "Mon, 16 Mar 2026 14:59:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFJIVlZidmNIclEtdFIyQkxPOWVpTU00RUNpSC1MNDVnZUsyeHlNWmdSYjdqX29TLVc1WGpHUmVjeHZvSVhiRHBlLVFTR0RzLTlyeG1UaFFSOGxrZkpVWVJqNVlPTXZUOHRyYU9"
       },
       {
         "headline": "War in the Middle East: latest developments - Yahoo News Singapore",
@@ -1013,7 +1013,7 @@
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Mon, 16 Mar 2026 06:19:39 GMT",
+        "date": "Mon, 16 Mar 2026 08:23:01 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE16M19JazZRa2E1S3p6cWc4MC1RRlBGeE5aZ3RTQ2hkT0o0RUc0ei1JRTRkN294NzAzS3JoZU80R25mcExKNEFZNlBiSTJkRjlFRUlTWkZOTjc?oc=5\" target=\"_blank\"&gt;Ca"
       },
       {
@@ -1063,7 +1063,7 @@
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Mon, 16 Mar 2026 20:45:48 GMT",
+        "date": "Mon, 16 Mar 2026 22:15:48 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSl8talNTa1VsLUluenpKRUp2LWY5akpHamk1SXFNWWdlbWZkdGlUcHhpbGpoQTFNbUx6VVMwVXI2VTVtb0RNcUpLT01VSnJnZTVSZ1NITDd0cTE2bURxTGxsWUNOeGdHODFYeTE"
       },
       {
@@ -1260,116 +1260,116 @@
           "description": "The disunity persists despite Africa’s enormous advantages, including a rapidly growing consumer market and dominant control of critical minerals essential to the global economy."
         },
         {
-          "headline": "Nvidia rides 'claw' craze with AI agent platform",
-          "url": "https://japantoday.com/category/tech/nvidia-rides-%27claw%27-craze-with-ai-agent-platform",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Under-16s Banned from Social Media in Australia, Experts Say Japan Should Follow",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316895/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:37:49 +0000",
-          "description": "Nvidia announced Monday that it was joining the OpenClaw craze, unveiling tools to bring AI agents -- which can manage your email, files and calendar while you sleep…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 22:00:04 +0000",
+          "description": "In December, Australia banned children under 16 from using social media, becoming the first country to do so. The move was made in response to reports of online sexual abuse and bullying, in addition "
         },
         {
-          "headline": "Multiple blasts hit Nigeria's Maiduguri city after years of calm",
-          "url": "https://japantoday.com/category/world/multiple-blasts-hit-nigeria%27s-maiduguri-city-after-years-of-calm",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "TOMODACHI Initiative Celebrates 15-Year Milestone; Over 10,000 Participants Foster Stronger Japan-U.S. Ties",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316816/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:29:12 +0000",
-          "description": "Multiple explosions rocked the northeastern Nigerian city of Maiduguri Monday evening, government and healthcare sources told AFP, on the back of an overnight attack on a military post.…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 17:00:26 +0000",
+          "description": "With this year marking the 15th anniversary of the Great East Japan Earthquake, the TOMODACHI Initiative also marks an important milestone."
         },
         {
-          "headline": "Ecuador deploys 75,000 soldiers to crime-ridden provinces under nightly curfew",
-          "url": "https://japantoday.com/category/world/ecuador-deploys-75-000-soldiers-to-crime-ridden-provinces-under-nightly-curfew",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "From Despair to Dynamism: One Woman&#8217;s Path to Helping Fukushima Rebuild",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316859/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:28:58 +0000",
-          "description": "Ecuadorian officials said Monday that they have deployed 75,000 soldiers and police officers to four crime-ridden provinces where the government is implementing a nightly curfew banning people from…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 17:00:23 +0000",
+          "description": "Haruka Noguchi, 30, is helping tackle the daunting challenge of decommissioning the Fukushima No. 1 nuclear power plant."
         },
         {
-          "headline": "Trump's Iran war duties, not China disputes, could delay Beijing summit, Bessent says",
-          "url": "https://japantoday.com/category/world/trump%27s-iran-war-duties-not-china-disputes-could-delay-beijing-summit-bessent-says",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "TOMODACHI Japan-U.S. Exchange Program Paves Way for Intl Researcher to Assist Tohoku Fisheries",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316826/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:28:40 +0000",
-          "description": "U.S. Treasury Secretary Scott Bessent on Monday said there was a  possibility that President Donald Trump's planned visit to China at the end of March may be delayed,…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 17:00:00 +0000",
+          "description": "Bryson Torgovitsky, 26, is an American PhD candidate in marine biology at Tohoku University. The TOMODACHI program, which he participated in twice during high school — in 2017 and 2018 — paved the way"
         },
         {
-          "headline": "4 missing, 9 rescued after collision at sea off northeastern Japan",
-          "url": "https://japantoday.com/category/national/4-missing-9-rescued-after-collision-at-sea-off-northeastern-japan",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Japan Debating How to Regulate Children&#8217;s Use of Social Media",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260316-316902/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:47:08 +0000",
-          "description": "Four people went missing and nine others were rescued after a fishing boat capsized following a collision with a cargo ship off northeastern Japan, the coast guard said…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 12:00:54 +0000",
+          "description": "As an increasing number of countries move to regulate children’s use of social media, Japan has convened an expert panel at the Children and Families Agency and started discussing the issue. While the"
         },
         {
-          "headline": "World Series MVP Yoshinobu Yamamoto will start season opener for Dodgers at home",
-          "url": "https://japantoday.com/category/sports/world-series-mvp-yoshinobu-yamamoto-will-start-the-season-opener-for-the-dodgers-at-home",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Samurai Japan&#8217;s Quest for Back-to-Back WBC Titles Ends at Quarterfinal Stage in 5-8 Loss to Venezuela",
+          "url": "https://japannews.yomiuri.co.jp/sports/baseball/20260316-316991/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:30:29 +0000",
-          "description": "World Series MVP Yoshinobu Yamamoto will start another season opener for the Los Angeles Dodgers, just like he did last year when they went on to win their…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 09:10:46 +0000",
+          "description": "MIAMI — Samurai Japan’s quest for a back-to-back World Baseball Classic title ended Saturday, after Venezuela came from behind to win their quarterfinal match-up 8-5."
         },
         {
-          "headline": "'Buffy' reboot cancelled: Sarah Michelle Gellar",
-          "url": "https://japantoday.com/category/entertainment/%27buffy%27-reboot-cancelled-sarah-michelle-gellar",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Advantages, Hazards of Underground Malls in Disasters; Important to Judge When to Stay, Leave",
+          "url": "https://japannews.yomiuri.co.jp/original/perspectives/20260316-316896/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:31:30 +0000",
-          "description": "A planned reboot &quot;Buffy the Vampire Slayer,&quot; that was set to be directed by Oscar-winning director Chloe Zhao, has been canceled, star and producer Sarah Michelle Gellar said.…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 08:50:25 +0000",
+          "description": "While underground malls provide a comfortable environment even in winter, they come with distinct risks during disasters like earthquakes. It is important to properly understanding the characteristics"
         },
         {
-          "headline": "Island-wide blackout hits Cuba as island struggles with deepening energy crisis",
-          "url": "https://japantoday.com/category/world/cuban-officials-report-an-island-wide-blackout-as-country-struggles-with-energy-crisis",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Numazu Imperial Villa in Japan’s Shizuoka Prefecture Reflects Life of Emperor Showa",
+          "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20260316-316911/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:29:04 +0000",
-          "description": "Officials in Cuba reported an island-wide blackout Monday in the country of some 11 million people as its energy and economic crises deepen and its power grid continues…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 08:42:28 +0000",
+          "description": "NUMAZU, Shizuoka — Sunlight and the sea breeze enhance the atmosphere of a pine grove surrounding a beautiful garden and elegantly constructed buildings including a tea ceremony house. Between the tre"
         },
         {
-          "headline": "4 teens are suspected of terror offenses in Rotterdam synagogue explosion, Dutch prosecutors say",
-          "url": "https://japantoday.com/category/world/4-teens-are-suspected-of-terror-offenses-in-the-rotterdam-synagogue-explosion-dutch-prosecutors-say",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Budget Proposal Passed by Lower House: Policy Debate Overshadowed by Schedule Struggle",
+          "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260316-316890/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:29:25 +0000",
-          "description": "Four teens arrested on suspicion of setting off an explosive outside a Dutch synagogue are suspected of terror offenses, prosecutors said Monday, after they appeared before an investigating…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 07:51:22 +0000",
+          "description": "It is undeniable that effort was spent on political maneuvering over how much time to secure for deliberations on a budget proposal, leaving discussions on crucial measures behind. The government as w"
         },
         {
-          "headline": "White House chief of staff Susie Wiles has breast cancer but will keep working through treatment",
-          "url": "https://japantoday.com/category/world/trump-says-chief-of-staff-susie-wiles-has-breast-cancer-but-will-keep-working-through-treatment",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
+          "headline": "Dual Pricing in Tourism: Thoroughly Explain System’s Necessity and Rationale",
+          "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260316-316887/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
           "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:29:18 +0000",
-          "description": "White House chief of staff Susie Wiles has been diagnosed with early stage breast cancer but plans to continue working through her treatment, retaining her place as one…"
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 07:39:03 +0000",
+          "description": "A dual pricing system, in which foreign tourists and visitors from outside the local area are charged higher fees, has been increasingly introduced at tourist facilities nationwide."
         }
       ],
       "wire": [
         {
-          "headline": "Trump says his China trip to be postponed by at least 1 month",
+          "headline": "Trump says his China trip needs to be postponed by at least 1 month",
           "url": "https://english.kyodonews.net/articles/-/72416",
           "source": "Kyodo News",
           "sourceId": "kyodo_english",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 06:19:00 +0900",
-          "description": "U.S. President Donald Trump said Monday he will delay his trip to China, due to the ongoing war with Iran.&quot;I have to be here,Read full story here"
+          "date": "Tue, 17 Mar 2026 07:11:00 +0900",
+          "description": "U.S. President Donald Trump said Monday he wants to delay his highly anticipated visit to Beijing for a meeting with Chinese PresiRead full story here"
         },
         {
           "headline": "BREAKING NEWS: Trump says he asked China to postpone his visit by a \"month or so\"",
@@ -1462,16 +1462,6 @@
           "description": "Prime Minister Sanae Takaichi said Monday that Japan is considering what it can do within its legal constraints to ensure the safeRead full story here"
         },
         {
-          "headline": "Japan not planning Hormuz escort mission, PM Takaichi says - Reuters",
-          "url": "https://www.reuters.com/world/china/japan-not-yet-planning-hormuz-escort-mission-pm-takaichi-says-2026-03-16/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 02:04:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JZUnoxUF9ZMU40Wk9GTlVESWZOZ3Q4WHhWU1NuQ3QyOE1DTldad3YwcTJkOWx2ZXdvUkZjS3hmR2ZlOXZhOVl3bTVHOXJlelRmSGNIeWUyQnhYVGRHaHRmWWZkVVJvT2Q3OHl"
-        },
-        {
           "headline": "Vietnam asks Japan, South Korea for help in crude oil access - Reuters",
           "url": "https://www.reuters.com/sustainability/boards-policy-regulation/vietnam-asks-japan-south-korea-help-crude-oil-access-2026-03-16/",
           "source": "Reuters Japan",
@@ -1482,6 +1472,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPejNiVFpfRTZLYzFYQmN0bUtzSUtfdEREVVRYWlhDMFBJTjZqMjlzeFVRbG01M0pDdV9YU3NpMHZfRU1HT0JCNVg0dWQ1a3dJZXRwZ3NseTJtalo4S0EwTWlxdHp4M00xNnM4RmR"
         },
         {
+          "headline": "Japan not planning Hormuz escort mission, PM Takaichi says - Reuters",
+          "url": "https://www.reuters.com/world/china/japan-not-yet-planning-hormuz-escort-mission-pm-takaichi-says-2026-03-16/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 16 Mar 2026 02:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JZUnoxUF9ZMU40Wk9GTlVESWZOZ3Q4WHhWU1NuQ3QyOE1DTldad3YwcTJkOWx2ZXdvUkZjS3hmR2ZlOXZhOVl3bTVHOXJlelRmSGNIeWUyQnhYVGRHaHRmWWZkVVJvT2Q3OHl"
+        },
+        {
           "headline": "Trump upset as key U.S. partners shun call for Hormuz warship escorts - Reuters",
           "url": "https://www.reuters.com/business/energy/trump-demands-others-help-secure-strait-hormuz-japan-australia-say-no-plans-send-2026-03-16/",
           "source": "Reuters Japan",
@@ -1490,6 +1490,16 @@
           "priority": "secondary",
           "date": "Mon, 16 Mar 2026 19:21:54 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG4tY3VGcDQtTDJuVDBWSzFrNzFBZUEwQ0tfOXFOczdRVHA0M0VETVRaN2pEa0lMRXhNTm5Cd3RkdUlrUGRnSEYwQ2RVZWRmTlBoY1NwMDV6OEg4T0tjN09rcUFkVlZQWVdwOTh"
+        },
+        {
+          "headline": "Japan finance minister flags readiness to take decisive steps on forex - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-finance-minister-flags-readiness-take-decisive-steps-forex-2026-03-16/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 16 Mar 2026 00:40:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0hnbXBSY0xNZXBBaDNzU1pQLUhCaVRMLVBkVEk5M0dtNWM1aV9CYmN3UGpwb3N3MS1rei1NWlY0YW5KMXpOOUJhd1lqemZMZmJfLTNVVFRQSkZ6M29GQ3VKWXozX0VfaHE5OVJ"
         },
         {
           "headline": "BOJ to stand pat as Iran war muddles outlook, sustain rate-hike bias - Reuters",
@@ -1552,16 +1562,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFFVcE9UOE1TNlFPWG9aQkZORFdjN01VX0Y4X0ZwTkFRdEl6dFZQQ1VSdm13UWt2S2xjb2xvTFY1cHFBRjVQR1ZTaTlFbkVLbm81WmlJZjN3a1ZpUXhVY2JZVWQtSzcyX2pKemV"
         },
         {
-          "headline": "Trump warns NATO, presses China to help reopen Strait of Hormuz, FT reports - Reuters",
-          "url": "https://www.reuters.com/world/china/trump-warns-nato-faces-very-bad-future-if-allies-fail-help-us-iran-ft-reports-2026-03-16/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 00:10:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaDQ1Rkg0MFdXMm9aNnY3VFlLQ2hDU1E0cmxzVEQzZ0l2VkhURWIwTkk4a2syUGtEa0RzOHpmX0FzZVhEbHk5RW5qQ3ZhZTM3UVAweHNHNHRMQTZQUTlXb3lLOTZLY2dYMF9nb1N"
-        },
-        {
           "headline": "2 dead after 2 boats carrying students capsize off US base construction site in southern Japan - AP News",
           "url": "https://apnews.com/article/japan-okinawa-henoko-accident-us-f353010b49d2073843f7e2d93ec164ef",
           "source": "AP Japan",
@@ -1602,13 +1602,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHZaVUFreTQ0cVg0WFNYUDZNRkZ5Ym9QSU92bWxCTk45QVhSZEZvNERaNEF5LVFSUmM4VnBQRWhqZ2xlRHVuaTNZVndsQ1lGUkRBUWhHVk9jOHpxdkhhZExVNnNvOG81U1dWeDZ"
         },
         {
-          "headline": "Israel steps up campaign in Lebanon, as Iran keeps stranglehold on shipping - AP News",
+          "headline": "War rages on multiple fronts as Israeli attacks in Lebanon grow, Iran shipping stranglehold persists - AP News",
           "url": "https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 19:23:00 GMT",
+          "date": "Mon, 16 Mar 2026 21:12:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnFkQ1lMcXNwMjZtWkluTVNScXFuZl9vakpnUFdHR2ZONGNlRlpDUlN0OWo3U0NEUHJTWXVWN3NWTzBycU5LU2laRkE0bkI3ZzlrQ0dhT2dPVk9WV0lWM3hoTW9MSHd4R1JCdHh"
         },
         {
@@ -1652,14 +1652,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3EycTdmalQ5UWZVOFdERTFfYjZqOF8wWkFCXzAyU1BQVGRoekdndmpNTDlIRkhINzZ1OHhwbTdfMU16YV9XbFZ3MFNJak1sLUZ5djh4Nnk3MEhhaWx1eGFidTVBUzV6c0syR0s"
         },
         {
-          "headline": "Poland is now among the world’s 20 largest economies. How it happened - AP News",
-          "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+          "headline": "Is spring really — finally — here? - AP News",
+          "url": "https://apnews.com/article/spring-vernal-equinox-solstice-sun-daylight-e70d97f42571da5d863ba0887399909c",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 18:01:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2hrRXZobGp3eGdKVGdNcnd0Q1BNRENNWlNlMFR4anFxdmlWU0tJOEhXU2U2R1ptQ1BIbnpBYkNWRl95elNxWXR2SF9GVEg1LW5jbk1jMkYzWExvNTY5RnJvSVFjMzRxYTl2eTB"
+          "date": "Mon, 16 Mar 2026 14:59:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFJIVlZidmNIclEtdFIyQkxPOWVpTU00RUNpSC1MNDVnZUsyeHlNWmdSYjdqX29TLVc1WGpHUmVjeHZvSVhiRHBlLVFTR0RzLTlyeG1UaFFSOGxrZkpVWVJqNVlPTXZUOHRyYU9"
         },
         {
           "headline": "War in the Middle East: latest developments - Yahoo News Singapore",
@@ -2090,7 +2090,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Mon, 16 Mar 2026 06:19:39 GMT",
+          "date": "Mon, 16 Mar 2026 08:23:01 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE16M19JazZRa2E1S3p6cWc4MC1RRlBGeE5aZ3RTQ2hkT0o0RUc0ei1JRTRkN294NzAzS3JoZU80R25mcExKNEFZNlBiSTJkRjlFRUlTWkZOTjc?oc=5\" target=\"_blank\"&gt;Ca"
         },
         {
@@ -2140,7 +2140,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Mon, 16 Mar 2026 20:45:48 GMT",
+          "date": "Mon, 16 Mar 2026 22:15:48 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSl8talNTa1VsLUluenpKRUp2LWY5akpHamk1SXFNWWdlbWZkdGlUcHhpbGpoQTFNbUx6VVMwVXI2VTVtb0RNcUpLT01VSnJnZTVSZ1NITDd0cTE2bURxTGxsWUNOeGdHODFYeTE"
         },
         {
@@ -2238,14 +2238,14 @@
           "description": "アメリカ軍普天間基地の移設工事が行われている沖縄県名護市辺野古沖の海上で、研修旅行で訪れていた京都府の高校の生徒たちを乗せた船が転覆して生徒など2人が死亡した事故で、現場は海底の地形から波が高くなりやすい場所だったことが海上保安本部への取材で分かりました。海上保安本部は高波を受けて転覆したとみて事故の詳しい状況を調べています。"
         },
         {
-          "headline": "Trump says his China trip to be postponed by at least 1 month",
+          "headline": "Trump says his China trip needs to be postponed by at least 1 month",
           "url": "https://english.kyodonews.net/articles/-/72416",
           "source": "Kyodo News",
           "sourceId": "kyodo_english",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 06:19:00 +0900",
-          "description": "U.S. President Donald Trump said Monday he will delay his trip to China, due to the ongoing war with Iran.&quot;I have to be here,Read full story here"
+          "date": "Tue, 17 Mar 2026 07:11:00 +0900",
+          "description": "U.S. President Donald Trump said Monday he wants to delay his highly anticipated visit to Beijing for a meeting with Chinese PresiRead full story here"
         },
         {
           "headline": "BREAKING NEWS: Trump says he asked China to postpone his visit by a \"month or so\"",
@@ -2436,108 +2436,118 @@
           "priority": "primary",
           "date": "Mon, 16 Mar 2026 17:20:00 +0900",
           "description": "The disunity persists despite Africa’s enormous advantages, including a rapidly growing consumer market and dominant control of critical minerals essential to the global economy."
+        },
+        {
+          "headline": "Under-16s Banned from Social Media in Australia, Experts Say Japan Should Follow",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316895/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 22:00:04 +0000",
+          "description": "In December, Australia banned children under 16 from using social media, becoming the first country to do so. The move was made in response to reports of online sexual abuse and bullying, in addition "
+        },
+        {
+          "headline": "TOMODACHI Initiative Celebrates 15-Year Milestone; Over 10,000 Participants Foster Stronger Japan-U.S. Ties",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316816/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 17:00:26 +0000",
+          "description": "With this year marking the 15th anniversary of the Great East Japan Earthquake, the TOMODACHI Initiative also marks an important milestone."
+        },
+        {
+          "headline": "From Despair to Dynamism: One Woman&#8217;s Path to Helping Fukushima Rebuild",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316859/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 17:00:23 +0000",
+          "description": "Haruka Noguchi, 30, is helping tackle the daunting challenge of decommissioning the Fukushima No. 1 nuclear power plant."
+        },
+        {
+          "headline": "TOMODACHI Japan-U.S. Exchange Program Paves Way for Intl Researcher to Assist Tohoku Fisheries",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-316826/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 17:00:00 +0000",
+          "description": "Bryson Torgovitsky, 26, is an American PhD candidate in marine biology at Tohoku University. The TOMODACHI program, which he participated in twice during high school — in 2017 and 2018 — paved the way"
+        },
+        {
+          "headline": "Japan Debating How to Regulate Children&#8217;s Use of Social Media",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260316-316902/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 12:00:54 +0000",
+          "description": "As an increasing number of countries move to regulate children’s use of social media, Japan has convened an expert panel at the Children and Families Agency and started discussing the issue. While the"
+        },
+        {
+          "headline": "Samurai Japan&#8217;s Quest for Back-to-Back WBC Titles Ends at Quarterfinal Stage in 5-8 Loss to Venezuela",
+          "url": "https://japannews.yomiuri.co.jp/sports/baseball/20260316-316991/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 09:10:46 +0000",
+          "description": "MIAMI — Samurai Japan’s quest for a back-to-back World Baseball Classic title ended Saturday, after Venezuela came from behind to win their quarterfinal match-up 8-5."
+        },
+        {
+          "headline": "Advantages, Hazards of Underground Malls in Disasters; Important to Judge When to Stay, Leave",
+          "url": "https://japannews.yomiuri.co.jp/original/perspectives/20260316-316896/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 08:50:25 +0000",
+          "description": "While underground malls provide a comfortable environment even in winter, they come with distinct risks during disasters like earthquakes. It is important to properly understanding the characteristics"
+        },
+        {
+          "headline": "Numazu Imperial Villa in Japan’s Shizuoka Prefecture Reflects Life of Emperor Showa",
+          "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20260316-316911/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 08:42:28 +0000",
+          "description": "NUMAZU, Shizuoka — Sunlight and the sea breeze enhance the atmosphere of a pine grove surrounding a beautiful garden and elegantly constructed buildings including a tea ceremony house. Between the tre"
+        },
+        {
+          "headline": "Budget Proposal Passed by Lower House: Policy Debate Overshadowed by Schedule Struggle",
+          "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260316-316890/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 07:51:22 +0000",
+          "description": "It is undeniable that effort was spent on political maneuvering over how much time to secure for deliberations on a budget proposal, leaving discussions on crucial measures behind. The government as w"
+        },
+        {
+          "headline": "Dual Pricing in Tourism: Thoroughly Explain System’s Necessity and Rationale",
+          "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260316-316887/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 16 Mar 2026 07:39:03 +0000",
+          "description": "A dual pricing system, in which foreign tourists and visitors from outside the local area are charged higher fees, has been increasingly introduced at tourist facilities nationwide."
         }
       ],
       "secondary": [
         {
-          "headline": "Nvidia rides 'claw' craze with AI agent platform",
-          "url": "https://japantoday.com/category/tech/nvidia-rides-%27claw%27-craze-with-ai-agent-platform",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
+          "headline": "Vietnam asks Japan, South Korea for help in crude oil access - Reuters",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/vietnam-asks-japan-south-korea-help-crude-oil-access-2026-03-16/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
           "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:37:49 +0000",
-          "description": "Nvidia announced Monday that it was joining the OpenClaw craze, unveiling tools to bring AI agents -- which can manage your email, files and calendar while you sleep…"
-        },
-        {
-          "headline": "Multiple blasts hit Nigeria's Maiduguri city after years of calm",
-          "url": "https://japantoday.com/category/world/multiple-blasts-hit-nigeria%27s-maiduguri-city-after-years-of-calm",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:29:12 +0000",
-          "description": "Multiple explosions rocked the northeastern Nigerian city of Maiduguri Monday evening, government and healthcare sources told AFP, on the back of an overnight attack on a military post.…"
-        },
-        {
-          "headline": "Ecuador deploys 75,000 soldiers to crime-ridden provinces under nightly curfew",
-          "url": "https://japantoday.com/category/world/ecuador-deploys-75-000-soldiers-to-crime-ridden-provinces-under-nightly-curfew",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:28:58 +0000",
-          "description": "Ecuadorian officials said Monday that they have deployed 75,000 soldiers and police officers to four crime-ridden provinces where the government is implementing a nightly curfew banning people from…"
-        },
-        {
-          "headline": "Trump's Iran war duties, not China disputes, could delay Beijing summit, Bessent says",
-          "url": "https://japantoday.com/category/world/trump%27s-iran-war-duties-not-china-disputes-could-delay-beijing-summit-bessent-says",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:28:40 +0000",
-          "description": "U.S. Treasury Secretary Scott Bessent on Monday said there was a  possibility that President Donald Trump's planned visit to China at the end of March may be delayed,…"
-        },
-        {
-          "headline": "4 missing, 9 rescued after collision at sea off northeastern Japan",
-          "url": "https://japantoday.com/category/national/4-missing-9-rescued-after-collision-at-sea-off-northeastern-japan",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:47:08 +0000",
-          "description": "Four people went missing and nine others were rescued after a fishing boat capsized following a collision with a cargo ship off northeastern Japan, the coast guard said…"
-        },
-        {
-          "headline": "World Series MVP Yoshinobu Yamamoto will start season opener for Dodgers at home",
-          "url": "https://japantoday.com/category/sports/world-series-mvp-yoshinobu-yamamoto-will-start-the-season-opener-for-the-dodgers-at-home",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:30:29 +0000",
-          "description": "World Series MVP Yoshinobu Yamamoto will start another season opener for the Los Angeles Dodgers, just like he did last year when they went on to win their…"
-        },
-        {
-          "headline": "'Buffy' reboot cancelled: Sarah Michelle Gellar",
-          "url": "https://japantoday.com/category/entertainment/%27buffy%27-reboot-cancelled-sarah-michelle-gellar",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:31:30 +0000",
-          "description": "A planned reboot &quot;Buffy the Vampire Slayer,&quot; that was set to be directed by Oscar-winning director Chloe Zhao, has been canceled, star and producer Sarah Michelle Gellar said.…"
-        },
-        {
-          "headline": "Island-wide blackout hits Cuba as island struggles with deepening energy crisis",
-          "url": "https://japantoday.com/category/world/cuban-officials-report-an-island-wide-blackout-as-country-struggles-with-energy-crisis",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:29:04 +0000",
-          "description": "Officials in Cuba reported an island-wide blackout Monday in the country of some 11 million people as its energy and economic crises deepen and its power grid continues…"
-        },
-        {
-          "headline": "4 teens are suspected of terror offenses in Rotterdam synagogue explosion, Dutch prosecutors say",
-          "url": "https://japantoday.com/category/world/4-teens-are-suspected-of-terror-offenses-in-the-rotterdam-synagogue-explosion-dutch-prosecutors-say",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:29:25 +0000",
-          "description": "Four teens arrested on suspicion of setting off an explosive outside a Dutch synagogue are suspected of terror offenses, prosecutors said Monday, after they appeared before an investigating…"
-        },
-        {
-          "headline": "White House chief of staff Susie Wiles has breast cancer but will keep working through treatment",
-          "url": "https://japantoday.com/category/world/trump-says-chief-of-staff-susie-wiles-has-breast-cancer-but-will-keep-working-through-treatment",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:29:18 +0000",
-          "description": "White House chief of staff Susie Wiles has been diagnosed with early stage breast cancer but plans to continue working through her treatment, retaining her place as one…"
+          "date": "Mon, 16 Mar 2026 04:12:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPejNiVFpfRTZLYzFYQmN0bUtzSUtfdEREVVRYWlhDMFBJTjZqMjlzeFVRbG01M0pDdV9YU3NpMHZfRU1HT0JCNVg0dWQ1a3dJZXRwZ3NseTJtalo4S0EwTWlxdHp4M00xNnM4RmR"
         },
         {
           "headline": "Japan not planning Hormuz escort mission, PM Takaichi says - Reuters",
@@ -2550,16 +2560,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2JZUnoxUF9ZMU40Wk9GTlVESWZOZ3Q4WHhWU1NuQ3QyOE1DTldad3YwcTJkOWx2ZXdvUkZjS3hmR2ZlOXZhOVl3bTVHOXJlelRmSGNIeWUyQnhYVGRHaHRmWWZkVVJvT2Q3OHl"
         },
         {
-          "headline": "Vietnam asks Japan, South Korea for help in crude oil access - Reuters",
-          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/vietnam-asks-japan-south-korea-help-crude-oil-access-2026-03-16/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 04:12:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPejNiVFpfRTZLYzFYQmN0bUtzSUtfdEREVVRYWlhDMFBJTjZqMjlzeFVRbG01M0pDdV9YU3NpMHZfRU1HT0JCNVg0dWQ1a3dJZXRwZ3NseTJtalo4S0EwTWlxdHp4M00xNnM4RmR"
-        },
-        {
           "headline": "Trump upset as key U.S. partners shun call for Hormuz warship escorts - Reuters",
           "url": "https://www.reuters.com/business/energy/trump-demands-others-help-secure-strait-hormuz-japan-australia-say-no-plans-send-2026-03-16/",
           "source": "Reuters Japan",
@@ -2568,6 +2568,16 @@
           "priority": "secondary",
           "date": "Mon, 16 Mar 2026 19:21:54 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG4tY3VGcDQtTDJuVDBWSzFrNzFBZUEwQ0tfOXFOczdRVHA0M0VETVRaN2pEa0lMRXhNTm5Cd3RkdUlrUGRnSEYwQ2RVZWRmTlBoY1NwMDV6OEg4T0tjN09rcUFkVlZQWVdwOTh"
+        },
+        {
+          "headline": "Japan finance minister flags readiness to take decisive steps on forex - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-finance-minister-flags-readiness-take-decisive-steps-forex-2026-03-16/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 16 Mar 2026 00:40:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0hnbXBSY0xNZXBBaDNzU1pQLUhCaVRMLVBkVEk5M0dtNWM1aV9CYmN3UGpwb3N3MS1rei1NWlY0YW5KMXpOOUJhd1lqemZMZmJfLTNVVFRQSkZ6M29GQ3VKWXozX0VfaHE5OVJ"
         },
         {
           "headline": "BOJ to stand pat as Iran war muddles outlook, sustain rate-hike bias - Reuters",
@@ -2630,16 +2640,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFFVcE9UOE1TNlFPWG9aQkZORFdjN01VX0Y4X0ZwTkFRdEl6dFZQQ1VSdm13UWt2S2xjb2xvTFY1cHFBRjVQR1ZTaTlFbkVLbm81WmlJZjN3a1ZpUXhVY2JZVWQtSzcyX2pKemV"
         },
         {
-          "headline": "Trump warns NATO, presses China to help reopen Strait of Hormuz, FT reports - Reuters",
-          "url": "https://www.reuters.com/world/china/trump-warns-nato-faces-very-bad-future-if-allies-fail-help-us-iran-ft-reports-2026-03-16/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 00:10:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaDQ1Rkg0MFdXMm9aNnY3VFlLQ2hDU1E0cmxzVEQzZ0l2VkhURWIwTkk4a2syUGtEa0RzOHpmX0FzZVhEbHk5RW5qQ3ZhZTM3UVAweHNHNHRMQTZQUTlXb3lLOTZLY2dYMF9nb1N"
-        },
-        {
           "headline": "2 dead after 2 boats carrying students capsize off US base construction site in southern Japan - AP News",
           "url": "https://apnews.com/article/japan-okinawa-henoko-accident-us-f353010b49d2073843f7e2d93ec164ef",
           "source": "AP Japan",
@@ -2680,13 +2680,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHZaVUFreTQ0cVg0WFNYUDZNRkZ5Ym9QSU92bWxCTk45QVhSZEZvNERaNEF5LVFSUmM4VnBQRWhqZ2xlRHVuaTNZVndsQ1lGUkRBUWhHVk9jOHpxdkhhZExVNnNvOG81U1dWeDZ"
         },
         {
-          "headline": "Israel steps up campaign in Lebanon, as Iran keeps stranglehold on shipping - AP News",
+          "headline": "War rages on multiple fronts as Israeli attacks in Lebanon grow, Iran shipping stranglehold persists - AP News",
           "url": "https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 19:23:00 GMT",
+          "date": "Mon, 16 Mar 2026 21:12:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnFkQ1lMcXNwMjZtWkluTVNScXFuZl9vakpnUFdHR2ZONGNlRlpDUlN0OWo3U0NEUHJTWXVWN3NWTzBycU5LU2laRkE0bkI3ZzlrQ0dhT2dPVk9WV0lWM3hoTW9MSHd4R1JCdHh"
         },
         {
@@ -2730,14 +2730,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3EycTdmalQ5UWZVOFdERTFfYjZqOF8wWkFCXzAyU1BQVGRoekdndmpNTDlIRkhINzZ1OHhwbTdfMU16YV9XbFZ3MFNJak1sLUZ5djh4Nnk3MEhhaWx1eGFidTVBUzV6c0syR0s"
         },
         {
-          "headline": "Poland is now among the world’s 20 largest economies. How it happened - AP News",
-          "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+          "headline": "Is spring really — finally — here? - AP News",
+          "url": "https://apnews.com/article/spring-vernal-equinox-solstice-sun-daylight-e70d97f42571da5d863ba0887399909c",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 18:01:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2hrRXZobGp3eGdKVGdNcnd0Q1BNRENNWlNlMFR4anFxdmlWU0tJOEhXU2U2R1ptQ1BIbnpBYkNWRl95elNxWXR2SF9GVEg1LW5jbk1jMkYzWExvNTY5RnJvSVFjMzRxYTl2eTB"
+          "date": "Mon, 16 Mar 2026 14:59:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFJIVlZidmNIclEtdFIyQkxPOWVpTU00RUNpSC1MNDVnZUsyeHlNWmdSYjdqX29TLVc1WGpHUmVjeHZvSVhiRHBlLVFTR0RzLTlyeG1UaFFSOGxrZkpVWVJqNVlPTXZUOHRyYU9"
         },
         {
           "headline": "War in the Middle East: latest developments - Yahoo News Singapore",
@@ -3168,7 +3168,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Mon, 16 Mar 2026 06:19:39 GMT",
+          "date": "Mon, 16 Mar 2026 08:23:01 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE16M19JazZRa2E1S3p6cWc4MC1RRlBGeE5aZ3RTQ2hkT0o0RUc0ei1JRTRkN294NzAzS3JoZU80R25mcExKNEFZNlBiSTJkRjlFRUlTWkZOTjc?oc=5\" target=\"_blank\"&gt;Ca"
         },
         {
@@ -3218,7 +3218,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Mon, 16 Mar 2026 20:45:48 GMT",
+          "date": "Mon, 16 Mar 2026 22:15:48 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSl8talNTa1VsLUluenpKRUp2LWY5akpHamk1SXFNWWdlbWZkdGlUcHhpbGpoQTFNbUx6VVMwVXI2VTVtb0RNcUpLT01VSnJnZTVSZ1NITDd0cTE2bURxTGxsWUNOeGdHODFYeTE"
         },
         {

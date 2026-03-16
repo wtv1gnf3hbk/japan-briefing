@@ -1,34 +1,30 @@
-Good morning, Javier. The government is [releasing private](http://www3.nhk.or.jp/news/html/20260316/k10015076451000.html) oil stockpiles today as crude prices surge back above $100 per barrel following Middle East tensions. This comes after Trump's demand that allies protect the Strait of Hormuz with warships, which Japan has [approached cautiously](http://www3.nhk.or.jp/news/html/20260316/k10015076481000.html), saying it wants to understand the "true intentions" behind the president's social media posts. [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-03-15/japan-says-dispatching-ships-to-middle-east-faces-high-hurdles) the government sees "high hurdles" for any naval deployment.
+Good morning from Tokyo. Japan faces mounting pressure from President Trump to join a naval coalition securing the Strait of Hormuz as Iran's blockade of the waterway threatens the country's oil supplies. Trump [postponed his planned](https://english.kyodonews.net/articles/-/72416) China summit by "at least a month" to focus on military operations against Iran, while demanding that allies including Japan deploy warships to escort tankers through the strait. Prime Minister Takaichi has firmly [rejected these calls](https://www.japantimes.co.jp/news/2026/03/16/japan/politics/japan-takaichi-no-warships-middle-east/), stating Japan has "no current plan" for a Self-Defense Forces escort mission.
 
-The oil release reflects broader regional coordination as Asian allies signed [$57 billion](https://www.reuters.com/business/energy/asia-pacific-allies-ink-57-billion-deals-with-us-companies-burgum-says-2026-03-15/) in deals with U.S. companies, according to Reuters, while the [IEA says](https://www.bloomberg.com/news/articles/2026-03-15/iea-says-oil-from-emergency-stocks-to-flow-immediately-in-asia) emergency stocks will flow immediately across Asia. Meanwhile, Japan's World Baseball Classic campaign [ended early](https://apnews.com/article/japan-venezuela-score-wbc-ohtani-47327f324e626229388dfce8cf3d4591) with Venezuela's 8-5 upset victory over the defending champions, leaving Shohei Ohtani and teammates disappointed after their title defense fell short.
+The stakes are rising quickly for Japan's energy security. Bloomberg reports Japan has already [begun releasing oil](https://www.bloomberg.com/news/articles/2026-03-16/japan-starts-release-of-oil-from-reserves-as-war-snarls-flows) from its strategic reserves as the conflict disrupts supplies, with imports expected to drop significantly after March 20. Prime Minister Takaichi acknowledged public concerns about petroleum product supplies on Twitter, noting that crude oil tankers can no longer pass through Hormuz. Finance Minister Katayama said Japan is [ready to take](https://www.bloomberg.com/news/articles/2026-03-16/japan-s-katayama-says-ready-to-take-bold-steps-on-fx-as-needed) "bold steps" on currency intervention if needed as oil price volatility pressures the yen.
 
 **Business & Markets**
+• The Bank of Japan is expected to [hold rates steady](https://www.reuters.com/world/asia-pacific/boj-stand-pat-iran-war-muddles-outlook-sustain-rate-hike-bias-2026-03-16/) at its upcoming meeting as the Iran conflict complicates the economic outlook, Reuters reports, though policymakers will maintain their bias toward future rate hikes.
 
-• [NHK reports](http://www3.nhk.or.jp/news/html/20260316/k10015076761000.html) New York crude futures briefly surged above $100 per barrel again as Middle East tensions escalate
+• Japanese stocks face [earnings pressure](https://www.bloomberg.com/news/articles/2026-03-16/japan-stocks-face-earnings-risk-as-iran-conflict-lifts-oil-costs) from rising oil costs related to the Iran conflict, according to Bloomberg analysis of energy-intensive sectors.
 
-• Japan and South Korea nuclear operators received [U.S. Ex-Im Bank](https://www.bloomberg.com/news/articles/2026-03-15/japan-south-korea-nuclear-operators-get-us-ex-im-bank-support) financing support as part of broader Asia-Pacific energy deals, Bloomberg reports
+• Vietnam has asked Japan and South Korea for [help accessing](https://www.reuters.com/sustainability/boards-policy-regulation/vietnam-asks-japan-south-korea-help-crude-oil-access-2026-03-16/) crude oil as the Hormuz crisis disrupts regional energy flows, Reuters reports.
 
-• Asia-Pacific allies inked [$57 billion](https://www.reuters.com/business/energy/asia-pacific-allies-ink-57-billion-deals-with-us-companies-burgum-says-2026-03-15/) in agreements with U.S. companies during recent diplomatic engagement, per Reuters
+• Nvidia announced an [AI agent platform](https://japantoday.com/category/tech/nvidia-rides-%27claw%27-craze-with-ai-agent-platform) riding the popularity of "claw" technology, Japan Today reports.
 
 **Government & Policy**
+• Foreign Minister Motegi told Secretary of State Rubio that Japan will [work with](https://english.kyodonews.net/articles/-/72377) the U.S. and others to ensure safe passage through Hormuz, though without committing to military deployment, Kyodo reports.
 
-• Japan's fiscal year 2026 budget moves to substantive [Senate deliberations](http://www3.nhk.or.jp/news/html/20260316/k10015076471000.html) this week, with opposition cooperation uncertain, NHK reports
-
-• Defense Minister Takaichi tweeted gratitude to South Korea for evacuating three Japanese nationals from the Middle East via military transport from Riyadh
-
-**What to Watch**
-
-• U.S.-China trade talks are underway in Paris as preparation for the Trump-Xi summit, with [AP reporting](https://apnews.com/article/china-us-trade-talks-paris-304947f60609fce139602b57b214c468) these discussions could pave the way for broader bilateral engagement
+• The Education Ministry is pushing for [stricter measures](https://www.japantimes.co.jp/news/2026/03/16/japan/teacher-voyeurism-stricter-curbs/) against teacher voyeurism following recent scandals, the Japan Times reports.
 
 **Coverage Flags**
-
-International outlets are providing more detail on Japan's Middle East naval deployment considerations than domestic press, which may warrant follow-up. The scale of Asia-Pacific energy deals with U.S. companies also appears underreported in Japanese media.
+International outlets are providing more detailed analysis of Japan's strategic dilemma over Hormuz than domestic Japanese sources, particularly on the economic implications of extended oil supply disruption. The story warrants deeper reporting on Japan's energy contingency planning and diplomatic balancing act between U.S. pressure and pacifist constraints.
 
 **Sources**
-• [NHK World](http://www3.nhk.or.jp/)
+• [Kyodo News](https://english.kyodonews.net/)
+• [Japan Times](https://www.japantimes.co.jp/)
 • [Reuters](https://www.reuters.com/)
 • [Bloomberg](https://www.bloomberg.com/)
-• [AP News](https://apnews.com/)
-• [Kyodo News](https://english.kyodonews.net/)
+• [Japan Today](https://japantoday.com/)
+• [NHK World](https://www3.nhk.or.jp/)
 
-*Visual references captured: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages; Twitter feeds from Defense Minister Takaichi Sanae and NHK Ohayou; Financial Times Asia, Wall Street Journal Asia, and Economist Asia pages.*
+*Screenshots captured: Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages; Takaichi Sanae and NHK Ohayou Twitter feeds*

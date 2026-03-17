@@ -4,15 +4,15 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-03-17T22:02:19.827Z",
-    "generatedTimestamp": 1773784939827
+    "generated": "2026-03-17T22:41:47.476Z",
+    "generatedTimestamp": 1773787307476
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
-    "totalStories": 107,
+    "totalStories": 117,
     "totalScreenshots": 11,
-    "elapsed": "95.4s"
+    "elapsed": "105.2s"
   },
   "stories": {
     "all": [
@@ -35,16 +35,6 @@
         "priority": "primary",
         "date": "Wed, 18 Mar 2026 05:23:36 +0900",
         "description": "高市総理大臣は就任後初めてアメリカを訪れ、現地時間の19日、トランプ大統領との日米首脳会談に臨むことにしていて、安全保障や経済など幅広い分野で日米両国の連携強化を図りたい考えです。また、イラン情勢への対応についてはトランプ大統領の発言が変化していることから、現地の状況などを見極めながら検討を続けています。"
-      },
-      {
-        "headline": "春闘 きょう集中回答日 物価上昇上回る賃上げ実現するかが焦点",
-        "url": "http://www3.nhk.or.jp/news/html/20260318/k10015078201000.html",
-        "source": "NHK World",
-        "sourceId": "nhk_world",
-        "category": "national",
-        "priority": "primary",
-        "date": "Wed, 18 Mar 2026 04:29:13 +0900",
-        "description": "ことしの春闘は18日が集中回答日で、すでに大手企業では高い水準の賃上げでの決着が相次いでいます。一方、中小企業については、イラン情勢の悪化が賃上げの判断に影響を与えかねないという見方もあり、物価の上昇を上回る賃上げが実現するかが焦点です。"
       },
       {
         "headline": "辺野古沖 2人死亡事故 救助された船長「前を進む船が転覆」",
@@ -85,6 +75,26 @@
         "priority": "primary",
         "date": "Wed, 18 Mar 2026 05:17:19 +0900",
         "description": "新年度予算案の審議をめぐり、与党側は、残り2週間となった年度末までの成立を目指す姿勢を崩しておらず、審議時間を積み重ねていきたい考えです。一方、野党側は日米首脳会談に関する集中審議を行うなど与野党関係なく参議院として審議を充実させるよう求めていて、「年度内成立は現実的に困難だ」とけん制しています。"
+      },
+      {
+        "headline": "ロシア高官 欧米の足並みの乱れ強調 さらなる分断図るねらいか",
+        "url": "http://www3.nhk.or.jp/news/html/20260318/k10015078351000.html",
+        "source": "NHK World",
+        "sourceId": "nhk_world",
+        "category": "national",
+        "priority": "primary",
+        "date": "Wed, 18 Mar 2026 06:49:57 +0900",
+        "description": "ロシアのプーチン政権の高官は、ヨーロッパの一部の国がアメリカによるホルムズ海峡への艦船の派遣などの要請に応じていないことを受けて、SNSに「彼らがどれほどトランプ大統領に反対しているかを明確にしている」と投稿しました。ロシアとしては、ウクライナ情勢をめぐって立場に隔たりがある欧米のさらなる分断を図りたいねらいがあるとみられます。"
+      },
+      {
+        "headline": "Trump says China \"fine\" with postponed Xi meeting being held in 5-6 weeks",
+        "url": "https://english.kyodonews.net/articles/-/72483",
+        "source": "Kyodo News",
+        "sourceId": "kyodo_english",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 18 Mar 2026 06:52:00 +0900",
+        "description": "U.S. President Donald Trump said Tuesday that China was &quot;fine&quot; with rescheduling his trip to Beijing, initially slated tRead full story here"
       },
       {
         "headline": "BREAKING NEWS: Trump says meeting with China's Xi to happen in 5 or 6 weeks",
@@ -175,16 +185,6 @@
         "priority": "primary",
         "date": "Tue, 17 Mar 2026 18:00:00 +0900",
         "description": "The latest chapter of the Jujutsu Kaisen &quot;Culling Game Arc&quot; is here, as Episode 56 &quot;Tokyo Colony No. 1 - Part 4&quoRead full story here"
-      },
-      {
-        "headline": "Trump says his China trip needs to be delayed by 1 month due to Iran war",
-        "url": "https://english.kyodonews.net/articles/-/72416",
-        "source": "Kyodo News",
-        "sourceId": "kyodo_english",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Tue, 17 Mar 2026 17:25:00 +0900",
-        "description": "U.S. President Donald Trump said Monday he wants to delay his highly anticipated visit to Beijing for a meeting with Chinese PresiRead full story here"
       },
       {
         "headline": "92% of job-seeking university students held offers as of Feb. 1, data shows",
@@ -285,6 +285,106 @@
         "priority": "primary",
         "date": "Tue, 17 Mar 2026 16:23:00 +0900",
         "description": "The deal with superstar Shohei Ohtani’s Los Angeles Dodgers will see the firm become Dodger Stadium’s official field presenting partner."
+      },
+      {
+        "headline": "2 Nations Featured in Osaka Expo Have Yet to Start Dismantling Pavilions",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260318-317056/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 22:00:55 +0000",
+        "description": "Two countries — the Czech Republic and Turkmenistan — have been unable to begin demolition work on their pavilions at the 2025 Osaka-Kansai Expo, the Japan Association for the 2025 World Exposition re"
+      },
+      {
+        "headline": "Osaka Expo Mascot Myaku-Myaku to Debut in 1st Photo Book",
+        "url": "https://japannews.yomiuri.co.jp/culture/books-literature/20260318-317053/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 17:00:47 +0000",
+        "description": "A photo book featuring Myaku-Myaku, the official mascot of last year’s Osaka-Kansai Expo, will be published on April 13, the first anniversary of the start of the Expo."
+      },
+      {
+        "headline": "Nissan Motor Kyushu to Cut Production by 1,200 Units amid Escalating Tensions in Middle East",
+        "url": "https://japannews.yomiuri.co.jp/business/companies/20260317-317178/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 12:57:23 +0000",
+        "description": "Nissan Motor Kyushu Co., a subsidiary of Nissan Motor Co., will cut production by around 1,200 units this month in response to the escalating tensions in the Middle East, The Yomiuri Shimbun has learn"
+      },
+      {
+        "headline": "Tokyo Records 34 Measles Cases in Three Months, Equaling Last Year&#8217;s Total",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-317173/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 12:16:09 +0000",
+        "description": "The cumulative number of measles cases in Tokyo since January has reached 34, equaling last year’s total, the Tokyo metropolitan government announced on Tuesday."
+      },
+      {
+        "headline": "Foreign Ministry Panel Aims to Improve Development Aid Offered by Japan",
+        "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317097/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 12:00:33 +0000",
+        "description": "The Foreign Ministry held the first meeting of an expert panel to discuss the effective use of official development assistance (ODA) on Monday."
+      },
+      {
+        "headline": "Shigeaki Mori, Hiroshima Hibakusha Hugged by Obama, Dies at 88",
+        "url": "https://japannews.yomiuri.co.jp/society/obituaries/20260317-317135/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 08:46:42 +0000",
+        "description": "Hiroshima, March 17 (Jiji Press)—Shigeaki Mori, the hibakusha survivor of the August 1945 U.S. atomic bombing of Hiroshima who was embraced by former U.S. President Barack Obama, died at a hospital in"
+      },
+      {
+        "headline": "Trump Was Warned of Likely Iranian Retaliation on Gulf Allies, Sources Say",
+        "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260317-317114/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 07:51:49 +0000",
+        "description": "WASHINGTON, March 16 (Reuters) - President Donald Trump was warned that attacking Iran could trigger retaliation against U.S. Gulf allies despite his claims on Monday that Tehran's reaction came as a "
+      },
+      {
+        "headline": "Takaichi, Trump Expected to Agree on Japan’s $100 mil. Investment in U.S. Shipbuilding at Summit Talks",
+        "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317109/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 07:39:18 +0000",
+        "description": "The Japanese and U.S. governments are making arrangements regarding Japan’s $100 million investment in the United States to conduct research and development of shipbuilding technologies that use artif"
+      },
+      {
+        "headline": "Japan PM Takaichi Considering Options on Hormuz Strait Request from U.S.",
+        "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317103/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 07:16:38 +0000",
+        "description": "Prime Minister Sanae Takaichi on Tuesday stated that the government was exploring what can be done within the bounds of the law, regarding a potential request from the United States on cooperating to "
+      },
+      {
+        "headline": "History of Japan Self-Defense Forces’ Overseas Deployments Driven by U.S. Administrations",
+        "url": "https://japannews.yomiuri.co.jp/politics/defense-security/20260317-317096/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 07:02:10 +0000",
+        "description": "The expansion of overseas deployments by Japan’s Self-Defense Forces have been driven by requests made by the United States."
       },
       {
         "headline": "Japan calls on Iran to stop threatening passage through Strait of Hormuz",
@@ -477,14 +577,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTzhDZlh2ZmMxSVR1QmNoSW1qSFhNdXBzaHdMZDNiSUlrMk1KeFNWMVlKeGctd2hzLUF0ajNFV2htQV9Wb2lqOFlfdmNnUWVBU1ZGSzdOWktmRjkyeXFZZVJFRDNiQ0dOX0o1SjB"
       },
       {
-        "headline": "Rubio, South Korea's Cho agree Strait of Hormuz key to global economy, Seoul says - Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/rubio-south-korea-foreign-minister-cho-agree-strait-hormuz-key-global-economy-2026-03-16/",
+        "headline": "Breakingviews - How allies could respond to Trump’s Hormuz threat - Reuters",
+        "url": "https://www.reuters.com/commentary/breakingviews/how-allies-could-respond-trumps-hormuz-threat-2026-03-17/",
         "source": "Reuters Japan",
         "sourceId": "reuters_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 22:28:27 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZFNXJtc2R6SEVNX1J1VUNHV0lDMU9McVlZU21QMU5XUGFSdlIwRjVYWVhnOFRnRjFVX1o3enBMczVVR3VSVkt1V1dmWURGb0g0eGhnT2pDb0FTVlN1Y1lUZHg5aGh3cE5Tb1p"
+        "date": "Tue, 17 Mar 2026 11:35:42 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDJRVzZRcDlRVXZ1SXVUbnZhU0xSdTlnTXlfQnZOLUZIQUtsSm5lZURfa1ROTUxKcXgwZ3A3cHppem9TVEh5NTFvMjhXbVZtTEJVcVQ4UXR0aW9JRXctemRpbU9tdVJ6RHdUTDZ"
       },
       {
         "headline": "Shigeaki Mori, Hiroshima atomic bomb survivor and historian embraced by Obama, dies at 88 - AP News",
@@ -517,6 +617,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnFkQ1lMcXNwMjZtWkluTVNScXFuZl9vakpnUFdHR2ZONGNlRlpDUlN0OWo3U0NEUHJTWXVWN3NWTzBycU5LU2laRkE0bkI3ZzlrQ0dhT2dPVk9WV0lWM3hoTW9MSHd4R1JCdHh"
       },
       {
+        "headline": "Trump fumes at NATO for refusing to help secure the Strait of Hormuz, and embraces going it alone - AP News",
+        "url": "https://apnews.com/article/trump-iran-nato-strait-of-hormuz-europe-4e0cf38708e9c3ba8ea2a36148620067",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 17 Mar 2026 19:33:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVYwc3g1SHBTQUFKYTFtRjJKTDJXcThDbF93bUl2VC1yLUU2RS0teTdUUGpQV1I4S05YWHVyOWlicm9rS3MwV081LWlEQUt6blN4OGRZczBCNlFlOTVPZ3c4akNBcmFrSHBIMGN"
+      },
+      {
         "headline": "Iran wants to move its World Cup matches from US to Mexico. FIFA is sticking to its schedule - AP News",
         "url": "https://apnews.com/article/fifa-world-cup-iran-us-mexico-43f56d6047fb340672dbe64583214228",
         "source": "AP Japan",
@@ -527,16 +637,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkphZThIaVJhTkViRUxrV0ZVbGppZHFUM1Y4TFpoTEw1cjhKazZNSXBGbXAySVJZdndJVXRSVzZwXzNwNlllTlVfTVVEWFB0WXdfYTRKQkhRQkI5MlpEWEtkQUJCWE9PRU40TGI"
       },
       {
-        "headline": "‘I do believe I’ll have the honor of taking Cuba': Trump says - AP News",
-        "url": "https://apnews.com/video/i-do-believe-ill-have-the-honor-of-taking-cuba-trump-says-7eca50186e4b423c969a7922075d7abd",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 22:09:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdm9KSldFLWdoWXkzNmNMTjMyZHc1Tl85c25LLUZsMWhUSWZrOHJYYk1PNzQxR1RLLWxHaUtZZlRMSGJFUUFIX2Z3SVd0MTRDcFZTMDRXdnJDUjBqT2NDbDYxelhZSGlfMTRuVTB"
-      },
-      {
         "headline": "Poland is now among the world’s 20 largest economies. How it happened - AP News",
         "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
         "source": "AP Japan",
@@ -545,6 +645,16 @@
         "priority": "secondary",
         "date": "Tue, 17 Mar 2026 00:02:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2hrRXZobGp3eGdKVGdNcnd0Q1BNRENNWlNlMFR4anFxdmlWU0tJOEhXU2U2R1ptQ1BIbnpBYkNWRl95elNxWXR2SF9GVEg1LW5jbk1jMkYzWExvNTY5RnJvSVFjMzRxYTl2eTB"
+      },
+      {
+        "headline": "Trump postpones his China trip to focus on the war in Iran - AP News",
+        "url": "https://apnews.com/article/trump-delays-china-trip-iran-3ef73e58116cc0d89aab39ed15219bf6",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 17 Mar 2026 18:10:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcS1ZcWpFSlUxUGZBZUM3NE5SNjlVelFrZ0tZZU5sQjNSM0JSVWphamcxREZZTnF6MjMwSUtibUZ3V3Z5dkZWSWw3cXZ0RWcybUoyaFVnQmlsS283ZVlGaHU4UUMxclNkbEdhT1Z"
       },
       {
         "headline": "Iran war pushes countries into energy triage as they conserve power and curb soaring prices - AP News",
@@ -577,14 +687,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPNk9EQjhrS0E2TENMckJ5eDZwV3JUYjdNUDhUWk5fYXB3ek9UYXgxWmNZLXVDWDNMVGpVNGN1QkEzVlFCRWVxUFQ4N2diU2RwRVBHbUtWWmtMQ0xuZTBfcUltZ3JLZ3BDY205aTR"
       },
       {
-        "headline": "Criticized for their cool, American players head into the WBC final appreciating opponents' flair - AP News",
-        "url": "https://apnews.com/article/world-baseball-classic-championship-222e5c56647104adddb8a5aef940e37c",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
+        "headline": "French General Torches Trump’s Demands for Help With Scathing ‘Titanic’ Comparison - Yahoo News UK",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e38262f9-d4a4-4191-a05f-e8269ae94e03",
+        "source": "AFP Japan",
+        "sourceId": "afp_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 02:59:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHNmbnRCMWJPVG1sUGxVUGszMmhEMmtLWE9vUy1XenBjWXlVYnJOdUFuY2VEQllQeElENmFacnZDdmE2ZnpZbkRSYWFGMTZXTUFpQXlrOU5NZHBUTlh3Qy1VZWJFWUlaRzZrWEV"
+        "date": "Tue, 17 Mar 2026 14:42:53 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkRzVkxhVUx2N1ZFMTM1ZXZFSFhVWHREaHd0c3QzS1lQV09vMFVCUEFVemhOOEtKTjE0ZUt3aS1IS2lvaXVqWTFkYU92YmxLekEwM3VrQ0JpMnFiakVNSXRCekE0NDgxYjN4Y25"
       },
       {
         "headline": "Flyers face hourslong lines as TSA agents quit amid first weekend without full pay - Yahoo News Singapore",
@@ -598,7 +708,7 @@
       },
       {
         "headline": "Iran rejects de-escalation offers; Israel says it kills Iranian security chief - Yahoo News UK",
-        "url": "https://uk.news.yahoo.com/trump-criticises-allies-over-rejection-033943841.html",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7193388-8ef2-41e3-bdf6-9e453ac0f3c1",
         "source": "AFP Japan",
         "sourceId": "afp_japan",
         "category": "wire",
@@ -617,13 +727,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAtNmRhaFZDOVRxMzRXY0FZLWdkODYtckFFSzJJb0Y1WlVJQng4ZDBPTWdzOGhtR0xrQXYxQjBfZkdUd0VyYUlKUnhRcDdTVGU2WHBOR19VNllabFhwNE44NmdEQWxVZ1ZnVkY4NXB"
       },
       {
-        "headline": "Israel vows to find and 'neutralise' Iran's new supreme leader - Yahoo News Singapore",
+        "headline": "Iran confirms security chief dead as Israel vows to target leader - Yahoo News Singapore",
         "url": "https://sg.news.yahoo.com/israel-says-killed-iran-national-101117955.html",
         "source": "AFP Japan",
         "sourceId": "afp_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 19:38:17 GMT",
+        "date": "Tue, 17 Mar 2026 22:06:02 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oSG55N2RIcE8wa2ZNckZJdFRJM3pnUVpyOUJIQXZpQnNkX3lkcmpHRDNHcnJ6N1lhWDdaUUk5ZTFsQWdFZFp5TkFONlpWNFIyM0MxcE5wQ2d3MlFJd0NNWDgwOFVFVmY3QmttZU8"
       },
       {
@@ -675,16 +785,6 @@
         "priority": "secondary",
         "date": "Tue, 17 Mar 2026 07:42:18 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdmQwWTdRTmN2M0JSVVZJdkVqQXluS2lOamNxRW1sdE1PRF8wU0hYNnE0MXlfTnNVNXk0Wi1lN250M2czblpEb01pejVJVmVTcC05TzhJaEh3N1JOS1lmRG9qbThuNDloc09GT1V"
-      },
-      {
-        "headline": "Why countries are rejecting Trump’s call to send ships to Strait of Hormuz - Yahoo News Singapore",
-        "url": "https://sg.news.yahoo.com/countries-responding-trump-call-send-090051405.html",
-        "source": "AFP Japan",
-        "sourceId": "afp_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 07:20:09 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjB6RVc3RWl4YXMteFAwbGVDQy1YRGlqZ1ZPalRmdGo4U0xQOVlLN3VMVmlDQU5xajFuNXRKLTV5b3dkLXpnR0c5bzJyYzY1NmVJV011eXZFYzNiQnlROHFTeDVNVlpFOWdtemV"
       },
       {
         "headline": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
@@ -993,7 +1093,7 @@
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Tue, 17 Mar 2026 21:42:59 GMT",
+        "date": "Tue, 17 Mar 2026 22:01:48 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2w1UkM0Zjl1a0cxb0JPVUdzc0Z4clJWamtIX2Vnd3hjVFNKVGdrWlh2dm05S3VmMHduUlpBMGxrVldZQlFCUzRTNS16YkdMOTRZLWYzX1M1Rm9PcEp6T211SDRaS3Z5OGhnZXZ"
       },
       {
@@ -1005,6 +1105,16 @@
         "priority": "tertiary",
         "date": "Tue, 17 Mar 2026 05:09:26 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
+      },
+      {
+        "headline": "Venezuela rallies past Italy 4-2 with 3-run 7th and will face US for World Baseball Classic title - The Washington Post",
+        "url": "chrome-error://chromewebdata/",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Tue, 17 Mar 2026 12:32:55 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDNyM0RXS3pTcWR6a2dEM0lnZlpvZkVtODRadWp3amNuem5XZnFSaG5SazlyenlUOWZPMm1MOFYyZ0lteVRVSnZBeDFNV1BTTDFJX3prYlptUkwtaVdQYnRaS09raUlONXp4ODB"
       },
       {
         "headline": "Iran targets commerce as drone hits Dubai airport; Israel says war will go on - The Washington Post",
@@ -1027,23 +1137,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDQ2YkMxZ0pCUDFqMllDbkVBbXJkSlRMZmh6QmRLYVpudEM4OFZwaEJjV1hETzRienBkeWRyRkE5TXFHY3ZremhKTjc2NVNQb1JiZWJDQmdmWmtjUVlGN3k5REdVdGZROHdsX3h"
       },
       {
-        "headline": "A rare tornado threat covers Mid-Atlantic, including D.C. area - The Washington Post",
-        "url": "chrome-error://chromewebdata/",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Mon, 16 Mar 2026 22:37:52 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDB5RDM3U2pLZ2Y2R0FlYU5oRC1mU204aThaN2lHeGRkTDh4c0RJbGpObWZCUTVpRXkyNW5JSE9pQkkwSXg0YmRXdS1sZ2lLaW14X2FvcURqNElXNTlVWVNzT3pHbmp5blVpakR"
-      },
-      {
         "headline": "A meteor just exploded over Cleveland - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Tue, 17 Mar 2026 18:45:52 GMT",
+        "date": "Tue, 17 Mar 2026 21:45:52 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdlNmT3Q1blBkSnBHdEc1OHpQZWFtZnlPTmJURFdUZ1NZNGlXVXp5Rmt4UkZtNHBVdmRjVy0wR201SGg2V0VlZzlxZy1qLTQzbThWVW1BWXFxWEpCeEZHbElibksyX3dTQnBLckp"
       },
       {
@@ -1110,16 +1210,6 @@
           "description": "高市総理大臣は就任後初めてアメリカを訪れ、現地時間の19日、トランプ大統領との日米首脳会談に臨むことにしていて、安全保障や経済など幅広い分野で日米両国の連携強化を図りたい考えです。また、イラン情勢への対応についてはトランプ大統領の発言が変化していることから、現地の状況などを見極めながら検討を続けています。"
         },
         {
-          "headline": "春闘 きょう集中回答日 物価上昇上回る賃上げ実現するかが焦点",
-          "url": "http://www3.nhk.or.jp/news/html/20260318/k10015078201000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 04:29:13 +0900",
-          "description": "ことしの春闘は18日が集中回答日で、すでに大手企業では高い水準の賃上げでの決着が相次いでいます。一方、中小企業については、イラン情勢の悪化が賃上げの判断に影響を与えかねないという見方もあり、物価の上昇を上回る賃上げが実現するかが焦点です。"
-        },
-        {
           "headline": "辺野古沖 2人死亡事故 救助された船長「前を進む船が転覆」",
           "url": "http://www3.nhk.or.jp/news/html/20260318/k10015078311000.html",
           "source": "NHK World",
@@ -1158,6 +1248,16 @@
           "priority": "primary",
           "date": "Wed, 18 Mar 2026 05:17:19 +0900",
           "description": "新年度予算案の審議をめぐり、与党側は、残り2週間となった年度末までの成立を目指す姿勢を崩しておらず、審議時間を積み重ねていきたい考えです。一方、野党側は日米首脳会談に関する集中審議を行うなど与野党関係なく参議院として審議を充実させるよう求めていて、「年度内成立は現実的に困難だ」とけん制しています。"
+        },
+        {
+          "headline": "ロシア高官 欧米の足並みの乱れ強調 さらなる分断図るねらいか",
+          "url": "http://www3.nhk.or.jp/news/html/20260318/k10015078351000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 06:49:57 +0900",
+          "description": "ロシアのプーチン政権の高官は、ヨーロッパの一部の国がアメリカによるホルムズ海峡への艦船の派遣などの要請に応じていないことを受けて、SNSに「彼らがどれほどトランプ大統領に反対しているかを明確にしている」と投稿しました。ロシアとしては、ウクライナ情勢をめぐって立場に隔たりがある欧米のさらなる分断を図りたいねらいがあるとみられます。"
         },
         {
           "headline": "92% of job-seeking university students held offers as of Feb. 1, data shows",
@@ -1258,6 +1358,106 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 16:23:00 +0900",
           "description": "The deal with superstar Shohei Ohtani’s Los Angeles Dodgers will see the firm become Dodger Stadium’s official field presenting partner."
+        },
+        {
+          "headline": "2 Nations Featured in Osaka Expo Have Yet to Start Dismantling Pavilions",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260318-317056/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 22:00:55 +0000",
+          "description": "Two countries — the Czech Republic and Turkmenistan — have been unable to begin demolition work on their pavilions at the 2025 Osaka-Kansai Expo, the Japan Association for the 2025 World Exposition re"
+        },
+        {
+          "headline": "Osaka Expo Mascot Myaku-Myaku to Debut in 1st Photo Book",
+          "url": "https://japannews.yomiuri.co.jp/culture/books-literature/20260318-317053/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 17:00:47 +0000",
+          "description": "A photo book featuring Myaku-Myaku, the official mascot of last year’s Osaka-Kansai Expo, will be published on April 13, the first anniversary of the start of the Expo."
+        },
+        {
+          "headline": "Nissan Motor Kyushu to Cut Production by 1,200 Units amid Escalating Tensions in Middle East",
+          "url": "https://japannews.yomiuri.co.jp/business/companies/20260317-317178/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 12:57:23 +0000",
+          "description": "Nissan Motor Kyushu Co., a subsidiary of Nissan Motor Co., will cut production by around 1,200 units this month in response to the escalating tensions in the Middle East, The Yomiuri Shimbun has learn"
+        },
+        {
+          "headline": "Tokyo Records 34 Measles Cases in Three Months, Equaling Last Year&#8217;s Total",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-317173/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 12:16:09 +0000",
+          "description": "The cumulative number of measles cases in Tokyo since January has reached 34, equaling last year’s total, the Tokyo metropolitan government announced on Tuesday."
+        },
+        {
+          "headline": "Foreign Ministry Panel Aims to Improve Development Aid Offered by Japan",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317097/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 12:00:33 +0000",
+          "description": "The Foreign Ministry held the first meeting of an expert panel to discuss the effective use of official development assistance (ODA) on Monday."
+        },
+        {
+          "headline": "Shigeaki Mori, Hiroshima Hibakusha Hugged by Obama, Dies at 88",
+          "url": "https://japannews.yomiuri.co.jp/society/obituaries/20260317-317135/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 08:46:42 +0000",
+          "description": "Hiroshima, March 17 (Jiji Press)—Shigeaki Mori, the hibakusha survivor of the August 1945 U.S. atomic bombing of Hiroshima who was embraced by former U.S. President Barack Obama, died at a hospital in"
+        },
+        {
+          "headline": "Trump Was Warned of Likely Iranian Retaliation on Gulf Allies, Sources Say",
+          "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260317-317114/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:51:49 +0000",
+          "description": "WASHINGTON, March 16 (Reuters) - President Donald Trump was warned that attacking Iran could trigger retaliation against U.S. Gulf allies despite his claims on Monday that Tehran's reaction came as a "
+        },
+        {
+          "headline": "Takaichi, Trump Expected to Agree on Japan’s $100 mil. Investment in U.S. Shipbuilding at Summit Talks",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317109/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:39:18 +0000",
+          "description": "The Japanese and U.S. governments are making arrangements regarding Japan’s $100 million investment in the United States to conduct research and development of shipbuilding technologies that use artif"
+        },
+        {
+          "headline": "Japan PM Takaichi Considering Options on Hormuz Strait Request from U.S.",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317103/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:16:38 +0000",
+          "description": "Prime Minister Sanae Takaichi on Tuesday stated that the government was exploring what can be done within the bounds of the law, regarding a potential request from the United States on cooperating to "
+        },
+        {
+          "headline": "History of Japan Self-Defense Forces’ Overseas Deployments Driven by U.S. Administrations",
+          "url": "https://japannews.yomiuri.co.jp/politics/defense-security/20260317-317096/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:02:10 +0000",
+          "description": "The expansion of overseas deployments by Japan’s Self-Defense Forces have been driven by requests made by the United States."
         },
         {
           "headline": "Japan calls on Iran to stop threatening passage through Strait of Hormuz",
@@ -1362,6 +1562,16 @@
       ],
       "wire": [
         {
+          "headline": "Trump says China \"fine\" with postponed Xi meeting being held in 5-6 weeks",
+          "url": "https://english.kyodonews.net/articles/-/72483",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 06:52:00 +0900",
+          "description": "U.S. President Donald Trump said Tuesday that China was &quot;fine&quot; with rescheduling his trip to Beijing, initially slated tRead full story here"
+        },
+        {
           "headline": "BREAKING NEWS: Trump says meeting with China's Xi to happen in 5 or 6 weeks",
           "url": "https://english.kyodonews.net/articles/-/72480",
           "source": "Kyodo News",
@@ -1450,16 +1660,6 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 18:00:00 +0900",
           "description": "The latest chapter of the Jujutsu Kaisen &quot;Culling Game Arc&quot; is here, as Episode 56 &quot;Tokyo Colony No. 1 - Part 4&quoRead full story here"
-        },
-        {
-          "headline": "Trump says his China trip needs to be delayed by 1 month due to Iran war",
-          "url": "https://english.kyodonews.net/articles/-/72416",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 17:25:00 +0900",
-          "description": "U.S. President Donald Trump said Monday he wants to delay his highly anticipated visit to Beijing for a meeting with Chinese PresiRead full story here"
         },
         {
           "headline": "Bank of Japan chief stresses need to hit 2% inflation backed by wage gains - Reuters",
@@ -1552,14 +1752,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTzhDZlh2ZmMxSVR1QmNoSW1qSFhNdXBzaHdMZDNiSUlrMk1KeFNWMVlKeGctd2hzLUF0ajNFV2htQV9Wb2lqOFlfdmNnUWVBU1ZGSzdOWktmRjkyeXFZZVJFRDNiQ0dOX0o1SjB"
         },
         {
-          "headline": "Rubio, South Korea's Cho agree Strait of Hormuz key to global economy, Seoul says - Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/rubio-south-korea-foreign-minister-cho-agree-strait-hormuz-key-global-economy-2026-03-16/",
+          "headline": "Breakingviews - How allies could respond to Trump’s Hormuz threat - Reuters",
+          "url": "https://www.reuters.com/commentary/breakingviews/how-allies-could-respond-trumps-hormuz-threat-2026-03-17/",
           "source": "Reuters Japan",
           "sourceId": "reuters_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:28:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZFNXJtc2R6SEVNX1J1VUNHV0lDMU9McVlZU21QMU5XUGFSdlIwRjVYWVhnOFRnRjFVX1o3enBMczVVR3VSVkt1V1dmWURGb0g0eGhnT2pDb0FTVlN1Y1lUZHg5aGh3cE5Tb1p"
+          "date": "Tue, 17 Mar 2026 11:35:42 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDJRVzZRcDlRVXZ1SXVUbnZhU0xSdTlnTXlfQnZOLUZIQUtsSm5lZURfa1ROTUxKcXgwZ3A3cHppem9TVEh5NTFvMjhXbVZtTEJVcVQ4UXR0aW9JRXctemRpbU9tdVJ6RHdUTDZ"
         },
         {
           "headline": "Shigeaki Mori, Hiroshima atomic bomb survivor and historian embraced by Obama, dies at 88 - AP News",
@@ -1592,6 +1792,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnFkQ1lMcXNwMjZtWkluTVNScXFuZl9vakpnUFdHR2ZONGNlRlpDUlN0OWo3U0NEUHJTWXVWN3NWTzBycU5LU2laRkE0bkI3ZzlrQ0dhT2dPVk9WV0lWM3hoTW9MSHd4R1JCdHh"
         },
         {
+          "headline": "Trump fumes at NATO for refusing to help secure the Strait of Hormuz, and embraces going it alone - AP News",
+          "url": "https://apnews.com/article/trump-iran-nato-strait-of-hormuz-europe-4e0cf38708e9c3ba8ea2a36148620067",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 19:33:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVYwc3g1SHBTQUFKYTFtRjJKTDJXcThDbF93bUl2VC1yLUU2RS0teTdUUGpQV1I4S05YWHVyOWlicm9rS3MwV081LWlEQUt6blN4OGRZczBCNlFlOTVPZ3c4akNBcmFrSHBIMGN"
+        },
+        {
           "headline": "Iran wants to move its World Cup matches from US to Mexico. FIFA is sticking to its schedule - AP News",
           "url": "https://apnews.com/article/fifa-world-cup-iran-us-mexico-43f56d6047fb340672dbe64583214228",
           "source": "AP Japan",
@@ -1602,16 +1812,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkphZThIaVJhTkViRUxrV0ZVbGppZHFUM1Y4TFpoTEw1cjhKazZNSXBGbXAySVJZdndJVXRSVzZwXzNwNlllTlVfTVVEWFB0WXdfYTRKQkhRQkI5MlpEWEtkQUJCWE9PRU40TGI"
         },
         {
-          "headline": "‘I do believe I’ll have the honor of taking Cuba': Trump says - AP News",
-          "url": "https://apnews.com/video/i-do-believe-ill-have-the-honor-of-taking-cuba-trump-says-7eca50186e4b423c969a7922075d7abd",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:09:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdm9KSldFLWdoWXkzNmNMTjMyZHc1Tl85c25LLUZsMWhUSWZrOHJYYk1PNzQxR1RLLWxHaUtZZlRMSGJFUUFIX2Z3SVd0MTRDcFZTMDRXdnJDUjBqT2NDbDYxelhZSGlfMTRuVTB"
-        },
-        {
           "headline": "Poland is now among the world’s 20 largest economies. How it happened - AP News",
           "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
           "source": "AP Japan",
@@ -1620,6 +1820,16 @@
           "priority": "secondary",
           "date": "Tue, 17 Mar 2026 00:02:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2hrRXZobGp3eGdKVGdNcnd0Q1BNRENNWlNlMFR4anFxdmlWU0tJOEhXU2U2R1ptQ1BIbnpBYkNWRl95elNxWXR2SF9GVEg1LW5jbk1jMkYzWExvNTY5RnJvSVFjMzRxYTl2eTB"
+        },
+        {
+          "headline": "Trump postpones his China trip to focus on the war in Iran - AP News",
+          "url": "https://apnews.com/article/trump-delays-china-trip-iran-3ef73e58116cc0d89aab39ed15219bf6",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 18:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcS1ZcWpFSlUxUGZBZUM3NE5SNjlVelFrZ0tZZU5sQjNSM0JSVWphamcxREZZTnF6MjMwSUtibUZ3V3Z5dkZWSWw3cXZ0RWcybUoyaFVnQmlsS283ZVlGaHU4UUMxclNkbEdhT1Z"
         },
         {
           "headline": "Iran war pushes countries into energy triage as they conserve power and curb soaring prices - AP News",
@@ -1652,14 +1862,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPNk9EQjhrS0E2TENMckJ5eDZwV3JUYjdNUDhUWk5fYXB3ek9UYXgxWmNZLXVDWDNMVGpVNGN1QkEzVlFCRWVxUFQ4N2diU2RwRVBHbUtWWmtMQ0xuZTBfcUltZ3JLZ3BDY205aTR"
         },
         {
-          "headline": "Criticized for their cool, American players head into the WBC final appreciating opponents' flair - AP News",
-          "url": "https://apnews.com/article/world-baseball-classic-championship-222e5c56647104adddb8a5aef940e37c",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
+          "headline": "French General Torches Trump’s Demands for Help With Scathing ‘Titanic’ Comparison - Yahoo News UK",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e38262f9-d4a4-4191-a05f-e8269ae94e03",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 02:59:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHNmbnRCMWJPVG1sUGxVUGszMmhEMmtLWE9vUy1XenBjWXlVYnJOdUFuY2VEQllQeElENmFacnZDdmE2ZnpZbkRSYWFGMTZXTUFpQXlrOU5NZHBUTlh3Qy1VZWJFWUlaRzZrWEV"
+          "date": "Tue, 17 Mar 2026 14:42:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkRzVkxhVUx2N1ZFMTM1ZXZFSFhVWHREaHd0c3QzS1lQV09vMFVCUEFVemhOOEtKTjE0ZUt3aS1IS2lvaXVqWTFkYU92YmxLekEwM3VrQ0JpMnFiakVNSXRCekE0NDgxYjN4Y25"
         },
         {
           "headline": "Flyers face hourslong lines as TSA agents quit amid first weekend without full pay - Yahoo News Singapore",
@@ -1673,7 +1883,7 @@
         },
         {
           "headline": "Iran rejects de-escalation offers; Israel says it kills Iranian security chief - Yahoo News UK",
-          "url": "https://uk.news.yahoo.com/trump-criticises-allies-over-rejection-033943841.html",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7193388-8ef2-41e3-bdf6-9e453ac0f3c1",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
@@ -1692,13 +1902,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAtNmRhaFZDOVRxMzRXY0FZLWdkODYtckFFSzJJb0Y1WlVJQng4ZDBPTWdzOGhtR0xrQXYxQjBfZkdUd0VyYUlKUnhRcDdTVGU2WHBOR19VNllabFhwNE44NmdEQWxVZ1ZnVkY4NXB"
         },
         {
-          "headline": "Israel vows to find and 'neutralise' Iran's new supreme leader - Yahoo News Singapore",
+          "headline": "Iran confirms security chief dead as Israel vows to target leader - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/israel-says-killed-iran-national-101117955.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 19:38:17 GMT",
+          "date": "Tue, 17 Mar 2026 22:06:02 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oSG55N2RIcE8wa2ZNckZJdFRJM3pnUVpyOUJIQXZpQnNkX3lkcmpHRDNHcnJ6N1lhWDdaUUk5ZTFsQWdFZFp5TkFONlpWNFIyM0MxcE5wQ2d3MlFJd0NNWDgwOFVFVmY3QmttZU8"
         },
         {
@@ -1750,16 +1960,6 @@
           "priority": "secondary",
           "date": "Tue, 17 Mar 2026 07:42:18 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdmQwWTdRTmN2M0JSVVZJdkVqQXluS2lOamNxRW1sdE1PRF8wU0hYNnE0MXlfTnNVNXk0Wi1lN250M2czblpEb01pejVJVmVTcC05TzhJaEh3N1JOS1lmRG9qbThuNDloc09GT1V"
-        },
-        {
-          "headline": "Why countries are rejecting Trump’s call to send ships to Strait of Hormuz - Yahoo News Singapore",
-          "url": "https://sg.news.yahoo.com/countries-responding-trump-call-send-090051405.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 07:20:09 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjB6RVc3RWl4YXMteFAwbGVDQy1YRGlqZ1ZPalRmdGo4U0xQOVlLN3VMVmlDQU5xajFuNXRKLTV5b3dkLXpnR0c5bzJyYzY1NmVJV011eXZFYzNiQnlROHFTeDVNVlpFOWdtemV"
         }
       ],
       "competitors": [
@@ -2070,7 +2270,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Tue, 17 Mar 2026 21:42:59 GMT",
+          "date": "Tue, 17 Mar 2026 22:01:48 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2w1UkM0Zjl1a0cxb0JPVUdzc0Z4clJWamtIX2Vnd3hjVFNKVGdrWlh2dm05S3VmMHduUlpBMGxrVldZQlFCUzRTNS16YkdMOTRZLWYzX1M1Rm9PcEp6T211SDRaS3Z5OGhnZXZ"
         },
         {
@@ -2082,6 +2282,16 @@
           "priority": "tertiary",
           "date": "Tue, 17 Mar 2026 05:09:26 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
+        },
+        {
+          "headline": "Venezuela rallies past Italy 4-2 with 3-run 7th and will face US for World Baseball Classic title - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Tue, 17 Mar 2026 12:32:55 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDNyM0RXS3pTcWR6a2dEM0lnZlpvZkVtODRadWp3amNuem5XZnFSaG5SazlyenlUOWZPMm1MOFYyZ0lteVRVSnZBeDFNV1BTTDFJX3prYlptUkwtaVdQYnRaS09raUlONXp4ODB"
         },
         {
           "headline": "Iran targets commerce as drone hits Dubai airport; Israel says war will go on - The Washington Post",
@@ -2104,23 +2314,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDQ2YkMxZ0pCUDFqMllDbkVBbXJkSlRMZmh6QmRLYVpudEM4OFZwaEJjV1hETzRienBkeWRyRkE5TXFHY3ZremhKTjc2NVNQb1JiZWJDQmdmWmtjUVlGN3k5REdVdGZROHdsX3h"
         },
         {
-          "headline": "A rare tornado threat covers Mid-Atlantic, including D.C. area - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Mon, 16 Mar 2026 22:37:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDB5RDM3U2pLZ2Y2R0FlYU5oRC1mU204aThaN2lHeGRkTDh4c0RJbGpObWZCUTVpRXkyNW5JSE9pQkkwSXg0YmRXdS1sZ2lLaW14X2FvcURqNElXNTlVWVNzT3pHbmp5blVpakR"
-        },
-        {
           "headline": "A meteor just exploded over Cleveland - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Tue, 17 Mar 2026 18:45:52 GMT",
+          "date": "Tue, 17 Mar 2026 21:45:52 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdlNmT3Q1blBkSnBHdEc1OHpQZWFtZnlPTmJURFdUZ1NZNGlXVXp5Rmt4UkZtNHBVdmRjVy0wR201SGg2V0VlZzlxZy1qLTQzbThWVW1BWXFxWEpCeEZHbElibksyX3dTQnBLckp"
         },
         {
@@ -2188,16 +2388,6 @@
           "description": "高市総理大臣は就任後初めてアメリカを訪れ、現地時間の19日、トランプ大統領との日米首脳会談に臨むことにしていて、安全保障や経済など幅広い分野で日米両国の連携強化を図りたい考えです。また、イラン情勢への対応についてはトランプ大統領の発言が変化していることから、現地の状況などを見極めながら検討を続けています。"
         },
         {
-          "headline": "春闘 きょう集中回答日 物価上昇上回る賃上げ実現するかが焦点",
-          "url": "http://www3.nhk.or.jp/news/html/20260318/k10015078201000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 04:29:13 +0900",
-          "description": "ことしの春闘は18日が集中回答日で、すでに大手企業では高い水準の賃上げでの決着が相次いでいます。一方、中小企業については、イラン情勢の悪化が賃上げの判断に影響を与えかねないという見方もあり、物価の上昇を上回る賃上げが実現するかが焦点です。"
-        },
-        {
           "headline": "辺野古沖 2人死亡事故 救助された船長「前を進む船が転覆」",
           "url": "http://www3.nhk.or.jp/news/html/20260318/k10015078311000.html",
           "source": "NHK World",
@@ -2236,6 +2426,26 @@
           "priority": "primary",
           "date": "Wed, 18 Mar 2026 05:17:19 +0900",
           "description": "新年度予算案の審議をめぐり、与党側は、残り2週間となった年度末までの成立を目指す姿勢を崩しておらず、審議時間を積み重ねていきたい考えです。一方、野党側は日米首脳会談に関する集中審議を行うなど与野党関係なく参議院として審議を充実させるよう求めていて、「年度内成立は現実的に困難だ」とけん制しています。"
+        },
+        {
+          "headline": "ロシア高官 欧米の足並みの乱れ強調 さらなる分断図るねらいか",
+          "url": "http://www3.nhk.or.jp/news/html/20260318/k10015078351000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 06:49:57 +0900",
+          "description": "ロシアのプーチン政権の高官は、ヨーロッパの一部の国がアメリカによるホルムズ海峡への艦船の派遣などの要請に応じていないことを受けて、SNSに「彼らがどれほどトランプ大統領に反対しているかを明確にしている」と投稿しました。ロシアとしては、ウクライナ情勢をめぐって立場に隔たりがある欧米のさらなる分断を図りたいねらいがあるとみられます。"
+        },
+        {
+          "headline": "Trump says China \"fine\" with postponed Xi meeting being held in 5-6 weeks",
+          "url": "https://english.kyodonews.net/articles/-/72483",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 06:52:00 +0900",
+          "description": "U.S. President Donald Trump said Tuesday that China was &quot;fine&quot; with rescheduling his trip to Beijing, initially slated tRead full story here"
         },
         {
           "headline": "BREAKING NEWS: Trump says meeting with China's Xi to happen in 5 or 6 weeks",
@@ -2326,16 +2536,6 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 18:00:00 +0900",
           "description": "The latest chapter of the Jujutsu Kaisen &quot;Culling Game Arc&quot; is here, as Episode 56 &quot;Tokyo Colony No. 1 - Part 4&quoRead full story here"
-        },
-        {
-          "headline": "Trump says his China trip needs to be delayed by 1 month due to Iran war",
-          "url": "https://english.kyodonews.net/articles/-/72416",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 17:25:00 +0900",
-          "description": "U.S. President Donald Trump said Monday he wants to delay his highly anticipated visit to Beijing for a meeting with Chinese PresiRead full story here"
         },
         {
           "headline": "92% of job-seeking university students held offers as of Feb. 1, data shows",
@@ -2436,6 +2636,106 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 16:23:00 +0900",
           "description": "The deal with superstar Shohei Ohtani’s Los Angeles Dodgers will see the firm become Dodger Stadium’s official field presenting partner."
+        },
+        {
+          "headline": "2 Nations Featured in Osaka Expo Have Yet to Start Dismantling Pavilions",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260318-317056/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 22:00:55 +0000",
+          "description": "Two countries — the Czech Republic and Turkmenistan — have been unable to begin demolition work on their pavilions at the 2025 Osaka-Kansai Expo, the Japan Association for the 2025 World Exposition re"
+        },
+        {
+          "headline": "Osaka Expo Mascot Myaku-Myaku to Debut in 1st Photo Book",
+          "url": "https://japannews.yomiuri.co.jp/culture/books-literature/20260318-317053/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 17:00:47 +0000",
+          "description": "A photo book featuring Myaku-Myaku, the official mascot of last year’s Osaka-Kansai Expo, will be published on April 13, the first anniversary of the start of the Expo."
+        },
+        {
+          "headline": "Nissan Motor Kyushu to Cut Production by 1,200 Units amid Escalating Tensions in Middle East",
+          "url": "https://japannews.yomiuri.co.jp/business/companies/20260317-317178/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 12:57:23 +0000",
+          "description": "Nissan Motor Kyushu Co., a subsidiary of Nissan Motor Co., will cut production by around 1,200 units this month in response to the escalating tensions in the Middle East, The Yomiuri Shimbun has learn"
+        },
+        {
+          "headline": "Tokyo Records 34 Measles Cases in Three Months, Equaling Last Year&#8217;s Total",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260317-317173/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 12:16:09 +0000",
+          "description": "The cumulative number of measles cases in Tokyo since January has reached 34, equaling last year’s total, the Tokyo metropolitan government announced on Tuesday."
+        },
+        {
+          "headline": "Foreign Ministry Panel Aims to Improve Development Aid Offered by Japan",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317097/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 12:00:33 +0000",
+          "description": "The Foreign Ministry held the first meeting of an expert panel to discuss the effective use of official development assistance (ODA) on Monday."
+        },
+        {
+          "headline": "Shigeaki Mori, Hiroshima Hibakusha Hugged by Obama, Dies at 88",
+          "url": "https://japannews.yomiuri.co.jp/society/obituaries/20260317-317135/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 08:46:42 +0000",
+          "description": "Hiroshima, March 17 (Jiji Press)—Shigeaki Mori, the hibakusha survivor of the August 1945 U.S. atomic bombing of Hiroshima who was embraced by former U.S. President Barack Obama, died at a hospital in"
+        },
+        {
+          "headline": "Trump Was Warned of Likely Iranian Retaliation on Gulf Allies, Sources Say",
+          "url": "https://japannews.yomiuri.co.jp/news-services/reuters/20260317-317114/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:51:49 +0000",
+          "description": "WASHINGTON, March 16 (Reuters) - President Donald Trump was warned that attacking Iran could trigger retaliation against U.S. Gulf allies despite his claims on Monday that Tehran's reaction came as a "
+        },
+        {
+          "headline": "Takaichi, Trump Expected to Agree on Japan’s $100 mil. Investment in U.S. Shipbuilding at Summit Talks",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317109/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:39:18 +0000",
+          "description": "The Japanese and U.S. governments are making arrangements regarding Japan’s $100 million investment in the United States to conduct research and development of shipbuilding technologies that use artif"
+        },
+        {
+          "headline": "Japan PM Takaichi Considering Options on Hormuz Strait Request from U.S.",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317103/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:16:38 +0000",
+          "description": "Prime Minister Sanae Takaichi on Tuesday stated that the government was exploring what can be done within the bounds of the law, regarding a potential request from the United States on cooperating to "
+        },
+        {
+          "headline": "History of Japan Self-Defense Forces’ Overseas Deployments Driven by U.S. Administrations",
+          "url": "https://japannews.yomiuri.co.jp/politics/defense-security/20260317-317096/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:02:10 +0000",
+          "description": "The expansion of overseas deployments by Japan’s Self-Defense Forces have been driven by requests made by the United States."
         }
       ],
       "secondary": [
@@ -2630,14 +2930,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTzhDZlh2ZmMxSVR1QmNoSW1qSFhNdXBzaHdMZDNiSUlrMk1KeFNWMVlKeGctd2hzLUF0ajNFV2htQV9Wb2lqOFlfdmNnUWVBU1ZGSzdOWktmRjkyeXFZZVJFRDNiQ0dOX0o1SjB"
         },
         {
-          "headline": "Rubio, South Korea's Cho agree Strait of Hormuz key to global economy, Seoul says - Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/rubio-south-korea-foreign-minister-cho-agree-strait-hormuz-key-global-economy-2026-03-16/",
+          "headline": "Breakingviews - How allies could respond to Trump’s Hormuz threat - Reuters",
+          "url": "https://www.reuters.com/commentary/breakingviews/how-allies-could-respond-trumps-hormuz-threat-2026-03-17/",
           "source": "Reuters Japan",
           "sourceId": "reuters_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:28:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOa1ZFNXJtc2R6SEVNX1J1VUNHV0lDMU9McVlZU21QMU5XUGFSdlIwRjVYWVhnOFRnRjFVX1o3enBMczVVR3VSVkt1V1dmWURGb0g0eGhnT2pDb0FTVlN1Y1lUZHg5aGh3cE5Tb1p"
+          "date": "Tue, 17 Mar 2026 11:35:42 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDJRVzZRcDlRVXZ1SXVUbnZhU0xSdTlnTXlfQnZOLUZIQUtsSm5lZURfa1ROTUxKcXgwZ3A3cHppem9TVEh5NTFvMjhXbVZtTEJVcVQ4UXR0aW9JRXctemRpbU9tdVJ6RHdUTDZ"
         },
         {
           "headline": "Shigeaki Mori, Hiroshima atomic bomb survivor and historian embraced by Obama, dies at 88 - AP News",
@@ -2670,6 +2970,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnFkQ1lMcXNwMjZtWkluTVNScXFuZl9vakpnUFdHR2ZONGNlRlpDUlN0OWo3U0NEUHJTWXVWN3NWTzBycU5LU2laRkE0bkI3ZzlrQ0dhT2dPVk9WV0lWM3hoTW9MSHd4R1JCdHh"
         },
         {
+          "headline": "Trump fumes at NATO for refusing to help secure the Strait of Hormuz, and embraces going it alone - AP News",
+          "url": "https://apnews.com/article/trump-iran-nato-strait-of-hormuz-europe-4e0cf38708e9c3ba8ea2a36148620067",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 19:33:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVYwc3g1SHBTQUFKYTFtRjJKTDJXcThDbF93bUl2VC1yLUU2RS0teTdUUGpQV1I4S05YWHVyOWlicm9rS3MwV081LWlEQUt6blN4OGRZczBCNlFlOTVPZ3c4akNBcmFrSHBIMGN"
+        },
+        {
           "headline": "Iran wants to move its World Cup matches from US to Mexico. FIFA is sticking to its schedule - AP News",
           "url": "https://apnews.com/article/fifa-world-cup-iran-us-mexico-43f56d6047fb340672dbe64583214228",
           "source": "AP Japan",
@@ -2680,16 +2990,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkphZThIaVJhTkViRUxrV0ZVbGppZHFUM1Y4TFpoTEw1cjhKazZNSXBGbXAySVJZdndJVXRSVzZwXzNwNlllTlVfTVVEWFB0WXdfYTRKQkhRQkI5MlpEWEtkQUJCWE9PRU40TGI"
         },
         {
-          "headline": "‘I do believe I’ll have the honor of taking Cuba': Trump says - AP News",
-          "url": "https://apnews.com/video/i-do-believe-ill-have-the-honor-of-taking-cuba-trump-says-7eca50186e4b423c969a7922075d7abd",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:09:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdm9KSldFLWdoWXkzNmNMTjMyZHc1Tl85c25LLUZsMWhUSWZrOHJYYk1PNzQxR1RLLWxHaUtZZlRMSGJFUUFIX2Z3SVd0MTRDcFZTMDRXdnJDUjBqT2NDbDYxelhZSGlfMTRuVTB"
-        },
-        {
           "headline": "Poland is now among the world’s 20 largest economies. How it happened - AP News",
           "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
           "source": "AP Japan",
@@ -2698,6 +2998,16 @@
           "priority": "secondary",
           "date": "Tue, 17 Mar 2026 00:02:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2hrRXZobGp3eGdKVGdNcnd0Q1BNRENNWlNlMFR4anFxdmlWU0tJOEhXU2U2R1ptQ1BIbnpBYkNWRl95elNxWXR2SF9GVEg1LW5jbk1jMkYzWExvNTY5RnJvSVFjMzRxYTl2eTB"
+        },
+        {
+          "headline": "Trump postpones his China trip to focus on the war in Iran - AP News",
+          "url": "https://apnews.com/article/trump-delays-china-trip-iran-3ef73e58116cc0d89aab39ed15219bf6",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 18:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcS1ZcWpFSlUxUGZBZUM3NE5SNjlVelFrZ0tZZU5sQjNSM0JSVWphamcxREZZTnF6MjMwSUtibUZ3V3Z5dkZWSWw3cXZ0RWcybUoyaFVnQmlsS283ZVlGaHU4UUMxclNkbEdhT1Z"
         },
         {
           "headline": "Iran war pushes countries into energy triage as they conserve power and curb soaring prices - AP News",
@@ -2730,14 +3040,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPNk9EQjhrS0E2TENMckJ5eDZwV3JUYjdNUDhUWk5fYXB3ek9UYXgxWmNZLXVDWDNMVGpVNGN1QkEzVlFCRWVxUFQ4N2diU2RwRVBHbUtWWmtMQ0xuZTBfcUltZ3JLZ3BDY205aTR"
         },
         {
-          "headline": "Criticized for their cool, American players head into the WBC final appreciating opponents' flair - AP News",
-          "url": "https://apnews.com/article/world-baseball-classic-championship-222e5c56647104adddb8a5aef940e37c",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
+          "headline": "French General Torches Trump’s Demands for Help With Scathing ‘Titanic’ Comparison - Yahoo News UK",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e38262f9-d4a4-4191-a05f-e8269ae94e03",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 02:59:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHNmbnRCMWJPVG1sUGxVUGszMmhEMmtLWE9vUy1XenBjWXlVYnJOdUFuY2VEQllQeElENmFacnZDdmE2ZnpZbkRSYWFGMTZXTUFpQXlrOU5NZHBUTlh3Qy1VZWJFWUlaRzZrWEV"
+          "date": "Tue, 17 Mar 2026 14:42:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkRzVkxhVUx2N1ZFMTM1ZXZFSFhVWHREaHd0c3QzS1lQV09vMFVCUEFVemhOOEtKTjE0ZUt3aS1IS2lvaXVqWTFkYU92YmxLekEwM3VrQ0JpMnFiakVNSXRCekE0NDgxYjN4Y25"
         },
         {
           "headline": "Flyers face hourslong lines as TSA agents quit amid first weekend without full pay - Yahoo News Singapore",
@@ -2751,7 +3061,7 @@
         },
         {
           "headline": "Iran rejects de-escalation offers; Israel says it kills Iranian security chief - Yahoo News UK",
-          "url": "https://uk.news.yahoo.com/trump-criticises-allies-over-rejection-033943841.html",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f7193388-8ef2-41e3-bdf6-9e453ac0f3c1",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
@@ -2770,13 +3080,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAtNmRhaFZDOVRxMzRXY0FZLWdkODYtckFFSzJJb0Y1WlVJQng4ZDBPTWdzOGhtR0xrQXYxQjBfZkdUd0VyYUlKUnhRcDdTVGU2WHBOR19VNllabFhwNE44NmdEQWxVZ1ZnVkY4NXB"
         },
         {
-          "headline": "Israel vows to find and 'neutralise' Iran's new supreme leader - Yahoo News Singapore",
+          "headline": "Iran confirms security chief dead as Israel vows to target leader - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/israel-says-killed-iran-national-101117955.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 19:38:17 GMT",
+          "date": "Tue, 17 Mar 2026 22:06:02 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oSG55N2RIcE8wa2ZNckZJdFRJM3pnUVpyOUJIQXZpQnNkX3lkcmpHRDNHcnJ6N1lhWDdaUUk5ZTFsQWdFZFp5TkFONlpWNFIyM0MxcE5wQ2d3MlFJd0NNWDgwOFVFVmY3QmttZU8"
         },
         {
@@ -2828,16 +3138,6 @@
           "priority": "secondary",
           "date": "Tue, 17 Mar 2026 07:42:18 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdmQwWTdRTmN2M0JSVVZJdkVqQXluS2lOamNxRW1sdE1PRF8wU0hYNnE0MXlfTnNVNXk0Wi1lN250M2czblpEb01pejVJVmVTcC05TzhJaEh3N1JOS1lmRG9qbThuNDloc09GT1V"
-        },
-        {
-          "headline": "Why countries are rejecting Trump’s call to send ships to Strait of Hormuz - Yahoo News Singapore",
-          "url": "https://sg.news.yahoo.com/countries-responding-trump-call-send-090051405.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 07:20:09 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjB6RVc3RWl4YXMteFAwbGVDQy1YRGlqZ1ZPalRmdGo4U0xQOVlLN3VMVmlDQU5xajFuNXRKLTV5b3dkLXpnR0c5bzJyYzY1NmVJV011eXZFYzNiQnlROHFTeDVNVlpFOWdtemV"
         },
         {
           "headline": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
@@ -3148,7 +3448,7 @@
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Tue, 17 Mar 2026 21:42:59 GMT",
+          "date": "Tue, 17 Mar 2026 22:01:48 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2w1UkM0Zjl1a0cxb0JPVUdzc0Z4clJWamtIX2Vnd3hjVFNKVGdrWlh2dm05S3VmMHduUlpBMGxrVldZQlFCUzRTNS16YkdMOTRZLWYzX1M1Rm9PcEp6T211SDRaS3Z5OGhnZXZ"
         },
         {
@@ -3160,6 +3460,16 @@
           "priority": "tertiary",
           "date": "Tue, 17 Mar 2026 05:09:26 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
+        },
+        {
+          "headline": "Venezuela rallies past Italy 4-2 with 3-run 7th and will face US for World Baseball Classic title - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Tue, 17 Mar 2026 12:32:55 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDNyM0RXS3pTcWR6a2dEM0lnZlpvZkVtODRadWp3amNuem5XZnFSaG5SazlyenlUOWZPMm1MOFYyZ0lteVRVSnZBeDFNV1BTTDFJX3prYlptUkwtaVdQYnRaS09raUlONXp4ODB"
         },
         {
           "headline": "Iran targets commerce as drone hits Dubai airport; Israel says war will go on - The Washington Post",
@@ -3182,23 +3492,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDQ2YkMxZ0pCUDFqMllDbkVBbXJkSlRMZmh6QmRLYVpudEM4OFZwaEJjV1hETzRienBkeWRyRkE5TXFHY3ZremhKTjc2NVNQb1JiZWJDQmdmWmtjUVlGN3k5REdVdGZROHdsX3h"
         },
         {
-          "headline": "A rare tornado threat covers Mid-Atlantic, including D.C. area - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Mon, 16 Mar 2026 22:37:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDB5RDM3U2pLZ2Y2R0FlYU5oRC1mU204aThaN2lHeGRkTDh4c0RJbGpObWZCUTVpRXkyNW5JSE9pQkkwSXg0YmRXdS1sZ2lLaW14X2FvcURqNElXNTlVWVNzT3pHbmp5blVpakR"
-        },
-        {
           "headline": "A meteor just exploded over Cleveland - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Tue, 17 Mar 2026 18:45:52 GMT",
+          "date": "Tue, 17 Mar 2026 21:45:52 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdlNmT3Q1blBkSnBHdEc1OHpQZWFtZnlPTmJURFdUZ1NZNGlXVXp5Rmt4UkZtNHBVdmRjVy0wR201SGg2V0VlZzlxZy1qLTQzbThWVW1BWXFxWEpCeEZHbElibksyX3dTQnBLckp"
         },
         {

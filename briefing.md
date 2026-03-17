@@ -1,38 +1,42 @@
-Good morning from Tokyo. Prime Minister Takaichi heads to Washington today for a crucial summit with President Trump as tensions over the Strait of Hormuz crisis escalate. The meeting comes as [Trump has rejected](http://www3.nhk.or.jp/news/html/20260318/k10015078321000.html) NATO and allied support, declaring he doesn't need help from Japan or other partners, while [Japan stays guarded](https://www.bloomberg.com/news/articles/2026-03-17/japan-stays-guarded-on-trump-s-ship-demands-ahead-of-summit) on his demands for naval assistance. Kyodo News reports the Prime Minister [eyes cooperation](https://english.kyodonews.net/articles/-/72475) on U.S. missile defense systems during the talks, as Japan navigates between supporting its key ally and avoiding direct military involvement in the Gulf crisis.
+**Top News**
 
-Meanwhile, the economic fallout from the Middle East conflict is already hitting Japan hard. Prime Minister Takaichi warned via Twitter that crude oil tankers face virtual impossibility passing through Hormuz, with Japanese imports expected to drop significantly from March 20. Bloomberg reports [oil price jumps](https://www.bloomberg.com/news/articles/2026-03-17/oil-jump-to-stir-boj-s-worry-over-risk-of-inflation-overheating) are stirring Bank of Japan worries about inflation overheating, while a [naphtha shortage](https://www.bloomberg.com/news/articles/2026-03-16/shortage-of-naphtha-threatens-supply-chain-chaos-in-japan) threatens supply chain chaos across Japanese manufacturing. The crisis has also [forced Beijing](https://english.kyodonews.net/articles/-/72470) to skip Japan week at its film festival as bilateral tensions persist, with Reuters reporting China's coast guard [expelled a Japanese](https://www.reuters.com/world/china/china-coast-guard-expels-japanese-fishing-boat-disputed-waters-2026-03-17/) fishing boat from disputed waters yesterday.
+Prime Minister Takaichi heads to Washington today for [talks with](https://english.kyodonews.net/articles/-/72475) President Trump, with missile defense cooperation expected to be a key agenda item as Middle East tensions escalate. The summit comes as Trump has demanded allies help secure the Strait of Hormuz, with Iran [threatening passage](https://japantoday.com/category/politics/japan-calls-on-iran-to-stop-threatening-passage-through-strait-of-hormuz) through the vital waterway after Israel killed Iranian security chief Ali Larijani. [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-03-17/japan-stays-guarded-on-trump-s-ship-demands-ahead-of-summit) Japan remains cautious about Trump's naval deployment requests, though the crisis is already impacting Japanese energy supplies.
+
+The fallout from Iran's actions is hitting Japan hard, with crude oil tanker passage through Hormuz becoming "virtually impossible" according to posts from Prime Minister Takaichi's official Twitter account. [Bloomberg notes](https://www.bloomberg.com/news/articles/2026-03-16/shortage-of-naphtha-threatens-supply-chain-chaos-in-japan) a naphtha shortage threatens supply chain chaos, while [oil refiners face](https://www.bloomberg.com/news/articles/2026-03-17/asia-oil-refiners-face-big-losses-as-war-upsets-hedging-strategy) significant losses as the conflict disrupts hedging strategies. The Bank of Japan is watching closely, with [Bloomberg reporting](https://www.bloomberg.com/news/articles/2026-03-17/oil-jump-to-stir-boj-s-worry-over-risk-of-inflation-overheating) concerns about oil price jumps fueling inflation beyond their 2% target.
 
 **Business & Markets**
 
-• Bank of Japan Governor Ueda [stressed the need](https://www.reuters.com/world/asia-pacific/japans-underlying-inflation-accelerating-toward-boj-target-governor-ueda-says-2026-03-17/) to achieve 2% inflation backed by wage gains, as Reuters reports Japan's underlying inflation accelerates toward the central bank's target during today's crucial spring wage negotiations.
+• Bank of Japan Governor Ueda emphasized the need to achieve [2% inflation](https://www.reuters.com/world/asia-pacific/japans-underlying-inflation-accelerating-toward-boj-target-governor-ueda-says-2026-03-17/) backed by wage gains, with Reuters reporting underlying inflation is accelerating toward the central bank's target as oil prices surge.
 
-• Japan's 20-year government [bond sale drew](https://www.japantimes.co.jp/business/2026/03/17/markets/20-year-bond-sale-strong-demand/) strong demand despite Gulf crisis concerns, according to the Japan Times, offering relief to investors worried about geopolitical risk premiums.
+• Japan's currency markets showed stress, with Deputy Finance Minister Katayama saying [forex moves](https://www.bloomberg.com/news/articles/2026-03-17/japan-s-katayama-says-forex-moves-not-in-line-with-fundamentals) are not aligned with economic fundamentals, according to Bloomberg.
 
-• Asian oil refiners [face big losses](https://www.bloomberg.com/news/articles/2026-03-17/asia-oil-refiners-face-big-losses-as-war-upsets-hedging-strategy) as the Middle East war upsets hedging strategies, Bloomberg reports, with Japanese companies particularly exposed to crude supply disruptions.
+• Nissan Motor Kyushu announced it will [cut production](https://japannews.yomiuri.co.jp/business/companies/20260317-317178/) by 1,200 units due to escalating Middle East tensions, the Yomiuri reports.
 
-• Japan's average [land prices rose](https://www.japantimes.co.jp/business/2026/03/17/average-land-price-up/) for the fifth straight year, the Japan Times notes, as domestic real estate remains insulated from global turmoil.
+• Japan's 20-year government bond sale drew [strong demand](https://www.japantimes.co.jp/business/2026/03/17/markets/20-year-bond-sale-strong-demand/) despite Gulf crisis concerns, the Japan Times notes, providing relief to markets.
 
 **Government & Policy**
 
-• Japan [called on Iran](https://japantoday.com/category/politics/japan-calls-on-iran-to-stop-threatening-passage-through-strait-of-hormuz) to stop threatening passage through the Strait of Hormuz, as Tokyo seeks diplomatic solutions while avoiding military commitments, according to Japan Today.
+• A Foreign Ministry panel aims to [improve development](https://japannews.yomiuri.co.jp/politics/politics-government/20260317-317097/) aid offered by Japan, according to the Yomiuri, as the government reviews its overseas assistance programs.
 
-• A Tokyo court [ruled against](https://www.japantimes.co.jp/news/2026/03/17/japan/crime-legal/voluntary-sterlization-ruling/) women's right to voluntary sterilization, the Japan Times reports, in a decision that could spark renewed debate over reproductive rights in Japan.
+• China's coast guard [expelled a](https://www.reuters.com/world/china/china-coast-guard-expels-japanese-fishing-boat-disputed-waters-2026-03-17/) Japanese fishing boat from disputed waters, Reuters reports.
 
 **What to Watch**
 
-• Spring wage negotiations reach their climax today with major companies expected to announce pay increases, with [NHK reporting](http://www3.nhk.or.jp/news/html/20260318/k10015078201000.html) the focus on whether raises will exceed inflation rates as workers face rising living costs from the energy crisis.
+Trump announced his [meeting with](https://english.kyodonews.net/articles/-/72483) Chinese President Xi Jinping will happen in 5-6 weeks, Kyodo reports, after an initially planned summit was postponed. The timing could affect regional dynamics as Japan navigates between its US alliance and economic ties with China.
 
 **Coverage Flags**
 
-International outlets appear ahead on Trump-Xi summit timing, with Kyodo reporting the [China meeting delayed](https://english.kyodonews.net/articles/-/72480) to 5-6 weeks out, while Japanese press focuses more on immediate bilateral Japan-U.S. dynamics. The collision off Okinawa involving two deaths during a peace learning trip may warrant deeper investigation given the sensitive location near Henoko.
+International outlets are providing more detailed analysis of Japan's energy vulnerability in the Iran crisis than Japanese media, which are focusing more on diplomatic angles. The naphtha shortage story from Bloomberg appears to be getting limited Japanese press attention despite its potential supply chain impact.
 
 **Sources**
-• [NHK World](http://www3.nhk.or.jp)
-• [Kyodo News](https://english.kyodonews.net)  
-• [Japan Times](https://www.japantimes.co.jp)
-• [Japan Today](https://japantoday.com)
-• [Reuters](https://www.reuters.com)
-• [Associated Press](https://apnews.com)
-• [Bloomberg](https://www.bloomberg.com)
 
-*Homepage screenshots captured for reference: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan, Financial Times Asia, Wall Street Journal Asia, Economist Asia. Twitter feeds monitored: @takaichi_sanae, @nhk_ohayou.*
+• [NHK World](http://www3.nhk.or.jp/)
+• [Kyodo News](https://english.kyodonews.net/)
+• [Japan Times](https://www.japantimes.co.jp/)
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp/)
+• [Japan Today](https://japantoday.com/)
+• [Reuters](https://www.reuters.com/)
+• [AP News](https://apnews.com/)
+• [Bloomberg](https://www.bloomberg.com/)
+
+*Screenshots captured from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages, plus Twitter feeds from @takaichi_sanae and @nhk_ohayou for reference.*

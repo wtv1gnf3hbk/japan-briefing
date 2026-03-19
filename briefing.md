@@ -1,37 +1,34 @@
-**Top News**
+Good morning from Tokyo. The Trump-Takaichi summit dominated headlines yesterday, with the U.S. president making a jarring Pearl Harbor reference while pressing Japan to do more on Iran. According to [multiple outlets](https://www.reuters.com/world/asia-pacific/trump-draws-parallel-between-pearl-harbor-us-strikes-iran-meeting-with-japanese-2026-03-19/), Trump told Prime Minister Takaichi "Why didn't you tell me about Pearl Harbor?" during their White House meeting, apparently drawing parallels between the 1941 attack and current U.S. strikes on Iranian targets. The comment caught Japanese officials off guard, but Takaichi managed to secure significant wins on the economic front.
 
-Prime Minister Takaichi arrives in Washington today for what's shaping up to be a [tense summit](https://apnews.com/article/japan-us-takaichi-trump-iran-security-e98099783b5ff39610c1b2dbe1b61369) with President Trump, as the Iran war puts unprecedented pressure on Japan's energy security and foreign policy. The AP reports that Trump is expected to push Japan for help securing the Strait of Hormuz, while [Japan rejects](https://www.reuters.com/world/china/japan-rejects-us-intelligence-assessment-significant-shift-its-taiwan-stance-2026-03-19/) a US intelligence assessment describing the PM's Taiwan remarks as a "significant shift" in policy, according to Reuters.
-
-The timing couldn't be more challenging. Crude oil prices have [surged near](https://apnews.com/article/stocks-markets-oil-iran-trump-1abeddf7c4bf19d1dc96b3f23c1de402) $115 per barrel after Iran attacked key Gulf energy facilities, and Japan is already feeling the pinch. NHK reports that Japan's [farms and buses](https://www.bloomberg.com/news/articles/2026-03-19/japan-s-farms-buses-struggle-to-find-fuel-due-to-war-disruption) are struggling to find fuel, while gasoline prices hit 190.8 yen per liter nationally, as PM Takaichi noted on Twitter. The Bank of Japan [held rates](https://www.japantimes.co.jp/business/2026/03/19/economy/boj-maintain-rate/) steady today, citing inflationary pressure from the Middle East conflict as a key concern going forward.
+The leaders announced [$73 billion worth](https://english.kyodonews.net/articles/-/72658) of new business projects, according to Kyodo News, including a [$40 billion reactor](https://www.bloomberg.com/news/articles/2026-03-19/trump-takaichi-set-to-announce-40-billion-us-reactor-project) project Bloomberg reports. The Japan Times notes Trump [praised Takaichi](https://www.japantimes.co.jp/news/2026/03/20/japan/politics/us-japan-summit-takaichi-trump-iran/) for Japan "stepping up to the plate" on Iran, though Kyodo reports the PM [carefully outlined](https://english.kyodonews.net/articles/-/72657) what Japan can and cannot do regarding Middle East military operations. The two countries also agreed to [advance joint](https://english.kyodonews.net/articles/-/72656) missile development and production, per Kyodo.
 
 **Business & Markets**
 
-• Japanese stocks [fell today](https://www.bloomberg.com/news/articles/2026-03-19/japan-stocks-fall-after-oil-price-surges-fed-holds-key-rate) after oil price surges and the Fed's decision to hold rates, Bloomberg reports
+• Japan's finance minister says the country is [ready to intervene](https://www.bloomberg.com/news/articles/2026-03-19/japan-s-katayama-says-ready-to-take-action-on-forex-at-any-time) in currency markets at any time, Bloomberg reports, as the yen faces pressure from energy price volatility.
 
-• The yen is under fresh pressure, with [traders eyeing](https://www.bloomberg.com/news/articles/2026-03-19/traders-eye-yen-s-160-level-boj-hawkish-overtures-analysts-say) the 160 level against the dollar as the BOJ maintains its cautious stance, per Bloomberg
+• The Bank of Japan [held rates](https://www.bloomberg.com/news/articles/2026-03-19/boj-holds-rates-steady-as-iran-conflict-clouds-inflation-outlook) steady as the Iran conflict clouds the inflation outlook, according to Bloomberg.
 
-• Finance Minister Katayama said Japan is [ready to act](https://www.bloomberg.com/news/articles/2026-03-19/japan-s-katayama-says-ready-to-take-action-on-forex-at-any-time) on forex intervention "at any time" following the yen's recent weakness
+• Japan's agricultural and transport sectors are [struggling to find](https://www.bloomberg.com/news/articles/2026-03-19/japan-s-farms-buses-struggle-to-find-fuel-due-to-war-disruption) fuel due to war-related supply disruptions, Bloomberg reports.
 
-• Energy disruption from the Iran war is hitting Japan particularly hard, with concerns about [stable oil](http://www3.nhk.or.jp/news/html/20260319/k10015079761000.html) supply potentially forcing power plant shutdowns and further price increases, NHK reports
+• Japan and the U.S. agreed to [advance multiple](https://english.kyodonews.net/articles/-/72659) critical minerals projects, Kyodo News reports, part of broader supply chain cooperation.
 
 **Government & Policy**
 
-• The [Japan-US summit](http://www3.nhk.or.jp/news/html/20260319/k10015079371000.html) scheduled for early tomorrow will focus heavily on Iran policy coordination, according to NHK, as both leaders grapple with the energy crisis and regional security implications
+• Japan joined European nations in a [joint statement](https://www.reuters.com/world/asia-pacific/joint-statement-strait-hormuz-by-european-nations-japan-2026-03-19/) on the Strait of Hormuz situation, Reuters reports, expressing readiness to help stabilize energy markets.
 
-• PM Takaichi held her first summit with Singapore's Prime Minister Lawrence Wong yesterday, welcoming him to the PMO for discussions on regional cooperation during the current Middle East crisis
+• Japan [rejected a](https://www.reuters.com/world/china/japan-rejects-us-intelligence-assessment-significant-shift-its-taiwan-stance-2026-03-19/) U.S. intelligence assessment claiming a significant shift in its Taiwan stance, Reuters reports, ahead of the leaders' meeting.
 
 **Coverage Flags**
 
-International outlets appear ahead on Japan's energy vulnerabilities and the summit's geopolitical stakes, while Japanese media focus more on domestic price impacts. The Reuters scoop on Japan rejecting US intelligence assessments of its Taiwan stance suggests tensions even before the leaders meet.
+International outlets are providing more detailed coverage of the Pearl Harbor comment and its diplomatic implications than Japanese press, which may be downplaying the awkward moment. The energy supply disruption story deserves deeper reporting on how ordinary Japanese consumers and businesses are being affected.
 
 **Sources**
-• [AP News](https://apnews.com)
-• [BBC](https://www.bbc.com)
-• [Bloomberg](https://www.bloomberg.com)
-• [Japan Times](https://www.japantimes.co.jp)
-• [Kyodo News](https://english.kyodonews.net)
 • [NHK World](http://www3.nhk.or.jp)
+• [Kyodo News](https://english.kyodonews.net)
+• [Japan Times](https://www.japantimes.co.jp)
 • [Reuters](https://www.reuters.com)
-• [Yahoo News](https://news.yahoo.com)
+• [AP News](https://apnews.com)
+• [Bloomberg](https://www.bloomberg.com)
+• [BBC](https://www.bbc.com)
 
-*Screenshots captured: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages; Twitter feeds from PM Takaichi and NHK Ohayou; Financial Times Asia, Wall Street Journal Asia, and Economist Asia pages*
+*Reference materials include homepage screenshots from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, and BuzzFeed Japan, plus Twitter feeds from @takaichi_sanae and @nhk_ohayou, and international outlet homepages from FT, WSJ, and The Economist.*

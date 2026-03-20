@@ -1,41 +1,35 @@
-Good morning. Prime Minister Takaichi's White House visit has taken an awkward turn as tensions with Iran dominate Japan-US discussions. Trump [made a Pearl Harbor](https://www.bloomberg.com/news/articles/2026-03-19/trump-raises-pearl-harbor-with-japanese-leader-at-white-house) joke during their meeting, according to Bloomberg, even as he pressed Japan to help secure the Strait of Hormuz following Iran's strikes on Gulf energy infrastructure. The timing was particularly tone-deaf given the gravity of the Middle East crisis and its implications for Japan's energy security.
+Prime Minister Takaichi's White House summit with President Trump has put Japan in a delicate position as the Iran crisis escalates. Trump made a [Pearl Harbor](https://www.bloomberg.com/news/articles/2026-03-19/trump-raises-pearl-harbor-with-japanese-leader-at-white-house) reference during their meeting, according to Bloomberg, while pressing Japan to help secure the Strait of Hormuz. Kyodo News reports Trump said it would be ["nice" if Japan](https://english.kyodonews.net/articles/-/72715) stepped up efforts to protect the vital shipping lane. Despite the awkward historical reference, the Japan Times notes Takaichi [avoided a rift](https://www.japantimes.co.jp/news/2026/03/20/japan/politics/us-japan-summit-takaichi-trump-iran-analysis/) with Trump on Iran policy, at least for now.
 
-Takaichi managed to [avoid a direct](https://www.bloomberg.com/news/articles/2026-03-20/takaichi-escapes-iran-spat-with-trump-despite-pearl-harbor-jibe) confrontation over Iran policy, Bloomberg reports, despite Trump's push for Japanese involvement in Gulf security operations. AP News reports that Trump said it would be ["nice" if Japan](https://english.kyodonews.net/articles/-/72712) stepped up efforts to secure the Strait of Hormuz, according to Kyodo. The prime minister confirmed on Twitter that both sides discussed "the importance of calming down the situation as soon as possible and ensuring safe navigation in the Strait of Hormuz." Japan Times analysis suggests Takaichi [avoided a rift](https://www.japantimes.co.jp/news/2026/03/20/japan/politics/us-japan-summit-takaichi-trump-iran-analysis/) with Trump on Iran policy — for now.
+The summit comes as Japan faces economic pressure from the Middle East conflict. Reuters reports Japan may [stockpile US oil](https://www.reuters.com/business/energy/japan-may-stockpile-us-oil-domestically-pm-says-2026-03-20/) domestically to reduce reliance on Middle Eastern supplies. NHK reports that regional banks in Kansai are [setting up consultation](http://www3.nhk.or.jp/news/html/20260321/k10015080591000.html) windows for businesses affected by Iran tensions. The crisis has broader implications beyond energy security, with AP reporting that high oil prices are [knocking down](https://apnews.com/article/stocks-markets-oil-iran-trump-gas-b797f3819f7caac46893afb5b770f44c) global stock markets.
 
-The summit did produce concrete outcomes beyond the diplomatic awkwardness. Reuters reports that Japan and the US [announced energy projects](https://www.reuters.com/business/energy/japan-us-announce-energy-projects-critical-minerals-action-plan-2026-03-19/) and a critical minerals action plan, while Japan is also considering [stockpiling US oil](https://www.reuters.com/business/energy/japan-may-stockpile-us-oil-domestically-pm-says-2026-03-20/) domestically as energy security concerns mount.
+## Business & Markets
 
-**Business & Markets**
+• Bloomberg reports [SoftBank is planning](https://www.bloomberg.com/news/articles/2026-03-20/softbank-plans-giant-ohio-ai-data-center-powered-by-gas-plants) a massive AI data center in Ohio powered by gas plants, marking another major US investment by the Japanese conglomerate.
 
-• SoftBank is planning a [massive AI data center](https://www.bloomberg.com/news/articles/2026-03-20/softbank-plans-giant-ohio-ai-data-center-powered-by-gas-plants) in Ohio powered by gas plants, Bloomberg reports, as the company expands its US infrastructure investments.
+• Reuters notes China's rare earth exports rose overall, but [shipments to the US](https://www.reuters.com/world/asia-pacific/chinas-exports-rare-earth-magnets-jump-ahead-trump-xi-meeting-2026-03-20) fell as Beijing appears to be adjusting trade flows ahead of potential policy changes.
 
-• China's rare earth exports rose overall while [shipments to the US](https://www.reuters.com/world/asia-pacific/chinas-exports-rare-earth-magnets-jump-ahead-trump-xi-meeting-2026-03-20/) fell ahead of the Trump-Xi meeting, Reuters reports.
+• Regional banks are bracing for Iran war fallout, with NHK reporting Kansai institutions are [establishing consultation](http://www3.nhk.or.jp/news/html/20260321/k10015080591000.html) services for affected businesses.
 
-• Asian markets showed strain from the Iran crisis, with Bloomberg reporting that [fear gauges show](https://www.bloomberg.com/news/articles/2026-03-20/fear-gauge-shows-india-stock-strain-as-iran-shock-eases-in-asia) India stock strain even as the immediate Iran shock eases across Asia.
+• Bloomberg reports that while Iran tensions eased slightly in Asian markets, India's [fear gauge shows](https://www.bloomberg.com/news/articles/2026-03-20/fear-gauge-shows-india-stock-strain-as-iran-shock-eases-in-asia) continued strain from the regional crisis.
 
-• Japanese regional banks are [setting up consultation](http://www3.nhk.or.jp/news/html/20260321/k10015080591000.html) windows following the escalation of Iran tensions, NHK reports, as financial institutions prepare for potential economic fallout.
+## Government & Policy
 
-**Government & Policy**
+• According to the Japan Times, Ukraine's ambassador says his country is [ready to share](https://www.japantimes.co.jp/news/2026/03/20/japan/politics/ukraine-ambassador-japan-defense-cooperation/) combat expertise and drone technology with Japan, potentially deepening defense cooperation.
 
-• Ukraine's ambassador told Japan Times that Ukraine is [ready to share](https://www.japantimes.co.jp/news/2026/03/20/japan/politics/ukraine-ambassador-japan-defense-cooperation/) combat expertise and drone technology with Japan.
+• AP reports new [drone footage](https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748) from inside a Fukushima reactor shows a hole in the pressure vessel, likely fuel debris, as cleanup efforts continue 15 years after the disaster.
 
-• Transportation officials are investigating the [work conditions](http://www3.nhk.or.jp/news/html/20260321/k10015080601000.html) of the truck driver involved in the deadly six-person crash on the Shin-Meishin Expressway in Mie Prefecture, NHK reports.
+## Coverage Flags
 
-**What to Watch**
+International outlets are providing more granular coverage of Trump's Pearl Harbor reference than Japanese media. Bloomberg and BBC have detailed reporting on the diplomatic implications, while Japanese outlets are focusing more on the broader summit outcomes. This disparity in coverage emphasis might warrant closer NYT examination.
 
-Railway companies and authorities are developing [concrete measures](http://www3.nhk.or.jp/news/html/20260321/k10015080551000.html) for planned service suspensions in the event of massive volcanic ash from Mount Fuji, NHK reports, as disaster preparedness planning intensifies.
+## Sources
 
-**Coverage Flags**
+• [Bloomberg](https://www.bloomberg.com)
+• [Kyodo News](https://english.kyodonews.net)
+• [Japan Times](https://www.japantimes.co.jp)
+• [Reuters](https://www.reuters.com)
+• [NHK World](http://www3.nhk.or.jp)
+• [AP News](https://apnews.com)
+• [BBC](https://www.bbc.com)
 
-International outlets are ahead on analyzing the Iran crisis implications for Japanese energy policy. The drone footage from inside Fukushima's reactor showing [a hole in](https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748) the pressure vessel and likely fuel debris (AP) deserves follow-up on cleanup timeline impacts.
-
-**Sources**
-
-• [NHK World](http://www3.nhk.or.jp/)
-• [Kyodo News](https://english.kyodonews.net/)
-• [Japan Times](https://www.japantimes.co.jp/)
-• [Reuters](https://www.reuters.com/)
-• [AP News](https://apnews.com/)
-• [Bloomberg](https://www.bloomberg.com/)
-• [BBC](https://www.bbc.com/)
-
-*Reference materials: Screenshots captured from Asahi, Yomiuri, Nikkei, Mainichi, Bunshun, BuzzFeed Japan homepages; Twitter feeds from PM Takaichi and NHK Ohayou; competitor homepages from FT Asia, WSJ Asia, Economist Asia.*
+*Screenshots captured for reference: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages, plus Takaichi Sanae and NHK Ohayou Twitter feeds, Financial Times Asia, Wall Street Journal Asia, and Economist Asia pages.*

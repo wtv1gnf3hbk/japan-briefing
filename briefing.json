@@ -4,15 +4,15 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-03-20T22:02:58.747Z",
-    "generatedTimestamp": 1774044178747
+    "generated": "2026-03-20T22:37:21.288Z",
+    "generatedTimestamp": 1774046241288
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
-    "totalStories": 97,
+    "totalStories": 107,
     "totalScreenshots": 11,
-    "elapsed": "100.0s"
+    "elapsed": "92.9s"
   },
   "stories": {
     "all": [
@@ -47,6 +47,16 @@
         "description": "イラン情勢の緊迫化で、地域経済への影響が懸念される中、関西の主な地方銀行の間では、相談窓口を設置する動きが相次いでいます。"
       },
       {
+        "headline": "福井 坂井 防波堤で海に転落 ベトナム国籍の4人行方不明",
+        "url": "http://www3.nhk.or.jp/news/html/20260321/k10015080741000.html",
+        "source": "NHK World",
+        "sourceId": "nhk_world",
+        "category": "national",
+        "priority": "primary",
+        "date": "Sat, 21 Mar 2026 07:33:11 +0900",
+        "description": "福井海上保安署によりますと、21日午前2時半ごろ、福井県坂井市の三国港の防波堤でベトナム国籍の5人が海に転落し1人が救助されましたが、4人が行方不明になっているということです。このグループは8人で釣りに来ていたということで、海上保安部や警察などが捜索に当たっています。現場は立ち入り禁止の看板が設置されている場所だったということです。"
+      },
+      {
         "headline": "三重 新名神6人死亡事故 トラック運転手の勤務状況など調べる",
         "url": "http://www3.nhk.or.jp/news/html/20260321/k10015080601000.html",
         "source": "NHK World",
@@ -77,14 +87,14 @@
         "description": "動画投稿サイトなどに違法にアップロードされている民放のテレビ番組について民放連＝日本民間放送連盟が実態調査を行ったところ、YouTubeに1か月間で少なくとも1万5000本余りが無断で投稿され、32億円ほどの広告費が流出したと推計されることがわかりました。"
       },
       {
-        "headline": "正確な情報の流通あり方 議論の枠組み新設へ",
-        "url": "http://www3.nhk.or.jp/news/html/20260320/k10015080541000.html",
-        "source": "NHK World",
-        "sourceId": "nhk_world",
-        "category": "national",
+        "headline": "Trump says it would be \"nice\" if Japan helped protect Strait of Hormuz",
+        "url": "https://english.kyodonews.net/articles/-/72715",
+        "source": "Kyodo News",
+        "sourceId": "kyodo_english",
+        "category": "wire",
         "priority": "primary",
-        "date": "Fri, 20 Mar 2026 23:02:05 +0900",
-        "description": "SNS上で真偽不明の情報が広がる中、メディアについて研究する専門家らが、報道機関やデジタルプラットフォーム事業者などとともに、正確な情報の流通のあり方を議論する新たな枠組みを設けることになりました。"
+        "date": "Sat, 21 Mar 2026 06:48:00 +0900",
+        "description": "U.S. President Donald Trump said Friday that &quot;it would be nice&quot; if Japan, China and other countries highly dependent on Read full story here"
       },
       {
         "headline": "BREAKING NEWS: Trump says \"nice\" if Japan steps up efforts to secure Strait of Hormuz",
@@ -175,16 +185,6 @@
         "priority": "primary",
         "date": "Fri, 20 Mar 2026 12:48:00 +0900",
         "description": "In a drab, sparsely furnished room in a brothel in Cucuta, Colombia, Daniela (not her real name), a Venezuelan in her 20s, describRead full story here"
-      },
-      {
-        "headline": "Kabuki actor to offer Europe rare peek into stage makeup amid Oscar nod",
-        "url": "https://english.kyodonews.net/articles/-/72678",
-        "source": "Kyodo News",
-        "sourceId": "kyodo_english",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Fri, 20 Mar 2026 12:13:00 +0900",
-        "description": "Kabuki actor Nakamura Takanosuke is looking forward to giving European audiences a behind-the-scenes glimpse into the stylized staRead full story here"
       },
       {
         "headline": "Eat a bowl of red rice for good luck",
@@ -287,14 +287,104 @@
         "description": "The aim of the new service is to ensure the communication infrastructure essential for life and economic activities remains operational during emergencies such as disasters."
       },
       {
-        "headline": "Japan, US announce energy projects, critical minerals action plan - Reuters",
-        "url": "https://www.reuters.com/business/energy/japan-us-announce-energy-projects-critical-minerals-action-plan-2026-03-19/",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 22:05:08 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFVXdFNqLWZmSVBLUkRubVFreGJJeDdoVk5WWkJzQktnMEF4dXd1MnVOQlNWblRZT2MzTzhfZ2pvc3Q3bDBRN3JtdTZWVXg4TjAtZk50VDN0QlpOeHZnZDFwS1FxVGxGbVo3OEZ"
+        "headline": "Model with Down Syndrome to Make Speech at N.Y. Conference",
+        "url": "https://japannews.yomiuri.co.jp/society/general-news/20260321-317567/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 22:00:47 +0000",
+        "description": "A Japanese model with Down syndrome will make a speech later this month at a conference to mark World Down Syndrome Day at the U.N. headquarters in New York."
+      },
+      {
+        "headline": "Japan PM&#8217;s Meeting with Trump at White House Focuses on Showing Solidarity with U.S. President Over Middle East Situation",
+        "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260321-317643/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 17:00:52 +0000",
+        "description": "WASHINGTON — Amid escalating tensions over Iran, Prime Minister Sanae Takaichi focused on seeking common ground with U.S. President Donald Trump over ensuring the security of the Strait of Hormuz duri"
+      },
+      {
+        "headline": "Iran&#8217;s Nuclear Program Was Nearly Irreversible, Says Israeli Foreign Minister Gideon Saar",
+        "url": "https://japannews.yomiuri.co.jp/world/wider-world/20260320-317577/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 12:00:45 +0000",
+        "description": "JERUSALEM — It “was a matter of weeks to a few months that the situation was irreversible,” Israeli Foreign Minister Gideon Saar said Thursday, referring to Iran’s nuclear and ballistic missile progra"
+      },
+      {
+        "headline": "Sergeant in Kyoto Police Referred to Prosecutors for Gambling Via Online Casinos",
+        "url": "https://japannews.yomiuri.co.jp/society/crime-courts/20260320-317653/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 08:53:28 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Takaichi Lays Out Japan&#8217;s Position on Middle East Conflict at Talks with Trump",
+        "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260320-317599/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 07:40:39 +0000",
+        "description": "WASHINGTON — Prime Minister Sanae Takaichi held talks with U.S. President Donald Trump in Washington on Thursday, laying out “what Japan can and cannot do in the Strait of Hormuz under its own laws.”"
+      },
+      {
+        "headline": "Tokyo Sarin Attack Victims Remembered on 31st Anniversary",
+        "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260320-317595/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 06:35:49 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Man Arrested for Slashing Seat with Knife While Traveling on Train in Osaka Pref.",
+        "url": "https://japannews.yomiuri.co.jp/society/crime-courts/20260320-317592/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 06:25:17 +0000",
+        "description": ""
+      },
+      {
+        "headline": "Monetary Policies of Japan, U.S.: Rising Crude Oil Prices Cast Dark Shadow on Future",
+        "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260320-317589/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 06:21:04 +0000",
+        "description": "Due to the situation in Iran, the degree of difficulty in managing monetary policy has increased in both Japan and the United States. It is important to deal with the issue flexibly while keeping a cl"
+      },
+      {
+        "headline": "U.S. Attacks on Iran: Don’t Benefit Russia by Easing Sanctions",
+        "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260320-317586/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 06:16:20 +0000",
+        "description": "U.S. President Donald Trump’s administration has eased sanctions against Russia that were imposed over its aggression against Ukraine. Although the administration claims that this is to lower crude oi"
+      },
+      {
+        "headline": "Japan Ski Paradise Faces Strains of Global Acclaim",
+        "url": "https://japannews.yomiuri.co.jp/news-services/afp-jiji/20260320-317584/",
+        "source": "Japan News (Yomiuri)",
+        "sourceId": "japan_news_yomiuri",
+        "category": "national",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 05:54:31 +0000",
+        "description": ""
       },
       {
         "headline": "Japan may stockpile US oil domestically, PM says - Reuters",
@@ -307,16 +397,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGNVX2RZUFhaT0ZOSjdVb29vODAwU0hDX3lZUXduTk5sYlB1VFY4RElPelhXdXpvT21XeEtqVURjV1JDWDN4RnY2cFUtOEt4M1hrR2pBQ05KQk5hdHp0dGhaU1d3VkV3VkVNdXg"
       },
       {
-        "headline": "Inside Japan's gallows - Reuters",
-        "url": "https://www.reuters.com/news/picture/inside-japans-gallows-idUSRTR2HLJC/",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 18 Dec 2023 01:58:18 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuUXRLdk1EN0tjczlrYTZGY2J0QWdFSnVzMDhDUlhBQ1FRYXBYN0h6OUhPY2VWT3RCQzlfU1d4bnhHZDREZ3lVbHZhNHJxSmlycEVFUENhTGk0TngwTXU2STdGcGJ3T1JXa09LOEF"
-      },
-      {
         "headline": "NextEra secures Trump's approval for up to 10 GW gas power projects - Reuters",
         "url": "https://www.reuters.com/business/energy/trump-approves-up-10-gw-nextera-gas-power-projects-texas-2026-03-20/",
         "source": "Reuters Japan",
@@ -325,6 +405,16 @@
         "priority": "secondary",
         "date": "Fri, 20 Mar 2026 14:58:25 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tJQjBYeXpnbEFqX2J0TlpxZWxVRk9XdzVHTzBHcXF2VnBNR1RLTzBmQ1BSeW5tM3NaemJ2VEJ3UzgzcWJQbDY1N19GWVZqZk5vRlRNXzJ4U3ZyS3IzUFFIcFI5RWROSGJpUDk"
+      },
+      {
+        "headline": "Inside Japan's gallows - Reuters",
+        "url": "https://www.reuters.com/news/picture/inside-japans-gallows-idUSRTR2HLJC/",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Mon, 18 Dec 2023 01:58:18 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuUXRLdk1EN0tjczlrYTZGY2J0QWdFSnVzMDhDUlhBQ1FRYXBYN0h6OUhPY2VWT3RCQzlfU1d4bnhHZDREZ3lVbHZhNHJxSmlycEVFUENhTGk0TngwTXU2STdGcGJ3T1JXa09LOEF"
       },
       {
         "headline": "China's rare earth exports rise, shipments to US fall - Reuters",
@@ -387,6 +477,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblN5WGZvYlVrNno0OHRhQWN5X3BpbFpmMkdzbzJnZlo3YWNvLUU4SVVEVnpucnBPQWVTRllxZk9vQlNpN2dUUzFxQUhfam1iS056N0owMDhaeGFYbHEybW50UXRaZklvaXV6SzY"
       },
       {
+        "headline": "Oil jumps to highest settlement since July 2022 as more Mideast supply disrupted - Reuters",
+        "url": "https://www.reuters.com/business/energy/oil-falls-us-allies-look-boost-supply-unchoke-strait-hormuz-2026-03-20/",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Fri, 20 Mar 2026 01:32:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2Rpc2pia3d3NWVCUWNYTGo0b281N0RpbEx1MHVNR0JRbERGZnFsVGQxbHV6ZElVQ1dDNDhmRzJPVDNFWUJoLXVPT3VPZVh0eVBUOVNyZWtSV2NLeHZRaFJmQ003OGo1bU5Sb3p"
+      },
+      {
         "headline": "Japan's Takaichi tries to reaffirm alliance with Trump as he seeks help securing Strait of Hormuz - AP News",
         "url": "https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13",
         "source": "AP Japan",
@@ -405,16 +505,6 @@
         "priority": "secondary",
         "date": "Fri, 20 Mar 2026 06:30:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNY093aWM3RHpKcTdjN3NRemhUT2lMV1lZN05nVk5ubjJNWnY1Xzh1NjJDTDR3dUFYeDVkZVphX0JiTUZZdVhiSlk4VGk4X3ZHVm0wcjNXODFFbGQ4ZFdBRlJ6czNUNWF0NnR1V2h"
-      },
-      {
-        "headline": "EU asks for reopening of the Strait of Hormuz and no more strikes on energy, water sites - AP News",
-        "url": "https://apnews.com/article/european-union-summit-iran-war-ukraine-loan-014cc7de7f00a52c272c07937117db51",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 22:06:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3MtYUp2VTdFS1B2Q29CM3NjUUJ4cmRZVXZ0V0VaU2JFd05OVEFmRVIzeHNvRzg5ZGh3ckFjSFNGRUYxdno3ZHJEOWwwc2JKM2dfV2hha1F5S3RLY0tmMmRsbkJVWUI0VnpjVmN"
       },
       {
         "headline": "Monthly cash payments could boost disaster survivors. A Maui nonprofit tries it out - AP News",
@@ -437,13 +527,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWVrQktnUzlUZVVIRWoyNlpMZERfSUxUYVVEbi1sMjR0QnQ5VjZ0ZGVNZ2lmMkd1dElBbm1FbGpvTk5OUWE5LVZYdHpMdUhhX2RqTUhpenVsdFpTNE4waWlsM3NpV1BIb2xaN1d"
       },
       {
-        "headline": "Another climb for oil prices rattles stocks worldwide and erases hopes for a rate cut by the Fed - AP News",
+        "headline": "High oil prices knock down stocks and erase Wall Street’s hopes for a cut to interest rates - AP News",
         "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-gas-b797f3819f7caac46893afb5b770f44c",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 19:14:00 GMT",
+        "date": "Fri, 20 Mar 2026 20:11:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQb212V0FGeWZNZWV3ak50THZNajRJczNGOVJNSWxUVUoyeG1fUklGNUFEX1VtZjRyVWhjOFZEeUtNdVNkdldJZ1FRcmFhY1NSWXdYNE9uZm82bTZmWExJUDdaTzJlT1AwUENvZ1Z"
       },
       {
@@ -455,16 +545,6 @@
         "priority": "secondary",
         "date": "Fri, 20 Mar 2026 20:29:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmJhUkdCMUJwUGtYNG12NVY0QlBIaXB6dHcyN1l0VmMyQThNTGxNcW9KR0VONi1uS2NsU2xJNWtaU1V2Z09uNE5LVHhqMm5PdXNQQy1peWdQaDZWd3JLTWI4cGJSUS1yZ0x4Rzl"
-      },
-      {
-        "headline": "Trump and Netanyahu split on gas field attack, raise questions about whether they're in sync on war - AP News",
-        "url": "https://apnews.com/article/trump-iran-netanyahu-gas-cd880a355e3873d8175084140581b2c1",
-        "source": "AP Japan",
-        "sourceId": "ap_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 22:10:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZUt6YjVTVEtHV2ZKYWhLcmpRdzFPQzBLeHVhVllia2ZDVjNJQ0ZMMEZPanNOY0Nyak5ONGZKMmFxYXB4WjJWLVMyRFVjdmRMWG1nQnZ3TjJCWDl0dm13WHdheFd3ZTM2Szc1ZVZ"
       },
       {
         "headline": "US Mint can begin producing Trump commemorative gold coin after arts commission approves design - AP News",
@@ -485,6 +565,26 @@
         "priority": "secondary",
         "date": "Fri, 20 Mar 2026 09:38:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1h1Sm1uZU81cTJQU1ZkV0xHVWFiZUpxVklVMWVVcFlvSmlPRXoxTlVhYnBPMWd3c0hmeTNsczdwa2tqOFJKYnNwSmRTczJmajZyN3gyTGNmNGVEOGJFdm12NURwNktwWE9mUUw"
+      },
+      {
+        "headline": "White House urges Congress to take a light touch on AI regulations in new legislative blueprint - AP News",
+        "url": "https://apnews.com/article/white-house-donald-trump-artificial-intelligence-479eb3d0a50fe7237678a9bfb146ac7a",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Fri, 20 Mar 2026 20:54:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2xQTmpPX25YanFWNlhWQnFsbS1Cb3dROF84dGhxLWRXT1ZEVWxmX2g5bmdEdUN3UXlBX2xKWmRzN0xDTXVkTk4zWFVGR2Z5MXNoM181X1FzRl9Pb21Kcl8wNmpsN3lmb01NZVB"
+      },
+      {
+        "headline": "Fire at South Korean auto parts factory injures at least 55 - AP News",
+        "url": "https://apnews.com/article/south-korea-fire-factory-daejeon-227bcb17b76920a2fe543f599c09a05d",
+        "source": "AP Japan",
+        "sourceId": "ap_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Fri, 20 Mar 2026 15:34:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVZMY2I4ZWVmVFl4T2V4TjZTRGtpM21OLUVDODhNOExndUxSS01vTWd5ZU01N3QtRkR3c0V3NC1USURvVi1rdW14dDdFTjJVQ0RxOHV6bzB4cGJiT3NpWFFHaVFYN1ZnTmhSRkJ"
       },
       {
         "headline": "Japan ski paradise faces strains of global acclaim - Yahoo News Singapore",
@@ -517,13 +617,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBQaE8tU0R3RWFqby1HdnRwV3B1UjFVNzQ1ODdDYnQ3V1hCQzM1bFZNYU5hNTdweVZXN2cxdVItcDZBVmVtM0pVRGxUY2F6UmlJMEVoSTNCRk1VZTVVRFl2eXlpWVNZN2Jxckc5Uk5"
       },
       {
-        "headline": "Trump's Pearl Harbor remark overshadows Japan PM visit - Yahoo News Canada",
+        "headline": "Trump makes Pearl Harbor remark in meeting with Japan's PM - Yahoo News Canada",
         "url": "https://ca.news.yahoo.com/trumps-pearl-harbor-remark-overshadows-095526959.html",
         "source": "AFP Japan",
         "sourceId": "afp_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 09:55:26 GMT",
+        "date": "Fri, 20 Mar 2026 12:40:30 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeURCcEl6OHB4YTJRM1c1ZlFMYTU3U3lwOUc4SDRxM0pEU3ZCRlktYWkzV3ZOcDNoby1YWl9rRGsycDZZMTI3YjNSaE9ydzk0cUhOZGkyM2pVSk5zTENmN3dENGJQcnJJYU1qWTM"
       },
       {
@@ -547,16 +647,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRkRIanVlZnZTZ1g0Rl9zTXRaeHhkUURfUklZRTRqakFCMWsxS1VfN280MWt5S1BSUTBocEFyQXhLZ1NJajFNZzdzelBhMkZKOGZBbE5iZWR3OTdJSHl5UTlqdUVlZ3FOa2hPcnV"
       },
       {
-        "headline": "Funny old world: the week's offbeat news - Yahoo News UK",
-        "url": "https://uk.news.yahoo.com/funny-old-world-weeks-offbeat-100925422.html",
-        "source": "AFP Japan",
-        "sourceId": "afp_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 10:09:25 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9yTFFGODlmSXNnYnVuM2ZvSU9Sd1JKdkdlWllrbXJLYmVaUXZCWm1XTjYtV01EQmlPRFJuaGEwdVNWbkw0T2xhVVExa0hpamxnalNXTHo0djN0YllWd2x2X2JFZW5aUW0zUGxTOHB"
-      },
-      {
         "headline": "Middle East war: global economic fallout - Yahoo News Singapore",
         "url": "https://sg.news.yahoo.com/middle-east-war-global-economic-032243737.html",
         "source": "AFP Japan",
@@ -565,6 +655,16 @@
         "priority": "secondary",
         "date": "Fri, 20 Mar 2026 03:30:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0yb0pkZGZVNUtuZzU1aVBqMEZxQVM5d2dlUnU3RXBhNTIzazE0el9JQTdyU0MtSjdyVVVlNlVBUmRiQ2hhOWxVM01lQk1pV2xaOTRhd0VnVWNIVWhaVjBkS3d2Q0p6QWV3MnM1ZFN"
+      },
+      {
+        "headline": "Funny old world: the week's offbeat news - Yahoo News UK",
+        "url": "https://uk.news.yahoo.com/funny-old-world-weeks-offbeat-100925422.html",
+        "source": "AFP Japan",
+        "sourceId": "afp_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Fri, 20 Mar 2026 10:09:25 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9yTFFGODlmSXNnYnVuM2ZvSU9Sd1JKdkdlWllrbXJLYmVaUXZCWm1XTjYtV01EQmlPRFJuaGEwdVNWbkw0T2xhVVExa0hpamxnalNXTHo0djN0YllWd2x2X2JFZW5aUW0zUGxTOHB"
       },
       {
         "headline": "Supreme leader says Iran dealt enemies 'dizzying blow' - Yahoo News Singapore",
@@ -817,6 +917,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQazVEcmZDaXE2UXBQUjNUS3ZpSjdybGFKQlZiQmVJb25CaTRDV3E1SXFPNEZJTVd0MUlIQXhyUFIyTW9uWjhSNktmMms0NnFON2wxd3lCb1NEdVZOUDNNdnl6SG1QMlNWcTVuTGR"
       },
       {
+        "headline": "Donald Trump Is Caught in a Vise of His Own Making - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-03-20/donald-trump-is-caught-in-a-vise-grip-of-his-own-making",
+        "source": "Bloomberg Japan",
+        "sourceId": "bloomberg_japan",
+        "category": "competitors",
+        "priority": "secondary",
+        "date": "Fri, 20 Mar 2026 10:58:21 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW5BclZUWHk0TjlyeUxmMjhxSnFXQWkwRlNmNjBjV2xySFY1a05vcko1ejdTckpzV2dZdzE5SlZoVV9vekVlQWNyQWFYZ1lvd2xRNHJZaDFYLWpKSmhCeTZEUGN3emJreElNTlM"
+      },
+      {
         "headline": "SoftBank Plans Giant Ohio AI Data Center Powered by Gas Plants - Bloomberg.com",
         "url": "https://www.bloomberg.com/news/articles/2026-03-20/softbank-plans-giant-ohio-ai-data-center-powered-by-gas-plants",
         "source": "Bloomberg Japan",
@@ -827,14 +937,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkZTU2hCUmdaTVpSQTlGTmNMeTdPOWpCbjZGMU12Ry1kZl9SOUw3eXEyandzcldfWi1OaEVSc0NKRXdsWS0xRHRWVFJEaU9KSThnZlE5X0ZqNEVZOWxrWWU3bWdHVHFUeEctR3o"
       },
       {
-        "headline": "Donald Trump Is Caught in a Vise of His Own Making - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-03-20/donald-trump-is-caught-in-a-vise-grip-of-his-own-making",
+        "headline": "Trump Approves NextEra Gas Expansion to Meet Rising Power Demand - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-20/trump-approves-nextera-gas-expansion-to-meet-rising-power-demand",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
         "category": "competitors",
         "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 10:58:21 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW5BclZUWHk0TjlyeUxmMjhxSnFXQWkwRlNmNjBjV2xySFY1a05vcko1ejdTckpzV2dZdzE5SlZoVV9vekVlQWNyQWFYZ1lvd2xRNHJZaDFYLWpKSmhCeTZEUGN3emJreElNTlM"
+        "date": "Fri, 20 Mar 2026 16:34:11 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWJ0dG00Q09NV2EzSk1IbE1CMkI1RWpiU1k4TjRfaUNEejVUYTZzRkIwb3ptamh5cXlDZzM2ZldLRUlJOFhTMU51cUZ6Vk53NXZ5ZFlWcURUNkhvTzY3elBOVnBaQndqdUYyQlV"
       },
       {
         "headline": "China’s Record Deflation Finds Dangerous Cure in Oil Shock - Bloomberg.com",
@@ -875,16 +985,6 @@
         "priority": "secondary",
         "date": "Fri, 20 Mar 2026 09:00:07 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXVZX2lRdGs4bGVzeDVJNDI3a2RiWEhlYkhYZEc0V2NxVGtFdHlkY2FRVHdnbnJtSDlHNDUzODZJR3BCdkI0WFF2Q3BMWThzbnZ0blRRel96cXVwODRMYU41cjNDbkg1QVFEOXV"
-      },
-      {
-        "headline": "Asia Buys Most US Oil in Three Years as War Blocks Mideast Flows - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-19/asia-buys-most-us-oil-in-three-years-as-war-blocks-mideast-flows",
-        "source": "Bloomberg Japan",
-        "sourceId": "bloomberg_japan",
-        "category": "competitors",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 03:07:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHFjZEFOd3VPZ2hONnpoN3FTdFpvRlZvRFhob3RFYjFoRUx1RmpWdzNoazB0REZydDdlb0lqTjRiZTRTOFFzQmRqRzFEb2xxdUlraXAtdXBTdG5VdjRDNjVISmk3ejBjRi1abEp"
       },
       {
         "headline": "With Japanese prime minister at his side, Trump makes Pearl Harbor joke - The Washington Post",
@@ -947,6 +1047,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmppZEx1c2J3blI0RjVrRmxsS2V3aUc1cjliZTQyendndG5qRm1iR1BXaEc4Skt5eDBrenY3ZHZzdGt2SWhEVTZYLVhYZjVySEt1QlctTWpIMDFHRURmODF5RFlWX2s3aGJZTmN"
       },
       {
+        "headline": "Trump’s hand-picked panel votes to put his face on a U.S. gold coin - The Washington Post",
+        "url": "chrome-error://chromewebdata/",
+        "source": "Washington Post",
+        "sourceId": "wapo_japan",
+        "category": "competitors",
+        "priority": "tertiary",
+        "date": "Fri, 20 Mar 2026 01:41:34 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemh6N0pmN2xlZnRGNlJqc1F6QjlqeEVxODdtSFZVN2RtZjdtS0RfYWJGTVdUZ2p5TTJZa2V5VmpseHRWeUxLUmlGa2dXell2M1RWdlNwRVpGUm9YV05BVWFrOExweTBPd2xMcnB"
+      },
+      {
         "headline": "Supreme Court sides with antiabortion activist in free speech case - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
@@ -957,14 +1067,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdy1iWVhTQW1pN2F0dE1GNzliQ2pNeVZLZHBBZ2JiSXBPWFV1b1p4U3d6YTV4bU5hUVd6M0hIZXpGd3VwYXI3b29CY3NnWjctV0ZURkZpRlhRekhFc0tmS1lQdWoxMTlCX1ItaWR"
       },
       {
-        "headline": "You asked: I’ve been critical of Trump. Should I worry about flying abroad? - The Washington Post",
+        "headline": "They defended the Capitol on Jan. 6. Their names are missing from the tribute. - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Fri, 20 Mar 2026 16:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRE9JTFI5U2ZqWlZBc3JfbVRXYlJKNmktTlotN1F5RkNtbWQ4T3U3LVc1ZGhkNGNGa05BWUZmOWlFdjVmQ3F4RS1leGlwak5jb3B6SEZGdHNlS29xQjJFXzhuRjNickpicTNTM3l"
+        "date": "Fri, 20 Mar 2026 16:00:14 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPcC15Z2d0ZmU0Nm4ySldPZTVMNEZESTV5NGo4bUo5eTBqMHZhc3dRZTFDa2xqUlgyRlpjdGM1SnR2VS11MHhlTkdXUkMyNGZPZWI3UEFJbmxVOFVfZjBGc0VvS01uZTdGWGtPdlJ"
       },
       {
         "headline": "CWG Live: Less chilly tonight, and warmer Friday into the weekend - The Washington Post",
@@ -975,16 +1085,6 @@
         "priority": "tertiary",
         "date": "Fri, 20 Mar 2026 02:56:59 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjJ3YUlRc0pGdElOMlNiekp0WU1aVjlHdEQ2X2dONC1tRTRjcnhDQmhvWWZEUGpzcWZWVGVEdWw2VzdaYWZ5SWxINER1U0l4NmYxSHpZSmlSamhmR1M2QjUzeFBqVlZNdFVZWG5"
-      },
-      {
-        "headline": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
-        "url": "chrome-error://chromewebdata/",
-        "source": "Washington Post",
-        "sourceId": "wapo_japan",
-        "category": "competitors",
-        "priority": "tertiary",
-        "date": "Fri, 20 Mar 2026 20:31:25 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5\" target=\"_blank\"&gt;The Washington Post - Brea"
       }
     ],
     "byCategory": {
@@ -1020,6 +1120,16 @@
           "description": "イラン情勢の緊迫化で、地域経済への影響が懸念される中、関西の主な地方銀行の間では、相談窓口を設置する動きが相次いでいます。"
         },
         {
+          "headline": "福井 坂井 防波堤で海に転落 ベトナム国籍の4人行方不明",
+          "url": "http://www3.nhk.or.jp/news/html/20260321/k10015080741000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Sat, 21 Mar 2026 07:33:11 +0900",
+          "description": "福井海上保安署によりますと、21日午前2時半ごろ、福井県坂井市の三国港の防波堤でベトナム国籍の5人が海に転落し1人が救助されましたが、4人が行方不明になっているということです。このグループは8人で釣りに来ていたということで、海上保安部や警察などが捜索に当たっています。現場は立ち入り禁止の看板が設置されている場所だったということです。"
+        },
+        {
           "headline": "三重 新名神6人死亡事故 トラック運転手の勤務状況など調べる",
           "url": "http://www3.nhk.or.jp/news/html/20260321/k10015080601000.html",
           "source": "NHK World",
@@ -1048,16 +1158,6 @@
           "priority": "primary",
           "date": "Sat, 21 Mar 2026 04:55:07 +0900",
           "description": "動画投稿サイトなどに違法にアップロードされている民放のテレビ番組について民放連＝日本民間放送連盟が実態調査を行ったところ、YouTubeに1か月間で少なくとも1万5000本余りが無断で投稿され、32億円ほどの広告費が流出したと推計されることがわかりました。"
-        },
-        {
-          "headline": "正確な情報の流通あり方 議論の枠組み新設へ",
-          "url": "http://www3.nhk.or.jp/news/html/20260320/k10015080541000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 23:02:05 +0900",
-          "description": "SNS上で真偽不明の情報が広がる中、メディアについて研究する専門家らが、報道機関やデジタルプラットフォーム事業者などとともに、正確な情報の流通のあり方を議論する新たな枠組みを設けることになりました。"
         },
         {
           "headline": "Eat a bowl of red rice for good luck",
@@ -1158,9 +1258,119 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 13:13:00 +0900",
           "description": "The aim of the new service is to ensure the communication infrastructure essential for life and economic activities remains operational during emergencies such as disasters."
+        },
+        {
+          "headline": "Model with Down Syndrome to Make Speech at N.Y. Conference",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260321-317567/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 22:00:47 +0000",
+          "description": "A Japanese model with Down syndrome will make a speech later this month at a conference to mark World Down Syndrome Day at the U.N. headquarters in New York."
+        },
+        {
+          "headline": "Japan PM&#8217;s Meeting with Trump at White House Focuses on Showing Solidarity with U.S. President Over Middle East Situation",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260321-317643/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 17:00:52 +0000",
+          "description": "WASHINGTON — Amid escalating tensions over Iran, Prime Minister Sanae Takaichi focused on seeking common ground with U.S. President Donald Trump over ensuring the security of the Strait of Hormuz duri"
+        },
+        {
+          "headline": "Iran&#8217;s Nuclear Program Was Nearly Irreversible, Says Israeli Foreign Minister Gideon Saar",
+          "url": "https://japannews.yomiuri.co.jp/world/wider-world/20260320-317577/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 12:00:45 +0000",
+          "description": "JERUSALEM — It “was a matter of weeks to a few months that the situation was irreversible,” Israeli Foreign Minister Gideon Saar said Thursday, referring to Iran’s nuclear and ballistic missile progra"
+        },
+        {
+          "headline": "Sergeant in Kyoto Police Referred to Prosecutors for Gambling Via Online Casinos",
+          "url": "https://japannews.yomiuri.co.jp/society/crime-courts/20260320-317653/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 08:53:28 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Takaichi Lays Out Japan&#8217;s Position on Middle East Conflict at Talks with Trump",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260320-317599/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 07:40:39 +0000",
+          "description": "WASHINGTON — Prime Minister Sanae Takaichi held talks with U.S. President Donald Trump in Washington on Thursday, laying out “what Japan can and cannot do in the Strait of Hormuz under its own laws.”"
+        },
+        {
+          "headline": "Tokyo Sarin Attack Victims Remembered on 31st Anniversary",
+          "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260320-317595/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:35:49 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Man Arrested for Slashing Seat with Knife While Traveling on Train in Osaka Pref.",
+          "url": "https://japannews.yomiuri.co.jp/society/crime-courts/20260320-317592/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:25:17 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Monetary Policies of Japan, U.S.: Rising Crude Oil Prices Cast Dark Shadow on Future",
+          "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260320-317589/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:21:04 +0000",
+          "description": "Due to the situation in Iran, the degree of difficulty in managing monetary policy has increased in both Japan and the United States. It is important to deal with the issue flexibly while keeping a cl"
+        },
+        {
+          "headline": "U.S. Attacks on Iran: Don’t Benefit Russia by Easing Sanctions",
+          "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260320-317586/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:16:20 +0000",
+          "description": "U.S. President Donald Trump’s administration has eased sanctions against Russia that were imposed over its aggression against Ukraine. Although the administration claims that this is to lower crude oi"
+        },
+        {
+          "headline": "Japan Ski Paradise Faces Strains of Global Acclaim",
+          "url": "https://japannews.yomiuri.co.jp/news-services/afp-jiji/20260320-317584/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 05:54:31 +0000",
+          "description": ""
         }
       ],
       "wire": [
+        {
+          "headline": "Trump says it would be \"nice\" if Japan helped protect Strait of Hormuz",
+          "url": "https://english.kyodonews.net/articles/-/72715",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Mar 2026 06:48:00 +0900",
+          "description": "U.S. President Donald Trump said Friday that &quot;it would be nice&quot; if Japan, China and other countries highly dependent on Read full story here"
+        },
         {
           "headline": "BREAKING NEWS: Trump says \"nice\" if Japan steps up efforts to secure Strait of Hormuz",
           "url": "https://english.kyodonews.net/articles/-/72712",
@@ -1252,26 +1462,6 @@
           "description": "In a drab, sparsely furnished room in a brothel in Cucuta, Colombia, Daniela (not her real name), a Venezuelan in her 20s, describRead full story here"
         },
         {
-          "headline": "Kabuki actor to offer Europe rare peek into stage makeup amid Oscar nod",
-          "url": "https://english.kyodonews.net/articles/-/72678",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 12:13:00 +0900",
-          "description": "Kabuki actor Nakamura Takanosuke is looking forward to giving European audiences a behind-the-scenes glimpse into the stylized staRead full story here"
-        },
-        {
-          "headline": "Japan, US announce energy projects, critical minerals action plan - Reuters",
-          "url": "https://www.reuters.com/business/energy/japan-us-announce-energy-projects-critical-minerals-action-plan-2026-03-19/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 22:05:08 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFVXdFNqLWZmSVBLUkRubVFreGJJeDdoVk5WWkJzQktnMEF4dXd1MnVOQlNWblRZT2MzTzhfZ2pvc3Q3bDBRN3JtdTZWVXg4TjAtZk50VDN0QlpOeHZnZDFwS1FxVGxGbVo3OEZ"
-        },
-        {
           "headline": "Japan may stockpile US oil domestically, PM says - Reuters",
           "url": "https://www.reuters.com/business/energy/japan-may-stockpile-us-oil-domestically-pm-says-2026-03-20/",
           "source": "Reuters Japan",
@@ -1282,16 +1472,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGNVX2RZUFhaT0ZOSjdVb29vODAwU0hDX3lZUXduTk5sYlB1VFY4RElPelhXdXpvT21XeEtqVURjV1JDWDN4RnY2cFUtOEt4M1hrR2pBQ05KQk5hdHp0dGhaU1d3VkV3VkVNdXg"
         },
         {
-          "headline": "Inside Japan's gallows - Reuters",
-          "url": "https://www.reuters.com/news/picture/inside-japans-gallows-idUSRTR2HLJC/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 18 Dec 2023 01:58:18 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuUXRLdk1EN0tjczlrYTZGY2J0QWdFSnVzMDhDUlhBQ1FRYXBYN0h6OUhPY2VWT3RCQzlfU1d4bnhHZDREZ3lVbHZhNHJxSmlycEVFUENhTGk0TngwTXU2STdGcGJ3T1JXa09LOEF"
-        },
-        {
           "headline": "NextEra secures Trump's approval for up to 10 GW gas power projects - Reuters",
           "url": "https://www.reuters.com/business/energy/trump-approves-up-10-gw-nextera-gas-power-projects-texas-2026-03-20/",
           "source": "Reuters Japan",
@@ -1300,6 +1480,16 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 14:58:25 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tJQjBYeXpnbEFqX2J0TlpxZWxVRk9XdzVHTzBHcXF2VnBNR1RLTzBmQ1BSeW5tM3NaemJ2VEJ3UzgzcWJQbDY1N19GWVZqZk5vRlRNXzJ4U3ZyS3IzUFFIcFI5RWROSGJpUDk"
+        },
+        {
+          "headline": "Inside Japan's gallows - Reuters",
+          "url": "https://www.reuters.com/news/picture/inside-japans-gallows-idUSRTR2HLJC/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 18 Dec 2023 01:58:18 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuUXRLdk1EN0tjczlrYTZGY2J0QWdFSnVzMDhDUlhBQ1FRYXBYN0h6OUhPY2VWT3RCQzlfU1d4bnhHZDREZ3lVbHZhNHJxSmlycEVFUENhTGk0TngwTXU2STdGcGJ3T1JXa09LOEF"
         },
         {
           "headline": "China's rare earth exports rise, shipments to US fall - Reuters",
@@ -1362,6 +1552,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblN5WGZvYlVrNno0OHRhQWN5X3BpbFpmMkdzbzJnZlo3YWNvLUU4SVVEVnpucnBPQWVTRllxZk9vQlNpN2dUUzFxQUhfam1iS056N0owMDhaeGFYbHEybW50UXRaZklvaXV6SzY"
         },
         {
+          "headline": "Oil jumps to highest settlement since July 2022 as more Mideast supply disrupted - Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-falls-us-allies-look-boost-supply-unchoke-strait-hormuz-2026-03-20/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 01:32:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2Rpc2pia3d3NWVCUWNYTGo0b281N0RpbEx1MHVNR0JRbERGZnFsVGQxbHV6ZElVQ1dDNDhmRzJPVDNFWUJoLXVPT3VPZVh0eVBUOVNyZWtSV2NLeHZRaFJmQ003OGo1bU5Sb3p"
+        },
+        {
           "headline": "Japan's Takaichi tries to reaffirm alliance with Trump as he seeks help securing Strait of Hormuz - AP News",
           "url": "https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13",
           "source": "AP Japan",
@@ -1380,16 +1580,6 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 06:30:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNY093aWM3RHpKcTdjN3NRemhUT2lMV1lZN05nVk5ubjJNWnY1Xzh1NjJDTDR3dUFYeDVkZVphX0JiTUZZdVhiSlk4VGk4X3ZHVm0wcjNXODFFbGQ4ZFdBRlJ6czNUNWF0NnR1V2h"
-        },
-        {
-          "headline": "EU asks for reopening of the Strait of Hormuz and no more strikes on energy, water sites - AP News",
-          "url": "https://apnews.com/article/european-union-summit-iran-war-ukraine-loan-014cc7de7f00a52c272c07937117db51",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 22:06:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3MtYUp2VTdFS1B2Q29CM3NjUUJ4cmRZVXZ0V0VaU2JFd05OVEFmRVIzeHNvRzg5ZGh3ckFjSFNGRUYxdno3ZHJEOWwwc2JKM2dfV2hha1F5S3RLY0tmMmRsbkJVWUI0VnpjVmN"
         },
         {
           "headline": "Monthly cash payments could boost disaster survivors. A Maui nonprofit tries it out - AP News",
@@ -1412,13 +1602,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWVrQktnUzlUZVVIRWoyNlpMZERfSUxUYVVEbi1sMjR0QnQ5VjZ0ZGVNZ2lmMkd1dElBbm1FbGpvTk5OUWE5LVZYdHpMdUhhX2RqTUhpenVsdFpTNE4waWlsM3NpV1BIb2xaN1d"
         },
         {
-          "headline": "Another climb for oil prices rattles stocks worldwide and erases hopes for a rate cut by the Fed - AP News",
+          "headline": "High oil prices knock down stocks and erase Wall Street’s hopes for a cut to interest rates - AP News",
           "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-gas-b797f3819f7caac46893afb5b770f44c",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 19:14:00 GMT",
+          "date": "Fri, 20 Mar 2026 20:11:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQb212V0FGeWZNZWV3ak50THZNajRJczNGOVJNSWxUVUoyeG1fUklGNUFEX1VtZjRyVWhjOFZEeUtNdVNkdldJZ1FRcmFhY1NSWXdYNE9uZm82bTZmWExJUDdaTzJlT1AwUENvZ1Z"
         },
         {
@@ -1430,16 +1620,6 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 20:29:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmJhUkdCMUJwUGtYNG12NVY0QlBIaXB6dHcyN1l0VmMyQThNTGxNcW9KR0VONi1uS2NsU2xJNWtaU1V2Z09uNE5LVHhqMm5PdXNQQy1peWdQaDZWd3JLTWI4cGJSUS1yZ0x4Rzl"
-        },
-        {
-          "headline": "Trump and Netanyahu split on gas field attack, raise questions about whether they're in sync on war - AP News",
-          "url": "https://apnews.com/article/trump-iran-netanyahu-gas-cd880a355e3873d8175084140581b2c1",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 22:10:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZUt6YjVTVEtHV2ZKYWhLcmpRdzFPQzBLeHVhVllia2ZDVjNJQ0ZMMEZPanNOY0Nyak5ONGZKMmFxYXB4WjJWLVMyRFVjdmRMWG1nQnZ3TjJCWDl0dm13WHdheFd3ZTM2Szc1ZVZ"
         },
         {
           "headline": "US Mint can begin producing Trump commemorative gold coin after arts commission approves design - AP News",
@@ -1460,6 +1640,26 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 09:38:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1h1Sm1uZU81cTJQU1ZkV0xHVWFiZUpxVklVMWVVcFlvSmlPRXoxTlVhYnBPMWd3c0hmeTNsczdwa2tqOFJKYnNwSmRTczJmajZyN3gyTGNmNGVEOGJFdm12NURwNktwWE9mUUw"
+        },
+        {
+          "headline": "White House urges Congress to take a light touch on AI regulations in new legislative blueprint - AP News",
+          "url": "https://apnews.com/article/white-house-donald-trump-artificial-intelligence-479eb3d0a50fe7237678a9bfb146ac7a",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 20:54:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2xQTmpPX25YanFWNlhWQnFsbS1Cb3dROF84dGhxLWRXT1ZEVWxmX2g5bmdEdUN3UXlBX2xKWmRzN0xDTXVkTk4zWFVGR2Z5MXNoM181X1FzRl9Pb21Kcl8wNmpsN3lmb01NZVB"
+        },
+        {
+          "headline": "Fire at South Korean auto parts factory injures at least 55 - AP News",
+          "url": "https://apnews.com/article/south-korea-fire-factory-daejeon-227bcb17b76920a2fe543f599c09a05d",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 15:34:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVZMY2I4ZWVmVFl4T2V4TjZTRGtpM21OLUVDODhNOExndUxSS01vTWd5ZU01N3QtRkR3c0V3NC1USURvVi1rdW14dDdFTjJVQ0RxOHV6bzB4cGJiT3NpWFFHaVFYN1ZnTmhSRkJ"
         },
         {
           "headline": "Japan ski paradise faces strains of global acclaim - Yahoo News Singapore",
@@ -1492,13 +1692,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBQaE8tU0R3RWFqby1HdnRwV3B1UjFVNzQ1ODdDYnQ3V1hCQzM1bFZNYU5hNTdweVZXN2cxdVItcDZBVmVtM0pVRGxUY2F6UmlJMEVoSTNCRk1VZTVVRFl2eXlpWVNZN2Jxckc5Uk5"
         },
         {
-          "headline": "Trump's Pearl Harbor remark overshadows Japan PM visit - Yahoo News Canada",
+          "headline": "Trump makes Pearl Harbor remark in meeting with Japan's PM - Yahoo News Canada",
           "url": "https://ca.news.yahoo.com/trumps-pearl-harbor-remark-overshadows-095526959.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 09:55:26 GMT",
+          "date": "Fri, 20 Mar 2026 12:40:30 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeURCcEl6OHB4YTJRM1c1ZlFMYTU3U3lwOUc4SDRxM0pEU3ZCRlktYWkzV3ZOcDNoby1YWl9rRGsycDZZMTI3YjNSaE9ydzk0cUhOZGkyM2pVSk5zTENmN3dENGJQcnJJYU1qWTM"
         },
         {
@@ -1522,16 +1722,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRkRIanVlZnZTZ1g0Rl9zTXRaeHhkUURfUklZRTRqakFCMWsxS1VfN280MWt5S1BSUTBocEFyQXhLZ1NJajFNZzdzelBhMkZKOGZBbE5iZWR3OTdJSHl5UTlqdUVlZ3FOa2hPcnV"
         },
         {
-          "headline": "Funny old world: the week's offbeat news - Yahoo News UK",
-          "url": "https://uk.news.yahoo.com/funny-old-world-weeks-offbeat-100925422.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 10:09:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9yTFFGODlmSXNnYnVuM2ZvSU9Sd1JKdkdlWllrbXJLYmVaUXZCWm1XTjYtV01EQmlPRFJuaGEwdVNWbkw0T2xhVVExa0hpamxnalNXTHo0djN0YllWd2x2X2JFZW5aUW0zUGxTOHB"
-        },
-        {
           "headline": "Middle East war: global economic fallout - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/middle-east-war-global-economic-032243737.html",
           "source": "AFP Japan",
@@ -1540,6 +1730,16 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 03:30:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0yb0pkZGZVNUtuZzU1aVBqMEZxQVM5d2dlUnU3RXBhNTIzazE0el9JQTdyU0MtSjdyVVVlNlVBUmRiQ2hhOWxVM01lQk1pV2xaOTRhd0VnVWNIVWhaVjBkS3d2Q0p6QWV3MnM1ZFN"
+        },
+        {
+          "headline": "Funny old world: the week's offbeat news - Yahoo News UK",
+          "url": "https://uk.news.yahoo.com/funny-old-world-weeks-offbeat-100925422.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 10:09:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9yTFFGODlmSXNnYnVuM2ZvSU9Sd1JKdkdlWllrbXJLYmVaUXZCWm1XTjYtV01EQmlPRFJuaGEwdVNWbkw0T2xhVVExa0hpamxnalNXTHo0djN0YllWd2x2X2JFZW5aUW0zUGxTOHB"
         },
         {
           "headline": "Supreme leader says Iran dealt enemies 'dizzying blow' - Yahoo News Singapore",
@@ -1794,6 +1994,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQazVEcmZDaXE2UXBQUjNUS3ZpSjdybGFKQlZiQmVJb25CaTRDV3E1SXFPNEZJTVd0MUlIQXhyUFIyTW9uWjhSNktmMms0NnFON2wxd3lCb1NEdVZOUDNNdnl6SG1QMlNWcTVuTGR"
         },
         {
+          "headline": "Donald Trump Is Caught in a Vise of His Own Making - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-03-20/donald-trump-is-caught-in-a-vise-grip-of-his-own-making",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 10:58:21 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW5BclZUWHk0TjlyeUxmMjhxSnFXQWkwRlNmNjBjV2xySFY1a05vcko1ejdTckpzV2dZdzE5SlZoVV9vekVlQWNyQWFYZ1lvd2xRNHJZaDFYLWpKSmhCeTZEUGN3emJreElNTlM"
+        },
+        {
           "headline": "SoftBank Plans Giant Ohio AI Data Center Powered by Gas Plants - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-20/softbank-plans-giant-ohio-ai-data-center-powered-by-gas-plants",
           "source": "Bloomberg Japan",
@@ -1804,14 +2014,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkZTU2hCUmdaTVpSQTlGTmNMeTdPOWpCbjZGMU12Ry1kZl9SOUw3eXEyandzcldfWi1OaEVSc0NKRXdsWS0xRHRWVFJEaU9KSThnZlE5X0ZqNEVZOWxrWWU3bWdHVHFUeEctR3o"
         },
         {
-          "headline": "Donald Trump Is Caught in a Vise of His Own Making - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-03-20/donald-trump-is-caught-in-a-vise-grip-of-his-own-making",
+          "headline": "Trump Approves NextEra Gas Expansion to Meet Rising Power Demand - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-20/trump-approves-nextera-gas-expansion-to-meet-rising-power-demand",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 10:58:21 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW5BclZUWHk0TjlyeUxmMjhxSnFXQWkwRlNmNjBjV2xySFY1a05vcko1ejdTckpzV2dZdzE5SlZoVV9vekVlQWNyQWFYZ1lvd2xRNHJZaDFYLWpKSmhCeTZEUGN3emJreElNTlM"
+          "date": "Fri, 20 Mar 2026 16:34:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWJ0dG00Q09NV2EzSk1IbE1CMkI1RWpiU1k4TjRfaUNEejVUYTZzRkIwb3ptamh5cXlDZzM2ZldLRUlJOFhTMU51cUZ6Vk53NXZ5ZFlWcURUNkhvTzY3elBOVnBaQndqdUYyQlV"
         },
         {
           "headline": "China’s Record Deflation Finds Dangerous Cure in Oil Shock - Bloomberg.com",
@@ -1852,16 +2062,6 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 09:00:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXVZX2lRdGs4bGVzeDVJNDI3a2RiWEhlYkhYZEc0V2NxVGtFdHlkY2FRVHdnbnJtSDlHNDUzODZJR3BCdkI0WFF2Q3BMWThzbnZ0blRRel96cXVwODRMYU41cjNDbkg1QVFEOXV"
-        },
-        {
-          "headline": "Asia Buys Most US Oil in Three Years as War Blocks Mideast Flows - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-19/asia-buys-most-us-oil-in-three-years-as-war-blocks-mideast-flows",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 03:07:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHFjZEFOd3VPZ2hONnpoN3FTdFpvRlZvRFhob3RFYjFoRUx1RmpWdzNoazB0REZydDdlb0lqTjRiZTRTOFFzQmRqRzFEb2xxdUlraXAtdXBTdG5VdjRDNjVISmk3ejBjRi1abEp"
         },
         {
           "headline": "With Japanese prime minister at his side, Trump makes Pearl Harbor joke - The Washington Post",
@@ -1924,6 +2124,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmppZEx1c2J3blI0RjVrRmxsS2V3aUc1cjliZTQyendndG5qRm1iR1BXaEc4Skt5eDBrenY3ZHZzdGt2SWhEVTZYLVhYZjVySEt1QlctTWpIMDFHRURmODF5RFlWX2s3aGJZTmN"
         },
         {
+          "headline": "Trump’s hand-picked panel votes to put his face on a U.S. gold coin - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Fri, 20 Mar 2026 01:41:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemh6N0pmN2xlZnRGNlJqc1F6QjlqeEVxODdtSFZVN2RtZjdtS0RfYWJGTVdUZ2p5TTJZa2V5VmpseHRWeUxLUmlGa2dXell2M1RWdlNwRVpGUm9YV05BVWFrOExweTBPd2xMcnB"
+        },
+        {
           "headline": "Supreme Court sides with antiabortion activist in free speech case - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
@@ -1934,14 +2144,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdy1iWVhTQW1pN2F0dE1GNzliQ2pNeVZLZHBBZ2JiSXBPWFV1b1p4U3d6YTV4bU5hUVd6M0hIZXpGd3VwYXI3b29CY3NnWjctV0ZURkZpRlhRekhFc0tmS1lQdWoxMTlCX1ItaWR"
         },
         {
-          "headline": "You asked: I’ve been critical of Trump. Should I worry about flying abroad? - The Washington Post",
+          "headline": "They defended the Capitol on Jan. 6. Their names are missing from the tribute. - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Fri, 20 Mar 2026 16:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRE9JTFI5U2ZqWlZBc3JfbVRXYlJKNmktTlotN1F5RkNtbWQ4T3U3LVc1ZGhkNGNGa05BWUZmOWlFdjVmQ3F4RS1leGlwak5jb3B6SEZGdHNlS29xQjJFXzhuRjNickpicTNTM3l"
+          "date": "Fri, 20 Mar 2026 16:00:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPcC15Z2d0ZmU0Nm4ySldPZTVMNEZESTV5NGo4bUo5eTBqMHZhc3dRZTFDa2xqUlgyRlpjdGM1SnR2VS11MHhlTkdXUkMyNGZPZWI3UEFJbmxVOFVfZjBGc0VvS01uZTdGWGtPdlJ"
         },
         {
           "headline": "CWG Live: Less chilly tonight, and warmer Friday into the weekend - The Washington Post",
@@ -1952,16 +2162,6 @@
           "priority": "tertiary",
           "date": "Fri, 20 Mar 2026 02:56:59 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjJ3YUlRc0pGdElOMlNiekp0WU1aVjlHdEQ2X2dONC1tRTRjcnhDQmhvWWZEUGpzcWZWVGVEdWw2VzdaYWZ5SWxINER1U0l4NmYxSHpZSmlSamhmR1M2QjUzeFBqVlZNdFVZWG5"
-        },
-        {
-          "headline": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Fri, 20 Mar 2026 20:31:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5\" target=\"_blank\"&gt;The Washington Post - Brea"
         }
       ]
     },
@@ -1998,6 +2198,16 @@
           "description": "イラン情勢の緊迫化で、地域経済への影響が懸念される中、関西の主な地方銀行の間では、相談窓口を設置する動きが相次いでいます。"
         },
         {
+          "headline": "福井 坂井 防波堤で海に転落 ベトナム国籍の4人行方不明",
+          "url": "http://www3.nhk.or.jp/news/html/20260321/k10015080741000.html",
+          "source": "NHK World",
+          "sourceId": "nhk_world",
+          "category": "national",
+          "priority": "primary",
+          "date": "Sat, 21 Mar 2026 07:33:11 +0900",
+          "description": "福井海上保安署によりますと、21日午前2時半ごろ、福井県坂井市の三国港の防波堤でベトナム国籍の5人が海に転落し1人が救助されましたが、4人が行方不明になっているということです。このグループは8人で釣りに来ていたということで、海上保安部や警察などが捜索に当たっています。現場は立ち入り禁止の看板が設置されている場所だったということです。"
+        },
+        {
           "headline": "三重 新名神6人死亡事故 トラック運転手の勤務状況など調べる",
           "url": "http://www3.nhk.or.jp/news/html/20260321/k10015080601000.html",
           "source": "NHK World",
@@ -2028,14 +2238,14 @@
           "description": "動画投稿サイトなどに違法にアップロードされている民放のテレビ番組について民放連＝日本民間放送連盟が実態調査を行ったところ、YouTubeに1か月間で少なくとも1万5000本余りが無断で投稿され、32億円ほどの広告費が流出したと推計されることがわかりました。"
         },
         {
-          "headline": "正確な情報の流通あり方 議論の枠組み新設へ",
-          "url": "http://www3.nhk.or.jp/news/html/20260320/k10015080541000.html",
-          "source": "NHK World",
-          "sourceId": "nhk_world",
-          "category": "national",
+          "headline": "Trump says it would be \"nice\" if Japan helped protect Strait of Hormuz",
+          "url": "https://english.kyodonews.net/articles/-/72715",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
           "priority": "primary",
-          "date": "Fri, 20 Mar 2026 23:02:05 +0900",
-          "description": "SNS上で真偽不明の情報が広がる中、メディアについて研究する専門家らが、報道機関やデジタルプラットフォーム事業者などとともに、正確な情報の流通のあり方を議論する新たな枠組みを設けることになりました。"
+          "date": "Sat, 21 Mar 2026 06:48:00 +0900",
+          "description": "U.S. President Donald Trump said Friday that &quot;it would be nice&quot; if Japan, China and other countries highly dependent on Read full story here"
         },
         {
           "headline": "BREAKING NEWS: Trump says \"nice\" if Japan steps up efforts to secure Strait of Hormuz",
@@ -2126,16 +2336,6 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 12:48:00 +0900",
           "description": "In a drab, sparsely furnished room in a brothel in Cucuta, Colombia, Daniela (not her real name), a Venezuelan in her 20s, describRead full story here"
-        },
-        {
-          "headline": "Kabuki actor to offer Europe rare peek into stage makeup amid Oscar nod",
-          "url": "https://english.kyodonews.net/articles/-/72678",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 12:13:00 +0900",
-          "description": "Kabuki actor Nakamura Takanosuke is looking forward to giving European audiences a behind-the-scenes glimpse into the stylized staRead full story here"
         },
         {
           "headline": "Eat a bowl of red rice for good luck",
@@ -2236,19 +2436,109 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 13:13:00 +0900",
           "description": "The aim of the new service is to ensure the communication infrastructure essential for life and economic activities remains operational during emergencies such as disasters."
+        },
+        {
+          "headline": "Model with Down Syndrome to Make Speech at N.Y. Conference",
+          "url": "https://japannews.yomiuri.co.jp/society/general-news/20260321-317567/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 22:00:47 +0000",
+          "description": "A Japanese model with Down syndrome will make a speech later this month at a conference to mark World Down Syndrome Day at the U.N. headquarters in New York."
+        },
+        {
+          "headline": "Japan PM&#8217;s Meeting with Trump at White House Focuses on Showing Solidarity with U.S. President Over Middle East Situation",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260321-317643/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 17:00:52 +0000",
+          "description": "WASHINGTON — Amid escalating tensions over Iran, Prime Minister Sanae Takaichi focused on seeking common ground with U.S. President Donald Trump over ensuring the security of the Strait of Hormuz duri"
+        },
+        {
+          "headline": "Iran&#8217;s Nuclear Program Was Nearly Irreversible, Says Israeli Foreign Minister Gideon Saar",
+          "url": "https://japannews.yomiuri.co.jp/world/wider-world/20260320-317577/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 12:00:45 +0000",
+          "description": "JERUSALEM — It “was a matter of weeks to a few months that the situation was irreversible,” Israeli Foreign Minister Gideon Saar said Thursday, referring to Iran’s nuclear and ballistic missile progra"
+        },
+        {
+          "headline": "Sergeant in Kyoto Police Referred to Prosecutors for Gambling Via Online Casinos",
+          "url": "https://japannews.yomiuri.co.jp/society/crime-courts/20260320-317653/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 08:53:28 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Takaichi Lays Out Japan&#8217;s Position on Middle East Conflict at Talks with Trump",
+          "url": "https://japannews.yomiuri.co.jp/politics/politics-government/20260320-317599/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 07:40:39 +0000",
+          "description": "WASHINGTON — Prime Minister Sanae Takaichi held talks with U.S. President Donald Trump in Washington on Thursday, laying out “what Japan can and cannot do in the Strait of Hormuz under its own laws.”"
+        },
+        {
+          "headline": "Tokyo Sarin Attack Victims Remembered on 31st Anniversary",
+          "url": "https://japannews.yomiuri.co.jp/news-services/jiji-press/20260320-317595/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:35:49 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Man Arrested for Slashing Seat with Knife While Traveling on Train in Osaka Pref.",
+          "url": "https://japannews.yomiuri.co.jp/society/crime-courts/20260320-317592/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:25:17 +0000",
+          "description": ""
+        },
+        {
+          "headline": "Monetary Policies of Japan, U.S.: Rising Crude Oil Prices Cast Dark Shadow on Future",
+          "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260320-317589/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:21:04 +0000",
+          "description": "Due to the situation in Iran, the degree of difficulty in managing monetary policy has increased in both Japan and the United States. It is important to deal with the issue flexibly while keeping a cl"
+        },
+        {
+          "headline": "U.S. Attacks on Iran: Don’t Benefit Russia by Easing Sanctions",
+          "url": "https://japannews.yomiuri.co.jp/editorial/yomiuri-editorial/20260320-317586/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:16:20 +0000",
+          "description": "U.S. President Donald Trump’s administration has eased sanctions against Russia that were imposed over its aggression against Ukraine. Although the administration claims that this is to lower crude oi"
+        },
+        {
+          "headline": "Japan Ski Paradise Faces Strains of Global Acclaim",
+          "url": "https://japannews.yomiuri.co.jp/news-services/afp-jiji/20260320-317584/",
+          "source": "Japan News (Yomiuri)",
+          "sourceId": "japan_news_yomiuri",
+          "category": "national",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 05:54:31 +0000",
+          "description": ""
         }
       ],
       "secondary": [
-        {
-          "headline": "Japan, US announce energy projects, critical minerals action plan - Reuters",
-          "url": "https://www.reuters.com/business/energy/japan-us-announce-energy-projects-critical-minerals-action-plan-2026-03-19/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 22:05:08 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFVXdFNqLWZmSVBLUkRubVFreGJJeDdoVk5WWkJzQktnMEF4dXd1MnVOQlNWblRZT2MzTzhfZ2pvc3Q3bDBRN3JtdTZWVXg4TjAtZk50VDN0QlpOeHZnZDFwS1FxVGxGbVo3OEZ"
-        },
         {
           "headline": "Japan may stockpile US oil domestically, PM says - Reuters",
           "url": "https://www.reuters.com/business/energy/japan-may-stockpile-us-oil-domestically-pm-says-2026-03-20/",
@@ -2260,16 +2550,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGNVX2RZUFhaT0ZOSjdVb29vODAwU0hDX3lZUXduTk5sYlB1VFY4RElPelhXdXpvT21XeEtqVURjV1JDWDN4RnY2cFUtOEt4M1hrR2pBQ05KQk5hdHp0dGhaU1d3VkV3VkVNdXg"
         },
         {
-          "headline": "Inside Japan's gallows - Reuters",
-          "url": "https://www.reuters.com/news/picture/inside-japans-gallows-idUSRTR2HLJC/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 18 Dec 2023 01:58:18 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuUXRLdk1EN0tjczlrYTZGY2J0QWdFSnVzMDhDUlhBQ1FRYXBYN0h6OUhPY2VWT3RCQzlfU1d4bnhHZDREZ3lVbHZhNHJxSmlycEVFUENhTGk0TngwTXU2STdGcGJ3T1JXa09LOEF"
-        },
-        {
           "headline": "NextEra secures Trump's approval for up to 10 GW gas power projects - Reuters",
           "url": "https://www.reuters.com/business/energy/trump-approves-up-10-gw-nextera-gas-power-projects-texas-2026-03-20/",
           "source": "Reuters Japan",
@@ -2278,6 +2558,16 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 14:58:25 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tJQjBYeXpnbEFqX2J0TlpxZWxVRk9XdzVHTzBHcXF2VnBNR1RLTzBmQ1BSeW5tM3NaemJ2VEJ3UzgzcWJQbDY1N19GWVZqZk5vRlRNXzJ4U3ZyS3IzUFFIcFI5RWROSGJpUDk"
+        },
+        {
+          "headline": "Inside Japan's gallows - Reuters",
+          "url": "https://www.reuters.com/news/picture/inside-japans-gallows-idUSRTR2HLJC/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 18 Dec 2023 01:58:18 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBuUXRLdk1EN0tjczlrYTZGY2J0QWdFSnVzMDhDUlhBQ1FRYXBYN0h6OUhPY2VWT3RCQzlfU1d4bnhHZDREZ3lVbHZhNHJxSmlycEVFUENhTGk0TngwTXU2STdGcGJ3T1JXa09LOEF"
         },
         {
           "headline": "China's rare earth exports rise, shipments to US fall - Reuters",
@@ -2340,6 +2630,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblN5WGZvYlVrNno0OHRhQWN5X3BpbFpmMkdzbzJnZlo3YWNvLUU4SVVEVnpucnBPQWVTRllxZk9vQlNpN2dUUzFxQUhfam1iS056N0owMDhaeGFYbHEybW50UXRaZklvaXV6SzY"
         },
         {
+          "headline": "Oil jumps to highest settlement since July 2022 as more Mideast supply disrupted - Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-falls-us-allies-look-boost-supply-unchoke-strait-hormuz-2026-03-20/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 01:32:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2Rpc2pia3d3NWVCUWNYTGo0b281N0RpbEx1MHVNR0JRbERGZnFsVGQxbHV6ZElVQ1dDNDhmRzJPVDNFWUJoLXVPT3VPZVh0eVBUOVNyZWtSV2NLeHZRaFJmQ003OGo1bU5Sb3p"
+        },
+        {
           "headline": "Japan's Takaichi tries to reaffirm alliance with Trump as he seeks help securing Strait of Hormuz - AP News",
           "url": "https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13",
           "source": "AP Japan",
@@ -2358,16 +2658,6 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 06:30:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNY093aWM3RHpKcTdjN3NRemhUT2lMV1lZN05nVk5ubjJNWnY1Xzh1NjJDTDR3dUFYeDVkZVphX0JiTUZZdVhiSlk4VGk4X3ZHVm0wcjNXODFFbGQ4ZFdBRlJ6czNUNWF0NnR1V2h"
-        },
-        {
-          "headline": "EU asks for reopening of the Strait of Hormuz and no more strikes on energy, water sites - AP News",
-          "url": "https://apnews.com/article/european-union-summit-iran-war-ukraine-loan-014cc7de7f00a52c272c07937117db51",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 22:06:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3MtYUp2VTdFS1B2Q29CM3NjUUJ4cmRZVXZ0V0VaU2JFd05OVEFmRVIzeHNvRzg5ZGh3ckFjSFNGRUYxdno3ZHJEOWwwc2JKM2dfV2hha1F5S3RLY0tmMmRsbkJVWUI0VnpjVmN"
         },
         {
           "headline": "Monthly cash payments could boost disaster survivors. A Maui nonprofit tries it out - AP News",
@@ -2390,13 +2680,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWVrQktnUzlUZVVIRWoyNlpMZERfSUxUYVVEbi1sMjR0QnQ5VjZ0ZGVNZ2lmMkd1dElBbm1FbGpvTk5OUWE5LVZYdHpMdUhhX2RqTUhpenVsdFpTNE4waWlsM3NpV1BIb2xaN1d"
         },
         {
-          "headline": "Another climb for oil prices rattles stocks worldwide and erases hopes for a rate cut by the Fed - AP News",
+          "headline": "High oil prices knock down stocks and erase Wall Street’s hopes for a cut to interest rates - AP News",
           "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-gas-b797f3819f7caac46893afb5b770f44c",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 19:14:00 GMT",
+          "date": "Fri, 20 Mar 2026 20:11:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQb212V0FGeWZNZWV3ak50THZNajRJczNGOVJNSWxUVUoyeG1fUklGNUFEX1VtZjRyVWhjOFZEeUtNdVNkdldJZ1FRcmFhY1NSWXdYNE9uZm82bTZmWExJUDdaTzJlT1AwUENvZ1Z"
         },
         {
@@ -2408,16 +2698,6 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 20:29:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmJhUkdCMUJwUGtYNG12NVY0QlBIaXB6dHcyN1l0VmMyQThNTGxNcW9KR0VONi1uS2NsU2xJNWtaU1V2Z09uNE5LVHhqMm5PdXNQQy1peWdQaDZWd3JLTWI4cGJSUS1yZ0x4Rzl"
-        },
-        {
-          "headline": "Trump and Netanyahu split on gas field attack, raise questions about whether they're in sync on war - AP News",
-          "url": "https://apnews.com/article/trump-iran-netanyahu-gas-cd880a355e3873d8175084140581b2c1",
-          "source": "AP Japan",
-          "sourceId": "ap_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 22:10:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZUt6YjVTVEtHV2ZKYWhLcmpRdzFPQzBLeHVhVllia2ZDVjNJQ0ZMMEZPanNOY0Nyak5ONGZKMmFxYXB4WjJWLVMyRFVjdmRMWG1nQnZ3TjJCWDl0dm13WHdheFd3ZTM2Szc1ZVZ"
         },
         {
           "headline": "US Mint can begin producing Trump commemorative gold coin after arts commission approves design - AP News",
@@ -2438,6 +2718,26 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 09:38:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1h1Sm1uZU81cTJQU1ZkV0xHVWFiZUpxVklVMWVVcFlvSmlPRXoxTlVhYnBPMWd3c0hmeTNsczdwa2tqOFJKYnNwSmRTczJmajZyN3gyTGNmNGVEOGJFdm12NURwNktwWE9mUUw"
+        },
+        {
+          "headline": "White House urges Congress to take a light touch on AI regulations in new legislative blueprint - AP News",
+          "url": "https://apnews.com/article/white-house-donald-trump-artificial-intelligence-479eb3d0a50fe7237678a9bfb146ac7a",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 20:54:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2xQTmpPX25YanFWNlhWQnFsbS1Cb3dROF84dGhxLWRXT1ZEVWxmX2g5bmdEdUN3UXlBX2xKWmRzN0xDTXVkTk4zWFVGR2Z5MXNoM181X1FzRl9Pb21Kcl8wNmpsN3lmb01NZVB"
+        },
+        {
+          "headline": "Fire at South Korean auto parts factory injures at least 55 - AP News",
+          "url": "https://apnews.com/article/south-korea-fire-factory-daejeon-227bcb17b76920a2fe543f599c09a05d",
+          "source": "AP Japan",
+          "sourceId": "ap_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 15:34:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVZMY2I4ZWVmVFl4T2V4TjZTRGtpM21OLUVDODhNOExndUxSS01vTWd5ZU01N3QtRkR3c0V3NC1USURvVi1rdW14dDdFTjJVQ0RxOHV6bzB4cGJiT3NpWFFHaVFYN1ZnTmhSRkJ"
         },
         {
           "headline": "Japan ski paradise faces strains of global acclaim - Yahoo News Singapore",
@@ -2470,13 +2770,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBQaE8tU0R3RWFqby1HdnRwV3B1UjFVNzQ1ODdDYnQ3V1hCQzM1bFZNYU5hNTdweVZXN2cxdVItcDZBVmVtM0pVRGxUY2F6UmlJMEVoSTNCRk1VZTVVRFl2eXlpWVNZN2Jxckc5Uk5"
         },
         {
-          "headline": "Trump's Pearl Harbor remark overshadows Japan PM visit - Yahoo News Canada",
+          "headline": "Trump makes Pearl Harbor remark in meeting with Japan's PM - Yahoo News Canada",
           "url": "https://ca.news.yahoo.com/trumps-pearl-harbor-remark-overshadows-095526959.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 09:55:26 GMT",
+          "date": "Fri, 20 Mar 2026 12:40:30 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeURCcEl6OHB4YTJRM1c1ZlFMYTU3U3lwOUc4SDRxM0pEU3ZCRlktYWkzV3ZOcDNoby1YWl9rRGsycDZZMTI3YjNSaE9ydzk0cUhOZGkyM2pVSk5zTENmN3dENGJQcnJJYU1qWTM"
         },
         {
@@ -2500,16 +2800,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRkRIanVlZnZTZ1g0Rl9zTXRaeHhkUURfUklZRTRqakFCMWsxS1VfN280MWt5S1BSUTBocEFyQXhLZ1NJajFNZzdzelBhMkZKOGZBbE5iZWR3OTdJSHl5UTlqdUVlZ3FOa2hPcnV"
         },
         {
-          "headline": "Funny old world: the week's offbeat news - Yahoo News UK",
-          "url": "https://uk.news.yahoo.com/funny-old-world-weeks-offbeat-100925422.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 10:09:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9yTFFGODlmSXNnYnVuM2ZvSU9Sd1JKdkdlWllrbXJLYmVaUXZCWm1XTjYtV01EQmlPRFJuaGEwdVNWbkw0T2xhVVExa0hpamxnalNXTHo0djN0YllWd2x2X2JFZW5aUW0zUGxTOHB"
-        },
-        {
           "headline": "Middle East war: global economic fallout - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/middle-east-war-global-economic-032243737.html",
           "source": "AFP Japan",
@@ -2518,6 +2808,16 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 03:30:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0yb0pkZGZVNUtuZzU1aVBqMEZxQVM5d2dlUnU3RXBhNTIzazE0el9JQTdyU0MtSjdyVVVlNlVBUmRiQ2hhOWxVM01lQk1pV2xaOTRhd0VnVWNIVWhaVjBkS3d2Q0p6QWV3MnM1ZFN"
+        },
+        {
+          "headline": "Funny old world: the week's offbeat news - Yahoo News UK",
+          "url": "https://uk.news.yahoo.com/funny-old-world-weeks-offbeat-100925422.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 10:09:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9yTFFGODlmSXNnYnVuM2ZvSU9Sd1JKdkdlWllrbXJLYmVaUXZCWm1XTjYtV01EQmlPRFJuaGEwdVNWbkw0T2xhVVExa0hpamxnalNXTHo0djN0YllWd2x2X2JFZW5aUW0zUGxTOHB"
         },
         {
           "headline": "Supreme leader says Iran dealt enemies 'dizzying blow' - Yahoo News Singapore",
@@ -2770,6 +3070,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQazVEcmZDaXE2UXBQUjNUS3ZpSjdybGFKQlZiQmVJb25CaTRDV3E1SXFPNEZJTVd0MUlIQXhyUFIyTW9uWjhSNktmMms0NnFON2wxd3lCb1NEdVZOUDNNdnl6SG1QMlNWcTVuTGR"
         },
         {
+          "headline": "Donald Trump Is Caught in a Vise of His Own Making - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-03-20/donald-trump-is-caught-in-a-vise-grip-of-his-own-making",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 10:58:21 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW5BclZUWHk0TjlyeUxmMjhxSnFXQWkwRlNmNjBjV2xySFY1a05vcko1ejdTckpzV2dZdzE5SlZoVV9vekVlQWNyQWFYZ1lvd2xRNHJZaDFYLWpKSmhCeTZEUGN3emJreElNTlM"
+        },
+        {
           "headline": "SoftBank Plans Giant Ohio AI Data Center Powered by Gas Plants - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-20/softbank-plans-giant-ohio-ai-data-center-powered-by-gas-plants",
           "source": "Bloomberg Japan",
@@ -2780,14 +3090,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkZTU2hCUmdaTVpSQTlGTmNMeTdPOWpCbjZGMU12Ry1kZl9SOUw3eXEyandzcldfWi1OaEVSc0NKRXdsWS0xRHRWVFJEaU9KSThnZlE5X0ZqNEVZOWxrWWU3bWdHVHFUeEctR3o"
         },
         {
-          "headline": "Donald Trump Is Caught in a Vise of His Own Making - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-03-20/donald-trump-is-caught-in-a-vise-grip-of-his-own-making",
+          "headline": "Trump Approves NextEra Gas Expansion to Meet Rising Power Demand - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-20/trump-approves-nextera-gas-expansion-to-meet-rising-power-demand",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 10:58:21 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW5BclZUWHk0TjlyeUxmMjhxSnFXQWkwRlNmNjBjV2xySFY1a05vcko1ejdTckpzV2dZdzE5SlZoVV9vekVlQWNyQWFYZ1lvd2xRNHJZaDFYLWpKSmhCeTZEUGN3emJreElNTlM"
+          "date": "Fri, 20 Mar 2026 16:34:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWJ0dG00Q09NV2EzSk1IbE1CMkI1RWpiU1k4TjRfaUNEejVUYTZzRkIwb3ptamh5cXlDZzM2ZldLRUlJOFhTMU51cUZ6Vk53NXZ5ZFlWcURUNkhvTzY3elBOVnBaQndqdUYyQlV"
         },
         {
           "headline": "China’s Record Deflation Finds Dangerous Cure in Oil Shock - Bloomberg.com",
@@ -2828,16 +3138,6 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 09:00:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXVZX2lRdGs4bGVzeDVJNDI3a2RiWEhlYkhYZEc0V2NxVGtFdHlkY2FRVHdnbnJtSDlHNDUzODZJR3BCdkI0WFF2Q3BMWThzbnZ0blRRel96cXVwODRMYU41cjNDbkg1QVFEOXV"
-        },
-        {
-          "headline": "Asia Buys Most US Oil in Three Years as War Blocks Mideast Flows - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-19/asia-buys-most-us-oil-in-three-years-as-war-blocks-mideast-flows",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 03:07:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHFjZEFOd3VPZ2hONnpoN3FTdFpvRlZvRFhob3RFYjFoRUx1RmpWdzNoazB0REZydDdlb0lqTjRiZTRTOFFzQmRqRzFEb2xxdUlraXAtdXBTdG5VdjRDNjVISmk3ejBjRi1abEp"
         }
       ],
       "tertiary": [
@@ -2902,6 +3202,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmppZEx1c2J3blI0RjVrRmxsS2V3aUc1cjliZTQyendndG5qRm1iR1BXaEc4Skt5eDBrenY3ZHZzdGt2SWhEVTZYLVhYZjVySEt1QlctTWpIMDFHRURmODF5RFlWX2s3aGJZTmN"
         },
         {
+          "headline": "Trump’s hand-picked panel votes to put his face on a U.S. gold coin - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Washington Post",
+          "sourceId": "wapo_japan",
+          "category": "competitors",
+          "priority": "tertiary",
+          "date": "Fri, 20 Mar 2026 01:41:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemh6N0pmN2xlZnRGNlJqc1F6QjlqeEVxODdtSFZVN2RtZjdtS0RfYWJGTVdUZ2p5TTJZa2V5VmpseHRWeUxLUmlGa2dXell2M1RWdlNwRVpGUm9YV05BVWFrOExweTBPd2xMcnB"
+        },
+        {
           "headline": "Supreme Court sides with antiabortion activist in free speech case - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
@@ -2912,14 +3222,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdy1iWVhTQW1pN2F0dE1GNzliQ2pNeVZLZHBBZ2JiSXBPWFV1b1p4U3d6YTV4bU5hUVd6M0hIZXpGd3VwYXI3b29CY3NnWjctV0ZURkZpRlhRekhFc0tmS1lQdWoxMTlCX1ItaWR"
         },
         {
-          "headline": "You asked: I’ve been critical of Trump. Should I worry about flying abroad? - The Washington Post",
+          "headline": "They defended the Capitol on Jan. 6. Their names are missing from the tribute. - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Fri, 20 Mar 2026 16:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRE9JTFI5U2ZqWlZBc3JfbVRXYlJKNmktTlotN1F5RkNtbWQ4T3U3LVc1ZGhkNGNGa05BWUZmOWlFdjVmQ3F4RS1leGlwak5jb3B6SEZGdHNlS29xQjJFXzhuRjNickpicTNTM3l"
+          "date": "Fri, 20 Mar 2026 16:00:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPcC15Z2d0ZmU0Nm4ySldPZTVMNEZESTV5NGo4bUo5eTBqMHZhc3dRZTFDa2xqUlgyRlpjdGM1SnR2VS11MHhlTkdXUkMyNGZPZWI3UEFJbmxVOFVfZjBGc0VvS01uZTdGWGtPdlJ"
         },
         {
           "headline": "CWG Live: Less chilly tonight, and warmer Friday into the weekend - The Washington Post",
@@ -2930,16 +3240,6 @@
           "priority": "tertiary",
           "date": "Fri, 20 Mar 2026 02:56:59 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjJ3YUlRc0pGdElOMlNiekp0WU1aVjlHdEQ2X2dONC1tRTRjcnhDQmhvWWZEUGpzcWZWVGVEdWw2VzdaYWZ5SWxINER1U0l4NmYxSHpZSmlSamhmR1M2QjUzeFBqVlZNdFVZWG5"
-        },
-        {
-          "headline": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Washington Post",
-          "sourceId": "wapo_japan",
-          "category": "competitors",
-          "priority": "tertiary",
-          "date": "Fri, 20 Mar 2026 20:31:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FY012cFVxaU5UdGRUdGtSUmFuYW5KLV9DUFFQd1F4SVY0ZEJ6dl8tbnBXaDc4aklNbTZxQkpZcEhuRHdlVXc?oc=5\" target=\"_blank\"&gt;The Washington Post - Brea"
         }
       ],
       "reference": []

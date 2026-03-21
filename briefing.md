@@ -1,35 +1,30 @@
-Prime Minister Takaichi's White House summit with President Trump has put Japan in a delicate position as the Iran crisis escalates. Trump made a [Pearl Harbor](https://www.bloomberg.com/news/articles/2026-03-19/trump-raises-pearl-harbor-with-japanese-leader-at-white-house) reference during their meeting, according to Bloomberg, while pressing Japan to help secure the Strait of Hormuz. Kyodo News reports Trump said it would be ["nice" if Japan](https://english.kyodonews.net/articles/-/72715) stepped up efforts to protect the vital shipping lane. Despite the awkward historical reference, the Japan Times notes Takaichi [avoided a rift](https://www.japantimes.co.jp/news/2026/03/20/japan/politics/us-japan-summit-takaichi-trump-iran-analysis/) with Trump on Iran policy, at least for now.
+Good morning from Tokyo. The big story dominating headlines here is Iran's apparent readiness to allow Japanese vessels to transit the Strait of Hormuz during ongoing Middle East tensions. [Bloomberg reports](https://www.bloomberg.com/news/articles/2026-03-21/iran-says-ready-to-let-japan-vessels-use-hormuz-kyodo-reports) Iran has signaled it will let Japanese ships pass through the critical waterway, according to Kyodo News, following discussions between the two nations during escalating regional conflict. This comes as President Trump has been pressing Japan and other allies to take greater responsibility for securing energy supply routes, with [the G7 backing](https://www.reuters.com/business/energy/g7-ready-act-protect-global-energy-supplies-backs-hormuz-strait-security-2026-03-21/) Hormuz Strait security operations.
 
-The summit comes as Japan faces economic pressure from the Middle East conflict. Reuters reports Japan may [stockpile US oil](https://www.reuters.com/business/energy/japan-may-stockpile-us-oil-domestically-pm-says-2026-03-20/) domestically to reduce reliance on Middle Eastern supplies. NHK reports that regional banks in Kansai are [setting up consultation](http://www3.nhk.or.jp/news/html/20260321/k10015080591000.html) windows for businesses affected by Iran tensions. The crisis has broader implications beyond energy security, with AP reporting that high oil prices are [knocking down](https://apnews.com/article/stocks-markets-oil-iran-trump-gas-b797f3819f7caac46893afb5b770f44c) global stock markets.
+Prime Minister Takaichi's Washington visit has generated significant diplomatic momentum but also controversy. [AP reports](https://apnews.com/article/tokyo-us-trump-takaichi-japan-pearl-harbor-iran-war-9b3a60e02d384d1e024094e49c1e7f5e) that Trump's reference to Pearl Harbor during their meeting has caused "surprise, embarrassment, and unease" in Japan, as he used the historical attack to justify current U.S. military involvement in Iran. The [U.S. Senate unanimously](https://twitter.com/takaichi_sanae) adopted a resolution welcoming Takaichi's visit and reaffirming the Japan-U.S. Alliance, according to the Prime Minister's own Twitter account. She [laid flowers](https://www.japantimes.co.jp/news/2026/03/21/japan/takaichi-arlington-cemetary/) at Arlington National Cemetery and presented Trump with cherry tree saplings to commemorate America's 250th anniversary.
 
-## Business & Markets
+**Business & Markets**
+• [Netflix is expanding](https://www.bloomberg.com/news/articles/2026-03-20/netflix-grows-live-event-strategy-with-bts-comeback-spectacular) its live event strategy with BTS's comeback spectacular, as the K-pop group [returned to](https://www.bbc.com/news/articles/cge0dyjwezgo) the stage in Seoul following military service completion
+• Global interest rate hikes may be coming as [oil prices soar](https://www.bloomberg.com/news/articles/2026-03-21/world-economy-latest-global-rate-hikes-may-be-coming-as-oil-prices-soar) following Middle East conflict escalation, Bloomberg reports
+• Keio University is [launching a](https://japannews.yomiuri.co.jp/society/general-news/20260322-317763/) cross-industry organization focused on creating healthier information spaces in the AI era, the Yomiuri reports
 
-• Bloomberg reports [SoftBank is planning](https://www.bloomberg.com/news/articles/2026-03-20/softbank-plans-giant-ohio-ai-data-center-powered-by-gas-plants) a massive AI data center in Ohio powered by gas plants, marking another major US investment by the Japanese conglomerate.
+**Government & Policy**
+• The ruling party will [discuss with](http://www3.nhk.or.jp/news/html/20260322/k10015081111000.html) the government how to handle the provisional budget proposal for the new fiscal year, NHK reports
+• North Korea is [holding its](http://www3.nhk.or.jp/news/html/20260322/k10015081121000.html) Supreme People's Assembly today, according to NHK
 
-• Reuters notes China's rare earth exports rose overall, but [shipments to the US](https://www.reuters.com/world/asia-pacific/chinas-exports-rare-earth-magnets-jump-ahead-trump-xi-meeting-2026-03-20) fell as Beijing appears to be adjusting trade flows ahead of potential policy changes.
+**What to Watch**
+A [transport company](https://www.japantimes.co.jp/news/2026/03/21/japan/crime-legal/hiroshima-transport-company-police-search/) in Hiroshima was searched by police following a tunnel accident that killed six people, raising questions about safety oversight in Japan's transport sector.
 
-• Regional banks are bracing for Iran war fallout, with NHK reporting Kansai institutions are [establishing consultation](http://www3.nhk.or.jp/news/html/20260321/k10015080591000.html) services for affected businesses.
+**Coverage Flags**
+International outlets are leading coverage of the Iran-Hormuz transit agreement, which appears to be breaking in English-language media before Japanese domestic press picks up the full implications for Japan's energy security strategy.
 
-• Bloomberg reports that while Iran tensions eased slightly in Asian markets, India's [fear gauge shows](https://www.bloomberg.com/news/articles/2026-03-20/fear-gauge-shows-india-stock-strain-as-iran-shock-eases-in-asia) continued strain from the regional crisis.
-
-## Government & Policy
-
-• According to the Japan Times, Ukraine's ambassador says his country is [ready to share](https://www.japantimes.co.jp/news/2026/03/20/japan/politics/ukraine-ambassador-japan-defense-cooperation/) combat expertise and drone technology with Japan, potentially deepening defense cooperation.
-
-• AP reports new [drone footage](https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748) from inside a Fukushima reactor shows a hole in the pressure vessel, likely fuel debris, as cleanup efforts continue 15 years after the disaster.
-
-## Coverage Flags
-
-International outlets are providing more granular coverage of Trump's Pearl Harbor reference than Japanese media. Bloomberg and BBC have detailed reporting on the diplomatic implications, while Japanese outlets are focusing more on the broader summit outcomes. This disparity in coverage emphasis might warrant closer NYT examination.
-
-## Sources
-
-• [Bloomberg](https://www.bloomberg.com)
+**Sources**
+• [NHK World](http://www3.nhk.or.jp)
 • [Kyodo News](https://english.kyodonews.net)
 • [Japan Times](https://www.japantimes.co.jp)
+• [Japan News (Yomiuri)](https://japannews.yomiuri.co.jp)
 • [Reuters](https://www.reuters.com)
-• [NHK World](http://www3.nhk.or.jp)
-• [AP News](https://apnews.com)
+• [Associated Press](https://apnews.com)
 • [BBC](https://www.bbc.com)
+• [Bloomberg](https://www.bloomberg.com)
 
-*Screenshots captured for reference: Asahi Shimbun, Yomiuri Shimbun, Nikkei, Mainichi Shimbun, Bunshun, BuzzFeed Japan homepages, plus Takaichi Sanae and NHK Ohayou Twitter feeds, Financial Times Asia, Wall Street Journal Asia, and Economist Asia pages.*
+*Reference materials include screenshots of Asahi, Yomiuri, Nikkei, Mainichi, and Bunshun homepages, plus Twitter feeds from PM Takaichi and NHK Ohayou.*

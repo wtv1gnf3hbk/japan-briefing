@@ -4,15 +4,15 @@
     "owner": "Javier Hernandez",
     "timezone": "Asia/Tokyo",
     "description": "Daily news briefing for the NYT Tokyo Bureau Chief",
-    "generated": "2026-03-22T22:02:19.700Z",
-    "generatedTimestamp": 1774216939700
+    "generated": "2026-03-22T22:34:41.228Z",
+    "generatedTimestamp": 1774218881228
   },
   "stats": {
     "sourceCount": 23,
     "successCount": 23,
-    "totalStories": 107,
+    "totalStories": 96,
     "totalScreenshots": 11,
-    "elapsed": "101.1s"
+    "elapsed": "97.4s"
   },
   "stories": {
     "all": [
@@ -85,6 +85,16 @@
         "priority": "primary",
         "date": "Sun, 22 Mar 2026 22:04:49 +0900",
         "description": "日本相撲協会は、大相撲春場所で12勝3敗の成績で3回目の優勝を果たした関脇 霧島の大関昇進に向けた臨時の理事会を開催することを決め、霧島の大関復帰が確実になりました。"
+      },
+      {
+        "headline": "FEATURE: Keio slugger chooses minor leagues over lucrative bank job",
+        "url": "https://english.kyodonews.net/articles/-/72673",
+        "source": "Kyodo News",
+        "sourceId": "kyodo_english",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 23 Mar 2026 07:00:00 +0900",
+        "description": "For most, a job offer from one of the world&#39;s largest investment banks would seem like a dream come true. But for Keio UniversRead full story here"
       },
       {
         "headline": "Sumo: Kirishima set for ozeki return as Aonishiki ends with losing record",
@@ -177,14 +187,14 @@
         "description": "The second batch of projects in the United States under Japan&#39;s $550 billion investment commitment, unveiled in Washington on Read full story here"
       },
       {
-        "headline": "BREAKING NEWS: 1 of 2 Japanese detained in Iran released: Japan gov't",
-        "url": "https://english.kyodonews.net/articles/-/72749",
-        "source": "Kyodo News",
-        "sourceId": "kyodo_english",
-        "category": "wire",
+        "headline": "The human-made roots of Japan's hay fever crisis",
+        "url": "https://www.japantimes.co.jp/environment/2026/03/23/earth-science/hay-fever-tokyo-pollen/",
+        "source": "Japan Times",
+        "sourceId": "japan_times",
+        "category": "national",
         "priority": "primary",
-        "date": "Sun, 22 Mar 2026 08:45:46 +0900",
-        "description": "BREAKING NEWS: 1 of 2 Japanese detained in Iran released: Japan gov't\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRead full story here"
+        "date": "Mon, 23 Mar 2026 07:00:00 +0900",
+        "description": "Efforts to thin forests and breed low-pollen cedar advance, even as labor gaps and neglected land complicate the work."
       },
       {
         "headline": "An island tale of myth, desire and the wisdom of laughter",
@@ -277,116 +287,6 @@
         "description": "Osaka returned to the tour in 2024 ‌after ‌a 15-month break following the birth of ​her daughter and reached the U.S. Open semifinals last year."
       },
       {
-        "headline": "The Yokohama DeNA BayStars’ No. 1 fan also happens to be the owner",
-        "url": "https://www.japantimes.co.jp/sports/2026/03/22/baseball/japanese-baseball/tomoko-namba-yokohama-dena-baystars/",
-        "source": "Japan Times",
-        "sourceId": "japan_times",
-        "category": "national",
-        "priority": "primary",
-        "date": "Sun, 22 Mar 2026 12:41:00 +0900",
-        "description": "Tomoko Namba, the only female owner of an NPB team and affectionately known as \"Namba Mama\" to BayStars fans, has had a lifelong love affair with baseball."
-      },
-      {
-        "headline": "Curling in Calgary",
-        "url": "https://japantoday.com/category/picture-of-the-day/curling-in-calgary",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 20:57:01 +0000",
-        "description": "Japan's skip Satsuki Fujisawa, center, delivers a stone as lead Yurika Yoshida, left, and second Yumi Suzuki sweep during the bronze medal game against Sweden at the World…"
-      },
-      {
-        "headline": "French far-right fails to win Marseille and Toulon, exit polls show, in hopeful sign for mainstream parties",
-        "url": "https://japantoday.com/category/world/french-far-right-fails-to-win-marseille-and-toulon-exit-polls-show-in-hopeful-sign-for-mainstream-parties1",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:27:15 +0000",
-        "description": "France's far-right National Rally (RN) fell short of taking control of the southern cities of Marseille and Toulon, exit polls showed on Sunday, in municipal elections ‌that gave…"
-      },
-      {
-        "headline": "Israeli settlers burn buildings in attacks on West Bank villages",
-        "url": "https://japantoday.com/category/world/israeli-settlers-burn-buildings-in-attacks-on-west-bank-villages",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:26:44 +0000",
-        "description": "Palestinian residents said Sunday that Israeli settlers torched buildings and cars in attacks on several villages in the occupied West Bank, with Israel's army condemning &quot;violence of any…"
-      },
-      {
-        "headline": "Ukraine, U.S. teams conclude talks; new POW exchange possible, Zelenskyy says",
-        "url": "https://japantoday.com/category/world/ukraine-us-teams-conclude-talks-new-pow-exchange-possible-zelenskiy-says1",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:48:43 +0000",
-        "description": "Ukrainian and U.S. delegations concluded a second day of ‌talks in Florida on finding ways to end the four-year war with Russia, President Volodymyr Zelenskyy said on Sunday.…"
-      },
-      {
-        "headline": "Scores hurt after Iranian missiles hit Israeli desert towns",
-        "url": "https://japantoday.com/category/world/scores-hurt-after-iranian-missiles-hit-israeli-desert-towns1",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:26:56 +0000",
-        "description": "Southern Israeli towns woke to widespread damage on Sunday after air defenses failed to intercept two Iranian missiles overnight that injured scores ‌of civilians in one of the…"
-      },
-      {
-        "headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum",
-        "url": "https://japantoday.com/category/world/iran-threatens-to-retaliate-against-gulf-energy-and-water-after-trump-ultimatum",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:26:28 +0000",
-        "description": "Iran said on Sunday it would strike the energy and water systems of its Gulf neighbors in retaliation if U.S. President Donald Trump follows through with a threat…"
-      },
-      {
-        "headline": "‘Project Hail Mary’ blasts off at box office with $80.5 million, a best for Amazon MGM, and the year",
-        "url": "https://japantoday.com/category/entertainment/box-office-%E2%80%98project-hail-mary%E2%80%99-blasts-off-with-80.5-million-a-best-for-amazon-mgm",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:34:03 +0000",
-        "description": "“Project Hail Mary” is bringing audiences to movie theaters in numbers the industry hasn’t seen for a non-franchise film since “Oppenheimer.” The science fiction epic starring Ryan Gosling…"
-      },
-      {
-        "headline": "Man City dominates Arsenal to win English League Cup",
-        "url": "https://japantoday.com/category/sports/sunderland-seal-late-win-against-newcastle-in-epl-as-arsenal-man-city-set-for-league-cup-final",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:27:29 +0000",
-        "description": "The first major domestic trophy of the season is Manchester City 's. And after a dominant 2-0 win against Arsenal in the English League Cup final on Sunday,…"
-      },
-      {
-        "headline": "Cuba begins to restore power after nationwide grid collapse",
-        "url": "https://japantoday.com/category/world/cuba-begins-to-restore-power-after-third-nationwide-collapse-in-a-month",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:27:20 +0000",
-        "description": "Cuba began restoring its energy system on Sunday, a day after a nationwide collapse of the entire grid left millions of people in the dark for the third…"
-      },
-      {
-        "headline": "Newcastle vs Sunderland halted after discriminatory abuse from the crowd",
-        "url": "https://japantoday.com/category/sports/newcastle-vs-sunderland-halted-after-discriminatory-abuse-from-the-crowd",
-        "source": "Japan Today",
-        "sourceId": "japan_today",
-        "category": "national",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:27:45 +0000",
-        "description": ""
-      },
-      {
         "headline": "Japan could consider Hormuz minesweeping if ceasefire reached, minister says - Reuters",
         "url": "https://www.reuters.com/world/asia-pacific/japan-could-consider-hormuz-minesweeping-if-ceasefire-reached-minister-says-2026-03-22/",
         "source": "Reuters Japan",
@@ -447,16 +347,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQakJtUlVWdzVKS205TlNmeXZuVHpETEp3Y3FnNFBBcGhBUklWX3RfNmxuVVB4dV9FR0pGQmFOVnRCREFRTFR0emt4bjZraTZsaEJCNjVIS0FObFNVSUxHREh4LW1jS2FUbGNwcUx"
       },
       {
-        "headline": "Israel strikes main bridge in south Lebanon, orders destruction of homes near border - Reuters",
-        "url": "https://www.reuters.com/world/middle-east/israeli-military-instructed-accelerate-demolition-lebanese-homes-frontline-2026-03-22/",
-        "source": "Reuters Japan",
-        "sourceId": "reuters_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 09:42:42 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1c4dURGQ0pqYjkyZk1US1QzTk5hNERBVWQ4UGFxQ2hlN0UxeXdOdEV5MUxCLTJSdGRqUnRZRGEwY3lkVEJkbVJybWJnQnJxUGg2WUw2WlBJeFNySVFYSExJMGsyU0RjNTlsbjF"
-      },
-      {
         "headline": "Scores hurt after Iranian missiles hit Israeli desert towns - Reuters",
         "url": "https://www.reuters.com/world/middle-east/scores-hurt-after-iranian-missiles-hit-israeli-desert-towns-2026-03-22/",
         "source": "Reuters Japan",
@@ -465,6 +355,16 @@
         "priority": "secondary",
         "date": "Sun, 22 Mar 2026 12:32:28 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1uN1pCbWJEbzFuX3I4bjhmQXVOM3hYYXdfVzNrNkR4SlM1T0hvOHJXVjlQZXRZbXdmT0YyamtfQ0FhdHltSl9PVHJCdE9IalhyQk9qb3ZxRmhHTFRQMHFWQVlqb01qMDdmY2J"
+      },
+      {
+        "headline": "Israel strikes main bridge in south Lebanon, orders destruction of homes near border - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/israeli-military-instructed-accelerate-demolition-lebanese-homes-frontline-2026-03-22/",
+        "source": "Reuters Japan",
+        "sourceId": "reuters_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sun, 22 Mar 2026 09:42:42 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1c4dURGQ0pqYjkyZk1US1QzTk5hNERBVWQ4UGFxQ2hlN0UxeXdOdEV5MUxCLTJSdGRqUnRZRGEwY3lkVEJkbVJybWJnQnJxUGg2WUw2WlBJeFNySVFYSExJMGsyU0RjNTlsbjF"
       },
       {
         "headline": "Slovenia limits fuel purchases as some pumps run dry - Reuters",
@@ -567,24 +467,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUxfV1pCNkN1Znl2ek93cFF0ZnBQeXNwVUlFNnkwejNBckFCNzN4aDZsREdnR0dfYlNNN0lfNjRzTnIzSElXVy1ucFIxdGZtbzZhTXlzaHc1SmdJSEM0LXF3Y2Z3T1h5azV2eVI"
       },
       {
-        "headline": "Brazil’s Lula slams ‘interference’ in previously colonized countries, without naming Trump - AP News",
-        "url": "https://apnews.com/article/brazil-celac-summit-colombia-3c7d9d31d186147b36047ca1f9ff9961",
+        "headline": "Israel orders destruction of all bridges over Lebanon’s Litani River - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDM0V1Z2dWJPbmlKMHJrTWtiOC04TUg5aHJXcjMzUUN0cU1MaFlWWjc0OGpjejRyUnNFS0F2Yk1YYUNvT21jdUZQVXZ1NGZYZWRJVUhVR0R2bmNnbDZJUU15ZUFDTzlVWTNKN1hBYTN3ZjlmMXdKRG1oM1ctMHdmemU4M0pDX3c0TkVsUDBEbjdHS3FUZXl5TW9fTlhtOXhlSUFCMWNHNXdPUGxWMFZvVE5JdmMxNlowVGRtZE5CRWpkQWM?oc=5",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sat, 21 Mar 2026 22:46:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3J4ZmlVZEQ2ZnJiR3hQUHJMejA1MDZmemxMWDRwQWFaTzAxRFlZN1hqWVF2ZDg4elhRbVVibmJrSjh2MF9BaGt5dE9nUml6U05TUHFEMF9kdzl0MVd2TGp5NEhlblBBNGVHSDd"
+        "date": "Sun, 22 Mar 2026 11:58:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDM0V1Z2dWJPbmlKMHJrTWtiOC04TUg5aHJXcjMzUUN0cU1MaFlWWjc0OGpjejRyUnNFS0F2Yk1YYUNvT21jdUZQVXZ1NGZYZWRJVUhVR0R2bmNnbDZJUU15ZUFDTzlVWTNKN1h"
       },
       {
-        "headline": "Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni - AP News",
-        "url": "https://apnews.com/article/italy-meloni-referendum-justice-polls-trump-europe-76e5167d3d308be96acc58001950502b",
+        "headline": "Nonprofits, unions and airports rally to feed TSA officers as shutdown drags - AP News",
+        "url": "https://apnews.com/article/tsa-lines-airport-shutdown-food-banks-a1e52ca10557f4f70c1360e878567b4b",
         "source": "AP Japan",
         "sourceId": "ap_japan",
         "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 15:48:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUxETkRUdDQ0NmducENub0lWRkpwNnVRQTZFRjk4WWs3LVJ5MEJESnZGTWw3SU0tdXk2cVVBamFBWFZVaXRERlE0R0ljT2k5X1hFVnExUlFTenllenRIT3VEUHNvUFFJWVdqN3h"
+        "date": "Sun, 22 Mar 2026 05:56:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOS29VUlZ1Nk9TTkFSRktJYllqdkFTMVJlU2F4dkFDVVI4Vjl1dy0xTTd5bXhwbG1SRk9YZHE5WG1rZFVHZ29tcmRzUkJwOXZtci1XNUZ4UG5TakRNYlpqOFpPMzdPRl9zWlFZQlp"
       },
       {
         "headline": "War in the Middle East: latest developments - Yahoo News Singapore",
@@ -597,16 +497,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOYk15dzBpVGd0d1VIeGZ0dVFnbFBmMmxST0E1TVctbl9vUFFGUnI5dlV5UDNhWlE4NGNJazVWRDRkeWxseUNrY1hBRmZ5N09XNzQ2ZHRBS0VvaUJadzNweXFxa3Q1Qnktd1dTTS1"
       },
       {
-        "headline": "Vietnam, Russia to sign energy deal: Hanoi - Yahoo News Singapore",
-        "url": "https://sg.news.yahoo.com/vietnam-russia-sign-energy-deal-104558897.html",
-        "source": "AFP Japan",
-        "sourceId": "afp_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 10:45:58 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE95VXR2WVRkanRjMGFMLWlaMG1VZFpIbFh4dnNWMmFGRWsxNXFzbzlkTXZKb2NXNk1tSWdiOVRaaTN0c2VLZVRILVAzSEVxQmtaVUE2WVQzNTZPUFJFLWg2UURudHh5Ukd4ckxzLTB"
-      },
-      {
         "headline": "Middle East war: global economic fallout - Yahoo News Singapore",
         "url": "https://sg.news.yahoo.com/middle-east-war-global-economic-160636459.html",
         "source": "AFP Japan",
@@ -617,6 +507,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeU54UlhSSmF4ZDd3R0ZRTjZSU0RCVGw4RWc3eEs1TEZjaGl4VEJqbkhKZTZxb0E3eFFmNjZHMExoUGZqUU9HenZ4dl9hWEl1WE93WFA3aGdvcUxzZ0o5X2dudms5UjF3bEduU0V"
       },
       {
+        "headline": "Vietnam, Russia to sign energy deal: Hanoi - Yahoo News Singapore",
+        "url": "https://sg.news.yahoo.com/vietnam-russia-sign-energy-deal-104558897.html",
+        "source": "AFP Japan",
+        "sourceId": "afp_japan",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sun, 22 Mar 2026 10:45:58 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE95VXR2WVRkanRjMGFMLWlaMG1VZFpIbFh4dnNWMmFGRWsxNXFzbzlkTXZKb2NXNk1tSWdiOVRaaTN0c2VLZVRILVAzSEVxQmtaVUE2WVQzNTZPUFJFLWg2UURudHh5Ukd4ckxzLTB"
+      },
+      {
         "headline": "US-China 'Board of Trade' may help ties but experts flag market worries - Yahoo News Singapore",
         "url": "https://sg.news.yahoo.com/us-china-board-trade-may-014008368.html",
         "source": "AFP Japan",
@@ -625,16 +525,6 @@
         "priority": "secondary",
         "date": "Sun, 22 Mar 2026 01:40:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1oSXl3ODBZeXFRVXg2SGJDdnVOdmFVQm9EdzdWcXRtVW5sdEFmck9pT3dMbzhFZWFvdkVlTFF6QTV3NHE4M2ZwUkQ2aU1haW1nOGFZR0M2X25QUVU4QXRxRm50bW9yeGtBRmFWSm9"
-      },
-      {
-        "headline": "World News - Latest and Breaking Coverage - Yahoo News",
-        "url": "https://news.yahoo.com/world?_fsig=fKiiE4E3cIfqX9sdzkgTlg--%7EA",
-        "source": "AFP Japan",
-        "sourceId": "afp_japan",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sat, 21 Mar 2026 23:35:59 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE44YURUSHlNSmh3Y2RfanpsZl93NXRldklBUGc4VVVuZjRKc3FIZVp2RktfdVlJbG51OGwwRmxrR3hZMGZ1MzV5N3N5dDJfaGVLQUxlM1MyT2RzNjJzelZjeWNDV214b2ZvNXVEdi1"
       },
       {
         "headline": "‘BTS The Comeback’ Concert Gets A New Edit On Netflix: What To Know - Yahoo News Canada",
@@ -678,7 +568,7 @@
       },
       {
         "headline": "Iran war latest updates: Oil prices jump after strike on Iranian energy site, top Tehran official killed and more key events that got us here - Yahoo News UK",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_c46ddea4-e120-4f48-8df1-ba5061197270",
+        "url": "https://uk.news.yahoo.com/iran-war-latest-updates-trump-threatens-to-obliterate-power-plants-in-48-hour-ultimatum-iranian-missiles-strike-near-israels-nuclear-site-170844301.html",
         "source": "AFP Japan",
         "sourceId": "afp_japan",
         "category": "wire",
@@ -937,6 +827,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUZhS0F5N2kxeW5SYnl6UGU5Q1Itc1NjMmVfNEFkYjFVUGs5UHdnX0JnaG8wMEV1YW9zdXlram10YVFsckZra1ZlM2ZjbTA5TmtkNUtiTVZPeDdnOWhqUjBPQjllSWtjeGFBMTh"
       },
       {
+        "headline": "Traders Brace for Turbulent Open as War Rages On: Markets Wrap - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-22/markets-set-for-turbulent-open-as-war-rages-on-markets-wrap",
+        "source": "Bloomberg Japan",
+        "sourceId": "bloomberg_japan",
+        "category": "competitors",
+        "priority": "secondary",
+        "date": "Sun, 22 Mar 2026 19:30:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3pJMEdlZWRGbHdDX3RWNGhzbUJlMzhmWUJTNGpsejVITEN1RUpOeE9hMjI5UGRFeW1qcHYydElRZlkzazYxN2dZZHh4LUF0U2hlM3hXM0FKUmdOVDBGSmk5SFljbWUzamp0YVE"
+      },
+      {
         "headline": "Trump Gives Iran 48 Hours on Hormuz, Threatens Power Plants - Bloomberg.com",
         "url": "https://www.bloomberg.com/news/articles/2026-03-22/trump-gives-iran-48-hours-to-open-strait-threatens-power-plants",
         "source": "Bloomberg Japan",
@@ -957,16 +857,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWRJLTlXODcxMG1kOUVNS1NfUi1MMWJYTS1SaUZrb1dkc2V2azBLY3ZrMFc5dVhzbXJPM0dFSUlLSHZxSUp3Z3l0ZE9SS19NZHowNFVWVlhzODh2M2RoeXd1Rk5JdGZwQjJNc1N"
       },
       {
-        "headline": "Trump Planned for Big Oil’s Global Dominance. Then He Went to War With Iran - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-22/iran-war-trump-s-big-oil-plan-upended-by-strait-of-hormuz-chaos",
-        "source": "Bloomberg Japan",
-        "sourceId": "bloomberg_japan",
-        "category": "competitors",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 12:00:12 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2RmWU50QUNKUHBMMjhFWUxxa1BrVjJPOHM0YjRkSDVzcG1DNTFTeDVlWGR4dk1lSEZCNVYwSFdEc210RVdLSmQzUjZ6dm4xTVFORzJrMGdDWGtDY1V2VkpjY01sNHFLb1VCYlV"
-      },
-      {
         "headline": "Big Tech’s Cause for Hope: Link Between Mag 7, S&amp;P 500 Is Broken - Bloomberg.com",
         "url": "https://www.bloomberg.com/news/articles/2026-03-22/big-tech-s-cause-for-hope-link-between-mag-7-s-p-500-is-broken",
         "source": "Bloomberg Japan",
@@ -977,14 +867,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVi1NYmZZallSRVRWd0N3U05wY3l0U0RPeUJjMi1aZGhKUFRkU256Ri1DQVpydy1DcDVlVlFrOVk4VW9Dd1lRRW5GT0owT3dtckpRVWJQN0tPY2t1dWRtaE5EVHU3RDFJdkg4Z2N"
       },
       {
-        "headline": "Cuba Says Its Military Is Prepared as Trump’s Threats Multiply - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-22/cuba-says-its-military-is-prepared-as-trump-s-threats-multiply",
+        "headline": "The Saudi Oil Pipeline the World Didn’t Know It Needed - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/features/2026-03-22/strait-of-hormuz-trump-threatens-iran-but-saudi-arabia-finds-pipeline-bypass",
         "source": "Bloomberg Japan",
         "sourceId": "bloomberg_japan",
         "category": "competitors",
         "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 13:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkZydVFRSHhpSFdIWUpzZkN2eVhVVElRZmpCQ2VQTUNocl9DcTFVREdiRldFbUwwS1FUNmZlOFlaNmxTM0dGcGVOUE0yNWJNMlJvaU4yd3NXN3pCbGwzS2dpbzdBNjJGdmJHMmJ"
+        "date": "Sun, 22 Mar 2026 19:01:05 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOOG10RmpZRmJmVW1rVm1kMDFaQkE0dzFXd1MxSU43anV5b21qaF9KNEdRay1KX2swSjF6WXNJQmNkWXlwU1ctanFVbmVZYmZOX3J6TDRqdkYtOG9nTV9LS1JYY2NfY0JyaDdoRGx"
       },
       {
         "headline": "A luau’s last night shows Hawaii’s changing tourist tastes - The Washington Post",
@@ -997,14 +887,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOMmoyVWIySjhrMmpIUnYydUJ3alBVTGppTkxhZlBtQXlSUUZhU3hQYUxObGQ0VFg3bFl6LWVmcF9mdkZfdDVTMldHakYxTjNnMGM0NTVJbC03czFOYTY2TUtFMWhpc09wX1Q1dDZ"
       },
       {
-        "headline": "K-pop stars BTS thrill Seoul with comeback concert after military service - The Washington Post",
+        "headline": "Frager's layup puts Nebraska ahead and Huskers reach Sweet 16 when Tanner's heave rims out for Vandy - The Washington Post",
         "url": "chrome-error://chromewebdata/",
         "source": "Washington Post",
         "sourceId": "wapo_japan",
         "category": "competitors",
         "priority": "tertiary",
-        "date": "Sat, 21 Mar 2026 22:07:30 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9HaTdVZEJnLS1DYzZCeEw1bEdnNnZITG1xc1BIT2hDQXJkRnpLbkg3TVNGSnVOdktYdHBiNG5qZHd2RDZOcG9ZUEcyRFZuSTlXNDd1NkdCX1RfRXJzc1VqTmdzRjRHa1V1Y2ptcVd"
+        "date": "Sun, 22 Mar 2026 20:10:29 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRkNyckRtMmhpTWZIMUVaRlRoc1MtTmRVUWVZVHltdjRzWnZHXzI5SlNyX253RkV4Tnd0aDgtMFZyZWtIcHJsZnh3RTB4UjR6emdWelNxM25ESVFMZDVtVUswTnprR1hNSDZTeHo"
       },
       {
         "headline": "Japanese national detained in Iran last year has been released, Japan's foreign minister says - The Washington Post",
@@ -1160,6 +1050,16 @@
           "description": "日本相撲協会は、大相撲春場所で12勝3敗の成績で3回目の優勝を果たした関脇 霧島の大関昇進に向けた臨時の理事会を開催することを決め、霧島の大関復帰が確実になりました。"
         },
         {
+          "headline": "The human-made roots of Japan's hay fever crisis",
+          "url": "https://www.japantimes.co.jp/environment/2026/03/23/earth-science/hay-fever-tokyo-pollen/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 07:00:00 +0900",
+          "description": "Efforts to thin forests and breed low-pollen cedar advance, even as labor gaps and neglected land complicate the work."
+        },
+        {
           "headline": "An island tale of myth, desire and the wisdom of laughter",
           "url": "https://www.japantimes.co.jp/news/2026/03/23/japan/history/history-hiraga-gennai-japan/",
           "source": "Japan Times",
@@ -1248,119 +1148,19 @@
           "priority": "primary",
           "date": "Sun, 22 Mar 2026 14:21:00 +0900",
           "description": "Osaka returned to the tour in 2024 ‌after ‌a 15-month break following the birth of ​her daughter and reached the U.S. Open semifinals last year."
-        },
-        {
-          "headline": "The Yokohama DeNA BayStars’ No. 1 fan also happens to be the owner",
-          "url": "https://www.japantimes.co.jp/sports/2026/03/22/baseball/japanese-baseball/tomoko-namba-yokohama-dena-baystars/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sun, 22 Mar 2026 12:41:00 +0900",
-          "description": "Tomoko Namba, the only female owner of an NPB team and affectionately known as \"Namba Mama\" to BayStars fans, has had a lifelong love affair with baseball."
-        },
-        {
-          "headline": "Curling in Calgary",
-          "url": "https://japantoday.com/category/picture-of-the-day/curling-in-calgary",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 20:57:01 +0000",
-          "description": "Japan's skip Satsuki Fujisawa, center, delivers a stone as lead Yurika Yoshida, left, and second Yumi Suzuki sweep during the bronze medal game against Sweden at the World…"
-        },
-        {
-          "headline": "French far-right fails to win Marseille and Toulon, exit polls show, in hopeful sign for mainstream parties",
-          "url": "https://japantoday.com/category/world/french-far-right-fails-to-win-marseille-and-toulon-exit-polls-show-in-hopeful-sign-for-mainstream-parties1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:27:15 +0000",
-          "description": "France's far-right National Rally (RN) fell short of taking control of the southern cities of Marseille and Toulon, exit polls showed on Sunday, in municipal elections ‌that gave…"
-        },
-        {
-          "headline": "Israeli settlers burn buildings in attacks on West Bank villages",
-          "url": "https://japantoday.com/category/world/israeli-settlers-burn-buildings-in-attacks-on-west-bank-villages",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:26:44 +0000",
-          "description": "Palestinian residents said Sunday that Israeli settlers torched buildings and cars in attacks on several villages in the occupied West Bank, with Israel's army condemning &quot;violence of any…"
-        },
-        {
-          "headline": "Ukraine, U.S. teams conclude talks; new POW exchange possible, Zelenskyy says",
-          "url": "https://japantoday.com/category/world/ukraine-us-teams-conclude-talks-new-pow-exchange-possible-zelenskiy-says1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:48:43 +0000",
-          "description": "Ukrainian and U.S. delegations concluded a second day of ‌talks in Florida on finding ways to end the four-year war with Russia, President Volodymyr Zelenskyy said on Sunday.…"
-        },
-        {
-          "headline": "Scores hurt after Iranian missiles hit Israeli desert towns",
-          "url": "https://japantoday.com/category/world/scores-hurt-after-iranian-missiles-hit-israeli-desert-towns1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:26:56 +0000",
-          "description": "Southern Israeli towns woke to widespread damage on Sunday after air defenses failed to intercept two Iranian missiles overnight that injured scores ‌of civilians in one of the…"
-        },
-        {
-          "headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum",
-          "url": "https://japantoday.com/category/world/iran-threatens-to-retaliate-against-gulf-energy-and-water-after-trump-ultimatum",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:26:28 +0000",
-          "description": "Iran said on Sunday it would strike the energy and water systems of its Gulf neighbors in retaliation if U.S. President Donald Trump follows through with a threat…"
-        },
-        {
-          "headline": "‘Project Hail Mary’ blasts off at box office with $80.5 million, a best for Amazon MGM, and the year",
-          "url": "https://japantoday.com/category/entertainment/box-office-%E2%80%98project-hail-mary%E2%80%99-blasts-off-with-80.5-million-a-best-for-amazon-mgm",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:34:03 +0000",
-          "description": "“Project Hail Mary” is bringing audiences to movie theaters in numbers the industry hasn’t seen for a non-franchise film since “Oppenheimer.” The science fiction epic starring Ryan Gosling…"
-        },
-        {
-          "headline": "Man City dominates Arsenal to win English League Cup",
-          "url": "https://japantoday.com/category/sports/sunderland-seal-late-win-against-newcastle-in-epl-as-arsenal-man-city-set-for-league-cup-final",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:27:29 +0000",
-          "description": "The first major domestic trophy of the season is Manchester City 's. And after a dominant 2-0 win against Arsenal in the English League Cup final on Sunday,…"
-        },
-        {
-          "headline": "Cuba begins to restore power after nationwide grid collapse",
-          "url": "https://japantoday.com/category/world/cuba-begins-to-restore-power-after-third-nationwide-collapse-in-a-month",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:27:20 +0000",
-          "description": "Cuba began restoring its energy system on Sunday, a day after a nationwide collapse of the entire grid left millions of people in the dark for the third…"
-        },
-        {
-          "headline": "Newcastle vs Sunderland halted after discriminatory abuse from the crowd",
-          "url": "https://japantoday.com/category/sports/newcastle-vs-sunderland-halted-after-discriminatory-abuse-from-the-crowd",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:27:45 +0000",
-          "description": ""
         }
       ],
       "wire": [
+        {
+          "headline": "FEATURE: Keio slugger chooses minor leagues over lucrative bank job",
+          "url": "https://english.kyodonews.net/articles/-/72673",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 07:00:00 +0900",
+          "description": "For most, a job offer from one of the world&#39;s largest investment banks would seem like a dream come true. But for Keio UniversRead full story here"
+        },
         {
           "headline": "Sumo: Kirishima set for ozeki return as Aonishiki ends with losing record",
           "url": "https://english.kyodonews.net/articles/-/72764",
@@ -1452,16 +1252,6 @@
           "description": "The second batch of projects in the United States under Japan&#39;s $550 billion investment commitment, unveiled in Washington on Read full story here"
         },
         {
-          "headline": "BREAKING NEWS: 1 of 2 Japanese detained in Iran released: Japan gov't",
-          "url": "https://english.kyodonews.net/articles/-/72749",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 22 Mar 2026 08:45:46 +0900",
-          "description": "BREAKING NEWS: 1 of 2 Japanese detained in Iran released: Japan gov't\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRead full story here"
-        },
-        {
           "headline": "Japan could consider Hormuz minesweeping if ceasefire reached, minister says - Reuters",
           "url": "https://www.reuters.com/world/asia-pacific/japan-could-consider-hormuz-minesweeping-if-ceasefire-reached-minister-says-2026-03-22/",
           "source": "Reuters Japan",
@@ -1522,16 +1312,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQakJtUlVWdzVKS205TlNmeXZuVHpETEp3Y3FnNFBBcGhBUklWX3RfNmxuVVB4dV9FR0pGQmFOVnRCREFRTFR0emt4bjZraTZsaEJCNjVIS0FObFNVSUxHREh4LW1jS2FUbGNwcUx"
         },
         {
-          "headline": "Israel strikes main bridge in south Lebanon, orders destruction of homes near border - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israeli-military-instructed-accelerate-demolition-lebanese-homes-frontline-2026-03-22/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 09:42:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1c4dURGQ0pqYjkyZk1US1QzTk5hNERBVWQ4UGFxQ2hlN0UxeXdOdEV5MUxCLTJSdGRqUnRZRGEwY3lkVEJkbVJybWJnQnJxUGg2WUw2WlBJeFNySVFYSExJMGsyU0RjNTlsbjF"
-        },
-        {
           "headline": "Scores hurt after Iranian missiles hit Israeli desert towns - Reuters",
           "url": "https://www.reuters.com/world/middle-east/scores-hurt-after-iranian-missiles-hit-israeli-desert-towns-2026-03-22/",
           "source": "Reuters Japan",
@@ -1540,6 +1320,16 @@
           "priority": "secondary",
           "date": "Sun, 22 Mar 2026 12:32:28 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1uN1pCbWJEbzFuX3I4bjhmQXVOM3hYYXdfVzNrNkR4SlM1T0hvOHJXVjlQZXRZbXdmT0YyamtfQ0FhdHltSl9PVHJCdE9IalhyQk9qb3ZxRmhHTFRQMHFWQVlqb01qMDdmY2J"
+        },
+        {
+          "headline": "Israel strikes main bridge in south Lebanon, orders destruction of homes near border - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-military-instructed-accelerate-demolition-lebanese-homes-frontline-2026-03-22/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Mar 2026 09:42:42 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1c4dURGQ0pqYjkyZk1US1QzTk5hNERBVWQ4UGFxQ2hlN0UxeXdOdEV5MUxCLTJSdGRqUnRZRGEwY3lkVEJkbVJybWJnQnJxUGg2WUw2WlBJeFNySVFYSExJMGsyU0RjNTlsbjF"
         },
         {
           "headline": "Slovenia limits fuel purchases as some pumps run dry - Reuters",
@@ -1642,24 +1432,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUxfV1pCNkN1Znl2ek93cFF0ZnBQeXNwVUlFNnkwejNBckFCNzN4aDZsREdnR0dfYlNNN0lfNjRzTnIzSElXVy1ucFIxdGZtbzZhTXlzaHc1SmdJSEM0LXF3Y2Z3T1h5azV2eVI"
         },
         {
-          "headline": "Brazil’s Lula slams ‘interference’ in previously colonized countries, without naming Trump - AP News",
-          "url": "https://apnews.com/article/brazil-celac-summit-colombia-3c7d9d31d186147b36047ca1f9ff9961",
+          "headline": "Israel orders destruction of all bridges over Lebanon’s Litani River - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDM0V1Z2dWJPbmlKMHJrTWtiOC04TUg5aHJXcjMzUUN0cU1MaFlWWjc0OGpjejRyUnNFS0F2Yk1YYUNvT21jdUZQVXZ1NGZYZWRJVUhVR0R2bmNnbDZJUU15ZUFDTzlVWTNKN1hBYTN3ZjlmMXdKRG1oM1ctMHdmemU4M0pDX3c0TkVsUDBEbjdHS3FUZXl5TW9fTlhtOXhlSUFCMWNHNXdPUGxWMFZvVE5JdmMxNlowVGRtZE5CRWpkQWM?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 21 Mar 2026 22:46:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3J4ZmlVZEQ2ZnJiR3hQUHJMejA1MDZmemxMWDRwQWFaTzAxRFlZN1hqWVF2ZDg4elhRbVVibmJrSjh2MF9BaGt5dE9nUml6U05TUHFEMF9kdzl0MVd2TGp5NEhlblBBNGVHSDd"
+          "date": "Sun, 22 Mar 2026 11:58:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDM0V1Z2dWJPbmlKMHJrTWtiOC04TUg5aHJXcjMzUUN0cU1MaFlWWjc0OGpjejRyUnNFS0F2Yk1YYUNvT21jdUZQVXZ1NGZYZWRJVUhVR0R2bmNnbDZJUU15ZUFDTzlVWTNKN1h"
         },
         {
-          "headline": "Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni - AP News",
-          "url": "https://apnews.com/article/italy-meloni-referendum-justice-polls-trump-europe-76e5167d3d308be96acc58001950502b",
+          "headline": "Nonprofits, unions and airports rally to feed TSA officers as shutdown drags - AP News",
+          "url": "https://apnews.com/article/tsa-lines-airport-shutdown-food-banks-a1e52ca10557f4f70c1360e878567b4b",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 15:48:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUxETkRUdDQ0NmducENub0lWRkpwNnVRQTZFRjk4WWs3LVJ5MEJESnZGTWw3SU0tdXk2cVVBamFBWFZVaXRERlE0R0ljT2k5X1hFVnExUlFTenllenRIT3VEUHNvUFFJWVdqN3h"
+          "date": "Sun, 22 Mar 2026 05:56:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOS29VUlZ1Nk9TTkFSRktJYllqdkFTMVJlU2F4dkFDVVI4Vjl1dy0xTTd5bXhwbG1SRk9YZHE5WG1rZFVHZ29tcmRzUkJwOXZtci1XNUZ4UG5TakRNYlpqOFpPMzdPRl9zWlFZQlp"
         },
         {
           "headline": "War in the Middle East: latest developments - Yahoo News Singapore",
@@ -1672,16 +1462,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOYk15dzBpVGd0d1VIeGZ0dVFnbFBmMmxST0E1TVctbl9vUFFGUnI5dlV5UDNhWlE4NGNJazVWRDRkeWxseUNrY1hBRmZ5N09XNzQ2ZHRBS0VvaUJadzNweXFxa3Q1Qnktd1dTTS1"
         },
         {
-          "headline": "Vietnam, Russia to sign energy deal: Hanoi - Yahoo News Singapore",
-          "url": "https://sg.news.yahoo.com/vietnam-russia-sign-energy-deal-104558897.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 10:45:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE95VXR2WVRkanRjMGFMLWlaMG1VZFpIbFh4dnNWMmFGRWsxNXFzbzlkTXZKb2NXNk1tSWdiOVRaaTN0c2VLZVRILVAzSEVxQmtaVUE2WVQzNTZPUFJFLWg2UURudHh5Ukd4ckxzLTB"
-        },
-        {
           "headline": "Middle East war: global economic fallout - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/middle-east-war-global-economic-160636459.html",
           "source": "AFP Japan",
@@ -1692,6 +1472,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeU54UlhSSmF4ZDd3R0ZRTjZSU0RCVGw4RWc3eEs1TEZjaGl4VEJqbkhKZTZxb0E3eFFmNjZHMExoUGZqUU9HenZ4dl9hWEl1WE93WFA3aGdvcUxzZ0o5X2dudms5UjF3bEduU0V"
         },
         {
+          "headline": "Vietnam, Russia to sign energy deal: Hanoi - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/vietnam-russia-sign-energy-deal-104558897.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Mar 2026 10:45:58 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE95VXR2WVRkanRjMGFMLWlaMG1VZFpIbFh4dnNWMmFGRWsxNXFzbzlkTXZKb2NXNk1tSWdiOVRaaTN0c2VLZVRILVAzSEVxQmtaVUE2WVQzNTZPUFJFLWg2UURudHh5Ukd4ckxzLTB"
+        },
+        {
           "headline": "US-China 'Board of Trade' may help ties but experts flag market worries - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/us-china-board-trade-may-014008368.html",
           "source": "AFP Japan",
@@ -1700,16 +1490,6 @@
           "priority": "secondary",
           "date": "Sun, 22 Mar 2026 01:40:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1oSXl3ODBZeXFRVXg2SGJDdnVOdmFVQm9EdzdWcXRtVW5sdEFmck9pT3dMbzhFZWFvdkVlTFF6QTV3NHE4M2ZwUkQ2aU1haW1nOGFZR0M2X25QUVU4QXRxRm50bW9yeGtBRmFWSm9"
-        },
-        {
-          "headline": "World News - Latest and Breaking Coverage - Yahoo News",
-          "url": "https://news.yahoo.com/world?_fsig=fKiiE4E3cIfqX9sdzkgTlg--%7EA",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 21 Mar 2026 23:35:59 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE44YURUSHlNSmh3Y2RfanpsZl93NXRldklBUGc4VVVuZjRKc3FIZVp2RktfdVlJbG51OGwwRmxrR3hZMGZ1MzV5N3N5dDJfaGVLQUxlM1MyT2RzNjJzelZjeWNDV214b2ZvNXVEdi1"
         },
         {
           "headline": "‘BTS The Comeback’ Concert Gets A New Edit On Netflix: What To Know - Yahoo News Canada",
@@ -1753,7 +1533,7 @@
         },
         {
           "headline": "Iran war latest updates: Oil prices jump after strike on Iranian energy site, top Tehran official killed and more key events that got us here - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_c46ddea4-e120-4f48-8df1-ba5061197270",
+          "url": "https://uk.news.yahoo.com/iran-war-latest-updates-trump-threatens-to-obliterate-power-plants-in-48-hour-ultimatum-iranian-missiles-strike-near-israels-nuclear-site-170844301.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
@@ -2014,6 +1794,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUZhS0F5N2kxeW5SYnl6UGU5Q1Itc1NjMmVfNEFkYjFVUGs5UHdnX0JnaG8wMEV1YW9zdXlram10YVFsckZra1ZlM2ZjbTA5TmtkNUtiTVZPeDdnOWhqUjBPQjllSWtjeGFBMTh"
         },
         {
+          "headline": "Traders Brace for Turbulent Open as War Rages On: Markets Wrap - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-22/markets-set-for-turbulent-open-as-war-rages-on-markets-wrap",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Sun, 22 Mar 2026 19:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3pJMEdlZWRGbHdDX3RWNGhzbUJlMzhmWUJTNGpsejVITEN1RUpOeE9hMjI5UGRFeW1qcHYydElRZlkzazYxN2dZZHh4LUF0U2hlM3hXM0FKUmdOVDBGSmk5SFljbWUzamp0YVE"
+        },
+        {
           "headline": "Trump Gives Iran 48 Hours on Hormuz, Threatens Power Plants - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-22/trump-gives-iran-48-hours-to-open-strait-threatens-power-plants",
           "source": "Bloomberg Japan",
@@ -2034,16 +1824,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWRJLTlXODcxMG1kOUVNS1NfUi1MMWJYTS1SaUZrb1dkc2V2azBLY3ZrMFc5dVhzbXJPM0dFSUlLSHZxSUp3Z3l0ZE9SS19NZHowNFVWVlhzODh2M2RoeXd1Rk5JdGZwQjJNc1N"
         },
         {
-          "headline": "Trump Planned for Big Oil’s Global Dominance. Then He Went to War With Iran - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-22/iran-war-trump-s-big-oil-plan-upended-by-strait-of-hormuz-chaos",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 12:00:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2RmWU50QUNKUHBMMjhFWUxxa1BrVjJPOHM0YjRkSDVzcG1DNTFTeDVlWGR4dk1lSEZCNVYwSFdEc210RVdLSmQzUjZ6dm4xTVFORzJrMGdDWGtDY1V2VkpjY01sNHFLb1VCYlV"
-        },
-        {
           "headline": "Big Tech’s Cause for Hope: Link Between Mag 7, S&amp;P 500 Is Broken - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-22/big-tech-s-cause-for-hope-link-between-mag-7-s-p-500-is-broken",
           "source": "Bloomberg Japan",
@@ -2054,14 +1834,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVi1NYmZZallSRVRWd0N3U05wY3l0U0RPeUJjMi1aZGhKUFRkU256Ri1DQVpydy1DcDVlVlFrOVk4VW9Dd1lRRW5GT0owT3dtckpRVWJQN0tPY2t1dWRtaE5EVHU3RDFJdkg4Z2N"
         },
         {
-          "headline": "Cuba Says Its Military Is Prepared as Trump’s Threats Multiply - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-22/cuba-says-its-military-is-prepared-as-trump-s-threats-multiply",
+          "headline": "The Saudi Oil Pipeline the World Didn’t Know It Needed - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/features/2026-03-22/strait-of-hormuz-trump-threatens-iran-but-saudi-arabia-finds-pipeline-bypass",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 13:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkZydVFRSHhpSFdIWUpzZkN2eVhVVElRZmpCQ2VQTUNocl9DcTFVREdiRldFbUwwS1FUNmZlOFlaNmxTM0dGcGVOUE0yNWJNMlJvaU4yd3NXN3pCbGwzS2dpbzdBNjJGdmJHMmJ"
+          "date": "Sun, 22 Mar 2026 19:01:05 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOOG10RmpZRmJmVW1rVm1kMDFaQkE0dzFXd1MxSU43anV5b21qaF9KNEdRay1KX2swSjF6WXNJQmNkWXlwU1ctanFVbmVZYmZOX3J6TDRqdkYtOG9nTV9LS1JYY2NfY0JyaDdoRGx"
         },
         {
           "headline": "A luau’s last night shows Hawaii’s changing tourist tastes - The Washington Post",
@@ -2074,14 +1854,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOMmoyVWIySjhrMmpIUnYydUJ3alBVTGppTkxhZlBtQXlSUUZhU3hQYUxObGQ0VFg3bFl6LWVmcF9mdkZfdDVTMldHakYxTjNnMGM0NTVJbC03czFOYTY2TUtFMWhpc09wX1Q1dDZ"
         },
         {
-          "headline": "K-pop stars BTS thrill Seoul with comeback concert after military service - The Washington Post",
+          "headline": "Frager's layup puts Nebraska ahead and Huskers reach Sweet 16 when Tanner's heave rims out for Vandy - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Sat, 21 Mar 2026 22:07:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9HaTdVZEJnLS1DYzZCeEw1bEdnNnZITG1xc1BIT2hDQXJkRnpLbkg3TVNGSnVOdktYdHBiNG5qZHd2RDZOcG9ZUEcyRFZuSTlXNDd1NkdCX1RfRXJzc1VqTmdzRjRHa1V1Y2ptcVd"
+          "date": "Sun, 22 Mar 2026 20:10:29 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRkNyckRtMmhpTWZIMUVaRlRoc1MtTmRVUWVZVHltdjRzWnZHXzI5SlNyX253RkV4Tnd0aDgtMFZyZWtIcHJsZnh3RTB4UjR6emdWelNxM25ESVFMZDVtVUswTnprR1hNSDZTeHo"
         },
         {
           "headline": "Japanese national detained in Iran last year has been released, Japan's foreign minister says - The Washington Post",
@@ -2238,6 +2018,16 @@
           "description": "日本相撲協会は、大相撲春場所で12勝3敗の成績で3回目の優勝を果たした関脇 霧島の大関昇進に向けた臨時の理事会を開催することを決め、霧島の大関復帰が確実になりました。"
         },
         {
+          "headline": "FEATURE: Keio slugger chooses minor leagues over lucrative bank job",
+          "url": "https://english.kyodonews.net/articles/-/72673",
+          "source": "Kyodo News",
+          "sourceId": "kyodo_english",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 07:00:00 +0900",
+          "description": "For most, a job offer from one of the world&#39;s largest investment banks would seem like a dream come true. But for Keio UniversRead full story here"
+        },
+        {
           "headline": "Sumo: Kirishima set for ozeki return as Aonishiki ends with losing record",
           "url": "https://english.kyodonews.net/articles/-/72764",
           "source": "Kyodo News",
@@ -2328,14 +2118,14 @@
           "description": "The second batch of projects in the United States under Japan&#39;s $550 billion investment commitment, unveiled in Washington on Read full story here"
         },
         {
-          "headline": "BREAKING NEWS: 1 of 2 Japanese detained in Iran released: Japan gov't",
-          "url": "https://english.kyodonews.net/articles/-/72749",
-          "source": "Kyodo News",
-          "sourceId": "kyodo_english",
-          "category": "wire",
+          "headline": "The human-made roots of Japan's hay fever crisis",
+          "url": "https://www.japantimes.co.jp/environment/2026/03/23/earth-science/hay-fever-tokyo-pollen/",
+          "source": "Japan Times",
+          "sourceId": "japan_times",
+          "category": "national",
           "priority": "primary",
-          "date": "Sun, 22 Mar 2026 08:45:46 +0900",
-          "description": "BREAKING NEWS: 1 of 2 Japanese detained in Iran released: Japan gov't\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRead full story here"
+          "date": "Mon, 23 Mar 2026 07:00:00 +0900",
+          "description": "Efforts to thin forests and breed low-pollen cedar advance, even as labor gaps and neglected land complicate the work."
         },
         {
           "headline": "An island tale of myth, desire and the wisdom of laughter",
@@ -2426,119 +2216,9 @@
           "priority": "primary",
           "date": "Sun, 22 Mar 2026 14:21:00 +0900",
           "description": "Osaka returned to the tour in 2024 ‌after ‌a 15-month break following the birth of ​her daughter and reached the U.S. Open semifinals last year."
-        },
-        {
-          "headline": "The Yokohama DeNA BayStars’ No. 1 fan also happens to be the owner",
-          "url": "https://www.japantimes.co.jp/sports/2026/03/22/baseball/japanese-baseball/tomoko-namba-yokohama-dena-baystars/",
-          "source": "Japan Times",
-          "sourceId": "japan_times",
-          "category": "national",
-          "priority": "primary",
-          "date": "Sun, 22 Mar 2026 12:41:00 +0900",
-          "description": "Tomoko Namba, the only female owner of an NPB team and affectionately known as \"Namba Mama\" to BayStars fans, has had a lifelong love affair with baseball."
         }
       ],
       "secondary": [
-        {
-          "headline": "Curling in Calgary",
-          "url": "https://japantoday.com/category/picture-of-the-day/curling-in-calgary",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 20:57:01 +0000",
-          "description": "Japan's skip Satsuki Fujisawa, center, delivers a stone as lead Yurika Yoshida, left, and second Yumi Suzuki sweep during the bronze medal game against Sweden at the World…"
-        },
-        {
-          "headline": "French far-right fails to win Marseille and Toulon, exit polls show, in hopeful sign for mainstream parties",
-          "url": "https://japantoday.com/category/world/french-far-right-fails-to-win-marseille-and-toulon-exit-polls-show-in-hopeful-sign-for-mainstream-parties1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:27:15 +0000",
-          "description": "France's far-right National Rally (RN) fell short of taking control of the southern cities of Marseille and Toulon, exit polls showed on Sunday, in municipal elections ‌that gave…"
-        },
-        {
-          "headline": "Israeli settlers burn buildings in attacks on West Bank villages",
-          "url": "https://japantoday.com/category/world/israeli-settlers-burn-buildings-in-attacks-on-west-bank-villages",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:26:44 +0000",
-          "description": "Palestinian residents said Sunday that Israeli settlers torched buildings and cars in attacks on several villages in the occupied West Bank, with Israel's army condemning &quot;violence of any…"
-        },
-        {
-          "headline": "Ukraine, U.S. teams conclude talks; new POW exchange possible, Zelenskyy says",
-          "url": "https://japantoday.com/category/world/ukraine-us-teams-conclude-talks-new-pow-exchange-possible-zelenskiy-says1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:48:43 +0000",
-          "description": "Ukrainian and U.S. delegations concluded a second day of ‌talks in Florida on finding ways to end the four-year war with Russia, President Volodymyr Zelenskyy said on Sunday.…"
-        },
-        {
-          "headline": "Scores hurt after Iranian missiles hit Israeli desert towns",
-          "url": "https://japantoday.com/category/world/scores-hurt-after-iranian-missiles-hit-israeli-desert-towns1",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:26:56 +0000",
-          "description": "Southern Israeli towns woke to widespread damage on Sunday after air defenses failed to intercept two Iranian missiles overnight that injured scores ‌of civilians in one of the…"
-        },
-        {
-          "headline": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum",
-          "url": "https://japantoday.com/category/world/iran-threatens-to-retaliate-against-gulf-energy-and-water-after-trump-ultimatum",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:26:28 +0000",
-          "description": "Iran said on Sunday it would strike the energy and water systems of its Gulf neighbors in retaliation if U.S. President Donald Trump follows through with a threat…"
-        },
-        {
-          "headline": "‘Project Hail Mary’ blasts off at box office with $80.5 million, a best for Amazon MGM, and the year",
-          "url": "https://japantoday.com/category/entertainment/box-office-%E2%80%98project-hail-mary%E2%80%99-blasts-off-with-80.5-million-a-best-for-amazon-mgm",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:34:03 +0000",
-          "description": "“Project Hail Mary” is bringing audiences to movie theaters in numbers the industry hasn’t seen for a non-franchise film since “Oppenheimer.” The science fiction epic starring Ryan Gosling…"
-        },
-        {
-          "headline": "Man City dominates Arsenal to win English League Cup",
-          "url": "https://japantoday.com/category/sports/sunderland-seal-late-win-against-newcastle-in-epl-as-arsenal-man-city-set-for-league-cup-final",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:27:29 +0000",
-          "description": "The first major domestic trophy of the season is Manchester City 's. And after a dominant 2-0 win against Arsenal in the English League Cup final on Sunday,…"
-        },
-        {
-          "headline": "Cuba begins to restore power after nationwide grid collapse",
-          "url": "https://japantoday.com/category/world/cuba-begins-to-restore-power-after-third-nationwide-collapse-in-a-month",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:27:20 +0000",
-          "description": "Cuba began restoring its energy system on Sunday, a day after a nationwide collapse of the entire grid left millions of people in the dark for the third…"
-        },
-        {
-          "headline": "Newcastle vs Sunderland halted after discriminatory abuse from the crowd",
-          "url": "https://japantoday.com/category/sports/newcastle-vs-sunderland-halted-after-discriminatory-abuse-from-the-crowd",
-          "source": "Japan Today",
-          "sourceId": "japan_today",
-          "category": "national",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:27:45 +0000",
-          "description": ""
-        },
         {
           "headline": "Japan could consider Hormuz minesweeping if ceasefire reached, minister says - Reuters",
           "url": "https://www.reuters.com/world/asia-pacific/japan-could-consider-hormuz-minesweeping-if-ceasefire-reached-minister-says-2026-03-22/",
@@ -2600,16 +2280,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQakJtUlVWdzVKS205TlNmeXZuVHpETEp3Y3FnNFBBcGhBUklWX3RfNmxuVVB4dV9FR0pGQmFOVnRCREFRTFR0emt4bjZraTZsaEJCNjVIS0FObFNVSUxHREh4LW1jS2FUbGNwcUx"
         },
         {
-          "headline": "Israel strikes main bridge in south Lebanon, orders destruction of homes near border - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israeli-military-instructed-accelerate-demolition-lebanese-homes-frontline-2026-03-22/",
-          "source": "Reuters Japan",
-          "sourceId": "reuters_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 09:42:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1c4dURGQ0pqYjkyZk1US1QzTk5hNERBVWQ4UGFxQ2hlN0UxeXdOdEV5MUxCLTJSdGRqUnRZRGEwY3lkVEJkbVJybWJnQnJxUGg2WUw2WlBJeFNySVFYSExJMGsyU0RjNTlsbjF"
-        },
-        {
           "headline": "Scores hurt after Iranian missiles hit Israeli desert towns - Reuters",
           "url": "https://www.reuters.com/world/middle-east/scores-hurt-after-iranian-missiles-hit-israeli-desert-towns-2026-03-22/",
           "source": "Reuters Japan",
@@ -2618,6 +2288,16 @@
           "priority": "secondary",
           "date": "Sun, 22 Mar 2026 12:32:28 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOW1uN1pCbWJEbzFuX3I4bjhmQXVOM3hYYXdfVzNrNkR4SlM1T0hvOHJXVjlQZXRZbXdmT0YyamtfQ0FhdHltSl9PVHJCdE9IalhyQk9qb3ZxRmhHTFRQMHFWQVlqb01qMDdmY2J"
+        },
+        {
+          "headline": "Israel strikes main bridge in south Lebanon, orders destruction of homes near border - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-military-instructed-accelerate-demolition-lebanese-homes-frontline-2026-03-22/",
+          "source": "Reuters Japan",
+          "sourceId": "reuters_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Mar 2026 09:42:42 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1c4dURGQ0pqYjkyZk1US1QzTk5hNERBVWQ4UGFxQ2hlN0UxeXdOdEV5MUxCLTJSdGRqUnRZRGEwY3lkVEJkbVJybWJnQnJxUGg2WUw2WlBJeFNySVFYSExJMGsyU0RjNTlsbjF"
         },
         {
           "headline": "Slovenia limits fuel purchases as some pumps run dry - Reuters",
@@ -2720,24 +2400,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUxfV1pCNkN1Znl2ek93cFF0ZnBQeXNwVUlFNnkwejNBckFCNzN4aDZsREdnR0dfYlNNN0lfNjRzTnIzSElXVy1ucFIxdGZtbzZhTXlzaHc1SmdJSEM0LXF3Y2Z3T1h5azV2eVI"
         },
         {
-          "headline": "Brazil’s Lula slams ‘interference’ in previously colonized countries, without naming Trump - AP News",
-          "url": "https://apnews.com/article/brazil-celac-summit-colombia-3c7d9d31d186147b36047ca1f9ff9961",
+          "headline": "Israel orders destruction of all bridges over Lebanon’s Litani River - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDM0V1Z2dWJPbmlKMHJrTWtiOC04TUg5aHJXcjMzUUN0cU1MaFlWWjc0OGpjejRyUnNFS0F2Yk1YYUNvT21jdUZQVXZ1NGZYZWRJVUhVR0R2bmNnbDZJUU15ZUFDTzlVWTNKN1hBYTN3ZjlmMXdKRG1oM1ctMHdmemU4M0pDX3c0TkVsUDBEbjdHS3FUZXl5TW9fTlhtOXhlSUFCMWNHNXdPUGxWMFZvVE5JdmMxNlowVGRtZE5CRWpkQWM?oc=5",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sat, 21 Mar 2026 22:46:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3J4ZmlVZEQ2ZnJiR3hQUHJMejA1MDZmemxMWDRwQWFaTzAxRFlZN1hqWVF2ZDg4elhRbVVibmJrSjh2MF9BaGt5dE9nUml6U05TUHFEMF9kdzl0MVd2TGp5NEhlblBBNGVHSDd"
+          "date": "Sun, 22 Mar 2026 11:58:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDM0V1Z2dWJPbmlKMHJrTWtiOC04TUg5aHJXcjMzUUN0cU1MaFlWWjc0OGpjejRyUnNFS0F2Yk1YYUNvT21jdUZQVXZ1NGZYZWRJVUhVR0R2bmNnbDZJUU15ZUFDTzlVWTNKN1h"
         },
         {
-          "headline": "Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni - AP News",
-          "url": "https://apnews.com/article/italy-meloni-referendum-justice-polls-trump-europe-76e5167d3d308be96acc58001950502b",
+          "headline": "Nonprofits, unions and airports rally to feed TSA officers as shutdown drags - AP News",
+          "url": "https://apnews.com/article/tsa-lines-airport-shutdown-food-banks-a1e52ca10557f4f70c1360e878567b4b",
           "source": "AP Japan",
           "sourceId": "ap_japan",
           "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 15:48:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUxETkRUdDQ0NmducENub0lWRkpwNnVRQTZFRjk4WWs3LVJ5MEJESnZGTWw3SU0tdXk2cVVBamFBWFZVaXRERlE0R0ljT2k5X1hFVnExUlFTenllenRIT3VEUHNvUFFJWVdqN3h"
+          "date": "Sun, 22 Mar 2026 05:56:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOS29VUlZ1Nk9TTkFSRktJYllqdkFTMVJlU2F4dkFDVVI4Vjl1dy0xTTd5bXhwbG1SRk9YZHE5WG1rZFVHZ29tcmRzUkJwOXZtci1XNUZ4UG5TakRNYlpqOFpPMzdPRl9zWlFZQlp"
         },
         {
           "headline": "War in the Middle East: latest developments - Yahoo News Singapore",
@@ -2750,16 +2430,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOYk15dzBpVGd0d1VIeGZ0dVFnbFBmMmxST0E1TVctbl9vUFFGUnI5dlV5UDNhWlE4NGNJazVWRDRkeWxseUNrY1hBRmZ5N09XNzQ2ZHRBS0VvaUJadzNweXFxa3Q1Qnktd1dTTS1"
         },
         {
-          "headline": "Vietnam, Russia to sign energy deal: Hanoi - Yahoo News Singapore",
-          "url": "https://sg.news.yahoo.com/vietnam-russia-sign-energy-deal-104558897.html",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 10:45:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE95VXR2WVRkanRjMGFMLWlaMG1VZFpIbFh4dnNWMmFGRWsxNXFzbzlkTXZKb2NXNk1tSWdiOVRaaTN0c2VLZVRILVAzSEVxQmtaVUE2WVQzNTZPUFJFLWg2UURudHh5Ukd4ckxzLTB"
-        },
-        {
           "headline": "Middle East war: global economic fallout - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/middle-east-war-global-economic-160636459.html",
           "source": "AFP Japan",
@@ -2770,6 +2440,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeU54UlhSSmF4ZDd3R0ZRTjZSU0RCVGw4RWc3eEs1TEZjaGl4VEJqbkhKZTZxb0E3eFFmNjZHMExoUGZqUU9HenZ4dl9hWEl1WE93WFA3aGdvcUxzZ0o5X2dudms5UjF3bEduU0V"
         },
         {
+          "headline": "Vietnam, Russia to sign energy deal: Hanoi - Yahoo News Singapore",
+          "url": "https://sg.news.yahoo.com/vietnam-russia-sign-energy-deal-104558897.html",
+          "source": "AFP Japan",
+          "sourceId": "afp_japan",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 22 Mar 2026 10:45:58 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE95VXR2WVRkanRjMGFMLWlaMG1VZFpIbFh4dnNWMmFGRWsxNXFzbzlkTXZKb2NXNk1tSWdiOVRaaTN0c2VLZVRILVAzSEVxQmtaVUE2WVQzNTZPUFJFLWg2UURudHh5Ukd4ckxzLTB"
+        },
+        {
           "headline": "US-China 'Board of Trade' may help ties but experts flag market worries - Yahoo News Singapore",
           "url": "https://sg.news.yahoo.com/us-china-board-trade-may-014008368.html",
           "source": "AFP Japan",
@@ -2778,16 +2458,6 @@
           "priority": "secondary",
           "date": "Sun, 22 Mar 2026 01:40:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1oSXl3ODBZeXFRVXg2SGJDdnVOdmFVQm9EdzdWcXRtVW5sdEFmck9pT3dMbzhFZWFvdkVlTFF6QTV3NHE4M2ZwUkQ2aU1haW1nOGFZR0M2X25QUVU4QXRxRm50bW9yeGtBRmFWSm9"
-        },
-        {
-          "headline": "World News - Latest and Breaking Coverage - Yahoo News",
-          "url": "https://news.yahoo.com/world?_fsig=fKiiE4E3cIfqX9sdzkgTlg--%7EA",
-          "source": "AFP Japan",
-          "sourceId": "afp_japan",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 21 Mar 2026 23:35:59 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE44YURUSHlNSmh3Y2RfanpsZl93NXRldklBUGc4VVVuZjRKc3FIZVp2RktfdVlJbG51OGwwRmxrR3hZMGZ1MzV5N3N5dDJfaGVLQUxlM1MyT2RzNjJzelZjeWNDV214b2ZvNXVEdi1"
         },
         {
           "headline": "‘BTS The Comeback’ Concert Gets A New Edit On Netflix: What To Know - Yahoo News Canada",
@@ -2831,7 +2501,7 @@
         },
         {
           "headline": "Iran war latest updates: Oil prices jump after strike on Iranian energy site, top Tehran official killed and more key events that got us here - Yahoo News UK",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=2_cc-session_c46ddea4-e120-4f48-8df1-ba5061197270",
+          "url": "https://uk.news.yahoo.com/iran-war-latest-updates-trump-threatens-to-obliterate-power-plants-in-48-hour-ultimatum-iranian-missiles-strike-near-israels-nuclear-site-170844301.html",
           "source": "AFP Japan",
           "sourceId": "afp_japan",
           "category": "wire",
@@ -3090,6 +2760,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUZhS0F5N2kxeW5SYnl6UGU5Q1Itc1NjMmVfNEFkYjFVUGs5UHdnX0JnaG8wMEV1YW9zdXlram10YVFsckZra1ZlM2ZjbTA5TmtkNUtiTVZPeDdnOWhqUjBPQjllSWtjeGFBMTh"
         },
         {
+          "headline": "Traders Brace for Turbulent Open as War Rages On: Markets Wrap - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-22/markets-set-for-turbulent-open-as-war-rages-on-markets-wrap",
+          "source": "Bloomberg Japan",
+          "sourceId": "bloomberg_japan",
+          "category": "competitors",
+          "priority": "secondary",
+          "date": "Sun, 22 Mar 2026 19:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3pJMEdlZWRGbHdDX3RWNGhzbUJlMzhmWUJTNGpsejVITEN1RUpOeE9hMjI5UGRFeW1qcHYydElRZlkzazYxN2dZZHh4LUF0U2hlM3hXM0FKUmdOVDBGSmk5SFljbWUzamp0YVE"
+        },
+        {
           "headline": "Trump Gives Iran 48 Hours on Hormuz, Threatens Power Plants - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-22/trump-gives-iran-48-hours-to-open-strait-threatens-power-plants",
           "source": "Bloomberg Japan",
@@ -3110,16 +2790,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWRJLTlXODcxMG1kOUVNS1NfUi1MMWJYTS1SaUZrb1dkc2V2azBLY3ZrMFc5dVhzbXJPM0dFSUlLSHZxSUp3Z3l0ZE9SS19NZHowNFVWVlhzODh2M2RoeXd1Rk5JdGZwQjJNc1N"
         },
         {
-          "headline": "Trump Planned for Big Oil’s Global Dominance. Then He Went to War With Iran - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-22/iran-war-trump-s-big-oil-plan-upended-by-strait-of-hormuz-chaos",
-          "source": "Bloomberg Japan",
-          "sourceId": "bloomberg_japan",
-          "category": "competitors",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 12:00:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2RmWU50QUNKUHBMMjhFWUxxa1BrVjJPOHM0YjRkSDVzcG1DNTFTeDVlWGR4dk1lSEZCNVYwSFdEc210RVdLSmQzUjZ6dm4xTVFORzJrMGdDWGtDY1V2VkpjY01sNHFLb1VCYlV"
-        },
-        {
           "headline": "Big Tech’s Cause for Hope: Link Between Mag 7, S&amp;P 500 Is Broken - Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2026-03-22/big-tech-s-cause-for-hope-link-between-mag-7-s-p-500-is-broken",
           "source": "Bloomberg Japan",
@@ -3130,14 +2800,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVi1NYmZZallSRVRWd0N3U05wY3l0U0RPeUJjMi1aZGhKUFRkU256Ri1DQVpydy1DcDVlVlFrOVk4VW9Dd1lRRW5GT0owT3dtckpRVWJQN0tPY2t1dWRtaE5EVHU3RDFJdkg4Z2N"
         },
         {
-          "headline": "Cuba Says Its Military Is Prepared as Trump’s Threats Multiply - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-22/cuba-says-its-military-is-prepared-as-trump-s-threats-multiply",
+          "headline": "The Saudi Oil Pipeline the World Didn’t Know It Needed - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/features/2026-03-22/strait-of-hormuz-trump-threatens-iran-but-saudi-arabia-finds-pipeline-bypass",
           "source": "Bloomberg Japan",
           "sourceId": "bloomberg_japan",
           "category": "competitors",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 13:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkZydVFRSHhpSFdIWUpzZkN2eVhVVElRZmpCQ2VQTUNocl9DcTFVREdiRldFbUwwS1FUNmZlOFlaNmxTM0dGcGVOUE0yNWJNMlJvaU4yd3NXN3pCbGwzS2dpbzdBNjJGdmJHMmJ"
+          "date": "Sun, 22 Mar 2026 19:01:05 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOOG10RmpZRmJmVW1rVm1kMDFaQkE0dzFXd1MxSU43anV5b21qaF9KNEdRay1KX2swSjF6WXNJQmNkWXlwU1ctanFVbmVZYmZOX3J6TDRqdkYtOG9nTV9LS1JYY2NfY0JyaDdoRGx"
         }
       ],
       "tertiary": [
@@ -3152,14 +2822,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOMmoyVWIySjhrMmpIUnYydUJ3alBVTGppTkxhZlBtQXlSUUZhU3hQYUxObGQ0VFg3bFl6LWVmcF9mdkZfdDVTMldHakYxTjNnMGM0NTVJbC03czFOYTY2TUtFMWhpc09wX1Q1dDZ"
         },
         {
-          "headline": "K-pop stars BTS thrill Seoul with comeback concert after military service - The Washington Post",
+          "headline": "Frager's layup puts Nebraska ahead and Huskers reach Sweet 16 when Tanner's heave rims out for Vandy - The Washington Post",
           "url": "chrome-error://chromewebdata/",
           "source": "Washington Post",
           "sourceId": "wapo_japan",
           "category": "competitors",
           "priority": "tertiary",
-          "date": "Sat, 21 Mar 2026 22:07:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9HaTdVZEJnLS1DYzZCeEw1bEdnNnZITG1xc1BIT2hDQXJkRnpLbkg3TVNGSnVOdktYdHBiNG5qZHd2RDZOcG9ZUEcyRFZuSTlXNDd1NkdCX1RfRXJzc1VqTmdzRjRHa1V1Y2ptcVd"
+          "date": "Sun, 22 Mar 2026 20:10:29 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRkNyckRtMmhpTWZIMUVaRlRoc1MtTmRVUWVZVHltdjRzWnZHXzI5SlNyX253RkV4Tnd0aDgtMFZyZWtIcHJsZnh3RTB4UjR6emdWelNxM25ESVFMZDVtVUswTnprR1hNSDZTeHo"
         },
         {
           "headline": "Japanese national detained in Iran last year has been released, Japan's foreign minister says - The Washington Post",
@@ -3331,7 +3001,7 @@
       "priority": "primary",
       "language": "en",
       "tweets": [
-        "[Scheduled to be broadcast on Monday, March 23rd]\n緊迫するイラン情勢　ホルムズ海峡の開放は\nWhat is the future of the new fiscal year budget deliberations?\n“NISA poor”? The background behind why young people are into it\n【中継】スイートピーの出荷　最盛期\n\nIf you want to watch it on your smartphone, go to NHK ONE\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…\n#Good morning Japan",
+        "[Scheduled to be broadcast on Monday, March 23rd]\nTense situation in Iran: Opening of the Strait of Hormuz\nWhat is the future of the new fiscal year budget deliberations?\n“NISA poor”? The background behind why young people are into it\n[Broadcast] Sweet pea shipments at their peak\n\nIf you want to watch it on your smartphone, go to NHK ONE\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…\n#Good morning Japan",
         "[Missed broadcast now]\n#Hiroyuki Itsuki (93)'s essay \"One Drop of the Great River, Final Chapter\" is a hot topic.\nItsuki says that suffering from cancer made him reconsider the meaning of life.\nWhat state did you reach?\n\n“I want to live until that ○○ ends”\nIt's okay to have something like that.\n\nClick here for the missed video\n\nhttps://\nweb.nhk/tv/pl/schedule\n-tep-g1-130-20260322/ep/YZ5JN7QW9M?startOffset=867\n…\nUntil 29th (Sun)",
         "Check this morning's news on your smartphone!\n◆Situation in Iran: Exchange of attacks on nuclear-related facilities continues\n◆Cherry blossoms are blooming all over the country. When will they be in full bloom?\n\n▼Click here for the latest information▼\n\nhttps://\nnews.web.nhk/newsweb\nIf you want to watch it on your smartphone, go to NHK ONE\n\nhttps://\nweb.nhk/tv/an/ohayou/p\nl/series-tep-QLP4RZ8ZY3\n…",
         "This is Maifu Otani\n\n#Hikari Ijuin's 100 Years Radio\nThis time,\nBroadcast anniversary special feature!\n101 years special thanks to you all\n\nExpanded version of 1 hour and 50 minutes.\nWe talked by phone with listeners from all over the country.\n\nSince it's a special program, here's a photo with Ijuin-san.\n\nBroadcast will be on [FM] 22nd (Sunday) from 10:00 a.m.\n\nhttp://\nnhk.jp/p/ijuin100r/rs\n/KZ1MQWYKVV/episode/re/7PM6N918JM/\n…",
